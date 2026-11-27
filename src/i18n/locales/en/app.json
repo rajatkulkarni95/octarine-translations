@@ -6131,6 +6131,34 @@
     "message": "Upgrade to Pro",
     "description": "notes / relatedNotes: application-owned label or notification."
   },
+  "app.notifications.languages.appLanguage": {
+    "message": "App language",
+    "description": "Accessible name of the language picker in the languages toast."
+  },
+  "app.notifications.languages.description": {
+    "message": "Deutsch, Français, 日本語, 简体中文 and more. Pick yours now.",
+    "description": "Body of the languages toast. Keep the language names exactly as written, in their own scripts."
+  },
+  "app.notifications.languages.later": {
+    "message": "Later",
+    "description": "Button in the languages toast after a language is picked: close it and switch on the next launch."
+  },
+  "app.notifications.languages.notNow": {
+    "message": "Not now",
+    "description": "Button in the languages toast: close it without changing the language."
+  },
+  "app.notifications.languages.restartNow": {
+    "message": "Restart now",
+    "description": "Button in the languages toast: relaunch Octarine in the picked language."
+  },
+  "app.notifications.languages.restartToSwitch": {
+    "message": "Octarine switches to {language} the next time it starts. Restart now or whenever suits you.",
+    "description": "Body of the languages toast once a language is picked. {language} is that language's own name, e.g. Deutsch."
+  },
+  "app.notifications.languages.title": {
+    "message": "Octarine now speaks more languages",
+    "description": "Title of the languages toast."
+  },
   "app.notifications.update.downloadingUpdate": {
     "message": "Downloading update…",
     "description": "notifications / update: application-owned label or notification."
