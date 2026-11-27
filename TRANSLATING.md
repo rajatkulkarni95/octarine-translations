@@ -70,7 +70,7 @@ To volunteer, open a pull request adding your login, or open an issue. Reviewers
 - read those changes and approve them, comment, or push fixes. You don't need write access; a maintainer merges;
 - keep the glossary's style rules and terms current.
 
-Once a language has a reviewer and they're happy with the draft, its glossary's `status` changes from `pilot` to `active`. From then on, new English text is drafted for it automatically.
+Once a language has a reviewer and they're happy with the draft, its glossary's `status` changes from `pilot` to `active`.
 
 ## Checks
 
@@ -103,6 +103,6 @@ git commit -am "Stamp edited translations" && git push
 ## How a translation reaches the app
 
 1. English changes in the app and is synced here.
-2. Claude drafts the new text for each active language and opens **Update translations**.
+2. A maintainer runs the drafts: Claude translates the new text for every language and opens **Update translations**.
 3. Reviewers check it, and fixes from anyone arrive as pull requests.
 4. The app imports this repository's translations before each release. Missing or broken entries fall back to English, so a gap never breaks the app.

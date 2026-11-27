@@ -12,7 +12,7 @@
 // touched, so hand edits survive every run.
 import { createHash } from "node:crypto";
 import { execFileSync } from "node:child_process";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { realpathSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { LOCALE_PATTERN, readLocale, writeLocale } from "./i18n-catalog.mjs";
@@ -55,7 +55,7 @@ export function parseArgs(argv) {
   }
   options.locale = rest[0];
   if (!options.locale || options.locale === "en" || !LOCALE_PATTERN.test(options.locale))
-    throw new Error("Usage: node scripts/i18n-translate.mjs <locale> [--only prefix,…] [--limit n] [--dry-run]");
+    throw new Error("Usage: node scripts/i18n-translate.mjs <locale|all> [--only prefix,…] [--limit n] [--dry-run]");
   if (options.force && !options.only.length)
     throw new Error("--force re-translates current entries too; limit it with --only");
   for (const name of ["limit", "batchSize", "concurrency"])
@@ -409,11 +409,23 @@ if (
   process.argv[1] &&
   realpathSync(process.argv[1]) === realpathSync(fileURLToPath(import.meta.url))
 ) {
-  try {
-    const { failed } = await run(process.argv.slice(2));
-    if (failed.length) process.exitCode = 1;
-  } catch (error) {
-    console.error(error.message);
-    process.exitCode = 1;
+  const [target, ...flags] = process.argv.slice(2);
+  // `all`: every locale with a glossary, one after another, so a failure in
+  // one language still leaves the others drafted.
+  const locales =
+    target === "all"
+      ? (await readdir(new URL("src/i18n/glossary/", root)))
+          .filter((name) => name.endsWith(".json"))
+          .map((name) => name.slice(0, -5))
+          .sort()
+      : [target];
+  for (const locale of locales) {
+    try {
+      const { failed } = await run([locale, ...flags]);
+      if (failed.length) process.exitCode = 1;
+    } catch (error) {
+      console.error(`${locale}: ${error.message}`);
+      process.exitCode = 1;
+    }
   }
 }

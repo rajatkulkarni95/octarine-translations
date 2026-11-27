@@ -1,23 +1,19 @@
 name: Draft translations
 
-# Drafts translations with Claude for new or changed English and keeps one
-# rolling pull request ("Update translations") open for language reviewers.
-# Only languages whose glossary has "status": "active" run automatically;
-# pilot languages run by hand (workflow_dispatch) until a reviewer signs off.
-# Runs only on pushes to main, never on pull requests, so the API key is
-# never exposed to contributed code.
+# Drafts translations with Claude for missing or outdated entries and keeps
+# one rolling pull request ("Update translations") open for language
+# reviewers. Manual only (Actions → Draft translations → Run workflow), so
+# nothing spends API credit unless the owner starts it; only people with write
+# access can. Locally: `pnpm translate all` (needs ANTHROPIC_API_KEY).
+# Translations people wrote or fixed are never sent again.
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "src/i18n/locales/en/**"
-      - "src/i18n/glossary/**"
   workflow_dispatch:
     inputs:
       locale:
-        description: "Locale to translate (default: every active glossary)"
-        required: false
+        description: "Locale to translate, or all"
+        required: true
+        default: all
       only:
         description: "Comma-separated key prefixes, e.g. menu,tasks.taskcontextmenu"
         required: false
@@ -64,26 +60,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [ -n "${INPUT_LOCALE:-}" ]; then
-            locales="$INPUT_LOCALE"
-          else
-            locales=$(node -e '
-              const fs = require("fs");
-              const dir = "src/i18n/glossary";
-              for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".json"))) {
-                const g = JSON.parse(fs.readFileSync(`${dir}/${f}`, "utf8"));
-                if (g.status === "active") console.log(g.locale);
-              }')
-          fi
+          args=("$INPUT_LOCALE")
+          [ -n "${INPUT_ONLY:-}" ] && args+=(--only "$INPUT_ONLY")
+          [ -n "${INPUT_LIMIT:-}" ] && args+=(--limit "$INPUT_LIMIT")
+          # Failed entries stay untranslated and are listed in the log; the
+          # rest is still worth a pull request.
           status=0
-          for locale in $locales; do
-            args=("$locale")
-            [ -n "${INPUT_ONLY:-}" ] && args+=(--only "$INPUT_ONLY")
-            [ -n "${INPUT_LIMIT:-}" ] && args+=(--limit "$INPUT_LIMIT")
-            # Failed entries stay untranslated and are listed in the log; the
-            # rest is still worth a pull request.
-            node scripts/i18n-translate.mjs "${args[@]}" || status=1
-          done
+          node scripts/i18n-translate.mjs "${args[@]}" || status=1
           echo "TRANSLATE_STATUS=$status" >> "$GITHUB_ENV"
 
       - name: Validate

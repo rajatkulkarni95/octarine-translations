@@ -15,7 +15,7 @@ Claude drafts each language from the English source, and the people who use Octa
 | German | `de` | Pilot | Wanted |
 | Japanese | `ja` | Pilot | Wanted |
 
-**Pilot** languages have a complete draft that a fluent speaker hasn't reviewed yet. A language becomes **Active** once it has a reviewer. From then on, new English text is drafted automatically and the reviewer checks it before it ships.
+**Pilot** languages have a complete draft that a fluent speaker hasn't reviewed yet. A language becomes **Active** once a reviewer has signed off on it. New English text is drafted for every language when a maintainer runs the drafts, and reviewers check it before it ships.
 
 ## Layout
 
