@@ -1,0 +1,86 @@
+{
+  "command.section.actions": {
+    "message": "Actions",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.all": {
+    "message": "All",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.app": {
+    "message": "App",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.askOctarine": {
+    "message": "Ask Octarine",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.create": {
+    "message": "Create",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.navigation": {
+    "message": "Navigation",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.noteActions": {
+    "message": "Note Actions",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.notes": {
+    "message": "Notes",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.projectActions": {
+    "message": "Project Actions",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.projectsAndSpaces": {
+    "message": "Projects & Spaces",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.properties": {
+    "message": "Properties",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.recentlyViewed": {
+    "message": "Recently Viewed",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.settings": {
+    "message": "Settings",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.spaceActions": {
+    "message": "Space Actions",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.tab": {
+    "message": "Tab",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.taskActions": {
+    "message": "Task Actions",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.tasks": {
+    "message": "Tasks",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.themes": {
+    "message": "Themes",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.views": {
+    "message": "Views",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.workspace": {
+    "message": "Workspace",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  },
+  "command.section.workspaces": {
+    "message": "Workspaces",
+    "description": "Command palette display heading/category. The original English string remains a canonical internal category identifier."
+  }
+}

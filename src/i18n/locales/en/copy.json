@@ -1,0 +1,98 @@
+{
+  "copy.components.AskOctarine.ChatMessage.QuickActions.index.savedResponseToNote": {
+    "message": "Saved response to note",
+    "description": "User-facing display text in src/components/AskOctarine/ChatMessage/QuickActions/index.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.AskOctarine.ChatTitle.emptyChat": {
+    "message": "Empty Chat",
+    "description": "User-facing display text in src/components/AskOctarine/ChatTitle.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.AskOctarine.SkillSelector.skills": {
+    "message": "Skills",
+    "description": "User-facing display text in src/components/AskOctarine/SkillSelector.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Breadcrumb.NoteAppearancePopover.searchFonts": {
+    "message": "Search fonts…",
+    "description": "User-facing display text in src/components/Breadcrumb/NoteAppearancePopover.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Calendar.index.deleteDailyNote": {
+    "message": "Delete Daily Note",
+    "description": "User-facing display text in src/components/Calendar/index.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Calendar.index.deleteWeeklyNote": {
+    "message": "Delete Weekly Note",
+    "description": "User-facing display text in src/components/Calendar/index.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Common.NoteDestinationPicker.noMatchingNotesFound": {
+    "message": "No matching notes found",
+    "description": "User-facing display text in src/components/Common/NoteDestinationPicker.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Common.NoteDestinationPicker.noNotesAvailable": {
+    "message": "No notes available",
+    "description": "User-facing display text in src/components/Common/NoteDestinationPicker.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Common.NoteFolderDestinationPicker.noFoldersAvailable": {
+    "message": "No folders available",
+    "description": "User-facing display text in src/components/Common/NoteFolderDestinationPicker.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Common.NoteFolderDestinationPicker.noMatchingFoldersFound": {
+    "message": "No matching folders found",
+    "description": "User-facing display text in src/components/Common/NoteFolderDestinationPicker.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Common.QuickSaveNotePopover.noFoldersAvailable": {
+    "message": "No folders available",
+    "description": "User-facing display text in src/components/Common/QuickSaveNotePopover.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Common.QuickSaveNotePopover.noMatchingFoldersFound": {
+    "message": "No matching folders found",
+    "description": "User-facing display text in src/components/Common/QuickSaveNotePopover.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Feedback.Dialog.couldntSendYourFeedbackPleaseTryAgain": {
+    "message": "Couldn’t send your feedback. Please try again.",
+    "description": "User-facing display text in src/components/Feedback/Dialog.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Notes.BacklinksSheet.noLinkedReferences": {
+    "message": "No linked references",
+    "description": "User-facing display text in src/components/Notes/BacklinksSheet.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Notes.BacklinksSheet.noMentions": {
+    "message": "No mentions",
+    "description": "User-facing display text in src/components/Notes/BacklinksSheet.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Sidebar.AskAssistant.PromptBox.ModelSelector.reasoning": {
+    "message": "Reasoning",
+    "description": "User-facing display text in src/components/Sidebar/AskAssistant/PromptBox/ModelSelector.tsx. Preserve identifiers and user values."
+  },
+  "copy.components.Workspace.Form.index.weveDetectedAnExistingGitConfigurationInYourWorkspaceFolderSoWeve": {
+    "message": "We've detected an existing Git configuration in your workspace folder, so we've gone ahead and setup Git Sync for you.",
+    "description": "User-facing display text in src/components/Workspace/Form/index.tsx. Preserve identifiers and user values."
+  },
+  "copy.helpers.feedback.couldntSendYourFeedbackPleaseTryAgain": {
+    "message": "Couldn’t send your feedback. Please try again.",
+    "description": "User-facing display text in src/helpers/feedback.ts. Preserve identifiers and user values."
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.appendedToDailyNote": {
+    "message": "Appended to Daily Note",
+    "description": "User-facing display text in src/hooks/app/useDoubleModifierClipboardCapture.ts. Preserve identifiers and user values."
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.appendedToLastInboxEntry": {
+    "message": "Appended to Last Inbox Entry",
+    "description": "User-facing display text in src/hooks/app/useDoubleModifierClipboardCapture.ts. Preserve identifiers and user values."
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.couldntSaveClipboardCapture": {
+    "message": "Couldn’t save clipboard capture",
+    "description": "User-facing display text in src/hooks/app/useDoubleModifierClipboardCapture.ts. Preserve identifiers and user values."
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.nothingToCaptureFromClipboard": {
+    "message": "Nothing to capture from clipboard",
+    "description": "User-facing display text in src/hooks/app/useDoubleModifierClipboardCapture.ts. Preserve identifiers and user values."
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.savedToInbox": {
+    "message": "Saved to Inbox",
+    "description": "User-facing display text in src/hooks/app/useDoubleModifierClipboardCapture.ts. Preserve identifiers and user values."
+  },
+  "copy.pages.workspace.uuid.chat.savedEntireThreadToNote": {
+    "message": "Saved entire thread to note",
+    "description": "User-facing display text in src/pages/workspace/[uuid]/chat.tsx. Preserve identifiers and user values."
+  }
+}

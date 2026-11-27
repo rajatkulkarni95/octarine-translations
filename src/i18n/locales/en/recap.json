@@ -1,0 +1,10 @@
+{
+  "recap.period.pastWeek": {
+    "message": "the past week",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "recap.period.thisWeek": {
+    "message": "this week",
+    "description": "Application-owned display text; never a persisted identifier."
+  }
+}

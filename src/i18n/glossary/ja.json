@@ -1,0 +1,216 @@
+{
+  "locale": "ja",
+  "language": "Japanese",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Use polite です/ます in full sentences; buttons and menu items are short noun or verb phrases without 。(e.g. “ノートを作成”).",
+    "Use Japanese punctuation 、。「」 inside Japanese text and full-width parentheses （）.",
+    "Put a half-width space between Japanese and adjacent Latin letters or digits (e.g. “3 件のタスク”, “PDF に書き出す”).",
+    "Prefer established katakana loanwords where Japanese apps use them; avoid stiff literal translations.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "ノート"
+    },
+    {
+      "source": "daily note",
+      "target": "デイリーノート"
+    },
+    {
+      "source": "weekly note",
+      "target": "ウィークリーノート"
+    },
+    {
+      "source": "workspace",
+      "target": "ワークスペース"
+    },
+    {
+      "source": "folder",
+      "target": "フォルダ"
+    },
+    {
+      "source": "template",
+      "target": "テンプレート"
+    },
+    {
+      "source": "property",
+      "target": "プロパティ"
+    },
+    {
+      "source": "note type",
+      "target": "ノートタイプ"
+    },
+    {
+      "source": "tag",
+      "target": "タグ",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "ラベル",
+      "note": "Task labels; distinct from note tags."
+    },
+    {
+      "source": "backlink",
+      "target": "バックリンク"
+    },
+    {
+      "source": "view",
+      "target": "ビュー"
+    },
+    {
+      "source": "filter",
+      "target": "フィルタ"
+    },
+    {
+      "source": "task",
+      "target": "タスク"
+    },
+    {
+      "source": "subtask",
+      "target": "サブタスク"
+    },
+    {
+      "source": "project",
+      "target": "プロジェクト"
+    },
+    {
+      "source": "space",
+      "target": "スペース",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "ステータス"
+    },
+    {
+      "source": "priority",
+      "target": "優先度"
+    },
+    {
+      "source": "bucket",
+      "target": "レーン",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "サイクル"
+    },
+    {
+      "source": "due date",
+      "target": "期日"
+    },
+    {
+      "source": "Inbox",
+      "target": "受信箱"
+    },
+    {
+      "source": "capture",
+      "target": "メモ",
+      "note": "An item captured into the Inbox (noun); as a verb, 記録する."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "クイックキャプチャ"
+    },
+    {
+      "source": "snooze",
+      "target": "スヌーズ"
+    },
+    {
+      "source": "Someday",
+      "target": "いつか"
+    },
+    {
+      "source": "Active",
+      "target": "未処理",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "振り分け",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "アーカイブ"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "デイリーデスク",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "ライティングアシスタント"
+    },
+    {
+      "source": "skill",
+      "target": "スキル"
+    },
+    {
+      "source": "Trash",
+      "target": "ゴミ箱"
+    },
+    {
+      "source": "Settings",
+      "target": "設定"
+    },
+    {
+      "source": "license",
+      "target": "ライセンス"
+    },
+    {
+      "source": "seat",
+      "target": "シート"
+    },
+    {
+      "source": "split pane",
+      "target": "分割ペイン"
+    },
+    {
+      "source": "tab",
+      "target": "タブ"
+    },
+    {
+      "source": "sidebar",
+      "target": "サイドバー"
+    },
+    {
+      "source": "command bar",
+      "target": "コマンドバー"
+    }
+  ]
+}

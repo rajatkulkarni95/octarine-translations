@@ -1,0 +1,227 @@
+{
+  "locale": "zh-Hans",
+  "language": "Simplified Chinese (mainland conventions)",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Write natural, concise UI Chinese as a native product designer would; never translate word-for-word.",
+    "Use full-width Chinese punctuation (，。：；？！“”（）) inside Chinese sentences. Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Put a half-width space between Chinese characters and adjacent Latin letters or digits (e.g. “3 个任务”, “导出为 PDF”). No space between Chinese and full-width punctuation.",
+    "Buttons and menu items are short verb phrases without a final full stop (e.g. “新建笔记”, not “新建一条笔记。”). Keep a final full stop only where the English sentence has one.",
+    "Address the user neutrally; avoid “您” and “你” unless the sentence needs a subject, and then use “你”.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit Chinese word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Lowercase English source text (for example search keywords or inline hints) does not need to stay lowercase in Chinese.",
+    "Number words that follow a Chinese word still take the space: “标题 1”, not “标题1”."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "笔记"
+    },
+    {
+      "source": "daily note",
+      "target": "每日笔记"
+    },
+    {
+      "source": "weekly note",
+      "target": "每周笔记"
+    },
+    {
+      "source": "workspace",
+      "target": "工作区"
+    },
+    {
+      "source": "folder",
+      "target": "文件夹"
+    },
+    {
+      "source": "template",
+      "target": "模板"
+    },
+    {
+      "source": "property",
+      "target": "属性",
+      "note": "Note frontmatter fields."
+    },
+    {
+      "source": "note type",
+      "target": "笔记类型"
+    },
+    {
+      "source": "tag",
+      "target": "标签",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "标记",
+      "note": "Task labels. Distinct from note tags; never translate as 标签."
+    },
+    {
+      "source": "backlink",
+      "target": "反向链接"
+    },
+    {
+      "source": "view",
+      "target": "视图",
+      "note": "Saved table/board/list views and task views."
+    },
+    {
+      "source": "filter",
+      "target": "筛选"
+    },
+    {
+      "source": "task",
+      "target": "任务"
+    },
+    {
+      "source": "subtask",
+      "target": "子任务"
+    },
+    {
+      "source": "project",
+      "target": "项目"
+    },
+    {
+      "source": "space",
+      "target": "空间",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "状态"
+    },
+    {
+      "source": "priority",
+      "target": "优先级"
+    },
+    {
+      "source": "bucket",
+      "target": "分栏",
+      "note": "Lanes like Now, Next, Later that tasks are sorted into by hand."
+    },
+    {
+      "source": "cycle",
+      "target": "周期",
+      "note": "Time-boxed iterations of work."
+    },
+    {
+      "source": "due date",
+      "target": "截止日期"
+    },
+    {
+      "source": "Inbox",
+      "target": "收件箱"
+    },
+    {
+      "source": "capture",
+      "target": "速记",
+      "note": "An item captured into the Inbox (noun); as a verb, 记录."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "快速记录"
+    },
+    {
+      "source": "snooze",
+      "target": "稍后处理"
+    },
+    {
+      "source": "Someday",
+      "target": "以后再说",
+      "note": "Inbox bucket for things not needed now."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "写作助手"
+    },
+    {
+      "source": "skill",
+      "target": "技能",
+      "note": "Ask Octarine skills."
+    },
+    {
+      "source": "Trash",
+      "target": "废纸篓",
+      "note": "macOS wording; acceptable on all platforms for now."
+    },
+    {
+      "source": "Settings",
+      "target": "设置"
+    },
+    {
+      "source": "license",
+      "target": "许可证"
+    },
+    {
+      "source": "seat",
+      "target": "席位"
+    },
+    {
+      "source": "share / publish",
+      "target": "分享 / 发布"
+    },
+    {
+      "source": "split pane",
+      "target": "分屏"
+    },
+    {
+      "source": "tab",
+      "target": "标签页"
+    },
+    {
+      "source": "sidebar",
+      "target": "侧边栏"
+    },
+    {
+      "source": "command bar",
+      "target": "命令栏"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "每日工作台",
+      "note": "Feature name: the daily page with today's note and tasks. Never translate as 每日笔记."
+    },
+    {
+      "source": "Active",
+      "target": "待处理",
+      "note": "Inbox bucket and tray section for captures still to decide on. Use the same word everywhere it means this."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "归入",
+      "note": "Move a capture into a note or folder. Distinct from Archive (归档)."
+    },
+    {
+      "source": "Archive",
+      "target": "归档"
+    }
+  ]
+}

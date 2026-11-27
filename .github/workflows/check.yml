@@ -1,0 +1,80 @@
+name: Check
+
+# Runs on every pull request. Contributors change only `message`. This job:
+# 1. refuses edits to English and the scripts, which come from the app repo;
+# 2. stamps each added or edited translation as translated against the
+#    current English (`pnpm stamp`), so the Claude drafts won't overwrite it;
+# 3. validates placeholders, plural forms and file layout.
+
+on:
+  pull_request:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      HEAD_REF: ${{ github.event.pull_request.head.ref }}
+      BASE_REF: ${{ github.event.pull_request.base.ref }}
+      SAME_REPO: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+      BOT_SYNC: ${{ github.event.pull_request.head.ref == 'drafts/update-translations' }}
+
+    steps:
+      - name: Checkout the pull request branch
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch the base branch
+        run: git fetch --no-tags "https://github.com/${GITHUB_REPOSITORY}.git" "+refs/heads/${BASE_REF}:refs/remotes/upstream/base"
+
+      - name: English and scripts come from the app
+        run: |
+          base=$(git merge-base upstream/base HEAD)
+          changed=$(git diff --name-only "$base" HEAD -- src/i18n/locales/en scripts .github package.json)
+          if [ -n "$changed" ]; then
+            echo "$changed"
+            echo "::error::English copy and the scripts are synced from the Octarine app; changes here would be overwritten. To suggest different English wording, open an issue instead."
+            exit 1
+          fi
+
+      # The scripts import only Node built-ins, so no install is needed.
+      - name: Stamp edited translations
+        run: |
+          node scripts/i18n.mjs stamp --base upstream/base
+          node scripts/i18n.mjs format
+
+      - name: Push the stamps (branches in this repository)
+        if: env.SAME_REPO == 'true'
+        run: |
+          if git diff --quiet -- src/i18n/locales; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/i18n/locales
+          git commit -m "Stamp edited translations"
+          git push origin "HEAD:${HEAD_REF}"
+
+      - name: Ask for the stamps (forks)
+        if: env.SAME_REPO != 'true'
+        run: |
+          if git diff --quiet -- src/i18n/locales; then exit 0; fi
+          git diff --stat -- src/i18n/locales
+          echo "::error::Some translations need their sourceHash filled in. You don't have to do anything: a maintainer will push the fix to your branch. To do it yourself, see 'Checks' in TRANSLATING.md."
+          exit 1
+
+      - name: Validate
+        run: node scripts/i18n.mjs check

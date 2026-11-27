@@ -1,0 +1,216 @@
+{
+  "locale": "de",
+  "language": "German (Germany)",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user informally with “du” (lowercase), as Notion and Linear do in German.",
+    "Buttons and menu items use the infinitive, without a final full stop (e.g. “Notiz erstellen”, “Einstellungen öffnen”).",
+    "Use German quotation marks „…“ and keep compound nouns readable; hyphenate English loanwords in compounds (e.g. “Markdown-Datei”).",
+    "Keep UI text short; German runs long, so prefer the shorter of two natural options.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "Notiz"
+    },
+    {
+      "source": "daily note",
+      "target": "Tagesnotiz"
+    },
+    {
+      "source": "weekly note",
+      "target": "Wochennotiz"
+    },
+    {
+      "source": "workspace",
+      "target": "Arbeitsbereich"
+    },
+    {
+      "source": "folder",
+      "target": "Ordner"
+    },
+    {
+      "source": "template",
+      "target": "Vorlage"
+    },
+    {
+      "source": "property",
+      "target": "Eigenschaft"
+    },
+    {
+      "source": "note type",
+      "target": "Notiztyp"
+    },
+    {
+      "source": "tag",
+      "target": "Tag",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "Label",
+      "note": "Task labels; distinct from note tags."
+    },
+    {
+      "source": "backlink",
+      "target": "Rückverweis"
+    },
+    {
+      "source": "view",
+      "target": "Ansicht"
+    },
+    {
+      "source": "filter",
+      "target": "Filter"
+    },
+    {
+      "source": "task",
+      "target": "Aufgabe"
+    },
+    {
+      "source": "subtask",
+      "target": "Unteraufgabe"
+    },
+    {
+      "source": "project",
+      "target": "Projekt"
+    },
+    {
+      "source": "space",
+      "target": "Bereich",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "Status"
+    },
+    {
+      "source": "priority",
+      "target": "Priorität"
+    },
+    {
+      "source": "bucket",
+      "target": "Spalte",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "Zyklus"
+    },
+    {
+      "source": "due date",
+      "target": "Fälligkeitsdatum"
+    },
+    {
+      "source": "Inbox",
+      "target": "Eingang"
+    },
+    {
+      "source": "capture",
+      "target": "Eintrag",
+      "note": "An item captured into the Inbox (noun); as a verb, erfassen."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Schnellerfassung"
+    },
+    {
+      "source": "snooze",
+      "target": "zurückstellen"
+    },
+    {
+      "source": "Someday",
+      "target": "Irgendwann"
+    },
+    {
+      "source": "Active",
+      "target": "Offen",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Ablegen",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Archivieren"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Tagesübersicht",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Schreibassistent"
+    },
+    {
+      "source": "skill",
+      "target": "Skill"
+    },
+    {
+      "source": "Trash",
+      "target": "Papierkorb"
+    },
+    {
+      "source": "Settings",
+      "target": "Einstellungen"
+    },
+    {
+      "source": "license",
+      "target": "Lizenz"
+    },
+    {
+      "source": "seat",
+      "target": "Platz"
+    },
+    {
+      "source": "split pane",
+      "target": "geteilte Ansicht"
+    },
+    {
+      "source": "tab",
+      "target": "Tab"
+    },
+    {
+      "source": "sidebar",
+      "target": "Seitenleiste"
+    },
+    {
+      "source": "command bar",
+      "target": "Befehlsleiste"
+    }
+  ]
+}

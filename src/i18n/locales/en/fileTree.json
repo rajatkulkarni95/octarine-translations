@@ -1,0 +1,16 @@
+{
+  "fileTree.selectionCount": {
+    "message": {
+      "one": "{count} item",
+      "other": "{count} items"
+    },
+    "description": "Number of selected tree items."
+  },
+  "fileTree.tags.occurrenceCount": {
+    "message": {
+      "one": "{count} tag occurrence",
+      "other": "{count} tag occurrences"
+    },
+    "description": "How many tag occurrences a rename will change."
+  }
+}

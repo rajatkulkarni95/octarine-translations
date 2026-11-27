@@ -1,0 +1,2128 @@
+{
+  "editor.aliasLink.linkingTo": {
+    "message": "正在链接到 {target}",
+    "sourceHash": "b05dc66b88d38b6f2860a1330791ffbfe20cccfd66b40761ff91c80db73373cc"
+  },
+  "editor.bubblemenu.addToAskOctarine": {
+    "message": "添加到 Ask Octarine",
+    "sourceHash": "8e7611f85f6db4e6b8af2a26fb56cbd579c95c10e1aeaec3470bcbb5a34ba7c4"
+  },
+  "editor.bubblemenu.blue": {
+    "message": "蓝色",
+    "sourceHash": "52ae7b101972d2e7e695fd0daeb1af1e5ffe8d25ab9c60056e8c0604e770bf0c"
+  },
+  "editor.bubblemenu.bold": {
+    "message": "粗体",
+    "sourceHash": "81067d6e0099dcc18fae01531f9ad30b5cdbe49ed1de5725e258740ad7a60959"
+  },
+  "editor.bubblemenu.brown": {
+    "message": "棕色",
+    "sourceHash": "65a0356630010ea14999cf08f6c4a7e604684891069d952914787e514cd0a5d3"
+  },
+  "editor.bubblemenu.bulletList": {
+    "message": "无序列表",
+    "sourceHash": "f33ba1e649dc9624a673de3464992b7f8806c06ba5680c4613f0e9ef13c1ee6f"
+  },
+  "editor.bubblemenu.callout": {
+    "message": "提示框",
+    "sourceHash": "86fc95dcd0ff863214d387b1c62e1812ab67dfe5af6e46136cd9538c86290280"
+  },
+  "editor.bubblemenu.codeBlock": {
+    "message": "代码块",
+    "sourceHash": "c1200d345bde8ab6236b706328c430b96378125a9a3bfa00dd8b3863ad79496b"
+  },
+  "editor.bubblemenu.error": {
+    "message": "错误",
+    "sourceHash": "42308aa205eaf911bef68058ba6b9a1fea72a90e548860098390ae741e3e698b"
+  },
+  "editor.bubblemenu.green": {
+    "message": "绿色",
+    "sourceHash": "313998df466b44e4c9a5281583bdeccebdcc8d1ebe58d1c3ef5a41a5e08b984a"
+  },
+  "editor.bubblemenu.heading1": {
+    "message": "标题 1",
+    "sourceHash": "04dcaa7d1ddc236f19f5b77fa3833ad23642f1f3329f2be7eee33ec90f30a921"
+  },
+  "editor.bubblemenu.heading2": {
+    "message": "标题 2",
+    "sourceHash": "43e4d14e08ea1a6fffbe6e46fa7e9817200cc95bde811cf4c7362b93052df12a"
+  },
+  "editor.bubblemenu.heading3": {
+    "message": "标题 3",
+    "sourceHash": "bd4f0114f1355dd387499e0ab6d41f8f18e254eb4818b47690a5c59e63a08428"
+  },
+  "editor.bubblemenu.heading4": {
+    "message": "标题 4",
+    "sourceHash": "e9cfd14507c81b51b880f5622eed074cd26db6f6655c04263dcb22e6c41c59d5"
+  },
+  "editor.bubblemenu.heading5": {
+    "message": "标题 5",
+    "sourceHash": "b45b8c35948d0099bbdf5fbda9d7ae6afa9867ffddd1f362e1b105e33f8fd3e7"
+  },
+  "editor.bubblemenu.heading6": {
+    "message": "标题 6",
+    "sourceHash": "f8445560d15484cf9da13ea7307919ebf28b3882d2c590d375679f2772f5615f"
+  },
+  "editor.bubblemenu.highlight": {
+    "message": "高亮",
+    "sourceHash": "7e30fd67f7c79c1f282548a8e1193392e3a0f980fd0d8b41f0065716c191fc57"
+  },
+  "editor.bubblemenu.info": {
+    "message": "信息",
+    "sourceHash": "0fa6173b589937602baaaccf6b8ad6d1cafcc6624da2951f5d91da7750a78639"
+  },
+  "editor.bubblemenu.inlineCode": {
+    "message": "行内代码",
+    "sourceHash": "f727d720274c41ba38b3e736f16cc44acf86fec431e9709efb640c08f843513c"
+  },
+  "editor.bubblemenu.italic": {
+    "message": "斜体",
+    "sourceHash": "69124bf1d41a3206d0d3e056f08280a016af91be5af8bb96eb9cfff6bb8b40fe"
+  },
+  "editor.bubblemenu.link": {
+    "message": "链接",
+    "sourceHash": "9e0ff4881def3d2d3ca60ea54c2ab0319ca562af35ccb2dbde22727031cbcf20"
+  },
+  "editor.bubblemenu.none": {
+    "message": "无",
+    "sourceHash": "1d6f71fec35d9bf471edd9f63653f641bbf07281ebb7eba0f7d1d1e4488ea179"
+  },
+  "editor.bubblemenu.numberedList": {
+    "message": "有序列表",
+    "sourceHash": "899e38e9a74d94e03b790c06d7dc51cfe8c3476c0c2bf53fe73d7ee9cb53ea30"
+  },
+  "editor.bubblemenu.orange": {
+    "message": "橙色",
+    "sourceHash": "cf097258b39b4746d8a35bfecde51d07cbeb7d0398b4f1f91e3ec82641ea78c5"
+  },
+  "editor.bubblemenu.pink": {
+    "message": "粉色",
+    "sourceHash": "0efcae8ef23a378989d6138121db8247c77e1646f65f626f0a29fc680a14e7fe"
+  },
+  "editor.bubblemenu.purple": {
+    "message": "紫色",
+    "sourceHash": "711f92572d1e1f397cb73433b54f198358fcba96d7b1edf4a024e0b5ca9d7a20"
+  },
+  "editor.bubblemenu.quote": {
+    "message": "引用",
+    "sourceHash": "237ba5688b91ac96617427283fd9691a6247f48b1f6710fc2f00ee5538686f7a"
+  },
+  "editor.bubblemenu.red": {
+    "message": "红色",
+    "sourceHash": "62cf7ee4aad9757680eff035e6da33030dca40ed2bfc13eda78823c2e6503cad"
+  },
+  "editor.bubblemenu.strike": {
+    "message": "删除线",
+    "sourceHash": "1c45a8b9aaf249f19bffa2aa9d28abdac99d8d76a230d1c73af33df9e05738a8"
+  },
+  "editor.bubblemenu.success": {
+    "message": "成功",
+    "sourceHash": "fe1eb08a43015fa59e9dda45d08603e4055301a8048c437c3486831b469e51b4"
+  },
+  "editor.bubblemenu.text": {
+    "message": "正文",
+    "sourceHash": "43cf95fa89b573f7d577bb85954a180c556f9d94945acc91ef574bcf406939a4"
+  },
+  "editor.bubblemenu.textColor": {
+    "message": "文字颜色",
+    "sourceHash": "e33c779cadc240cf03798c7130f7387cc41f864786187824b45ada4a0c41eab3"
+  },
+  "editor.bubblemenu.textColorPro": {
+    "message": "文字颜色（Pro）",
+    "sourceHash": "f3ba69f3424462b1d61ac6d8d7dcfc7d41995fa862c4c2c7f6961bbac1c3e26c"
+  },
+  "editor.bubblemenu.thatSelectionIsAlreadyAttachedOrExceedsTheContextLimit": {
+    "message": "该选区已添加或超出上下文上限",
+    "sourceHash": "f891bda7c6ef16dc302315ce0b33faaa334cdb90e171d55899621baa45dd071c"
+  },
+  "editor.bubblemenu.tip": {
+    "message": "提示",
+    "sourceHash": "680fbbb6779568c2293be61739e1bc1450c0e0cf6d4ea99bc25fc905d48d34cf"
+  },
+  "editor.bubblemenu.toDoList": {
+    "message": "待办列表",
+    "sourceHash": "84bffecebf0eb73587a81a6b8af777f561618dbb3e5117bb49190372673e8bc3"
+  },
+  "editor.bubblemenu.turnInto": {
+    "message": "转换为",
+    "sourceHash": "92d458182a0b541ec5289ca9c16ebe6de7fc6130ca0a40db1d5769d40eeaa1d1"
+  },
+  "editor.bubblemenu.underline": {
+    "message": "下划线",
+    "sourceHash": "8d764e0bd1900b4972a60d44a93a50bbb7afa99d323fb2e1daa0aab13aa2f8e8"
+  },
+  "editor.bubblemenu.warning": {
+    "message": "警告",
+    "sourceHash": "f5900326e12844be14186d3b61b5f491325e0328eb0ede84effec70c86c6337c"
+  },
+  "editor.bubblemenu.writingAssistant": {
+    "message": "写作助手",
+    "sourceHash": "07658d53cc0427b1d221baed223f38a7b53033460616adea8ab5edad6d5f3174"
+  },
+  "editor.bubblemenu.yellow": {
+    "message": "黄色",
+    "sourceHash": "de7ea21cb22133f9001f02df72bab59641928c82413de697cb4d2f732805723f"
+  },
+  "editor.callout.error": {
+    "message": "错误",
+    "sourceHash": "5078366add094ee3d1f00d11941a97b3780df4c3b65e643f1a1caa4ed5acdd45"
+  },
+  "editor.callout.info": {
+    "message": "信息",
+    "sourceHash": "787abdb323f9be6f2b8eadf152914b9ca63b51b76840d562bb2fbb3182afbd57"
+  },
+  "editor.callout.success": {
+    "message": "成功",
+    "sourceHash": "f25d1e6132fc4f6d495638de001caacc174b29a2073c37684a930aa27d4a1e7b"
+  },
+  "editor.callout.tip": {
+    "message": "提示",
+    "sourceHash": "ec28e72ee770148a659f8a80f9875a9172200714aaaf6123e120e85ec2f0d4f3"
+  },
+  "editor.codeblock.lineCount": {
+    "message": {
+      "other": "{count} 行"
+    },
+    "sourceHash": "d3a2a8b76f894047e98a360456f50789c3f02c306e6b076ce5aa11b215ce28f3"
+  },
+  "editor.doclink.cannotCreate": {
+    "message": "无法创建笔记：{reason}",
+    "sourceHash": "620e68b6440d0aca18732ecf81d2901f1b8c552d1e039c5c1383ca23c70d4ef9"
+  },
+  "editor.doclink.headingMissing": {
+    "message": "未找到标题“{heading}”",
+    "sourceHash": "57a64ebaf205e811ebd89f6b5ec45c30167e4da1554a8eb77c5955e0c1c02b29"
+  },
+  "editor.doclink.invalidPath": {
+    "message": "路径段中包含无效字符：“{segment}”",
+    "sourceHash": "68bf808993a8a242c0d429c58c5b825198ec843fe11d7fad71831d08d20a4791"
+  },
+  "editor.editorstatsbar.characters": {
+    "message": "字符数",
+    "sourceHash": "7c3e3764d061b174ff07cdc3e9fcfef6a7e56d8d21672bd06ba32bbc8f635ffd"
+  },
+  "editor.editorstatsbar.lines": {
+    "message": "行数",
+    "sourceHash": "191b21cc3784be19ce0baf7c14ade8b18af51edb5b9995e9a75ced6dbb83fe30"
+  },
+  "editor.editorstatsbar.readingTime": {
+    "message": "阅读时间",
+    "sourceHash": "b84def9078d6d950b188ad6705d6870b18e0038ecf66c8ce053f396d0d4e2692"
+  },
+  "editor.editorstatsbar.words": {
+    "message": "字数",
+    "sourceHash": "59d74236f67ca90378760fa8019d5122cb78b817c114ab7eb4f8d451c71dcfd4"
+  },
+  "editor.exportdialog.a4": {
+    "message": "A4",
+    "sourceHash": "359e9b2fed4fc913546a46d7916df678d1415970ef9cf33c057735afaadbbee5"
+  },
+  "editor.exportdialog.addNoteNameAsHeading": {
+    "message": "将笔记名称添加为标题",
+    "sourceHash": "baa07d92994f590f6008bf147b0261c3fb8c750101f47f3b1ae9e120f294d19f"
+  },
+  "editor.exportdialog.cancel": {
+    "message": "取消",
+    "sourceHash": "258a5ee7166c53abfedf82019e054f370954d755b6065a595c44501edc1e61f8"
+  },
+  "editor.exportdialog.desktop": {
+    "message": "桌面",
+    "sourceHash": "7a283c53d3dab8a5884f0e8b1a2996da35a49f3dd934f6edab939a0b59a0072b"
+  },
+  "editor.exportdialog.documents": {
+    "message": "文稿",
+    "sourceHash": "b15a6c497da85cbeeb67a579b2f9525bb031da657442bf9f598759d6f3ef8f46"
+  },
+  "editor.exportdialog.docx": {
+    "message": "DOCX",
+    "sourceHash": "a126610cc1c3553e355f116da0c4101b8be155bf57d5ea9f129ff2ef9058f0ee"
+  },
+  "editor.exportdialog.downloads": {
+    "message": "下载",
+    "sourceHash": "f691f0684ba43f3ee974b69496df2ff0e0a303c91f40419186acc79e12a390fc"
+  },
+  "editor.exportdialog.embed": {
+    "message": "嵌入",
+    "sourceHash": "241367c54140cfd88a1e3e6529dc717a7684250c148b529896d36d0aab559c63"
+  },
+  "editor.exportdialog.embedAsBase64": {
+    "message": "以 Base64 嵌入",
+    "sourceHash": "351940d8a5f490fe0491edf703b4d276aabfa0483b70266b8f8d40aea2ea81c7"
+  },
+  "editor.exportdialog.exclude": {
+    "message": "排除",
+    "sourceHash": "a093af29e85f83eb6ac93e73c29657819789d8f76fa82f9396c107c2e5797691"
+  },
+  "editor.exportdialog.export": {
+    "message": "导出",
+    "sourceHash": "15ad54eef50e96f13c46cc4872f6811743ce59bdfc2c3d38ec50e973fa285e5e"
+  },
+  "editor.exportdialog.exportNote": {
+    "message": "导出笔记",
+    "sourceHash": "06100142c4b34f48ffa31109b380c55ccd44f13f9edb6c3af4d7aa026087db8a"
+  },
+  "editor.exportdialog.exportSuccess": {
+    "message": "已导出为 {format}",
+    "sourceHash": "3397d167f3dc02b6e1611419fd5b36048e48cba348680b74bfe87058eaf0c629"
+  },
+  "editor.exportdialog.exporting": {
+    "message": "正在导出…",
+    "sourceHash": "098dcaf7153d1af07d8be16ce9c9580e9a49add675411be081b9c104540c8ae2"
+  },
+  "editor.exportdialog.exportingHtml": {
+    "message": "正在导出 HTML…",
+    "sourceHash": "6453f663198c7dd338e194be231310bc0f3adbfd5a7a8a60c612f580012f295e"
+  },
+  "editor.exportdialog.exportingStatus": {
+    "message": "正在导出…",
+    "sourceHash": "57b18f6cfc5b7e8414e8e62e727cde53cfcbe6bd23bb1d7dab9588d5884ac3fb"
+  },
+  "editor.exportdialog.exportingText": {
+    "message": "正在导出文本…",
+    "sourceHash": "1c0f3fac2c0d28d0548058342298d8606dac2ed3ee633c4816e7e9939bf50b7b"
+  },
+  "editor.exportdialog.exportingWordDocument": {
+    "message": "正在导出 Word 文档…",
+    "sourceHash": "cb929f88d09918a86aff7885639f5e44f6517bc696e7ba6fce67c2ea8ac6901d"
+  },
+  "editor.exportdialog.failedToExportNote": {
+    "message": "导出笔记失败",
+    "sourceHash": "3bfd8dd79bcb728ae917b58e86119113c33674b49093200e0a0625c4d4a506ec"
+  },
+  "editor.exportdialog.fileName": {
+    "message": "文件名",
+    "sourceHash": "e75270ed63a25f79a07e395006459bc52ddf48e1f0ef20cb460cea21a45a30b7"
+  },
+  "editor.exportdialog.format": {
+    "message": "格式",
+    "sourceHash": "79c44bf96d900ffb88e106920e7ed3b37e461b6088268de1ff862120958fc7e7"
+  },
+  "editor.exportdialog.html": {
+    "message": "HTML",
+    "sourceHash": "66c2086193b1ce222c43339922759440452631646a2bd691281eb2b0de8b4f75"
+  },
+  "editor.exportdialog.imageHandling": {
+    "message": "图片处理",
+    "sourceHash": "5e890eaf4c99ce7d02c71f16ecfa05bd76973a5c2d7c243ff49f31f72724d596"
+  },
+  "editor.exportdialog.images": {
+    "message": "图片",
+    "sourceHash": "f547c1b6b5012143c1e225e5323f86db5cf70497155570c275f83bb73e5b1216"
+  },
+  "editor.exportdialog.include": {
+    "message": "包含",
+    "sourceHash": "045ef095657a86777f9faba581deaef21f41b4afa87466a6d9497e86c4aa59fe"
+  },
+  "editor.exportdialog.includeProperties": {
+    "message": "包含属性",
+    "sourceHash": "48fef5961dc6002b6feee82402813e5ce08e5cb7bafd09767aae21ed8c1e7f5d"
+  },
+  "editor.exportdialog.invalidName": {
+    "message": "名称无效",
+    "sourceHash": "b1804bd84e3e5be01ea7a6808ff52a3a795fb2752fd05092685c6de13d0b444a"
+  },
+  "editor.exportdialog.location": {
+    "message": "位置",
+    "sourceHash": "a9f54dca88d6f9695809733ce1a286c731240ccb518c4de038f319971392f365"
+  },
+  "editor.exportdialog.longRunningPage": {
+    "message": "长页面",
+    "sourceHash": "88f2bc950aa208dcd885716534c23e92d31e1c6d6b8287ef8e80c8b0a9046317"
+  },
+  "editor.exportdialog.name": {
+    "message": "名称",
+    "sourceHash": "606ca9482d5894d7718f79c5ad58fdc7e97a26cf6951abed22ad0bdfe88994e6"
+  },
+  "editor.exportdialog.openFile": {
+    "message": "打开文件",
+    "sourceHash": "dfaf50007be0233e8a7a6739fb698cc22307fcda2110a0e2acc55e6d90f360a7"
+  },
+  "editor.exportdialog.page": {
+    "message": "页面",
+    "sourceHash": "1f0f839959a10b1de7c61ff70ab1d39582c2a22b3f70565b487e22ccf16cd629"
+  },
+  "editor.exportdialog.pdf": {
+    "message": "PDF",
+    "sourceHash": "70696911fd8022af5083ae61fa3a937b025a336c669db2b0928e98eeb007613f"
+  },
+  "editor.exportdialog.properties": {
+    "message": "属性",
+    "sourceHash": "98370a057ffd346cc5fb21e01c5c9d43bfb74364227b9059e2972db6179831a1"
+  },
+  "editor.exportdialog.remove": {
+    "message": "移除",
+    "sourceHash": "1b36af8852bbc0cf421c9edcf5e891becd290c5be08f2a7c4d64541a349c165f"
+  },
+  "editor.exportdialog.revealInFinder": {
+    "message": "在访达中显示",
+    "sourceHash": "24518a96f48c226747e85e417a280890af4adadab36140f850e5f5130e43b05b"
+  },
+  "editor.exportdialog.title": {
+    "message": "标题",
+    "sourceHash": "3f57d63e64af57117b4076491e7cab99e0593897f93165d036030b7a704ed777"
+  },
+  "editor.exportdialog.txt": {
+    "message": "TXT",
+    "sourceHash": "0e361e06f0c784697274958bdf9e49d58b8eadcb4824c0a30010499e6b863f7e"
+  },
+  "editor.exportdialog.untitled": {
+    "message": "无标题",
+    "sourceHash": "3726a12257d0c81d435b96897c8ffa701448792461d676b5c5f4e30d0064810f"
+  },
+  "editor.exportdialog.usLegal": {
+    "message": "美制 Legal",
+    "sourceHash": "66e4a49bbccfab339a1243489a6bb814f0c9f0f145a8888d7c3732e420d7e7f4"
+  },
+  "editor.exportdialog.usLetter": {
+    "message": "美制 Letter",
+    "sourceHash": "3a08f1227bd9c57145e70702e7d4249cbd6003d00b8be718578bba7344ccb1a7"
+  },
+  "editor.exportdialog.workspaceFolder": {
+    "message": "工作区文件夹",
+    "sourceHash": "c5b1906b082f86ae6a811a8749c912d9a553a564195b831493dacf29cf6b6b99"
+  },
+  "editor.extensions.aliaslinksuggestions.enterToInsert": {
+    "message": "按 Enter 插入",
+    "sourceHash": "f7ce12c4dc9269e472aebec80b05f32951c14602a4d5c378049f028630a8c425"
+  },
+  "editor.extensions.aliaslinksuggestions.typeAnAliasThenPressEnterToInsert": {
+    "message": "输入别名，然后按 Enter 插入",
+    "sourceHash": "55e5564aa1deac3f7873640741e7b30d3e74194300f24be3565fe02113434f13"
+  },
+  "editor.extensions.base.pressForQuickActions": {
+    "message": "按 / 打开快捷操作",
+    "sourceHash": "e616913c81801471fc0960c92f824e26d968a8df5c5649de32ec24d7d59a9376"
+  },
+  "editor.extensions.callout.calloutnodeview.remove": {
+    "message": "移除",
+    "sourceHash": "4ec4f1fbcf5700576e4e9e31762d873b9957de44c063a07dbc86022eb6382c2a"
+  },
+  "editor.extensions.callout.calloutnodeview.warning": {
+    "message": "警告",
+    "sourceHash": "113caa881c43950118141ac5d34e6088359cc1951821786b6c5881f3889f4ecc"
+  },
+  "editor.extensions.codeblock.addMermaidCodeToPreviewTheDiagram": {
+    "message": "添加 Mermaid 代码以预览图表。",
+    "sourceHash": "9ccef4c0fe4525ca5584b20f09d32ae839ed0b463117ed91636227336069de41"
+  },
+  "editor.extensions.codeblock.collapseCodeBlock": {
+    "message": "收起代码块",
+    "sourceHash": "a89829f72b0908b4354bfc1114606e2a0ab08aad84002aa1d6b4e0da8763003e"
+  },
+  "editor.extensions.codeblock.copiedToClipboard": {
+    "message": "已复制到剪贴板",
+    "sourceHash": "9eedaf0cf317168d1c191141d95ebe8decc94f6bae16a684dbe359507ea55fa8"
+  },
+  "editor.extensions.codeblock.copyToClipboard": {
+    "message": "复制到剪贴板",
+    "sourceHash": "8c38ad9a71cffbe5fb134d299574377dd73ec5b5356614134c168ce3944147cf"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.downloadAsPng": {
+    "message": "下载为 PNG",
+    "sourceHash": "2cb14158531e509638963d242be82d4089f5687d87fc90e4491b021aaf59ca99"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.downloadAsSvg": {
+    "message": "下载为 SVG",
+    "sourceHash": "bb0940b0de5ef7c2f52741b3bf2bb2f505df6c188bdd4672b920339ab91e9fc8"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.downloadDiagram": {
+    "message": "下载图表",
+    "sourceHash": "99d0de39af234a119f4a695a2b4049011ebdc1f00891a367811ebe6363f5867a"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.resetZoom": {
+    "message": "重置缩放",
+    "sourceHash": "589f99197115da9782d9993d4c8372ee4ee58e73246f71a381619dcf43c9baf9"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.syntaxErrorInMermaidDiagram": {
+    "message": "Mermaid 图表语法错误：",
+    "sourceHash": "2b60d001b815da6330e333d3345c11458bbd216be72a944d950cf0d0b2d5e70f"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.viewFullscreen": {
+    "message": "全屏查看",
+    "sourceHash": "12c7dc13b0e998505e6b50a841df3f4e96aa134df7ddcb62104fc37c450a476e"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.zoomIn": {
+    "message": "放大",
+    "sourceHash": "03fd439870fd9fa677655d9ef8f5e50908944eb18892aa4ed4f8d19c548f670a"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.zoomOut": {
+    "message": "缩小",
+    "sourceHash": "b9090904d7443798290ac2ace753e6f1580fbe10772e1d675b8bb0a87860df5b"
+  },
+  "editor.extensions.codeblock.selectLanguage": {
+    "message": "选择语言",
+    "sourceHash": "2425ffc2529267828ef7bc5009e83f6030ac301ea0262007d358b6ceee889b84"
+  },
+  "editor.extensions.doclink.emptyPathSegmentDoubleSlashesOrLeadingTrailingSlashes": {
+    "message": "路径片段为空（双斜杠或开头/结尾的斜杠）",
+    "sourceHash": "9fa7d2b7b00eaadcbc487fa42d7cf2e951155abbba4f5d5920143012958fa264"
+  },
+  "editor.extensions.doclink.heading": {
+    "message": "标题",
+    "sourceHash": "c170049c2b90c2018486f94df8fc72f8b68623d7f6953bd8b17809e61da84239"
+  },
+  "editor.extensions.doclink.linkDestination": {
+    "message": "链接目标",
+    "sourceHash": "bf36205989ba483741ce48e0e5c1d3cdcf09f065b77d433ee1fc0372b9c858a5"
+  },
+  "editor.extensions.doclink.linkedNoteDoesNotExistClickToCreateIt": {
+    "message": "链接的笔记不存在，点击即可创建。",
+    "sourceHash": "eac8532a52b26a592e48b358c05197b04e89b76d08b6d42e62bd8d622cc07cec"
+  },
+  "editor.extensions.doclink.noText": {
+    "message": "无文本",
+    "sourceHash": "99974ec72181db64e6ca62d61212e20d40f33f23f6d5030d55d48ec1e6978dd6"
+  },
+  "editor.extensions.doclink.projectlink.project": {
+    "message": "项目",
+    "sourceHash": "8fd409f758a04bc1a393d4ea98bd7b6df3af3908a10082314e58a237c18a809e"
+  },
+  "editor.extensions.doclink.titleSpansMultipleLines": {
+    "message": "标题跨越多行",
+    "sourceHash": "ceb69734d825f16439f0e545e22d9d8e1a23a24a8c73038f2d6d99c94f7477f1"
+  },
+  "editor.extensions.doclink.titleTooLongMax150Characters": {
+    "message": "标题过长（最多 150 个字符）",
+    "sourceHash": "0125709cd67a7fe4aaaea4cd4b1c626ce230d07dfe1598c6e6c72435ac49cb0c"
+  },
+  "editor.extensions.doclink.viewlink.linkedViewDoesNotExist": {
+    "message": "链接的视图不存在",
+    "sourceHash": "052e0e39a7789108252b9e2fcd2577a1278c4c2b1abda07f3290a8a83514b9fa"
+  },
+  "editor.extensions.doclink.viewlink.unknownView": {
+    "message": "未知视图",
+    "sourceHash": "72ed7a59d0d5849999e62c585ae46ac952b916a2f351bf5bf8b727936327d618"
+  },
+  "editor.extensions.doclink.viewsheet.close": {
+    "message": "关闭",
+    "sourceHash": "61b74b427003c799d80fff588b186ffb7727d37d9d6fa3e0b7e033f7d06f2d2e"
+  },
+  "editor.extensions.doclink.viewsheet.openInTab": {
+    "message": "在标签页中打开",
+    "sourceHash": "cbea221bf06f14e5e199a9e7bd782afab4af875cd76a3d3d67b89bbdf9bd003c"
+  },
+  "editor.extensions.filelink.fileDoesNotExistInWorkspace": {
+    "message": "工作区中不存在该文件",
+    "sourceHash": "ad3bd813703b3bd92625ceb5a8ff666bc5537e94f52145efc8599c3485272b13"
+  },
+  "editor.extensions.image.collapseImage": {
+    "message": "收起图片",
+    "sourceHash": "d7e17d8932abb209178a8b92bf574b351ed651f102bf9e48f31fe699780a48f4"
+  },
+  "editor.extensions.image.copyPath": {
+    "message": "复制路径",
+    "sourceHash": "ffc320851980edb79614beb34fefd22c39b5361080fc6ea3785727748d9e3ca9"
+  },
+  "editor.extensions.image.createMediaStack": {
+    "message": "创建媒体堆叠",
+    "sourceHash": "d249d2bdee0f46a6d711a3e28a6c438ab810cec5e832b1d92aa637001e88ea80"
+  },
+  "editor.extensions.image.moreOptions": {
+    "message": "更多选项",
+    "sourceHash": "c1c473af6a4de28a670f35324319f3d233b196778728c0d4804f72261f269ba2"
+  },
+  "editor.extensions.image.openInBrowser": {
+    "message": "在浏览器中打开",
+    "sourceHash": "0ec0ea8e9feefb964d2c84b9f30841e695e8cbd8f416474a93e84c38ec1be398"
+  },
+  "editor.extensions.image.pathCopiedToClipboard": {
+    "message": "路径已复制到剪贴板",
+    "sourceHash": "4750d11f4214ef7b6a6415b7dab591f8672b58ad9af525cb261120648f10aa57"
+  },
+  "editor.extensions.image.removeImage": {
+    "message": "移除图片",
+    "sourceHash": "002f7886c55c0b1303ec96ce68f3433d7bf02765e11ea1dc2ef73db6d8f3154d"
+  },
+  "editor.extensions.image.resetToOriginalSize": {
+    "message": "恢复原始尺寸",
+    "sourceHash": "d18f7e433345e9c190db8c6ee955ac6bba7d7b5abd6fc7240110fd5f613b0dcc"
+  },
+  "editor.extensions.image.viewFullscreen": {
+    "message": "全屏查看",
+    "sourceHash": "c9442e3d35fe1fb5cfdce186228baf129afb11c802fa5fefa2eb3f64d053c7ed"
+  },
+  "editor.extensions.inlinerewritepreview.accept": {
+    "message": "接受",
+    "sourceHash": "a6ffa264c5eac65fe33eb463dd87bb3b53e9693beca3d874a36de13c897dd776"
+  },
+  "editor.extensions.inlinerewritepreview.highlightChanges": {
+    "message": "高亮显示更改",
+    "sourceHash": "f7f5c8785aec4eccd95e8546ef5c92852bf7e1e22268f0ae1160cfd7c6c117a4"
+  },
+  "editor.extensions.inlinerewritepreview.undo": {
+    "message": "撤销",
+    "sourceHash": "4d22d72d9abd4645e0e37bea31ec8d5d59f548a4bf1e2021f0968a2f1cbc3142"
+  },
+  "editor.extensions.linkembed.convertToTextLink": {
+    "message": "转换为文本链接",
+    "sourceHash": "7d997bf17c6b6edd7ee128443c163120b2cd5c69dbafa77429f9ef2ea308cb2c"
+  },
+  "editor.extensions.linkembed.copyLink": {
+    "message": "复制链接",
+    "sourceHash": "638ea0528da4472815e23e4e0f5104b1a1a100613f911b4bb1c8a2606b26adf7"
+  },
+  "editor.extensions.linkembed.delete": {
+    "message": "删除",
+    "sourceHash": "1ef05c5aa3246ea93aba4bcaff4e5a2226a3d2ff2e4411c6f1a607906cb606bd"
+  },
+  "editor.extensions.linkembed.linkCopiedToClipboard": {
+    "message": "链接已复制到剪贴板",
+    "sourceHash": "3016605a0b579910eea1665b9fae107bfcd6f7be5b20142ef4a711184da7f695"
+  },
+  "editor.extensions.linkembed.moreOptions": {
+    "message": "更多选项",
+    "sourceHash": "ad96f97e1917bb210407d05763dc5689b269a7cb5a4dffc82f9158c77ed11169"
+  },
+  "editor.extensions.linkembed.openLink": {
+    "message": "打开链接",
+    "sourceHash": "d40b3d3a8036db09af14738201c6121be11801148842b803f6688d03de1c1f1a"
+  },
+  "editor.extensions.linkembed.youtubeVideo": {
+    "message": "YouTube 视频",
+    "sourceHash": "2c2b15b60d0e3969f478a60cd506e0a91032c5a391b610efbb246cffc6772479"
+  },
+  "editor.extensions.mathblock.deleteMathBlock": {
+    "message": "删除公式块",
+    "sourceHash": "8d90311d613d4a08212e237faf07d910505cefe1ec6aea5baf9da939ef4d0cfd"
+  },
+  "editor.extensions.mathblock.doubleClickToAddMathEquation": {
+    "message": "双击添加数学公式",
+    "sourceHash": "b19ce6b99c8adc180172594df8ce7f981fb0334c1d816284648784f44777fa73"
+  },
+  "editor.extensions.mathblock.enterEscToFinish": {
+    "message": "⇧ Enter / Esc 结束",
+    "sourceHash": "0f97eac6cec67fc293e5ad750f5945f939fdf77158fef4f8d2ed9bb7fa69b9ae"
+  },
+  "editor.extensions.mathblock.failedToRenderMath": {
+    "message": "公式渲染失败",
+    "sourceHash": "29ec1df1685e9ebdc05c8c6286de70afd177570784c82cc6b0541c904843365d"
+  },
+  "editor.extensions.mediaplaybackcontrols.addAnnotation": {
+    "message": "添加批注…",
+    "sourceHash": "3ef0f4d0e39a31f1acac8c8867f76589e44b9b422eee7028c627f543c06c7dd2"
+  },
+  "editor.extensions.mediaplaybackcontrols.annotate": {
+    "message": "批注",
+    "sourceHash": "58d83e74905f334489789eea6cca8bd32e465f1f8efe7c3d8da0918e5a310028"
+  },
+  "editor.extensions.mediaplaybackcontrols.copyTimestamp": {
+    "message": "复制时间戳",
+    "sourceHash": "29849c4b135929579f461964d64e6fdc7824e3a22eed9baa91d361bc61659fcf"
+  },
+  "editor.extensions.mediaplaybackcontrols.insert": {
+    "message": "插入",
+    "sourceHash": "4c0c984746a155131788f13385ffb0216e0a63109baa15e252e9074c361d6925"
+  },
+  "editor.extensions.mediaplaybackcontrols.insertTimestampMarker": {
+    "message": "插入时间戳标记",
+    "sourceHash": "047cfa660136451e79b05f6c8bade277717c473d7271eefe1becf8934cd3f653"
+  },
+  "editor.extensions.mediaplaybackcontrols.mute": {
+    "message": "静音",
+    "sourceHash": "6c6e3305867ef63a771fb4e69aac364a4de4bb2bc1a16b75ee2da1541787e281"
+  },
+  "editor.extensions.mediaplaybackcontrols.pause": {
+    "message": "暂停",
+    "sourceHash": "3c04f2263b36fcb0d4036464661b6120754969b84125ae5c217b70de4ab00410"
+  },
+  "editor.extensions.mediaplaybackcontrols.play": {
+    "message": "播放",
+    "sourceHash": "96939e9cc3b350fe485621b8b09a7afd0cb70d91e2cf4937d5f6dc67aa815295"
+  },
+  "editor.extensions.mediaplaybackcontrols.playbackSpeed": {
+    "message": "播放速度",
+    "sourceHash": "5c6effc198f5eff97cbd8fda21f52c03157ebb5d9b7e592343876b71f25331d8"
+  },
+  "editor.extensions.mediaplaybackcontrols.unmute": {
+    "message": "取消静音",
+    "sourceHash": "a94a6fdc17edfc6e0e3f814fd470bf5194b5da997d1edb98ba2318445a59925c"
+  },
+  "editor.extensions.mediaplaybackcontrols.volume": {
+    "message": "音量",
+    "sourceHash": "825850c2661feb4579cfa38a5157ea44611e71f3dce0a57659188238482918b5"
+  },
+  "editor.extensions.mediastack.plugin.image": {
+    "message": "图片",
+    "sourceHash": "452add2157ed4d2e9962fe6cfb9faf4f53a4001c38762b945bb89fb06236d54f"
+  },
+  "editor.extensions.mediastack.plugin.media": {
+    "message": "媒体",
+    "sourceHash": "90801bf246bd686a1dd3df208cc289032924e70c400c3b7f0094531f55cffec1"
+  },
+  "editor.extensions.mediastack.plugin.theNoteChangedTryDroppingTheMediaAgain": {
+    "message": "笔记已更改，请重新拖放媒体。",
+    "sourceHash": "c6c9a0ef54f3ac8cf88cdc8960585ef75cd729f0e525db115a2126aedcd453bb"
+  },
+  "editor.extensions.mediastack.plugin.video": {
+    "message": "视频",
+    "sourceHash": "2670d2306f533adb9801e17c4f849475c7528ff2ad0f2824dc93b935a9c98795"
+  },
+  "editor.extensions.mediastack.view.addMedia": {
+    "message": "添加媒体",
+    "sourceHash": "de8f55411f0914ba8fc08acd33772ca8072e59c81ece13d0e1bc5efe4491b4c5"
+  },
+  "editor.extensions.mediastack.view.addMediaToStack": {
+    "message": "将媒体添加到堆栈",
+    "sourceHash": "7deade698f7c1142855f43d4843033312b6f4c13b44f9bf5e73829b5fd109b82"
+  },
+  "editor.extensions.mediastack.view.addOneOrMoreImagesOrVideos": {
+    "message": "添加一个或多个图片或视频",
+    "sourceHash": "69b6fc695a6827436eeeb710a6f9a63cab216407fbc39821fca845d9f3e9cc46"
+  },
+  "editor.extensions.mediastack.view.addSelected": {
+    "message": "添加所选项",
+    "sourceHash": "825941c15341a8fb5b7d231a19fdb060e23d76850608c94f2781954b1d89c913"
+  },
+  "editor.extensions.mediastack.view.chooseExistingMedia": {
+    "message": "选择已有媒体",
+    "sourceHash": "8cc353d32dd4869b11a4aed51d304929558b74b47e36f73b8e41dd4115c119a7"
+  },
+  "editor.extensions.mediastack.view.dragToReorder": {
+    "message": "拖动以重新排序",
+    "sourceHash": "d78d56b722e46d85a976b2c0ecc7a996d82cb87d860b3c3044df2c97875064b9"
+  },
+  "editor.extensions.mediastack.view.dropToAddToStack": {
+    "message": "放下以添加到堆栈",
+    "sourceHash": "67efe0d504c7ea51526e3febec7adc8920dcef569043bd4a2f3f236960d934e9"
+  },
+  "editor.extensions.mediastack.view.emptyMediaStack": {
+    "message": "清空媒体堆栈",
+    "sourceHash": "e765233f15578caabc4ef3656ea951999498c80ed6250240cabbfc0040cfdb0e"
+  },
+  "editor.extensions.mediastack.view.importFromDevice": {
+    "message": "从设备导入",
+    "sourceHash": "0776f43c46f00d55c99108d97688209130ffd041d9b87627d65e407e1328f22d"
+  },
+  "editor.extensions.mediastack.view.importingMedia": {
+    "message": "正在导入媒体…",
+    "sourceHash": "db5c07637564e0f3fbeda84e53cc4340f4107fb5f7060ec4d76c6b8f579df188"
+  },
+  "editor.extensions.mediastack.view.mediaFiles": {
+    "message": "媒体文件",
+    "sourceHash": "1856011220f2a847780904ba92b9e2e30094e88ae7c14a5224b5fad7619dc61a"
+  },
+  "editor.extensions.mediastack.view.mediaIsStillImportingDropTheNextFilesWhenItFinishes": {
+    "message": "媒体仍在导入中，导入完成后再拖放下一批文件。",
+    "sourceHash": "d81ae451d74b16184f529c5445e5b40609f212a0ee1ac6d697e2b8529d7d5627"
+  },
+  "editor.extensions.mediastack.view.mediaStackActions": {
+    "message": "媒体堆栈操作",
+    "sourceHash": "113d1aabac85dbd0fbecdc265eee6c5176e7767babc62f7aef0912018cb270aa"
+  },
+  "editor.extensions.mediastack.view.moreMediaStackActions": {
+    "message": "更多媒体堆栈操作",
+    "sourceHash": "6dd5c8b9d28651650ea7528307a4ab7060e87e75f91598c85dafe70eb1f4b6f7"
+  },
+  "editor.extensions.mediastack.view.moreOptions": {
+    "message": "更多选项",
+    "sourceHash": "c749468c6c045e936f37db356dab431403331acac147373ac316827421d9ff89"
+  },
+  "editor.extensions.mediastack.view.nextMedia": {
+    "message": "下一个媒体",
+    "sourceHash": "5acfba5e264f28926b5917847e3213fd13b33d4b4e5b96a1c3126f683e249a39"
+  },
+  "editor.extensions.mediastack.view.noImagesOrVideosFound": {
+    "message": "未找到图片或视频。",
+    "sourceHash": "86cc6d219003de25f6743a412c15c6e8114b3360498e645bbc555c0574f1ed58"
+  },
+  "editor.extensions.mediastack.view.previousMedia": {
+    "message": "上一个媒体",
+    "sourceHash": "16140dccc2f13ee2fbdb2b1925d1ce15c8efe1ec43a1aad96404011044290a58"
+  },
+  "editor.extensions.mediastack.view.removeMedia": {
+    "message": "移除媒体",
+    "sourceHash": "a12ca1634380bc6771d7832974776498beb5cd818b4af29fcc7125a5b4905ac7"
+  },
+  "editor.extensions.mediastack.view.removeStack": {
+    "message": "移除堆栈",
+    "sourceHash": "992df9cb624053abe9afc4bac8068d36f20042b287d7318aeecc0edb6ba95390"
+  },
+  "editor.extensions.mediastack.view.removeThisMediaStackAndItsMedia": {
+    "message": "要移除此媒体堆栈及其中的媒体吗？",
+    "sourceHash": "606dfc94871e57d9d799b64df92ef391a9c278975354f2a6cc4119c0b1af1e4e"
+  },
+  "editor.extensions.mediastack.view.reorderMedia": {
+    "message": "重新排序媒体",
+    "sourceHash": "e53a435cfe1b97905ba517411374160ca79a55b1d81efb46ef901da0b9761bdc"
+  },
+  "editor.extensions.mediastack.view.scrollableMediaStack": {
+    "message": "可滚动的媒体堆栈",
+    "sourceHash": "fb5d7bde5a125c85b385132af370842c942133ae290236241b348f739ef0ac66"
+  },
+  "editor.extensions.mediastack.view.searchExistingMedia": {
+    "message": "搜索已有媒体",
+    "sourceHash": "3e8c13fb69732f520bd113ac61655318ee937fd4e55ae8457650790adec540d3"
+  },
+  "editor.extensions.mediastack.view.searchMedia": {
+    "message": "搜索媒体",
+    "sourceHash": "9b551d690290695abd40a113bbb38a4dca9add3c01e5d6f8832cb301f367f4c5"
+  },
+  "editor.extensions.mediastack.view.someFilesCouldNotBeAddedDropImagesOrVideosUpTo25MbEach": {
+    "message": "部分文件无法添加。请拖放单个不超过 25 MB 的图片或视频。",
+    "sourceHash": "dd792ea7d94b154e70c247dcf841a6430ba69621c318360f382def7929a79529"
+  },
+  "editor.extensions.mediastack.view.someMediaCouldNotBeImportedIntoTheStack": {
+    "message": "部分媒体无法导入到堆栈中。",
+    "sourceHash": "a1df5fd3b9b0a0676729354ce0318f3518d7305b2002ae2ccb006f4461bd2066"
+  },
+  "editor.extensions.mediastack.view.stackSize": {
+    "message": "堆栈大小",
+    "sourceHash": "51136a24cfa6a22c15e62a5135dfcc560dad5452e1b6b3de022eedfbc50be371"
+  },
+  "editor.extensions.mediastack.view.unableToImportMediaIntoTheStack": {
+    "message": "无法将媒体导入堆栈。",
+    "sourceHash": "846be3508a6ba63d3b4fb2795d38ca0662b7956100fbff95e1295d839431d838"
+  },
+  "editor.extensions.mediastack.view.unstack": {
+    "message": "取消堆叠",
+    "sourceHash": "3c8f5f35f98f5873cd0ba25f37ae04992c0717c9842f7274f7b89c1d30491694"
+  },
+  "editor.extensions.mediastack.view.useMediaAlreadyInThisWorkspace": {
+    "message": "使用此工作区中已有的媒体",
+    "sourceHash": "b1b60e5fe58622d4285d44741b01e65e9bb389ed151defd5fd04bad97d7decd6"
+  },
+  "editor.extensions.outline.view.documentOutline": {
+    "message": "文档大纲",
+    "sourceHash": "3bf40df77d93398b4509c1b434fcc62a60073af5f0243c8ed312eaf6ec7f1f17"
+  },
+  "editor.extensions.outline.view.showOutline": {
+    "message": "显示大纲",
+    "sourceHash": "79eb88f4f00083e78c3d097382693f67f0b3eecd34217018704d1822cf8c04cd"
+  },
+  "editor.extensions.render.projectsuggestionitems.projects": {
+    "message": "项目",
+    "sourceHash": "85c4ea6b53289a3b00ccc486da48917a98701dbf261c2fd3552d427fc043e36e"
+  },
+  "editor.extensions.render.tasksuggestionitems.tasks": {
+    "message": "任务",
+    "sourceHash": "97c1a4904ee3b97d176a99b7bd0ef278d4af26cc830997b2c96ebbd4f980f58e"
+  },
+  "editor.extensions.sectionlinksuggestions.chooseAnExistingNoteBefore": {
+    "message": "请在 # 前选择一个已有笔记",
+    "sourceHash": "3875d1ffa7cfb723f76bdba357eeefeb0e0c136b8aedc28992b81eaf5177449c"
+  },
+  "editor.extensions.sectionlinksuggestions.couldNotLoadHeadings": {
+    "message": "无法加载标题",
+    "sourceHash": "2d8baf4d68cac2e7f5e7924a350eb90a71a50f4c8dd0640dd44545c2e5c4be7c"
+  },
+  "editor.extensions.sectionlinksuggestions.loadingHeadings": {
+    "message": "正在加载标题…",
+    "sourceHash": "3cd3e899400d446b3438b3c07b7a6ba5e5d3d5d70306c433b2cbb9c2344ff5a8"
+  },
+  "editor.extensions.sectionlinksuggestions.noHeadingsInThisNote": {
+    "message": "此笔记中没有标题",
+    "sourceHash": "6f019380f200d8aecbe567823f3c9928a883f9ab7bc13607ba2397fc58b08060"
+  },
+  "editor.extensions.sectionlinksuggestions.noMatchingHeadings": {
+    "message": "没有匹配的标题",
+    "sourceHash": "8c79f63778db264c9b926f3915edf89c11abe5cdde556654293368832be11983"
+  },
+  "editor.extensions.sectionlinksuggestions.noteHeadings": {
+    "message": "笔记标题",
+    "sourceHash": "2c101dc2d8af1822e92cdf217484102ea439db6153f9b5359878f21f770bd6f8"
+  },
+  "editor.extensions.slashCommand.bulletList": {
+    "message": "无序列表",
+    "sourceHash": "27a40ac5a20ee8aef623fd561493511abfa11e816e3089919833c0caed1e38ca"
+  },
+  "editor.extensions.slashCommand.codeblock": {
+    "message": "代码块",
+    "sourceHash": "99d538ac189660a2bcf64d0420808712414bcb70334e7a3525c14d4169970d6e"
+  },
+  "editor.extensions.slashCommand.currentTime": {
+    "message": "当前时间",
+    "sourceHash": "840e5ddfa755d88ba40351c359de6182b83147fa62a7d83d624950e12761cbaa"
+  },
+  "editor.extensions.slashCommand.divider": {
+    "message": "分隔线",
+    "sourceHash": "a8c71ae7cdd3c2201b1ca36820328806218101b13ba24e510994ce7bdb24708c"
+  },
+  "editor.extensions.slashCommand.documents": {
+    "message": "文档",
+    "sourceHash": "8e5613c7921ac89ec5083410637258cc1294c00882a876f19a9569cc286c8b1e"
+  },
+  "editor.extensions.slashCommand.enableRenderMathEquationsUnderSettingsEditorContentDisplay": {
+    "message": "请在“设置 → 编辑器 → 内容显示”中启用“渲染数学公式”。",
+    "sourceHash": "194219e91f7a2502253573a7914e105cd1479ea3c3ec8e17d06b91160837138e"
+  },
+  "editor.extensions.slashCommand.errorCallout": {
+    "message": "错误提示框",
+    "sourceHash": "0560a22543f1aa531d5794d8ca82d1867d39f13d4213bece612f73d63565eb0c"
+  },
+  "editor.extensions.slashCommand.heading1": {
+    "message": "标题 1",
+    "sourceHash": "92346cb512926cf5806ef9acfecb584815acc55ae961f5126846210a227775f0"
+  },
+  "editor.extensions.slashCommand.heading2": {
+    "message": "标题 2",
+    "sourceHash": "170b5ea99d4aa0a49d4b84cec78b331ef6dba719ee3da2325228c5cf7acc2b5d"
+  },
+  "editor.extensions.slashCommand.heading3": {
+    "message": "标题 3",
+    "sourceHash": "d990bbac905b279cf284600543e3f1f9ed0111a2afd85ec97f427e6a435df733"
+  },
+  "editor.extensions.slashCommand.heading4": {
+    "message": "标题 4",
+    "sourceHash": "dec50b91575245e9431636f79efc042adcdaaf0df6c91253f3308073f16fc6fc"
+  },
+  "editor.extensions.slashCommand.heading5": {
+    "message": "标题 5",
+    "sourceHash": "83ffe4c9b00f204d8ed5da780129d59527bc208f014c83a4eb4cf7267dbdab41"
+  },
+  "editor.extensions.slashCommand.heading6": {
+    "message": "标题 6",
+    "sourceHash": "5bb59cf5a8eb1538b63bc30e48270b573dc36f175a19fc65fd8fe994587bec9b"
+  },
+  "editor.extensions.slashCommand.infoCallout": {
+    "message": "信息提示块",
+    "sourceHash": "10863b5fc35b1f001f1dbfbd9d8bd4bdf2edff78f211b8abd7076d288a4304ef"
+  },
+  "editor.extensions.slashCommand.linkNotesMediaFiles": {
+    "message": "链接笔记/媒体/文件",
+    "sourceHash": "5d111c5dc39deea1b2f27bcfbb26a90d796edea7be5cb03bb9c7fe1521526b4a"
+  },
+  "editor.extensions.slashCommand.linkTodaySDailyNote": {
+    "message": "链接今天的每日笔记",
+    "sourceHash": "caf4e0e6a88ba10eb188a3f288ce056add0c716a6855c8d4f56e83db44d8dfe3"
+  },
+  "editor.extensions.slashCommand.linkTomorrowSDailyNote": {
+    "message": "链接明天的每日笔记",
+    "sourceHash": "8cc6aab64099a19478f28780e4d8dafd6e6fe930ff521fe7277ad042155be655"
+  },
+  "editor.extensions.slashCommand.linkYesterdaySDailyNote": {
+    "message": "链接昨天的每日笔记",
+    "sourceHash": "edac0d9b2a28141bb5cb1ad852cb0445cadb51ac5c7f21ab3882aee26ea13103"
+  },
+  "editor.extensions.slashCommand.mathBlock": {
+    "message": "数学公式块",
+    "sourceHash": "68823e63dad5c76a2a557d0557f192659b992ffd38be49928927cf55bee4e1e1"
+  },
+  "editor.extensions.slashCommand.mathEquationsAreDisabled": {
+    "message": "数学公式已禁用",
+    "sourceHash": "99a0081823a352ebcb4e298683d9836f4d2fcad0da12625e3d9c48d01c0a0318"
+  },
+  "editor.extensions.slashCommand.mediaFiles": {
+    "message": "媒体文件",
+    "sourceHash": "367eb45dff58e75b791489cfc5f1f4beb8383bcc9ffb5f42254cbc5d052ae455"
+  },
+  "editor.extensions.slashCommand.mediaStack": {
+    "message": "媒体堆栈",
+    "sourceHash": "79f54e789c48bdd7a09b622c6398b547515c92013a702c18033aa6548f2280a3"
+  },
+  "editor.extensions.slashCommand.mermaidDiagram": {
+    "message": "Mermaid 图表",
+    "sourceHash": "380fe4c0407648556a2604495601a9c750063375b226d50199c3dec172b4844d"
+  },
+  "editor.extensions.slashCommand.noResultsFound": {
+    "message": "没有找到结果",
+    "sourceHash": "3f50d5e03249e7570997061bc976876b062d98f794b12c2c6dc6a6e0e1423cfc"
+  },
+  "editor.extensions.slashCommand.numberedList": {
+    "message": "有序列表",
+    "sourceHash": "f8dbab955eedcce3d7a49909311a14e2db7c830a0c257c1219422c6ffa5a6cb7"
+  },
+  "editor.extensions.slashCommand.openSettings": {
+    "message": "打开设置",
+    "sourceHash": "8c23d7044753d4eac30c663fb924e0c2b1316d16d974b460773c50cdeca25348"
+  },
+  "editor.extensions.slashCommand.quote": {
+    "message": "引用",
+    "sourceHash": "69bc7fa0188f84eb70663ae66b27c16466ae0f620ee96df8e3202f7cfad003ed"
+  },
+  "editor.extensions.slashCommand.successCallout": {
+    "message": "成功提示块",
+    "sourceHash": "a1bf6744570ecdeeb4cd4187bc1d34b947a935197b641ec6251e2db24da4a96e"
+  },
+  "editor.extensions.slashCommand.table": {
+    "message": "表格",
+    "sourceHash": "68c2dfc279eac31723a3a3346f1f8ed06e9ecdbafce1c87b047c018a0043b6dc"
+  },
+  "editor.extensions.slashCommand.text": {
+    "message": "文本",
+    "sourceHash": "dd4db741acd72414869b4eab14e1346e4802c75c38af8b690cafa41c312d8537"
+  },
+  "editor.extensions.slashCommand.textColors": {
+    "message": "文字颜色",
+    "sourceHash": "89e1c48d4b066e8e2d3fa41d06ebd773e09c1380204cf69b45ca6f99d4f1fc3f"
+  },
+  "editor.extensions.slashCommand.textHighlights": {
+    "message": "文字高亮",
+    "sourceHash": "3e3aeee72f822aaa497977a5f9e37c630df5597fd17dbdaaa18279cf639f978b"
+  },
+  "editor.extensions.slashCommand.tipCallout": {
+    "message": "提示块",
+    "sourceHash": "42bf767baf59388e6ae5592e25a806125d824af83df5c00ae4db27d23aaedfd1"
+  },
+  "editor.extensions.slashCommand.toDoList": {
+    "message": "待办列表",
+    "sourceHash": "095ed4cce73778ec4ad09f1dbecce05508255c714694249c8da8286ad855011f"
+  },
+  "editor.extensions.slashCommand.todaySDate": {
+    "message": "今天的日期",
+    "sourceHash": "a8ad8781a1e095638234fc4d5b349c24726f84cac19d996ae67662408b41910b"
+  },
+  "editor.extensions.slashCommand.todaySDateTime": {
+    "message": "今天的日期和时间",
+    "sourceHash": "59671eaa307cedcf7a8ea3cae2f7129d90ffef22e27da2ecb5745b75b0088815"
+  },
+  "editor.extensions.slashCommand.tomorrowSDate": {
+    "message": "明天的日期",
+    "sourceHash": "63b8fecc2bc0ba4cb03164bf8dacc45956c13000e65fb3553ed7945509be6501"
+  },
+  "editor.extensions.slashCommand.warningCallout": {
+    "message": "警告提示块",
+    "sourceHash": "598cf58e84a62e6e7dcad12de72c0d314cf7aefece0344356201865ad0cf7dfb"
+  },
+  "editor.extensions.slashCommand.yesterdaySDate": {
+    "message": "昨天的日期",
+    "sourceHash": "bd95c3af3164266f8740156ba1ed32a92a35b28cf3d7bd2c2db3ec0807c65e78"
+  },
+  "editor.extensions.table.tableview.columnCopiedToClipboard": {
+    "message": "列已复制到剪贴板",
+    "sourceHash": "aea3770ada45249e843c194e7e06426e0fbb22366f5b06e068900dc89bdaffb3"
+  },
+  "editor.extensions.table.tableview.copyColumn": {
+    "message": "复制列",
+    "sourceHash": "039fb2bb02223ab715aca50111977d55e1bec26542ea37e48ca0e33a2f338e34"
+  },
+  "editor.extensions.table.tableview.copyRow": {
+    "message": "复制行",
+    "sourceHash": "be41760d69ed4f105158c33ae4223e2b466b88c819445dd12ab961fb76931f0e"
+  },
+  "editor.extensions.table.tableview.copyTable": {
+    "message": "复制表格",
+    "sourceHash": "311f089d8bc2b8befe45c7868a22e7bcf15275585d1a1e935d1fc6f07d8fab34"
+  },
+  "editor.extensions.table.tableview.deleteColumn": {
+    "message": "删除列",
+    "sourceHash": "b650588c0c85dda9799ebc905d51f17a780029e9e33f58409d64c477f2f073f1"
+  },
+  "editor.extensions.table.tableview.deleteRow": {
+    "message": "删除行",
+    "sourceHash": "d55ed22198055c3857a5863b8fed847decef0b974a1febfde94e2b9e31a23b76"
+  },
+  "editor.extensions.table.tableview.deleteTable": {
+    "message": "删除表格",
+    "sourceHash": "524d1348a9c0e63fe32bf36009ed4932d7bebb8e4318a1bb9080b83f3ecc9734"
+  },
+  "editor.extensions.table.tableview.editWithAi": {
+    "message": "用 AI 编辑",
+    "sourceHash": "8ac71eaee07eaf3e61080fb8e2f3df48968b3c539370e89cc2eb613797a39dcc"
+  },
+  "editor.extensions.table.tableview.insertColumnLeft": {
+    "message": "在左侧插入列",
+    "sourceHash": "eab88026e4c4db4dc1aee920104054e8786e5e52f9351784df6325b87797b283"
+  },
+  "editor.extensions.table.tableview.insertColumnRight": {
+    "message": "在右侧插入列",
+    "sourceHash": "0e9412823840361145dfd87b7ecddf4011e8d1d8ac5cb2bb3ca85148d5ad34de"
+  },
+  "editor.extensions.table.tableview.insertRowAbove": {
+    "message": "在上方插入行",
+    "sourceHash": "192ffba27f6f55275b9c9dbec243772c3ec5e8cac501dd69d5a3db8b2a04b8e4"
+  },
+  "editor.extensions.table.tableview.insertRowBelow": {
+    "message": "在下方插入行",
+    "sourceHash": "3ba1a3a9646286a89c987b9a3e7e5204ed235ceb3287fac2721825e612272850"
+  },
+  "editor.extensions.table.tableview.moveColumnLeft": {
+    "message": "列左移",
+    "sourceHash": "06ca70fc2ad12b90673d5838e2102ec5fc7c62f8003e01d99c697774dbf56ba6"
+  },
+  "editor.extensions.table.tableview.moveColumnRight": {
+    "message": "列右移",
+    "sourceHash": "a1d50d26fec34f54a5e50e55e46c4a86a2ee2b79603e1cb16a35227fa425a339"
+  },
+  "editor.extensions.table.tableview.moveRowDown": {
+    "message": "行下移",
+    "sourceHash": "8ba1b430873d60806e3d9f300c156ee09108de3fe9f8559ad7a93ac32d5999cc"
+  },
+  "editor.extensions.table.tableview.moveRowUp": {
+    "message": "行上移",
+    "sourceHash": "29d712319ae0595428c117cd06a4a717612a2842fc463ec74a7b2af0f81911a7"
+  },
+  "editor.extensions.table.tableview.rowCopiedToClipboard": {
+    "message": "行已复制到剪贴板",
+    "sourceHash": "d5d159f56f0c8b8af4622c36ee3d16fa834a7a18df126b9d5cb27035a6d05959"
+  },
+  "editor.extensions.table.tableview.tableCopiedToClipboard": {
+    "message": "表格已复制到剪贴板",
+    "sourceHash": "b3308bb39aa042c605b97c0c0aa07d2fee2b163094761128b802db7deaeb0c40"
+  },
+  "editor.extensions.taskreference.loadingTask": {
+    "message": "正在加载任务…",
+    "sourceHash": "43d11a0bc5460c2b71027aea7b5f1dbb762517630a2472e74b913ab19317510f"
+  },
+  "editor.extensions.templateVariables.noVariablesFound": {
+    "message": "未找到变量",
+    "sourceHash": "1fedc0de7211e490e26d4b077f143cc243538b92daa18837d85bd7d88b26f369"
+  },
+  "editor.extensions.templateVariables.templateVariables": {
+    "message": "模板变量",
+    "sourceHash": "fc92031b1569d61b433df6bf953e35e8e399682abbdff865baf48692de54e266"
+  },
+  "editor.extensions.video.videoplayer.collapseVideo": {
+    "message": "收起视频",
+    "sourceHash": "69dfbff71e812894288f335db05bba39b70009cc1a390d3f75b1509c34b7949e"
+  },
+  "editor.extensions.video.videoplayer.copyPath": {
+    "message": "复制路径",
+    "sourceHash": "baa9cdf4df9128e794b38cb7dd4d58dfa3e243b33d5004133df68f23c9633a85"
+  },
+  "editor.extensions.video.videoplayer.createMediaStack": {
+    "message": "创建媒体堆栈",
+    "sourceHash": "e3d5b0591d794e23bfa17c76d943d7ce6da89ab0a3541d3c11f30e70a1a22d73"
+  },
+  "editor.extensions.video.videoplayer.exitFullscreen": {
+    "message": "退出全屏",
+    "sourceHash": "9bf14f822d8f13432f42d52c04e6097d2ed3118d28ad15fbb247dae00b5971d2"
+  },
+  "editor.extensions.video.videoplayer.moreOptions": {
+    "message": "更多选项",
+    "sourceHash": "5c9a19e4d452523004e7221f9f5bac809ab68e1ae6e22e50a9c4332b94f3f5b4"
+  },
+  "editor.extensions.video.videoplayer.mute": {
+    "message": "静音",
+    "sourceHash": "c3544bd88b609bc66aaa1215538d381f777ea9a5667d6b12c10a8dac7af56409"
+  },
+  "editor.extensions.video.videoplayer.pathCopiedToClipboard": {
+    "message": "路径已复制到剪贴板",
+    "sourceHash": "8ddb3c3854d421442d9c4253fc434ab6eac0689d2ab2524e6840c13ddc81cb5e"
+  },
+  "editor.extensions.video.videoplayer.pause": {
+    "message": "暂停",
+    "sourceHash": "656efcbea1bcc35f23a710ed75bbc5712bb85d916a8f08f1dac64157b66c0253"
+  },
+  "editor.extensions.video.videoplayer.pauseVideo": {
+    "message": "暂停视频",
+    "sourceHash": "96bf555a2639df7e64531bffbc93f2dcb8a93e5783005e868c50979647c1d696"
+  },
+  "editor.extensions.video.videoplayer.play": {
+    "message": "播放",
+    "sourceHash": "19378f0e0ba1fab0331618b2f8459038c63c0c08bc204755848aaf6c59783452"
+  },
+  "editor.extensions.video.videoplayer.playVideo": {
+    "message": "播放视频",
+    "sourceHash": "1965abf8c06a67dbe15d79025ab26fe2fa933a26c3779e539cb55c747121cc01"
+  },
+  "editor.extensions.video.videoplayer.playbackSpeed": {
+    "message": "播放速度",
+    "sourceHash": "9304abd4f95ebcb97b0881e3df702035b1d5f3595cf310613bc25bb8f7ee7765"
+  },
+  "editor.extensions.video.videoplayer.removeVideo": {
+    "message": "移除视频",
+    "sourceHash": "67b49b8bbc8f1b847e1b7fa260601fed0f626a57f2f9107740bd9e8d103accb7"
+  },
+  "editor.extensions.video.videoplayer.resetToOriginalSize": {
+    "message": "恢复原始大小",
+    "sourceHash": "d3c7ca1d7f5db85f6e9451db078ea631ca29069aeddbdd4ab3d1d6f7b6e577ee"
+  },
+  "editor.extensions.video.videoplayer.timestampCopied": {
+    "message": "时间戳已复制",
+    "sourceHash": "fbb62b1da04a888618e0326fba066e1b24bc2ec6eb49297f82d30eee16ba7e2e"
+  },
+  "editor.extensions.video.videoplayer.unmute": {
+    "message": "取消静音",
+    "sourceHash": "03fb70dc100dc46a373fada3e2b86c66edbdf3d6de9166070024fce38a340657"
+  },
+  "editor.extensions.video.videoplayer.video": {
+    "message": "视频",
+    "sourceHash": "2e586da509c06a944bed55056b770189ddf1abcd2c92a5bdeba1e12e7bb68cba"
+  },
+  "editor.extensions.video.videoplayer.videoProgress": {
+    "message": "视频进度",
+    "sourceHash": "88bb01ff75c3ec8417bfe9c65d3a7267404790f4b7c788bea8e8cd6a0b59991d"
+  },
+  "editor.extensions.video.videoplayer.volume": {
+    "message": "音量",
+    "sourceHash": "ce23dae3b5c5f8f6d63dc2518c9f97378f388cf756c32fd9e6c2448396c1e730"
+  },
+  "editor.extensions.wikilinkshortcutlegend.addAnAlias": {
+    "message": "添加别名",
+    "sourceHash": "6b57f160513eb0f26b014a319dae8eadc66912751f4cf8371b382e9734aaac2d"
+  },
+  "editor.extensions.wikilinkshortcutlegend.browseHeadings": {
+    "message": "浏览标题",
+    "sourceHash": "41d7ed15d76b693be4f124a5823e2b7c430fae14c4e130a9f390b456fb8c36f8"
+  },
+  "editor.extensions.youtubeembed.moreOptions": {
+    "message": "更多选项",
+    "sourceHash": "96cd095ca50ca86637387c4860ce2a03fb45233d9fa0867b2a5e392e38b60b76"
+  },
+  "editor.extensions.youtubeembed.pauseYoutubeVideo": {
+    "message": "暂停 YouTube 视频",
+    "sourceHash": "40bbde363c79ab7e878b03ddf5e401328aff044f0f9774b1c4d41a5941f36653"
+  },
+  "editor.extensions.youtubeembed.playYoutubeVideo": {
+    "message": "播放 YouTube 视频",
+    "sourceHash": "9259d58dea47344cddcf7a677b02a50221aa221600b83381979e1245dc93ba30"
+  },
+  "editor.extensions.youtubeembed.timestampCopied": {
+    "message": "时间戳已复制",
+    "sourceHash": "4d7a39bba8b1c7cedab4f2ed6118b306534d9a6299b1d43d9de31216db85ea44"
+  },
+  "editor.extensions.youtubeembed.youtubeVideo": {
+    "message": "YouTube 视频",
+    "sourceHash": "4f71d264f75a14339df00398abade72c476b3361d07ac919081f32c0c396a097"
+  },
+  "editor.extensions.youtubeembed.youtubeVideoProgress": {
+    "message": "YouTube 视频进度",
+    "sourceHash": "b210f387b3c3836aee1eaf5be197cb0f1429d92e6a5e81cfa09c2ce46cada6f4"
+  },
+  "editor.inlinewritingassistantpopover.applyingChanges": {
+    "message": "正在应用更改…",
+    "sourceHash": "04773a4406d54f283f80880722e60e20a87297e2b0dc980dab2a39ee15dca5e0"
+  },
+  "editor.inlinewritingassistantpopover.cancel": {
+    "message": "取消",
+    "sourceHash": "2517128d2683837fe38b9a38bf5c8cb699a82f6b10cadce612d348f78771e1d8"
+  },
+  "editor.inlinewritingassistantpopover.rewritingSelection": {
+    "message": "正在改写所选内容…",
+    "sourceHash": "c22eeef84b19df74560f1e363f8168997bbaabe05d48946ca552403583aed616"
+  },
+  "editor.inlinewritingassistantpopover.send": {
+    "message": "发送",
+    "sourceHash": "a4c2987aeceba53b0ba57f379821c71a1661d1fdef2738f4e56a0b5a471c9b0d"
+  },
+  "editor.inlinewritingassistantpopover.stopGenerating": {
+    "message": "停止生成",
+    "sourceHash": "855b8bff8f66f8b74630a35839d88b8ff6b9aacfe0399e12ad3bfdeec254bb6e"
+  },
+  "editor.inlinewritingassistantpopover.typeARequest": {
+    "message": "输入请求",
+    "sourceHash": "e61b76b029e820deb6ba47e052f58caae6c23b6bb950fffc61a4e38debafba36"
+  },
+  "editor.linkcontainer.click": {
+    "message": "点击",
+    "sourceHash": "50f80f42badb577de8a0b1b8b0b5ec84eecbb5e9665c0e8cdb94b31295325899"
+  },
+  "editor.linkcontainer.copyAsMarkdown": {
+    "message": "复制为 Markdown",
+    "sourceHash": "ac74bcaa590280dbe6fd189122e7735c182fc89de4f2f2b0594f5af7c3738b93"
+  },
+  "editor.linkcontainer.copyLink": {
+    "message": "复制链接",
+    "sourceHash": "94aa7d8957fc30581d0882811a4687dba936cd08a8d5c163f4cdfc17adb95615"
+  },
+  "editor.linkcontainer.embedHint": {
+    "message": "嵌入链接 {shortcut}",
+    "sourceHash": "074a643392d0269fcc48842016495e54eb15b2f1344cf7b9ecb922f8c0c82cd8"
+  },
+  "editor.linkcontainer.enterLabel": {
+    "message": "输入显示文字",
+    "sourceHash": "d8f95594f71e439b749b812d1a4bcf8f4252fe07bc6a3b68b7c53e3d02bb6013"
+  },
+  "editor.linkcontainer.followHint": {
+    "message": "{link} {shortcut} + 点击",
+    "sourceHash": "d7da73540cf5bec52131655543bad870d78fd1678c2c48e672c7339ae04c0c3a"
+  },
+  "editor.linkcontainer.followLink": {
+    "message": "跟随链接",
+    "sourceHash": "0c5e01e0e213543ebb64635c57fa2af2106a131cad26647dcdcea79dd7377da9"
+  },
+  "editor.linkcontainer.linkCopiedToClipboard": {
+    "message": "链接已复制到剪贴板",
+    "sourceHash": "24ef4309c08c3a4025fbb03b5de9af7d7d16e3155059d9d259eb787c4290fd7b"
+  },
+  "editor.linkcontainer.markdownLinkCopiedToClipboard": {
+    "message": "Markdown 链接已复制到剪贴板",
+    "sourceHash": "4e7d3606ab67e0aa6ef31348e55b5e43da1dc24c0c3ace0b8edc2daab91cb734"
+  },
+  "editor.linkcontainer.removeLink": {
+    "message": "移除链接",
+    "sourceHash": "198962343bfcc46e69e959fbe1b51689a05dfd5c9edb4a40401d1e8c7b826148"
+  },
+  "editor.linkcontainer.setAUrlToFollowLink": {
+    "message": "设置要跟随的 URL",
+    "sourceHash": "434d9afafb6ded16e069c425c78e55d0c6a2d00eeeb883f55dbd7c193d968d3e"
+  },
+  "editor.media.deleted": {
+    "message": "{name} 似乎已被删除。",
+    "sourceHash": "d343cc1af7e0d258bbddb17c6baa41cbaafa70f7b1eef66e2a103e0bac23c6ae"
+  },
+  "editor.media.proAction": {
+    "message": "{action} 需要 Pro 版",
+    "sourceHash": "0f88729c74898d482351a885984e2c5d9af2aa1ef23b65b3812e17b98e860f71"
+  },
+  "editor.media.readOnlyAction": {
+    "message": "{action} 在只读模式下不可用",
+    "sourceHash": "6836931a13d5bb50cdc50d060ae705e845b60ce234c83acb0f8807713d3cf782"
+  },
+  "editor.mediaStack.itemCount": {
+    "message": {
+      "other": "{count} 项"
+    },
+    "sourceHash": "07f8b13280766bd8a655f862d0aa43068729fae4af0438813d6b02ff052fa1d0"
+  },
+  "editor.mediaStack.itemDescription": {
+    "message": {
+      "other": "包含 {count} 项的媒体堆栈"
+    },
+    "sourceHash": "8a293b86f8ba8e4aa69aa15b8c8009b8d1d532c50bb257c11b449b783e3cb89e"
+  },
+  "editor.mediaStack.openFullscreen": {
+    "message": "全屏打开 {title}",
+    "sourceHash": "4e81b0ed20a011904c81217480b2f1a2a31c0ec77bc9b9084f81521c6540d894"
+  },
+  "editor.mediaStack.reorderItem": {
+    "message": "重新排序 {title}",
+    "sourceHash": "b52406f73ed69c7ced983230e58c3707e4f15917b7fd3da57e878244a633aa80"
+  },
+  "editor.mediaStack.selectedCount": {
+    "message": {
+      "other": "已选择 {count} 项"
+    },
+    "sourceHash": "a1bbccb0ad8f5b9fc03b9e6db35ae9ddc0fa023802745f5e960159a6ec156125"
+  },
+  "editor.mediaStack.sizeLong": {
+    "message": "大",
+    "sourceHash": "2fe166f01b45f6cc637f747dbb5846e2768afd5765430a1b18d0b1d9c99dc4c1"
+  },
+  "editor.mediaStack.sizeMedium": {
+    "message": "中",
+    "sourceHash": "c78df988cdf22bdbcec1832812c0d3c01404be8e016d5fe5912f023df09c8304"
+  },
+  "editor.mediaStack.sizeSmall": {
+    "message": "小",
+    "sourceHash": "aaea7054efa9994b46f29fd485036c4bc07ea5ac30fc816e7afc4fda1db4c4e3"
+  },
+  "editor.mediaStack.viewItem": {
+    "message": "查看 {title}",
+    "sourceHash": "01a1daaf2ddb2e02daa53165bdf17daeb8a325548038f4840dcb79d072fd118d"
+  },
+  "editor.mermaid.pngImage": {
+    "message": "PNG 图像",
+    "sourceHash": "19bd1cccad6565d599d10fb725298da49ce37b2239d14d57a0b34e0f173498af"
+  },
+  "editor.mermaid.renderFailed": {
+    "message": "图表渲染失败",
+    "sourceHash": "b3dd9699b070320040994ed20908435cd1e4234974bb3365e2ff2aa242f52b01"
+  },
+  "editor.mermaid.svgImage": {
+    "message": "SVG 图像",
+    "sourceHash": "d75992d5faf744ff89bef5a66a9e0c51fea47bb006505503daaa968bab1411eb"
+  },
+  "editor.rawfrontmattereditor.couldNotSaveFrontmatter": {
+    "message": "无法保存属性。",
+    "sourceHash": "53f59d284f8b816e565e0e2692ec082172fa51430464af1b797fae58c8e505ba"
+  },
+  "editor.rawfrontmattereditor.frontmatterMustBeAYamlObject": {
+    "message": "属性必须是 YAML 对象。",
+    "sourceHash": "66eb625e10a3e0b5c7d2141c18901ed804c228bf1afae6d29e183cb20cd188bb"
+  },
+  "editor.rawfrontmattereditor.invalidYaml": {
+    "message": "YAML 无效。",
+    "sourceHash": "9ac14b5e8984431d176397a5aa0966b979f9f5fafda45cb072ea47e024fe3c4d"
+  },
+  "editor.rawfrontmattereditor.rawFrontmatter": {
+    "message": "原始属性",
+    "sourceHash": "1ea4ac09dace218c2ddcac958ed549a7d348af3a6fa5b51a6fb9086eea0a061e"
+  },
+  "editor.rawfrontmattereditor.yamlErrorLocation": {
+    "message": "{reason}（第 {line} 行，第 {column} 列）",
+    "sourceHash": "072d6ecf441dd5693a82ec7ef7115417cca2b47ee56ae528e9e335761dca29c5"
+  },
+  "editor.referencesrow.backlinks": {
+    "message": {
+      "other": "{count} 个反向链接"
+    },
+    "sourceHash": "fca4e72f9ca39d134353ad268db651a9be43acecbc2b7eea7223961d3ddbc230"
+  },
+  "editor.referencesrow.noBacklinks": {
+    "message": "没有反向链接",
+    "sourceHash": "8d906e99731661a8db5dab1b10d43e51469262ac11aea5517fbddffe13713e42"
+  },
+  "editor.referencesrow.viewReferences": {
+    "message": "查看引用",
+    "sourceHash": "5dadab0f0498fe21d8e3889f2c60ef0a161b29b1c6d727093935b91895e1eebe"
+  },
+  "editor.selectiontonote.contentWasCopiedButTheSourceChangedBeforeReplacement": {
+    "message": "内容已复制，但源内容在替换前已发生变化",
+    "sourceHash": "a83565f95290c933ba4839ac416a9f9d55bed248ed3f3ebbdd6364e3c25bb9ad"
+  },
+  "editor.selectiontonote.extractSelectedTextIntoNewNote": {
+    "message": "将所选文本提取到新笔记",
+    "sourceHash": "5b67364d57fe77019882a061fe998a1b505851f5b3cca857a54c2d549a9e4397"
+  },
+  "editor.selectiontonote.extractToNote": {
+    "message": "提取到笔记",
+    "sourceHash": "b157ff8e07b43ec581dd4f798a5bf4e0312d213206a0171d81910ca262588bf3"
+  },
+  "editor.selectiontonote.extractedTextToNewNote": {
+    "message": "已将文本提取到新笔记",
+    "sourceHash": "a693674c16b6a86da32a7ca701762788f149bad38f10b0e2489329f3ada19891"
+  },
+  "editor.selectiontonote.moveToAnExistingNote": {
+    "message": "移至现有笔记",
+    "sourceHash": "0fe3847a527d94fc6705ecacc97f6286931eafcb7d51534e8dd1c7c839f924a7"
+  },
+  "editor.selectiontonote.movedSelectionToNote": {
+    "message": "已将所选内容移至笔记",
+    "sourceHash": "7188218734bd9a065d8461b8b8fdfe5ea315bdb2e6eaffb957671b886588f37c"
+  },
+  "editor.selectiontonote.movingSelection": {
+    "message": "正在移动所选内容…",
+    "sourceHash": "de7120668c0936758cd3f9cb1f9c11cb20a1504d72a8cc4f3c400edfc62a43cb"
+  },
+  "editor.selectiontonote.noTextSelected": {
+    "message": "未选择文本",
+    "sourceHash": "dab6b184f2b1799d8f8f4ae770ac99b5902057a91c1bb7355c4d43395e69735e"
+  },
+  "editor.slash.colors.Blue": {
+    "message": "蓝色",
+    "sourceHash": "36d4d80c25bb71a6ad0f59e64e39d7a39bcb032719c86e329571f7f5b1b130db"
+  },
+  "editor.slash.colors.Brown": {
+    "message": "棕色",
+    "sourceHash": "078e52947ec5bfe30e7ceff1d43d35b99aedb1fd92e7c5ea32cff9908a77e185"
+  },
+  "editor.slash.colors.Green": {
+    "message": "绿色",
+    "sourceHash": "315af43861f6c4603e116171adff1372e4e2e1cc99a48d8bb18fda103081ca5f"
+  },
+  "editor.slash.colors.NoColor": {
+    "message": "无颜色",
+    "sourceHash": "c3c75331dcd09e6794058039e7a087746e347b6c42bc4854560690ad9c864ab8"
+  },
+  "editor.slash.colors.NoHighlight": {
+    "message": "无高亮",
+    "sourceHash": "163a9c21974178024a75553aaa354954369720b25bfccfffe0f79497c9a9c9a2"
+  },
+  "editor.slash.colors.Orange": {
+    "message": "橙色",
+    "sourceHash": "e63dcb6f2d3c6d7adf1b1051cec6e6ba61b32d713ee337b5abab01f016e9a53f"
+  },
+  "editor.slash.colors.Pink": {
+    "message": "粉色",
+    "sourceHash": "1a709eb226c908963ab68ea84b6b514d95e35f83808179c68282943f2e5bb425"
+  },
+  "editor.slash.colors.Purple": {
+    "message": "紫色",
+    "sourceHash": "fd31da21621b1622654724f197b7a950cbc50ac8684155536c8cafe1fa030b13"
+  },
+  "editor.slash.colors.Red": {
+    "message": "红色",
+    "sourceHash": "7a6ed1854f041c0ebeae5435def9b002e3dd0c322720a0c772b08708fcef3106"
+  },
+  "editor.slash.colors.Yellow": {
+    "message": "黄色",
+    "sourceHash": "5198747f2d8919de28ab2edf45062f207dc2dcf990f1d9f1dd15a204ba1c10b4"
+  },
+  "editor.slash.importFiles": {
+    "message": "从 {fileSystem} 导入文件",
+    "sourceHash": "10bef99849d367203d22ffa9a195474ede8198ae2e878f708437f9980d4ddb07"
+  },
+  "editor.slash.importMedia": {
+    "message": "从 {fileSystem} 导入媒体",
+    "sourceHash": "c1ccbad9d3ea9f6652645bdae9b15d8482aa45177f0346483864f652bf643384"
+  },
+  "editor.slash.search.alert": {
+    "message": "警告, 提醒, 警报",
+    "sourceHash": "f94df29a95a0d13b59349988ee0c6a72e0fdf0487f9ac740d693909bda9e6a21"
+  },
+  "editor.slash.search.attach": {
+    "message": "附件, 附加, 添加附件, 上传",
+    "sourceHash": "7f1710bbf59693e0d1e7a7d9edafdb58bd7e1a6097029aab02c986d543af8059"
+  },
+  "editor.slash.search.background": {
+    "message": "背景, 背景色, 底色",
+    "sourceHash": "fba1753546e18e092db0d984557af91b51f5f322fc5b8ca7e93e88eb1b54208c"
+  },
+  "editor.slash.search.blockquote": {
+    "message": "引用, 引述, 引用块",
+    "sourceHash": "4c13f9453a326b41a81677c7e8abb743d9e1af235a45e78108eda1bb62ed00e4"
+  },
+  "editor.slash.search.blue": {
+    "message": "蓝色, 蓝",
+    "sourceHash": "4074d64fbcb19c0bd89c6e1d3c22c7d54a085d1f6a4b36d5d4f2c7ac12c62148"
+  },
+  "editor.slash.search.brown": {
+    "message": "棕色, 褐色",
+    "sourceHash": "54c12178675c9b53fac7461c8e2e38eee4e75e4b68b119a6140d8893b458ecac"
+  },
+  "editor.slash.search.browse": {
+    "message": "浏览, 查看, 选择文件",
+    "sourceHash": "50bdfac94e91d417bb7bca8c9d8741c77ceb48396eb6f9bd20680c057b782107"
+  },
+  "editor.slash.search.bullet": {
+    "message": "项目符号, 列表, 圆点列表",
+    "sourceHash": "afec02f89100faa1ed8d7c5cc0d7b202f71019e0474014d825dc9a1cccb8a65e"
+  },
+  "editor.slash.search.callout": {
+    "message": "提示框, 高亮块, 标注框",
+    "sourceHash": "b123793626c0438e466a870538cc9858bb2d06546e1be6ddede946b57771a3d8"
+  },
+  "editor.slash.search.caution": {
+    "message": "注意, 小心, 警示",
+    "sourceHash": "43dc41820bc7c368a0d829a6732fb5fbd47e4caa3561627808d10ceab7ee043f"
+  },
+  "editor.slash.search.check": {
+    "message": "勾选, 选中, 打勾",
+    "sourceHash": "09baad61e41677c7bc62cd423104ec50de867fdb15960e6d242ac2724da3a42a"
+  },
+  "editor.slash.search.checkbox": {
+    "message": "复选框, 勾选框, 待办",
+    "sourceHash": "a6ba067fbe4047a742068199d044b1627b9b8d7a24be6c2b1c7625496b9d10f3"
+  },
+  "editor.slash.search.clearColor": {
+    "message": "清除颜色, 去除颜色, 取消颜色",
+    "sourceHash": "d95504d90ae23095d3320bf5aea3332e79d5478ccf62a329dbb54761fcdbda1f"
+  },
+  "editor.slash.search.clearHighlight": {
+    "message": "清除高亮, 去除高亮, 取消高亮",
+    "sourceHash": "09463cce9f5e6c4842d7fa3267ca04a7c39cae56bfa66737842df040e66587fc"
+  },
+  "editor.slash.search.code": {
+    "message": "代码, 代码段, 行内代码",
+    "sourceHash": "6848037155a5bf6f786db918eb0898c4752cb8c1248b2e4ef6cba356e6897bd5"
+  },
+  "editor.slash.search.codeblock": {
+    "message": "代码块, 代码框, 代码段",
+    "sourceHash": "0d63e7dd982edc3e33c9de769d6dff81064be011c2eff75900871d1bbe9f268a"
+  },
+  "editor.slash.search.color": {
+    "message": "颜色, 配色",
+    "sourceHash": "c64ed038818a3d7b1f02d7a90370332c7d856193a1d5a545f6e8c4e138e5d3ae"
+  },
+  "editor.slash.search.daily": {
+    "message": "每日, 日记, 今天",
+    "sourceHash": "6ff2e618ccb1c24e63f12a9e535501cb082686c2c944a2ea1817e52578db86bd"
+  },
+  "editor.slash.search.danger": {
+    "message": "危险, 警告, 错误提示",
+    "sourceHash": "c865fab858bba57bc822d8e402c463ae2adcbd7f0927ee8fe008a0c2331753ae"
+  },
+  "editor.slash.search.date": {
+    "message": "日期, 时间, 今天",
+    "sourceHash": "fd0f6f5ce95cad0d1fe4ed05d4ca885d8902732917d6bd1f252cabb536289b6f"
+  },
+  "editor.slash.search.datetime": {
+    "message": "日期时间, 日期和时间, 时间戳",
+    "sourceHash": "7664b76a6901ca1b62e3c9619f03902eceae67a73c0fdbc413da3bfb85d434eb"
+  },
+  "editor.slash.search.desk": {
+    "message": "工作台, 每日工作台, 桌面",
+    "sourceHash": "9be8924313f4c5cb3de75b452365b95ce020e95905aacebb8dd7a7165bab607b"
+  },
+  "editor.slash.search.diagram": {
+    "message": "图表, 示意图, 图示",
+    "sourceHash": "20b6010903992851a6d691dfbab628db757475a8dbc2cf885a025ebe25602ca3"
+  },
+  "editor.slash.search.divider": {
+    "message": "分隔线, 分割线, 分隔符",
+    "sourceHash": "c4acfd3487da21147183acebd2647774886b4d2cd904d9d37a91286924da2511"
+  },
+  "editor.slash.search.document": {
+    "message": "文档, 文件, 页面",
+    "sourceHash": "7c880e68250f574232b0eb2d99f06a541844ac3de82abfe28c90cc837d09592a"
+  },
+  "editor.slash.search.done": {
+    "message": "完成, 已完成, 结束",
+    "sourceHash": "e3e1ab88d2083f7266367c079701cb7c7eb5da7a0bac5bd8eb05fa1fb263cbc0"
+  },
+  "editor.slash.search.dot": {
+    "message": "圆点, 点, 项目符号",
+    "sourceHash": "361ae6106f4956f27a90e4744fa19074d54c39b02fe7291849c2f6c1a01626d4"
+  },
+  "editor.slash.search.equation": {
+    "message": "公式, 方程, 数学",
+    "sourceHash": "7fe757269f866d386b8ad3ca7b444f1ba166934e284b903f4cf65ca7ba48cb2a"
+  },
+  "editor.slash.search.error": {
+    "message": "错误, 报错, 异常",
+    "sourceHash": "0467da7d91731958d3e9ba264524ecc911068601a26df76544fef7ec46720e28"
+  },
+  "editor.slash.search.external": {
+    "message": "外部, 外链, 外部链接",
+    "sourceHash": "dbe7e1da11e364f4a72c7aaa1d11df1743b33beaa1b8f1f2c05e8d97bd8ca02b"
+  },
+  "editor.slash.search.file": {
+    "message": "文件, 附件, 文档",
+    "sourceHash": "963e31f67d792d94b838c91f8b246603baf1b1020b7af55c6ec995e9437b56b7"
+  },
+  "editor.slash.search.flowchart": {
+    "message": "流程图, 流程, 图表",
+    "sourceHash": "d20ded6f265923c969cd95be3b60a571772479e5e8934a990153948ee03b39df"
+  },
+  "editor.slash.search.fontColor": {
+    "message": "字体颜色, 文字颜色, 文本颜色",
+    "sourceHash": "53417b6b3bdb5bd3dab41e190ba2e67ff9b9d79454f113cee951dd808c0ee7db"
+  },
+  "editor.slash.search.formula": {
+    "message": "公式, 数学, 算式",
+    "sourceHash": "2c105fcc582b76fea8751f4a4330d545e9aa6efc5088697b296084904de1d016"
+  },
+  "editor.slash.search.graph": {
+    "message": "图表, 图形, 图谱",
+    "sourceHash": "e014e32357791c06ff5b3597335fff8b920542aedbd8c56f0d966bbb7c2410ff"
+  },
+  "editor.slash.search.green": {
+    "message": "绿色, 绿",
+    "sourceHash": "f3d28150d9d959bef5d846c55374dbd42ca650c737e0d50f51efce839c4e4e9c"
+  },
+  "editor.slash.search.h1": {
+    "message": "标题 1, 一级标题, 大标题",
+    "sourceHash": "82e4364416ec0ef40111eeb63404582526b4f81bbcb24b07a510288a9a694011"
+  },
+  "editor.slash.search.h2": {
+    "message": "标题 2, 二级标题, 中标题",
+    "sourceHash": "a1b6ab118cc0cd8953475cc591babd6217f8da258ed5a0bcc5c79a13c65c0be3"
+  },
+  "editor.slash.search.h3": {
+    "message": "标题 3, 三级标题, 小标题",
+    "sourceHash": "0484b83a1939f90ccb372e87ea3d49215af553c0b829a7e1f9bb64f81326e0ec"
+  },
+  "editor.slash.search.h4": {
+    "message": "标题 4, 四级标题",
+    "sourceHash": "1615946f23bdb0406d63266551bf059e4ded21799fd39d0a6157bf301bba279c"
+  },
+  "editor.slash.search.h5": {
+    "message": "标题 5, 五级标题",
+    "sourceHash": "acdeafa66b95df82c1500b8b5245ca08ec1947d7e6389998dc71a6171ce63cfc"
+  },
+  "editor.slash.search.h6": {
+    "message": "标题 6, 六级标题",
+    "sourceHash": "970e8cca8ef5c9f21543d74b21252a53bf8bd3b201ea02795c61db02125ba208"
+  },
+  "editor.slash.search.header1": {
+    "message": "标题 1, 一级标题, 大标题",
+    "sourceHash": "de77a2c2981817c7564c107212d52ae58a03e22992eb2948ad4c3f6f4a2e23d3"
+  },
+  "editor.slash.search.header2": {
+    "message": "标题 2, 二级标题, 中标题",
+    "sourceHash": "2cdc8269159dc69d9bb41e1ae1ca7b1a2ab309dd833de516a7c3c957c1b41ab6"
+  },
+  "editor.slash.search.header3": {
+    "message": "标题 3, 三级标题, 小标题",
+    "sourceHash": "9cb339c1bd2c5c42a62b8c114327e5bb94a8a739a52e566c1febfe2b0913c75a"
+  },
+  "editor.slash.search.header4": {
+    "message": "标题 4, 四级标题",
+    "sourceHash": "182419e63f2f39335908b7348f0b5d79fde3e5d4a7b74eb9b18d155de2d5b10d"
+  },
+  "editor.slash.search.header5": {
+    "message": "标题 5, 五级标题",
+    "sourceHash": "bfe0e5b29491d9591669e0a3190078ce607b4cc6c03b83b89697d5b12f49125e"
+  },
+  "editor.slash.search.header6": {
+    "message": "标题 6, 六级标题",
+    "sourceHash": "a4153d2a729fc49d843f683c95d726f1ccefc9e1de86b0a8533abbf4a4ad52c5"
+  },
+  "editor.slash.search.heading1": {
+    "message": "一级标题, 标题 1, 大标题",
+    "sourceHash": "ce7a89e820743c73d22088a61a14b3d620172ffb6ec4cdfc81c30ae44b49c0a3"
+  },
+  "editor.slash.search.heading2": {
+    "message": "二级标题, 标题 2, 中标题",
+    "sourceHash": "dc26d1393148f2514b7d045d51fbcc87ef07e968dae7518c476e3564b3fb23cd"
+  },
+  "editor.slash.search.heading3": {
+    "message": "三级标题, 标题 3, 小标题",
+    "sourceHash": "c20bd5559a477ad0bf3b6d711270f5e11a21f393895a2ffc549b16a931c80fc3"
+  },
+  "editor.slash.search.heading4": {
+    "message": "四级标题, 标题 4",
+    "sourceHash": "ad382256de37d19b4bd95bf879eb964ff314cf19e64f9eb6ef42ff0a28f6728a"
+  },
+  "editor.slash.search.heading5": {
+    "message": "五级标题, 标题 5",
+    "sourceHash": "69f3b9d095eef125ede7139ff221be0466b118f3f83e220244e407c5de30dba0"
+  },
+  "editor.slash.search.heading6": {
+    "message": "六级标题, 标题 6",
+    "sourceHash": "e0371d9913d39a601ce0ff88158b9c527dd6d5b24c45e6656361232258a79227"
+  },
+  "editor.slash.search.highlight": {
+    "message": "高亮, 荧光笔, 标记",
+    "sourceHash": "97eaa0280a2b21c7a8321012ca07ef99ae75ec0ef77c879893ac62427c79c4ce"
+  },
+  "editor.slash.search.hint": {
+    "message": "提示, 小贴士, 提醒",
+    "sourceHash": "27f662446fbba5d467631c5abfcbbafebd88d4a58a6c4c1e93947146f30bb762"
+  },
+  "editor.slash.search.horizontal": {
+    "message": "水平, 横向, 水平线",
+    "sourceHash": "31618035e336a314355b0b242c86a5f3d4062c6d3526ae41d6bce1b92e03e672"
+  },
+  "editor.slash.search.image": {
+    "message": "图片, 图像, 照片",
+    "sourceHash": "3bbc7d7713f24db40f8a0b9224e7a59f5d9f42e89a6f1b3acf68f7544941b949"
+  },
+  "editor.slash.search.images": {
+    "message": "图片, 图像, 相册",
+    "sourceHash": "44fb91f4196eb1f1b2a3803de54a25c3b398d5c9d35376e5de569810ffae196a"
+  },
+  "editor.slash.search.import": {
+    "message": "导入, 导入文件, 引入",
+    "sourceHash": "264e802c5c9f3f41227f10c1675485725c5ee6a0357b6281b16b3a4238330ef8"
+  },
+  "editor.slash.search.info": {
+    "message": "信息, 资讯, 说明",
+    "sourceHash": "c9bbfe068a109faa3b47d9353b3d87fe00a28662fc46bf9b0b843782f0ee9012"
+  },
+  "editor.slash.search.information": {
+    "message": "信息, 资料, 详情",
+    "sourceHash": "2d1e610825be8855311a64248a4b94f6869e290e5ffe3aef45a8a1b6ade5d87d"
+  },
+  "editor.slash.search.katex": {
+    "message": "公式, 数学公式, 数学",
+    "sourceHash": "93347723edcceb474e5187d9ae11c317bf1311ff11094c652f1bbf8a66c98c74"
+  },
+  "editor.slash.search.latex": {
+    "message": "公式, 数学公式, 排版",
+    "sourceHash": "3e448d7fd58c9453182824f7e78817b8ef20a3479e581517357d0c6f0479d077"
+  },
+  "editor.slash.search.line": {
+    "message": "线条, 线, 分隔线, 横线",
+    "sourceHash": "bb9e19736da528f541265d6ed05d029b245824239e15bf66c2338db74d2a8d8f"
+  },
+  "editor.slash.search.link": {
+    "message": "链接, 超链接, 网址",
+    "sourceHash": "582c6921520980f507b2e3526cbb4a507a99d5980a0c053cb9d14a1a3a1174a9"
+  },
+  "editor.slash.search.list": {
+    "message": "列表, 清单",
+    "sourceHash": "78d1a93e47eb4d38b4b9f0d7a7bda606c52306fdd5798f66e32f520cecd4db0b"
+  },
+  "editor.slash.search.mark": {
+    "message": "标注, 标记, 高亮",
+    "sourceHash": "550f8e009a8517d0f05445aeb7c7b00f32ce920e21f2c1bc9455afa46ca54209"
+  },
+  "editor.slash.search.math": {
+    "message": "数学, 数学公式, 公式",
+    "sourceHash": "f45e7144c74f15adec823da208f19c6a54b989714fa4ece4b6472c306d09e770"
+  },
+  "editor.slash.search.media": {
+    "message": "媒体, 多媒体, 附件",
+    "sourceHash": "d28b9760844cf8f1376c4a96333057aff171a58c29dfe4779bed4d5d197b79be"
+  },
+  "editor.slash.search.mermaid": {
+    "message": "图表, 流程图, 时序图",
+    "sourceHash": "4a0194034207e4ff977acfd427d54ca31761374bd23774e2b723168767d153d1"
+  },
+  "editor.slash.search.noColor": {
+    "message": "无颜色, 去色, 清除颜色",
+    "sourceHash": "d88dea8a91f0ec96d04e9d0ffbd66576fcba44f24a15040c6efaf25312fbadf1"
+  },
+  "editor.slash.search.noHighlight": {
+    "message": "无高亮, 取消高亮, 清除高亮",
+    "sourceHash": "32268eea2a7a9256d1d490b94043ac56d518a67527edbddaccf44dfcd867d891"
+  },
+  "editor.slash.search.normal": {
+    "message": "正文, 普通, 段落, 常规",
+    "sourceHash": "d4d7dd8a125526ab5e48aa4845cff5f5d57ef4215a3f95fa8c54b595489f9848"
+  },
+  "editor.slash.search.note": {
+    "message": "笔记, 便签, 文档",
+    "sourceHash": "6f23fbb810f2aa56beb8f90009e9aa1a0b2bc5883f6092adbbf219b1ea8ffeed"
+  },
+  "editor.slash.search.notes": {
+    "message": "笔记, 便签, 文档",
+    "sourceHash": "174edb500a0d31120ab01a5b9b258ff9fc9ed99aa1febdae695e660571c896de"
+  },
+  "editor.slash.search.now": {
+    "message": "现在, 此刻, 当前",
+    "sourceHash": "81c651298cf2065010697cd0af30c714deaf960a35294db91ae83261dcac42be"
+  },
+  "editor.slash.search.number": {
+    "message": "编号, 数字, 序号",
+    "sourceHash": "1e5c8a0393b9b606622ca97eb0a234c06054f12b9d27c8046529e3c4446d5c92"
+  },
+  "editor.slash.search.orange": {
+    "message": "橙色, 橘色",
+    "sourceHash": "79f6286ff68dac3c4042509ae9e18ed91fa6250970aecde14d371fe22ecbce37"
+  },
+  "editor.slash.search.ordered": {
+    "message": "有序, 编号, 有序列表",
+    "sourceHash": "ec8a5cc0697beea09cc3f8c1bdbf3d1f2ba237bdc055af7a17b010072ac9c32d"
+  },
+  "editor.slash.search.paragraph": {
+    "message": "段落, 正文, 文本",
+    "sourceHash": "524bdf903684ab2efcaffa934a3e25e74e370f7cda42a5ac16381f67e4ff6266"
+  },
+  "editor.slash.search.pdf": {
+    "message": "文档, 文件, 导出",
+    "sourceHash": "6cce8be1559d89af896314b416d7ec1deb8c6e5b27dbbdece1efafb134c985e7"
+  },
+  "editor.slash.search.pink": {
+    "message": "粉色, 粉红",
+    "sourceHash": "e58de5dede981d7ae2eefeea92e12c33111cefed190d4eb8b33a4fff3acafb03"
+  },
+  "editor.slash.search.point": {
+    "message": "要点, 重点, 强调",
+    "sourceHash": "fbede232249dae7e8dec48135df84ee3fd2034e8d7dd846467850cb4d10b9ca7"
+  },
+  "editor.slash.search.purple": {
+    "message": "紫色, 紫",
+    "sourceHash": "580d4857fba76f975f63b3b5335c8805434a9f63480d34ba18ead0061ba62e2d"
+  },
+  "editor.slash.search.quote": {
+    "message": "引用, 引述, 引文, 块引用",
+    "sourceHash": "950471b9828b22831b32a9bf09558e94bcbe4ca0e681b646c431ba939b213146"
+  },
+  "editor.slash.search.rect": {
+    "message": "矩形, 方框, 长方形",
+    "sourceHash": "a15ff7d20f463f59d34b31ccc8f7a032b55f1b2c4780836c62eb08455a807e0d"
+  },
+  "editor.slash.search.red": {
+    "message": "红色, 红",
+    "sourceHash": "e2e6ba83a09c563659d9b2adfaccff39f48f6a13e76c551b93eeda4d520f7771"
+  },
+  "editor.slash.search.references": {
+    "message": "引用, 参考, 参考文献",
+    "sourceHash": "bfd2afc7b7a07cf2fb36e3a2a9a4bb8adb30fabec685275bf46506845475aaaf"
+  },
+  "editor.slash.search.removeColor": {
+    "message": "移除颜色, 删除颜色, 清除颜色, 取消颜色",
+    "sourceHash": "bcb274061d45d1dfd5870531856e64c905c635297af45f6076356c36962be546"
+  },
+  "editor.slash.search.removeHighlight": {
+    "message": "移除高亮, 删除高亮, 取消高亮, 清除高亮",
+    "sourceHash": "4c215a3663c3050a80a135b137fcebc86cc846dc9e83ab557bfc72dd0f71657f"
+  },
+  "editor.slash.search.stack": {
+    "message": "堆叠, 堆栈, 叠放",
+    "sourceHash": "b5fc526137dd5497fe20d4913b1c739c4d8e038b8f51715c81fb0f91d3b25f16"
+  },
+  "editor.slash.search.success": {
+    "message": "成功, 完成, 提示成功",
+    "sourceHash": "bb1b82faa8a9642e07d0cff032b278027c2a7af90f4d36a8dbeab822498b59c7"
+  },
+  "editor.slash.search.suggestion": {
+    "message": "建议, 提议, 提示",
+    "sourceHash": "816fc764cc7ee229e46e3025df09009dea134818feb8c80d5cbc5792225e60eb"
+  },
+  "editor.slash.search.table": {
+    "message": "表格, 表",
+    "sourceHash": "807ef466c98562ed0dd48f9a3c0ab70b930b4640853af5663795d76085f426dd"
+  },
+  "editor.slash.search.task": {
+    "message": "任务, 待办, 待办事项",
+    "sourceHash": "63e822a3e96811b7229ab599e39a088862566d6ecbe1320551db4e0e9d95acd4"
+  },
+  "editor.slash.search.template": {
+    "message": "模板, 样板",
+    "sourceHash": "652e44c78d03d36082b4a606ecd9fce60add0db2670764d65ebd39e851997f11"
+  },
+  "editor.slash.search.text": {
+    "message": "文本, 文字, 正文",
+    "sourceHash": "fdfcff8f6d701e713d7059196641443af4dd54fde1020f0aa3b8262ac4d563fb"
+  },
+  "editor.slash.search.textColor": {
+    "message": "文字颜色, 字体颜色, 文本颜色",
+    "sourceHash": "c7b9cb0197e9b48aa9adab901444b01f7b629d99f9b1d7a4ee709b908f28fba1"
+  },
+  "editor.slash.search.time": {
+    "message": "时间, 时刻, 时间戳",
+    "sourceHash": "94cd0c537446ffb4c670aed787801abb0d3862de552bd7a15d6acfec48353f51"
+  },
+  "editor.slash.search.tip": {
+    "message": "提示, 小贴士, 技巧",
+    "sourceHash": "a22bdebda2c5d7387873ee9c5c6af7a689cf35c5a890c37b10d11b788207e6af"
+  },
+  "editor.slash.search.today": {
+    "message": "今天, 今日",
+    "sourceHash": "2cc99b52cd4644198f32f2fd59d9be39e42394e2998efdfc6e367f34889337c7"
+  },
+  "editor.slash.search.todo": {
+    "message": "待办, 待办事项, 任务",
+    "sourceHash": "bbfdc99154b38c22f729acef0e20bb8e955c97f7f30d002a54101cad2957d53c"
+  },
+  "editor.slash.search.tomorrow": {
+    "message": "明天, 次日",
+    "sourceHash": "8c47db223cf56f23152d774febeae2dd033b0cca56957df58a57e1ccd2b26d18"
+  },
+  "editor.slash.search.unordered": {
+    "message": "无序, 无序列表, 项目符号",
+    "sourceHash": "c76bdda3e967f3230f96a90b068b645edcf9896ed8bd1a3ed1f2761551270fe6"
+  },
+  "editor.slash.search.upload": {
+    "message": "上传, 上载, 添加文件",
+    "sourceHash": "15ddadc05c529225214c5639f1a2ad2ed7813e7dfdec4863859e251599a38b92"
+  },
+  "editor.slash.search.video": {
+    "message": "视频, 影片",
+    "sourceHash": "48cba959cd649cfe02b842ef941bc3d5ba6cd51fac41918ceb67a27c98db9fdf"
+  },
+  "editor.slash.search.videos": {
+    "message": "视频, 影片",
+    "sourceHash": "b66dfecaa02e55f066485c169bfa6c35c1024fc354dabcb10753948de98fb3a2"
+  },
+  "editor.slash.search.warn": {
+    "message": "警告, 提醒, 注意",
+    "sourceHash": "e9e16c40419103bfd057b0793cfa57d8d432d9ced37a0669d893a53e203151c3"
+  },
+  "editor.slash.search.warning": {
+    "message": "警告, 提醒, 注意",
+    "sourceHash": "99de853f6e57600583fbd991d3c4f4d664633815f41a3c5d77ce288f8c2d1f4e"
+  },
+  "editor.slash.search.wiki": {
+    "message": "维基, 百科, 双链",
+    "sourceHash": "75c562f252bd9f44befb5813d98b2264b92b58fb28370a56850404803ef8030c"
+  },
+  "editor.slash.search.yellow": {
+    "message": "黄色, 黄",
+    "sourceHash": "017680da90bb47290c8835e818d573f302fccf5ce43467483209459cce3a768e"
+  },
+  "editor.slash.search.yesterday": {
+    "message": "昨天, 昨日, 前一天, 昨日笔记",
+    "sourceHash": "d4338911689f32d98f614b3fc2d8170c3af8382c4d6dc2b3cb9453ba380b4e0c"
+  },
+  "editor.sourceCitation.count": {
+    "message": {
+      "other": "{count} 个来源"
+    },
+    "sourceHash": "9d187c8fa47611f0cf61d8df23fbf1e824a9f4cc9d0a3bc66e88a493ccae1535"
+  },
+  "editor.sourceCitation.source": {
+    "message": "来源",
+    "sourceHash": "e98cd8c60559cc622d40db01639dea1f5b54eedd0382ee1043f718dc6dff97f7"
+  },
+  "editor.surface.couldnTOpenThisNote": {
+    "message": "无法打开此笔记。",
+    "sourceHash": "5207e54f88049d1397a8c25c914698cc70637d4fed40ed0078467b31a6ba7ccc"
+  },
+  "editor.surface.reviewGeneratedRecap": {
+    "message": "查看生成的摘要",
+    "sourceHash": "ce5e5baa6a7ab0c186e345b9639ce88b4efe8168363975e835a60d216df84522"
+  },
+  "editor.surface.tryAgain": {
+    "message": "重试",
+    "sourceHash": "89b72b5a58ee3c8f573434c00c1dce4111fcb62de487e8ccb57a2425005461c9"
+  },
+  "editor.taskschedulepopover.chooseACustomDate": {
+    "message": "选择自定义日期",
+    "sourceHash": "4cb614a1d1a1bc9092113e32f71952caef439ebc29ba75834b96db3959b3c564"
+  },
+  "editor.taskschedulepopover.couldNotMoveTasks": {
+    "message": "无法移动任务",
+    "sourceHash": "52dfe469ea90d8a7ef4859e1a8d6dd8522c409a0df218a6d8587cf6923ac0dc4"
+  },
+  "editor.taskschedulepopover.couldNotUndoTheTaskMove": {
+    "message": "无法撤销任务移动",
+    "sourceHash": "c163925c99cf2dbb65e6d5dd0650b9a856ba6e967252e917881f907d2a1dcd37"
+  },
+  "editor.taskschedulepopover.customDate": {
+    "message": "自定义日期…",
+    "sourceHash": "86d264dde1b2712586c2e33ca51828b64cd4c7dd8ffa74ae19abde4a0644015b"
+  },
+  "editor.taskschedulepopover.moveTo": {
+    "message": {
+      "other": "将 {count} 个任务移至"
+    },
+    "sourceHash": "9d5d61eac16d0d3b46355d1ace7b81f72ac2ba4a7f85786f3d2af0b15c45cce4"
+  },
+  "editor.taskschedulepopover.openNote": {
+    "message": "打开笔记",
+    "sourceHash": "40eac0041e78198c0dade847708ca52b598e605ec7392ed767b6e9c43d3e6028"
+  },
+  "editor.taskschedulepopover.tasksChangedBeforeTheyCouldBeMoved": {
+    "message": "任务在移动前已发生变化",
+    "sourceHash": "8e507f9596427d0604786f32abb36811f2d43f5c2155608bfb88420e74a14895"
+  },
+  "editor.taskschedulepopover.tasksWereCopiedButCouldNotBeSafelyRemoved": {
+    "message": "任务已复制，但无法安全移除",
+    "sourceHash": "f1b0bc6880429baa8315fd31499c60e5e73bdf4c3f8c9d7ca4f6497e5d046125"
+  },
+  "editor.taskschedulepopover.tasksWereCopiedButTheirSourceChangedBeforeRemoval": {
+    "message": "任务已复制，但其来源在移除前已发生变化",
+    "sourceHash": "b1ad0e0e14c5b45e83989e937c094f51ed8e1d6bc9e2d5960f129d1093f32cdc"
+  },
+  "editor.taskschedulepopover.theSourceNoteChangedAfterMovingTasks": {
+    "message": "移动任务后，源笔记发生了变化",
+    "sourceHash": "5b1414af8ba41b089a07bcd3612f81e1b612561efc732c687fc302f1ae7cffac"
+  },
+  "editor.taskschedulepopover.theTaskMoveCouldNotBeUndone": {
+    "message": "无法撤销任务移动",
+    "sourceHash": "726c360e5731828963188e9fc2fb63d772ca7808f307bfd994728e7dbea4588f"
+  },
+  "editor.taskschedulepopover.thisWeek": {
+    "message": "本周",
+    "sourceHash": "c5cdcf0ef6f9af8e8d71a26c6f68eee9f7027946191ea903052e66326bf506e3"
+  },
+  "editor.taskschedulepopover.today": {
+    "message": "今天",
+    "sourceHash": "2cb82871e1ff3bf1c1bf076f82963c58e277d9bfe850de2a9ed14c65d9a9e825"
+  },
+  "editor.taskschedulepopover.tomorrow": {
+    "message": "明天",
+    "sourceHash": "78fbd58e67c7edc2a7eb9a9fca8ea0bc4238f7aacc8d1b2bb9041b4edd1f7be2"
+  },
+  "editor.taskschedulepopover.undo": {
+    "message": "撤销",
+    "sourceHash": "484d21ca665f89fd8f3de9671c2aa6333f518de7aca69acf65521d94dbd395a6"
+  },
+  "editor.taskscheduling.moveSuccess": {
+    "message": {
+      "other": "{count} 个任务已移至{target}"
+    },
+    "sourceHash": "bdc91401d8a2d3efa6169bce60b853e74817895829169669d6d4807da801c783"
+  },
+  "editor.taskscheduling.moveToDate": {
+    "message": {
+      "other": "将 {count} 个任务移至日期"
+    },
+    "sourceHash": "f5387731a5bffe3bc65ff169ba6f06600578452a433bda3c19055890cbd50f52"
+  },
+  "editor.taskscheduling.theDestinationNoteChangedAfterMovingTasks": {
+    "message": "移动任务后，目标笔记发生了变化",
+    "sourceHash": "9f48b767ea84bbaefdc584d82925c9fc57977736ceaaac6b2e2a465ce50a5196"
+  },
+  "editor.taskscheduling.theSourceNoteChangedAfterMovingTasks": {
+    "message": "移动任务后，源笔记发生了变化",
+    "sourceHash": "5ad55b2de7b3fcf82e662d2fa199350e3113b85c27d36e6c854752400a978ce8"
+  },
+  "editor.taskscheduling.theSourceTasksCouldNotBeRestored": {
+    "message": "无法恢复源任务",
+    "sourceHash": "7f13b14e2451a16dc4689c29f05bf59dabeb2eb097a2febeb6bd95d40c92b34d"
+  },
+  "editor.templatesettingsbar.datedFolderHint": {
+    "message": "输入类似 {example} 的路径以创建按日期命名的文件夹。",
+    "sourceHash": "447d7c61a55ebee62962bc53cd562024784e49d63363c5b2797b709acf53464c"
+  },
+  "editor.templatesettingsbar.failedToSaveTemplateSettings": {
+    "message": "无法保存模板设置",
+    "sourceHash": "66133e86f6a4236942ce298b66972a2bed5ffe2fc5c5b3e891771e0bdf81188c"
+  },
+  "editor.templatesettingsbar.fieldValue": {
+    "message": "{label}：{value}",
+    "sourceHash": "a28f800fdfaa2acdfa80c90a005dfb3183ff11994c2f1cc071a82b8af69a1880"
+  },
+  "editor.templatesettingsbar.folderForNewNotes": {
+    "message": "新笔记所在文件夹",
+    "sourceHash": "c785d65500cb83880ad7d971b430c061dced3d81ee6e4889bcfdf867580aa43c"
+  },
+  "editor.templatesettingsbar.folderValue": {
+    "message": "新笔记所在文件夹：{value}",
+    "sourceHash": "2186ed0c8e4c1dcb0da7c0fab2a2cb49c2aee617dfe50f5527e697023e520e04"
+  },
+  "editor.templatesettingsbar.howToUseHint": {
+    "message": "在按下 {shortcut} 并选择“从模板创建笔记”时使用。",
+    "sourceHash": "8cb1a65a00b2e64d5f70882bba892e0d58fdd39d139827c0c300e41d79447178"
+  },
+  "editor.templatesettingsbar.howToUseThisTemplate": {
+    "message": "如何使用此模板",
+    "sourceHash": "246e3dc1554ab33ba8e5be4831295a738011a3e2aa95831c8acb31034d71e18d"
+  },
+  "editor.templatesettingsbar.nameForNewNotes": {
+    "message": "新笔记的名称",
+    "sourceHash": "966466e64feba228d5cda550e74a5033b6301a2e5c45bfac87fb785c5f742205"
+  },
+  "editor.templatesettingsbar.newNotesDestination": {
+    "message": "新笔记将保存到 {folder} / {name}",
+    "sourceHash": "041c11eb22e6d1ffd4c0ebe771f232c1e8a3fdb90ac2adb24706533176334156"
+  },
+  "editor.templatesettingsbar.preview": {
+    "message": "预览",
+    "sourceHash": "77849f6392de9e1ba3cc4ad1be6008cb50bf6a3ba0ac54d8c0a55179a1bd59b6"
+  },
+  "editor.templatesettingsbar.resetTemplateNameAndFolder": {
+    "message": "重置模板名称和文件夹",
+    "sourceHash": "0a522f1e52b280fec316ae6e6af35e8b6eacc5b834f4eea057185810131f9a79"
+  },
+  "editor.templatesettingsbar.resetToDefaults": {
+    "message": "恢复默认值",
+    "sourceHash": "2c8d93bd36e3a09b6bc6dd04aadeb334f22672330ca28738265a322d2e03acdb"
+  },
+  "editor.templatesettingsbar.save": {
+    "message": "保存",
+    "sourceHash": "e2a209bfedc6da81d359caaab40d4b8d0bedde9bb2c79a24f5cb3d20f4c5d835"
+  },
+  "editor.templatesettingsbar.searchOrTypeAPath": {
+    "message": "搜索或输入路径...",
+    "sourceHash": "d79ad14f0b2f183e23fd3c5b36ce5443d7fe1a5e2a2ddfbc60cea90d379eea42"
+  },
+  "editor.templatesettingsbar.setName": {
+    "message": "设置新笔记的名称",
+    "sourceHash": "f18239305b74620212d0fd0d3d523ff2bb44b6cdf421486300bedf7be75d7ef5"
+  },
+  "editor.templatesettingsbar.theFolderMustStayInsideTheWorkspace": {
+    "message": "文件夹必须位于工作区内。",
+    "sourceHash": "4e1cc6e8d0b91032ee5af7e56e05cd9f977059a56eba587cf58d5c2221d5ac58"
+  },
+  "editor.templatesettingsbar.thisFolderPathCanTBeUsed": {
+    "message": "无法使用此文件夹路径。",
+    "sourceHash": "358dfd17b3c55ab06ea9727e42c43b3779e48ca3ebbbafb2f0eead3334a7124a"
+  },
+  "editor.templatesettingsbar.thisNameCanTBeUsedAsAFileName": {
+    "message": "此名称无法用作文件名。",
+    "sourceHash": "5d3911b22d675111bc1a200b8ce4c27c09fb95153c9a9295a08ca499f60b2bfc"
+  },
+  "editor.templatesettingsbar.titleIsnTAvailableTheNameCreatesTheTitle": {
+    "message": "{titleVariable} 不可用：名称会生成标题。",
+    "sourceHash": "ada7badd0a0dae0462c792c1ea273f9e81fe38f454ced93cc3e0bec32088eea4"
+  },
+  "editor.templatesettingsbar.todayValue": {
+    "message": "今天：{value}",
+    "sourceHash": "9913a35fce29d54edd83fc672ac677cd57295431388dbeb81f2a1129a4dc3760"
+  },
+  "editor.templatesettingsbar.untitled": {
+    "message": "未命名",
+    "sourceHash": "d87f225773acfb6ac9055e773a0468498fb9f484b8f2f0825267555ea4e20425"
+  },
+  "editor.templatesettingsbar.useDefaultFolder": {
+    "message": "使用默认文件夹",
+    "sourceHash": "b8b87e76b74c4b676cee11e5f3091c200c064aabd85268e9353a3d4a5eb6aa7b"
+  },
+  "editor.templatesettingsbar.usePath": {
+    "message": "使用 {path}",
+    "sourceHash": "02e92323083c7e0c33fb990d06125ebddf69ff1a0adb164f88be5a7066e56004"
+  },
+  "editor.templatesettingsbar.variables": {
+    "message": "变量",
+    "sourceHash": "9745dddfd2e850b76277abb2b04e0f67ec1b537bbfe85ff8e4f42b41b3026ce5"
+  },
+  "editor.templatesettingsbar.workspaceRoot": {
+    "message": "工作区根目录",
+    "sourceHash": "fe701b85b645caf94844bc9a1cfe56e9eab6faf70d9d536348be77e021dba69f"
+  },
+  "editor.usedebouncededitorsave.thisNoteIsTemporarilyReadOnlyTryMovingItAgainWhenEditingIsAvailable": {
+    "message": "此笔记暂时为只读。编辑可用后再尝试移动。",
+    "sourceHash": "31a2c0e273258c418c350bb7807ad47a1ead6aa2c1e6b6ea14fce4a9dcedb60e"
+  },
+  "editor.usedoclinkclickhandler.inbox": {
+    "message": "收件箱",
+    "sourceHash": "9656eeefd6e372c1190c384704d372ec9dd82690a1909bd42e8b40475c73e36f"
+  },
+  "editor.useeditor.enableRenderMathEquationsUnderSettingsEditorContentDisplay": {
+    "message": "请在设置 → 编辑器 → 内容显示中开启“渲染数学公式”。",
+    "sourceHash": "64488e63bd5b3da05b372d4827b377af87b03939f9f5c0b4c424523f7139f6d8"
+  },
+  "editor.useeditor.mathEquationsAreDisabled": {
+    "message": "数学公式已禁用",
+    "sourceHash": "fdfc29a7ae9a7ba7d8b02e7ac0da36811365333d09efcecc90ee229e861d684b"
+  },
+  "editor.useeditor.openSettings": {
+    "message": "打开设置",
+    "sourceHash": "fcb58429c9310ee303544dda4151cdebcf1ffe82f9fb705c8cf9b14ba13cb6ff"
+  },
+  "editor.useimagedrophandler.fileIsTooLargeForThisActionUseTheCommandImportMediaFromFinderInstead": {
+    "message": "文件过大，无法用于此操作。请改用 / 命令 → 从访达导入媒体。",
+    "sourceHash": "cb7d71162ce4c5784ba7bb2365ad39921db588e9967d07b5de8d2acb8d67c345"
+  },
+  "editor.video.exitFullscreen": {
+    "message": "退出全屏",
+    "sourceHash": "b9a3b2bd28f0c129ca821c22f8bd1f6bbe5534f44ebbf6234fb8c9b57ede14ef"
+  },
+  "editor.video.fullscreen": {
+    "message": "全屏",
+    "sourceHash": "d9ca59417605aa8ddd2eeb12fc4ec2e6b82f408520d6bee187978811da90bc55"
+  },
+  "editor.video.viewFullscreen": {
+    "message": "全屏查看",
+    "sourceHash": "e7f5655448acde252a81b4d4f2f1660bb25e1e1b01d31790fbe4d7eda9ebccb3"
+  },
+  "editor.wikilinks.createAtRoot": {
+    "message": "在根目录创建 {name} 笔记",
+    "sourceHash": "87a1b9b0de919003d45039fadc07fd07753768d5f9073a4579ccbc2319e26510"
+  },
+  "editor.wikilinks.createInFolder": {
+    "message": "在此文件夹中创建 {name} 笔记",
+    "sourceHash": "0f8a12b828075852265c1136c1386271fe2ac6852173a1dc780e4e4aa804f91b"
+  },
+  "editor.wikilinks.weeklySuggestion": {
+    "message": "{year} 年第 {week} 周.md",
+    "sourceHash": "8d9bed09f0cfaa0fcddb2ceff736e08e8282831628fa0a591acdc6bc239ae361"
+  }
+}

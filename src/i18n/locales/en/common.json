@@ -1,0 +1,22 @@
+{
+  "common.time.compactDays": {
+    "message": "{count}d",
+    "description": "Compact remaining duration in days; count is numeric."
+  },
+  "common.time.compactHours": {
+    "message": "{count}h",
+    "description": "Compact remaining duration in hours; count is numeric."
+  },
+  "common.time.compactMonths": {
+    "message": "{count}mo",
+    "description": "Compact remaining duration in months; count is numeric."
+  },
+  "common.time.compactSeconds": {
+    "message": "{count}s",
+    "description": "Compact remaining duration in seconds; count is numeric."
+  },
+  "common.time.compactWeeks": {
+    "message": "{count}w",
+    "description": "Compact remaining duration in weeks; count is numeric."
+  }
+}

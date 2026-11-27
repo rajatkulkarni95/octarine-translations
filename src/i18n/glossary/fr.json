@@ -1,0 +1,216 @@
+{
+  "locale": "fr",
+  "language": "French (France)",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user with “vous”.",
+    "Buttons and menu items use the infinitive, without a final full stop (e.g. “Créer une note”); only the first word is capitalised.",
+    "Use French typography: « guillemets », and a narrow no-break space (U+202F) before : ; ? ! and inside guillemets.",
+    "Keep UI text short; prefer the shorter of two natural options.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "note"
+    },
+    {
+      "source": "daily note",
+      "target": "note du jour"
+    },
+    {
+      "source": "weekly note",
+      "target": "note de la semaine"
+    },
+    {
+      "source": "workspace",
+      "target": "espace de travail"
+    },
+    {
+      "source": "folder",
+      "target": "dossier"
+    },
+    {
+      "source": "template",
+      "target": "modèle"
+    },
+    {
+      "source": "property",
+      "target": "propriété"
+    },
+    {
+      "source": "note type",
+      "target": "type de note"
+    },
+    {
+      "source": "tag",
+      "target": "tag",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "étiquette",
+      "note": "Task labels; distinct from note tags."
+    },
+    {
+      "source": "backlink",
+      "target": "rétrolien"
+    },
+    {
+      "source": "view",
+      "target": "vue"
+    },
+    {
+      "source": "filter",
+      "target": "filtre"
+    },
+    {
+      "source": "task",
+      "target": "tâche"
+    },
+    {
+      "source": "subtask",
+      "target": "sous-tâche"
+    },
+    {
+      "source": "project",
+      "target": "projet"
+    },
+    {
+      "source": "space",
+      "target": "espace",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish. Distinct from workspace."
+    },
+    {
+      "source": "status",
+      "target": "statut"
+    },
+    {
+      "source": "priority",
+      "target": "priorité"
+    },
+    {
+      "source": "bucket",
+      "target": "colonne",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "cycle"
+    },
+    {
+      "source": "due date",
+      "target": "échéance"
+    },
+    {
+      "source": "Inbox",
+      "target": "Boîte de réception"
+    },
+    {
+      "source": "capture",
+      "target": "capture",
+      "note": "An item captured into the Inbox."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Capture rapide"
+    },
+    {
+      "source": "snooze",
+      "target": "reporter"
+    },
+    {
+      "source": "Someday",
+      "target": "Plus tard"
+    },
+    {
+      "source": "Active",
+      "target": "À traiter",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Classer",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Archiver"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Bureau du jour",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Assistant d'écriture"
+    },
+    {
+      "source": "skill",
+      "target": "compétence"
+    },
+    {
+      "source": "Trash",
+      "target": "Corbeille"
+    },
+    {
+      "source": "Settings",
+      "target": "Réglages"
+    },
+    {
+      "source": "license",
+      "target": "licence"
+    },
+    {
+      "source": "seat",
+      "target": "siège"
+    },
+    {
+      "source": "split pane",
+      "target": "volet partagé"
+    },
+    {
+      "source": "tab",
+      "target": "onglet"
+    },
+    {
+      "source": "sidebar",
+      "target": "barre latérale"
+    },
+    {
+      "source": "command bar",
+      "target": "barre de commandes"
+    }
+  ]
+}

@@ -1,0 +1,3158 @@
+{
+  "search.components.Settings.Tasks.TaskGeneralSettings.tasktaskslinklinksreferencechipshortlargetitleid": {
+    "message": "タスク,リンク,参照,チップ,短い,大きい,タイトル,識別子,表示名",
+    "sourceHash": "974ced497d311ce2a27de96d89ddb01fb13365b3793516463b48932460275523"
+  },
+  "search.components.Settings.settingsRegistry.about": {
+    "message": "について,情報,バージョン,概要,アプリ情報",
+    "sourceHash": "44c41b40e9d07e49ee3e32a20e7485e2676187bacaf1c994ded091e019220b70"
+  },
+  "search.components.Settings.settingsRegistry.accounts": {
+    "message": "アカウント,ログイン,サインイン,ユーザー",
+    "sourceHash": "8d7dd458f304bb971a71d11918feceec46554339dd62db34312e01c6b7832d98"
+  },
+  "search.components.Settings.settingsRegistry.ai": {
+    "message": "人工知能,エーアイ,生成AI",
+    "sourceHash": "5f53aff1400eda19feacb99b2c9a05c735645ca194eeba20fd0c3f6937e0d285"
+  },
+  "search.components.Settings.settingsRegistry.api": {
+    "message": "エーピーアイ,接続,連携,キー",
+    "sourceHash": "013e76b92bc9cccf070375569a51d5c5e88ee9093251d3f15b2485127298e14d"
+  },
+  "search.components.Settings.settingsRegistry.app": {
+    "message": "アプリ,アプリケーション,ソフト,ソフトウェア",
+    "sourceHash": "38591df34718d703fe71d27003c45bb01294d4572fc591b2a1325bfa6313f311"
+  },
+  "search.components.Settings.settingsRegistry.appearance": {
+    "message": "外観,見た目,テーマ,表示,配色,デザイン",
+    "sourceHash": "666322161fab66058835dd0c2e6974d0de6a0315907d1f69e8322f57706b2165"
+  },
+  "search.components.Settings.settingsRegistry.ask": {
+    "message": "質問,尋ねる,聞く,問い合わせ",
+    "sourceHash": "c0aa363d9786d2b68a873439129bc4be96faf345fa9855ad6a3314d8fb74d011"
+  },
+  "search.components.Settings.settingsRegistry.askOctarine": {
+    "message": "質問,尋ねる,聞く,アシスタント,チャット",
+    "sourceHash": "67ec91886f32d7c13a40c8d72f3fec7a58ed9ad6848efe0882b586a5b6089024"
+  },
+  "search.components.Settings.settingsRegistry.assistant": {
+    "message": "アシスタント,助手,補助,チャット,AI",
+    "sourceHash": "6d2270ea78519942d52fc710fd81ac67ed99661e077532f128906272ca558dc1"
+  },
+  "search.components.Settings.settingsRegistry.attachments": {
+    "message": "添付,添付ファイル,ファイル,画像",
+    "sourceHash": "2689f5ccb198c287744dc51358be1af8fc868d5d5d20fafc9df96c5f9f8ba36f"
+  },
+  "search.components.Settings.settingsRegistry.auth": {
+    "message": "認証,ログイン,サインイン,認可",
+    "sourceHash": "4f99a88db13c230a6ecab0163ee87821fef723c05598ec8d0081c47b58ff6e35"
+  },
+  "search.components.Settings.settingsRegistry.author": {
+    "message": "作成者,著者,筆者,作者",
+    "sourceHash": "88d613473edd29341baba4061b516de678c2c7c9df5903355088a50045c58c5e"
+  },
+  "search.components.Settings.settingsRegistry.autocorrect": {
+    "message": "自動修正,誤字,変換,校正,スペル",
+    "sourceHash": "8e8928c57c10b2b098076a89bb7a1ba3f4e44b9f8f8c07b2e4d84fed8b410085"
+  },
+  "search.components.Settings.settingsRegistry.backlinks": {
+    "message": "被リンク,逆リンク,リンク,参照",
+    "sourceHash": "e2d970fb04580687a9e46c129777615b025650f6fe0c841c43536a9ed9ccbf3e"
+  },
+  "search.components.Settings.settingsRegistry.behavior": {
+    "message": "動作,挙動,振る舞い,設定",
+    "sourceHash": "78b6b45c6fe2fdc55becc9a9b51e446e4790d044ae312f2e94015b0fba6c5def"
+  },
+  "search.components.Settings.settingsRegistry.browser": {
+    "message": "ブラウザ,閲覧,ウェブ,ウェブブラウザ",
+    "sourceHash": "0b1be7a23ae78db70dd78ddc6f08674d90f4a539e1a8aff5f6166e531b929649"
+  },
+  "search.components.Settings.settingsRegistry.bucket": {
+    "message": "レーン,バケット,列,分類",
+    "sourceHash": "e22bd79db4a0b0e8a07a8e90738ea9b322ecabd7802273f353e0e3da5b0f77d5"
+  },
+  "search.components.Settings.settingsRegistry.buckets": {
+    "message": "レーン,バケット,列,分類",
+    "sourceHash": "279ffc0ec3bafeacd16bbed6065987e698780152b2126d786d9fc26a726fdf9c"
+  },
+  "search.components.Settings.settingsRegistry.bug": {
+    "message": "バグ,不具合,エラー,問題,不具合報告",
+    "sourceHash": "5d6c28ab2a482c636d9f4ffc363b4e4486df330c9e2231b818a5c64489d2ff4e"
+  },
+  "search.components.Settings.settingsRegistry.cadence": {
+    "message": "頻度,周期,間隔,リズム,スケジュール",
+    "sourceHash": "7c74790cdde4fd12c8272088bd9957bee9bccb8232dd632d90bccb1faf8ce147"
+  },
+  "search.components.Settings.settingsRegistry.calendar": {
+    "message": "カレンダー,予定,日付,スケジュール",
+    "sourceHash": "1593fc2829fa0100af763c692cb1e06120204ea4390550100680088ef5cd6c4d"
+  },
+  "search.components.Settings.settingsRegistry.captions": {
+    "message": "キャプション,字幕,見出し,説明文",
+    "sourceHash": "5d654614c5a78bced452d47baedb10e997825787a2fc9cfe8f34873b1a04b165"
+  },
+  "search.components.Settings.settingsRegistry.capture": {
+    "message": "メモ,記録,キャプチャ,取り込み,クイックキャプチャ",
+    "sourceHash": "e960601ca1e3de044d251fd317d0e37b75ce5d83ba8be46fad38c8957dd33bd3"
+  },
+  "search.components.Settings.settingsRegistry.categories": {
+    "message": "カテゴリ,分類,種類,区分",
+    "sourceHash": "511a2887723e34dbbb3e7fd897ecb80961ea13485b63a72429d2cfc2b9362d7d"
+  },
+  "search.components.Settings.settingsRegistry.chatgpt": {
+    "message": "チャットジーピーティー,オープンエーアイ,生成AI,チャット",
+    "sourceHash": "0ef3edfcf868f4891527bb96ed7b4e281953f8c3f4a39cf4df893946cbff0c36"
+  },
+  "search.components.Settings.settingsRegistry.children": {
+    "message": "子,子要素,子ノート,下位,サブ",
+    "sourceHash": "acee211723e76666e00ec073b0429d2ba68a78c41d899abb55c593b20b331b1d"
+  },
+  "search.components.Settings.settingsRegistry.chip": {
+    "message": "チップ,バッジ,小さい表示,ピル",
+    "sourceHash": "b571b6d9fe0c65187510c3004f3edb6441cb49e5f4c9f51d7e71070c8257dc11"
+  },
+  "search.components.Settings.settingsRegistry.claude": {
+    "message": "クロード,アンソロピック,生成AI",
+    "sourceHash": "b654ed213f03c2b9892f1532d01ef261e25b7d550eec4cc8721bba4457078bd6"
+  },
+  "search.components.Settings.settingsRegistry.codeblock": {
+    "message": "コードブロック,コード,ソース,ブロック,プログラム",
+    "sourceHash": "8edf73898ff9c6c41f9ae918de6eaf7389d0ae1d6fc811c347faa1a4e333fd07"
+  },
+  "search.components.Settings.settingsRegistry.codex": {
+    "message": "コーデックス,コード生成,プログラミング,生成AI",
+    "sourceHash": "5549dd2a4405280ed8213b66de778ecbdbaed8f6d92a562985b87e1e600ba672"
+  },
+  "search.components.Settings.settingsRegistry.color": {
+    "message": "色,カラー,配色,色彩",
+    "sourceHash": "24abcc22adc9b73796fb9e64f4a82e64a0dbd193ce7896eae3060d93f4475991"
+  },
+  "search.components.Settings.settingsRegistry.commands": {
+    "message": "コマンド,操作,命令,実行,ショートカット",
+    "sourceHash": "0e89d10f1da38fbe951660fee7dde86e9c534a8a67637b44c1c49c101d76bbe8"
+  },
+  "search.components.Settings.settingsRegistry.comment": {
+    "message": "コメント,注釈,書き込み,メモ",
+    "sourceHash": "5d813b29dbbd06eda8d668726e56618c68ea077b961fc7a60e4586cad1159487"
+  },
+  "search.components.Settings.settingsRegistry.comments": {
+    "message": "コメント,注釈,書き込み,メモ",
+    "sourceHash": "5a0818930cfe934365660561cf8786f9eb94aef26148a72e680e778534b5cf56"
+  },
+  "search.components.Settings.settingsRegistry.commits": {
+    "message": "コミット,変更履歴,履歴,保存,記録",
+    "sourceHash": "f25d3cc08ebd7ff1154c13c818416cbb97572d39ed8c7f7f56a63a906c98f6a5"
+  },
+  "search.components.Settings.settingsRegistry.confirmation": {
+    "message": "確認,確認画面,承認,確定",
+    "sourceHash": "99131a843494278ccc46289b5eb05482fb4a9bd9fc43744ae6f02467774bc273"
+  },
+  "search.components.Settings.settingsRegistry.context": {
+    "message": "文脈,コンテキスト,背景,前後関係",
+    "sourceHash": "77ecbcb01c3f09d844180497bae435d07b488a34608c2e4c2c3dcf3586740917"
+  },
+  "search.components.Settings.settingsRegistry.control": {
+    "message": "操作,制御,コントロール,管理",
+    "sourceHash": "452f7751e84a7a37d842930005fe8e3621f00a36a8db77d50838fdc9399b0eff"
+  },
+  "search.components.Settings.settingsRegistry.count": {
+    "message": "件数,数,カウント,回数",
+    "sourceHash": "bbd6dd4507f886aca4d4938b86d3fa937af3f0beb9200878ebca0f4409d67a3e"
+  },
+  "search.components.Settings.settingsRegistry.create": {
+    "message": "作成,新規,作る,追加,新規作成",
+    "sourceHash": "cb35748efde1a4354877775b19f32699c20bb55905584bb6ac655442a098eac6"
+  },
+  "search.components.Settings.settingsRegistry.custom": {
+    "message": "カスタム,独自,ユーザー設定,個別,自由",
+    "sourceHash": "e273dcc92648b78e3bf825cf9d02dd1e4cc830e57f30ac13b60ddec5c6d3c22b"
+  },
+  "search.components.Settings.settingsRegistry.cycle": {
+    "message": "サイクル,周期,繰り返し,反復,スプリント",
+    "sourceHash": "3673532d58b9b3f50f082c4b2791f001e5041b5eee2cdd94a2c370398e16d4fb"
+  },
+  "search.components.Settings.settingsRegistry.cycles": {
+    "message": "サイクル,周期,繰り返し,反復,スプリント",
+    "sourceHash": "4e98e476958b66cfe0bd8aecf56977ff85d695345372f1c18c81e916e2f60724"
+  },
+  "search.components.Settings.settingsRegistry.daily": {
+    "message": "デイリー,毎日,日次,日々,日記",
+    "sourceHash": "6816883ce6f4f5b875617a544a701ce2a3a1d939b458cfc6f78243912be23aa3"
+  },
+  "search.components.Settings.settingsRegistry.danger": {
+    "message": "危険,危険領域,警告,注意,取り消し不可",
+    "sourceHash": "fc8e5574a76db91341e569e948167b5d84d0f0d78fdf526542cffc69f5e67fdb"
+  },
+  "search.components.Settings.settingsRegistry.date": {
+    "message": "日付,日,期日,年月日,時刻",
+    "sourceHash": "504494c052959fbc1ec876cb84e74116614362ca279e1c825ca602c1f940c30d"
+  },
+  "search.components.Settings.settingsRegistry.default": {
+    "message": "初期値,デフォルト,既定,標準,規定",
+    "sourceHash": "3ad04bb8e2e3b1a9d1e59f33f5a77afbfd2b9f971327c137c13e855f1ae4e18d"
+  },
+  "search.components.Settings.settingsRegistry.delete": {
+    "message": "削除,消去,除去,取り除く",
+    "sourceHash": "650baedbafeb5db5f00238eab7c5317f996e0f3be38a00b16a8f318e145273b6"
+  },
+  "search.components.Settings.settingsRegistry.deleting": {
+    "message": "削除中,削除,消去,除去",
+    "sourceHash": "6bc5ad6ef63d92606b32e9b80ac1c3a9ecfa67f2c34f67d337be2e8c5745f10f"
+  },
+  "search.components.Settings.settingsRegistry.design": {
+    "message": "デザイン,設計,意匠,レイアウト",
+    "sourceHash": "fc78b78f6a3671df90a4294c9e02dc31039fea8be7ff22ba80b186ed7d996054"
+  },
+  "search.components.Settings.settingsRegistry.dimming": {
+    "message": "減光,暗く,暗さ,調光,薄暗く,暗転",
+    "sourceHash": "7db8eae2ac375557831842d291f1af31a08f6d8a2c89c972e52175a13bf8f54d"
+  },
+  "search.components.Settings.settingsRegistry.directories": {
+    "message": "ディレクトリ,フォルダ,フォルダー,保存先,場所",
+    "sourceHash": "8285078b9e4c4bcbce8196a2fc6a754e2e38ece68a29e4add70aa9c74cc1b067"
+  },
+  "search.components.Settings.settingsRegistry.directory": {
+    "message": "ディレクトリ,フォルダ,フォルダー,保存先,場所",
+    "sourceHash": "a0e4b4fe7d3fec116183ac99b3c97395ca50902ad7f19ac9ce13c6afaad3a5ec"
+  },
+  "search.components.Settings.settingsRegistry.dot": {
+    "message": "ドット,点,ピリオド,隠し",
+    "sourceHash": "1c8d042e0cd02ea6cb8ddb3566803390bdeadec306830361d50f1fd13bcd195c"
+  },
+  "search.components.Settings.settingsRegistry.dotfolders": {
+    "message": "ドットフォルダ,隠しフォルダ,隠し,ドット,フォルダ",
+    "sourceHash": "adf1efc8a37b8321a8420347c572739ae192884c425967e8b38ac3cb4311db56"
+  },
+  "search.components.Settings.settingsRegistry.editor": {
+    "message": "エディタ,編集,編集画面,テキストエディタ",
+    "sourceHash": "7e6b14bbe351c7de856b28b1eb150b18908cc330fadefa5b0b3c6695210b6560"
+  },
+  "search.components.Settings.settingsRegistry.extensions": {
+    "message": "拡張機能,拡張,プラグイン,アドオン,機能追加",
+    "sourceHash": "f28a2699fd44cda0c2bf82641778ecea4389f0f30b75c0c751c047ee4114dccf"
+  },
+  "search.components.Settings.settingsRegistry.external": {
+    "message": "外部,外部連携,外部アプリ,別,外部ファイル",
+    "sourceHash": "be5d24da0dd8b9b77b99dcb0502ede8ec4ca059b66cb16a680cc2e01207fb975"
+  },
+  "search.components.Settings.settingsRegistry.feature": {
+    "message": "機能,特徴,特集,新機能",
+    "sourceHash": "e62e93531eee9bafe3ad0f027ef0f62bd1408aef6ad46f3343cdb498939cd431"
+  },
+  "search.components.Settings.settingsRegistry.file": {
+    "message": "ファイル,書類,ドキュメント",
+    "sourceHash": "255044ace084241410dd9e8f0fdc5142e526c5720b3b517e61a156d3840af408"
+  },
+  "search.components.Settings.settingsRegistry.filename": {
+    "message": "ファイル名,名前,ネーミング",
+    "sourceHash": "795e169331c1cf6838f23a4c0cd1a2dd9836c0c61aaf84bb963d861cdcdb0eed"
+  },
+  "search.components.Settings.settingsRegistry.files": {
+    "message": "ファイル,書類,ドキュメント",
+    "sourceHash": "c9758fc206a065200c6177111d42d03a4b1d01bdb9a3da051c751b1beb5e1665"
+  },
+  "search.components.Settings.settingsRegistry.focus": {
+    "message": "集中,集中モード,没頭,作業モード",
+    "sourceHash": "7300fe12fcc8c116d824c6fab10dd85dd23f67f572921a996140c198adb66876"
+  },
+  "search.components.Settings.settingsRegistry.folder": {
+    "message": "フォルダ,ディレクトリ,保存先",
+    "sourceHash": "085af166270680a94f2eea647c4e21c6a1b7c42f2e8a9fe8022aaf2179e4220f"
+  },
+  "search.components.Settings.settingsRegistry.folders": {
+    "message": "フォルダ,ディレクトリ,保存先",
+    "sourceHash": "2ac3cb63ee1752d6dbca6485711e209352f7ee745670b6b3e08af3ca06d7c468"
+  },
+  "search.components.Settings.settingsRegistry.font": {
+    "message": "フォント,書体,字体,文字",
+    "sourceHash": "a96f19a7b5abbdd94d65cad947eea659c593d0500420b6e0fd0dcd703f014a19"
+  },
+  "search.components.Settings.settingsRegistry.format": {
+    "message": "書式,形式,整形,体裁",
+    "sourceHash": "2ab221f4a10cc6e9aa44dcf86d3dc1ec3067d9c56d69e8ba6911d69ce90334db"
+  },
+  "search.components.Settings.settingsRegistry.frontmatter": {
+    "message": "フロントマター,先頭情報,メタデータ,ヘッダー",
+    "sourceHash": "f557e494588c7796637a0be5fff13c66df712f0145f44c6d6a241e4af38a6f8a"
+  },
+  "search.components.Settings.settingsRegistry.general": {
+    "message": "一般,全般,基本,標準",
+    "sourceHash": "60935ca695400795929f188af80bb5a195c6bc0361f9c813d0ec5e8eb1b375c0"
+  },
+  "search.components.Settings.settingsRegistry.git": {
+    "message": "バージョン管理,ギット,履歴,バージョン",
+    "sourceHash": "830ac323da525497f116a8065e9049f5ff850744291ee55f6adb2e3da2732d3f"
+  },
+  "search.components.Settings.settingsRegistry.github": {
+    "message": "ギットハブ,連携,リポジトリ,同期",
+    "sourceHash": "3d13ca66b544a15247ff136bfd74652f8520b30a9ac4781b2812a071905784b0"
+  },
+  "search.components.Settings.settingsRegistry.gitignore": {
+    "message": "除外,除外設定,無視リスト,無視ファイル",
+    "sourceHash": "573b89c72703cc73c85a7d903ec922e7f6a0d9b6617a403b447ada55594eb72a"
+  },
+  "search.components.Settings.settingsRegistry.global": {
+    "message": "全体,グローバル,全般,共通",
+    "sourceHash": "885f04c2fbcf5b448553c99cb6e4502ca6784605457d02dc7181d95a54ac4988"
+  },
+  "search.components.Settings.settingsRegistry.heading": {
+    "message": "見出し,ヘッダー,タイトル,章",
+    "sourceHash": "de27c3eece8b99c2f7f1ede36c8e8d6d6b9492001aec57ac7693655324f07743"
+  },
+  "search.components.Settings.settingsRegistry.highlight": {
+    "message": "ハイライト,強調,強調表示,マーカー",
+    "sourceHash": "d5c4e6c7f2cf9981d19447c50dabcd7f8571b129d77963ce7c1c9d60fb7f2d4e"
+  },
+  "search.components.Settings.settingsRegistry.id": {
+    "message": "識別子,ID,番号",
+    "sourceHash": "3f139807ebb3a27504ad059a094ccb90c8bb9c321ce1c891d973d3962e2aecd0"
+  },
+  "search.components.Settings.settingsRegistry.identifier": {
+    "message": "識別子,ID,識別番号",
+    "sourceHash": "d03dc7da0019187abf620dc4637a537cb9f5af30c8254a88d91e75f7df38fa48"
+  },
+  "search.components.Settings.settingsRegistry.ids": {
+    "message": "識別子,ID,識別番号",
+    "sourceHash": "a14cff059d317fedaba5e23ad2b028617653ea823fa437020da1b4c2eb7547f8"
+  },
+  "search.components.Settings.settingsRegistry.ignore": {
+    "message": "無視,除外,無視する,除外する",
+    "sourceHash": "1bed22fb4fc9646dac2cae94bb70a28fb7de106d43ff55197ff639fb7d4b49e3"
+  },
+  "search.components.Settings.settingsRegistry.ignored": {
+    "message": "無視,除外,無視リスト",
+    "sourceHash": "e994ab5e40dac4932a297e698ef68b9e74e07809810415fbb3616bed73bcb64b"
+  },
+  "search.components.Settings.settingsRegistry.image": {
+    "message": "画像,イメージ,写真,図",
+    "sourceHash": "29947dad6495628d6e424f0abd98943a2db1ceac011a652f93f36c528b46062d"
+  },
+  "search.components.Settings.settingsRegistry.import": {
+    "message": "インポート,取り込み,読み込み,移行",
+    "sourceHash": "9f83397c027e372682cfd2ec553a8162054bf8a373b4e1cba985ab5c928834ec"
+  },
+  "search.components.Settings.settingsRegistry.inbox": {
+    "message": "受信箱,インボックス,メモ,未処理",
+    "sourceHash": "4107a04916c22614f3a86701156cf8ca9ee8fadad7a5f79637d1ecf4ac5d3aef"
+  },
+  "search.components.Settings.settingsRegistry.index": {
+    "message": "索引,インデックス,検索インデックス,再構築",
+    "sourceHash": "d70a012b84894c1848efc87d4e7e5cd71ee045ebf51312f88a95b70addfad65c"
+  },
+  "search.components.Settings.settingsRegistry.info": {
+    "message": "情報,詳細,概要,バージョン情報",
+    "sourceHash": "fc1229526b7390a50fa259fa321d52724f7742506621e406521dca48842d3433"
+  },
+  "search.components.Settings.settingsRegistry.information": {
+    "message": "情報,詳細,概要",
+    "sourceHash": "673deb1ff6f9b41787ef28e734479b4468eb2d7d10eac8998809205becef16f9"
+  },
+  "search.components.Settings.settingsRegistry.instructions": {
+    "message": "手順,説明,使い方,ガイド,マニュアル",
+    "sourceHash": "dc9fdc517f41d396f6161543a174d311e9f5457ca11cf97bea959e7e39ca68b2"
+  },
+  "search.components.Settings.settingsRegistry.integrations": {
+    "message": "連携,統合,外部連携,サービス連携",
+    "sourceHash": "0f0dac9e0968dc485944a054308c3a91f9c69c01cbc59fc7dae8597dc0396d2b"
+  },
+  "search.components.Settings.settingsRegistry.interface": {
+    "message": "インターフェース,画面,外観,見た目,表示",
+    "sourceHash": "cb48a8e860593d85dad19405f9b54e6b645f900c46d70ffce44e4c53a8b31576"
+  },
+  "search.components.Settings.settingsRegistry.key": {
+    "message": "キー,鍵,ショートカット,APIキー",
+    "sourceHash": "bd04715acd1a0984b34e1aea757b6d828865c57feadcd233a86e25370ceee26e"
+  },
+  "search.components.Settings.settingsRegistry.kind": {
+    "message": "種類,タイプ,区分",
+    "sourceHash": "f4169c4fbee4f6d3f9d61ebaa1d6e47fb947a627ead6607a610e5986d2dbcb83"
+  },
+  "search.components.Settings.settingsRegistry.label": {
+    "message": "ラベル,分類,印",
+    "sourceHash": "6b54b5c1e154400ea1445b58394f270eee19bdb80f1cbae555b672c1800d8717"
+  },
+  "search.components.Settings.settingsRegistry.labels": {
+    "message": "ラベル,分類,印",
+    "sourceHash": "653d02707b2124011d1a0daa48c67280181cd947a00c73bddc8c8c19b1a527bf"
+  },
+  "search.components.Settings.settingsRegistry.lanes": {
+    "message": "レーン,列,ボード,カラム",
+    "sourceHash": "36c751d78d96be9914fbc9b19552ad47574efa6c3b19698ca036f483d7ee6170"
+  },
+  "search.components.Settings.settingsRegistry.large": {
+    "message": "大,大きい,大型,拡大",
+    "sourceHash": "4e8c14509f291b6889b6695dfc6969e5bf02960321ab24a51cce9e3d7db945f6"
+  },
+  "search.components.Settings.settingsRegistry.later": {
+    "message": "あとで,後で,延期,保留",
+    "sourceHash": "ded60f2e6d4870a5ed662180da073e1df4834ec601036969359aee9f5e1efe34"
+  },
+  "search.components.Settings.settingsRegistry.license": {
+    "message": "ライセンス,認証,利用権,契約",
+    "sourceHash": "21c1187bf9216c043b7e212d7147dcf193b98e711108110fdae89e0c02b10428"
+  },
+  "search.components.Settings.settingsRegistry.linear": {
+    "message": "リニア,直線,線形",
+    "sourceHash": "4e23252d90938b4ad85976c756af427e54b88b1b567d4216ec8ffa25509e9d92"
+  },
+  "search.components.Settings.settingsRegistry.links": {
+    "message": "リンク,リンク先,つながり,参照,接続,バックリンク",
+    "sourceHash": "71459db90007676f237c4ac65bef378a8ae8b4cfb0feb282f13ffb8f61ec29e3"
+  },
+  "search.components.Settings.settingsRegistry.login": {
+    "message": "ログイン,サインイン,認証,ログオン",
+    "sourceHash": "c21743bd0dcbc0c9aae2718024aaf2a9382b2e3cafa145693b3c82497c265fcd"
+  },
+  "search.components.Settings.settingsRegistry.math": {
+    "message": "数式,数学,計算,方程式",
+    "sourceHash": "371f2078d45d72f4bec7027c356323892f34f24991146b12a8f337d18ca40ca7"
+  },
+  "search.components.Settings.settingsRegistry.mcp": {
+    "message": "連携,サーバー,プロトコル,拡張機能",
+    "sourceHash": "ed5210edd0a7519ee71a35e1bf0ba4551a92f58d41097ffd7968b88a2098ff8a"
+  },
+  "search.components.Settings.settingsRegistry.metadata": {
+    "message": "メタデータ,プロパティ,属性,付随情報,フロントマター",
+    "sourceHash": "29abc01918944dbb1fae91b89a96e7b99fa99a6570ba248d09d690ccb5411e70"
+  },
+  "search.components.Settings.settingsRegistry.modified": {
+    "message": "変更,更新,編集,修正,変更日時",
+    "sourceHash": "a8d6a4aee5edec7497615ed49b9f94226c40e0cb7fad27d955ecbda8736100e9"
+  },
+  "search.components.Settings.settingsRegistry.modifier": {
+    "message": "修飾キー,修飾,キー,ショートカット",
+    "sourceHash": "901454508ccb477591d3c74c25d8cbae1a768a0892c97f6ea7d62a5d1582c984"
+  },
+  "search.components.Settings.settingsRegistry.name": {
+    "message": "名前,名称,呼び名,表示名",
+    "sourceHash": "7d83d11fc323bd20e38529f08de9c8a7a609094903fd239e9709b1817cc3ecf3"
+  },
+  "search.components.Settings.settingsRegistry.naming": {
+    "message": "命名,名前,名付け,命名規則,ファイル名",
+    "sourceHash": "8dcd3078e5736d6a82143337a05be467bd02240741902893cd508ee419659d1b"
+  },
+  "search.components.Settings.settingsRegistry.note": {
+    "message": "ノート,メモ,記録,文書",
+    "sourceHash": "4c7f112216eab642d6b7af15664e3067250cb8b107955158808abc93a1371ba9"
+  },
+  "search.components.Settings.settingsRegistry.noteTypes": {
+    "message": "ノートタイプ,テンプレート,雛形,種類,タイプ",
+    "sourceHash": "747c115e1a0b695a8e6f1ede2394307ae6fd1c4e7dd562746c18c9f1d3bb481c"
+  },
+  "search.components.Settings.settingsRegistry.notes": {
+    "message": "ノート,メモ,記録,文書",
+    "sourceHash": "2dce130241e6f93a0b25c0065ea47ea5151e8ca39e50c476f077100ae76e83bd"
+  },
+  "search.components.Settings.settingsRegistry.notion": {
+    "message": "ノーション,ノートアプリ,移行",
+    "sourceHash": "f8eb4f414b678ff3a0695d87b5b111c99690ff5b02fe918405a71ac21e1815c5"
+  },
+  "search.components.Settings.settingsRegistry.numbers": {
+    "message": "数字,番号,数値,連番",
+    "sourceHash": "323415acb3540f5daa7017136029f7b3751dee348872ae40030d841f9aa26657"
+  },
+  "search.components.Settings.settingsRegistry.octarine": {
+    "message": "アプリ,バージョン,情報,このアプリについて",
+    "sourceHash": "6525990e492d7068f5f41f799b6500cba51bd1febbd1ab71421a0b83432bb7be"
+  },
+  "search.components.Settings.settingsRegistry.ollama": {
+    "message": "ローカル AI,ローカルモデル,ローカル実行",
+    "sourceHash": "a983487c8a9bec6d5626cfe7dcad85f8d22528ee1fecaa5e428b886f47a9e504"
+  },
+  "search.components.Settings.settingsRegistry.openai": {
+    "message": "AI,チャット,言語モデル",
+    "sourceHash": "cdebda2c723bbc5095e0fabdc2f3ab2a3f40497f943cc3d4138700e8bfd56327"
+  },
+  "search.components.Settings.settingsRegistry.organization": {
+    "message": "組織,団体,会社,チーム,組織設定",
+    "sourceHash": "0c53d4abd8565812482b37565b2fa01662e036e6bd864daecebd3e37e785fcac"
+  },
+  "search.components.Settings.settingsRegistry.palette": {
+    "message": "コマンドバー,コマンド,色,カラー",
+    "sourceHash": "cc85351e59989301afe11b6e40881ac1b668be4f7ed4d7f10fcc6aa149937e45"
+  },
+  "search.components.Settings.settingsRegistry.paper": {
+    "message": "用紙,紙,印刷,ページサイズ",
+    "sourceHash": "db8ba49c2a480f4d96bea9648d795e1354cccabc1e6a771a45c624b40ab2f2dc"
+  },
+  "search.components.Settings.settingsRegistry.path": {
+    "message": "パス,経路,場所,保存先,ファイルパス",
+    "sourceHash": "a130668a749008ad50fa412b67627d57704ae80f1d70172b68b5b0c2d2567ca9"
+  },
+  "search.components.Settings.settingsRegistry.personalize": {
+    "message": "カスタマイズ,個人化,見た目,表示設定,個人設定",
+    "sourceHash": "68270410745c25f8b435e4d23831f2679f4c7d786e92c27baa2eb2d85d2f3af0"
+  },
+  "search.components.Settings.settingsRegistry.preferences": {
+    "message": "環境設定,基本設定,設定,好み,オプション",
+    "sourceHash": "bf337b3957b6e3327c9aa7bb2862aacbfadb787709c05ee404ef26b90f596006"
+  },
+  "search.components.Settings.settingsRegistry.prefix": {
+    "message": "接頭辞,接頭語,プレフィックス,先頭文字,前置詞",
+    "sourceHash": "633f148d742d24fa9cee0d127db9f728500dc22c6bf38c370b468bea8c3ae1cd"
+  },
+  "search.components.Settings.settingsRegistry.premium": {
+    "message": "プレミアム,有料,有料プラン,課金,上位プラン",
+    "sourceHash": "f2c51e1fd7f3c0d40351f6895dcb2ec9d64b8b234a32897932b14379837f23a0"
+  },
+  "search.components.Settings.settingsRegistry.presets": {
+    "message": "プリセット,初期設定,既定値,テンプレート設定,設定の組み合わせ",
+    "sourceHash": "c9555326767df782a7c44a8643aa2d4e212582207ee2aa8bc90fb091219e6061"
+  },
+  "search.components.Settings.settingsRegistry.pro": {
+    "message": "有料プラン,有料,課金,上位プラン,サブスクリプション",
+    "sourceHash": "fd89955fd08f8ea3c56e64bd7268de36451c2de6b4f0dcb216f4a80ecd40e41d"
+  },
+  "search.components.Settings.settingsRegistry.prompts": {
+    "message": "プロンプト,指示文,命令文,AI への指示,指示",
+    "sourceHash": "8b649a3cc385719e903219c4a490a5c467e5e916c5df00ece6fdb48b957b28cb"
+  },
+  "search.components.Settings.settingsRegistry.properties": {
+    "message": "プロパティ,属性,項目,フィールド,メタデータ",
+    "sourceHash": "a1bf9c75539616b887868dd91ebe295f3c66a6e027fab6434db0ba98543e6f5b"
+  },
+  "search.components.Settings.settingsRegistry.providers": {
+    "message": "プロバイダ,提供元,AI プロバイダ,接続先,サービス",
+    "sourceHash": "0cb78cb359560ea7265559dc98d6be2151b1b9ce4cd5a7a0b804c5ff00956320"
+  },
+  "search.components.Settings.settingsRegistry.public": {
+    "message": "公開,公開設定,一般公開,共有,誰でも閲覧可能",
+    "sourceHash": "eb7529d18a43951a2766cccd5d28a6e52636f7076b18e4c149b62fab7a5c1bfd"
+  },
+  "search.components.Settings.settingsRegistry.publish": {
+    "message": "公開,発行,公開する,出版,配信",
+    "sourceHash": "a8f9da48a540998bef7ff7dd521ae9c851e8bcce6536297e014fc72a3d85e273"
+  },
+  "search.components.Settings.settingsRegistry.quickCapture": {
+    "message": "クイックキャプチャ,メモ,素早い記録,即メモ,受信箱",
+    "sourceHash": "f0f319f97b81eae0c03b1fae086eae2898be0c499a9401b6b66ec771cbabe1ed"
+  },
+  "search.components.Settings.settingsRegistry.reference": {
+    "message": "参照,参考,リファレンス,引用,参照先",
+    "sourceHash": "15721f70ae9579e72fe83d5ff775c121bca23609ad88b6cc67b0f700cd06a2a6"
+  },
+  "search.components.Settings.settingsRegistry.remove": {
+    "message": "削除,取り除く,消去,除去,外す",
+    "sourceHash": "34c079baf3bede60473e0f16595eb18e59ccc2abf6d3e0994c477452941ebc6d"
+  },
+  "search.components.Settings.settingsRegistry.reset": {
+    "message": "リセット,初期化,元に戻す,既定値に戻す,復元",
+    "sourceHash": "8df46b89708f67375af46eef8922efe3e7f230b1ae3b3e6a32b904b7711ccf47"
+  },
+  "search.components.Settings.settingsRegistry.root": {
+    "message": "ルート,根,大元,親フォルダ,ルートフォルダ",
+    "sourceHash": "04766c07bf92da3ffea16ccef883d6e6b5e4e9a283fd6c5d669dd8f7d522b122"
+  },
+  "search.components.Settings.settingsRegistry.rules": {
+    "message": "ルール,規則,自動化,条件,決まり",
+    "sourceHash": "58218e28318dbefa1210988a2fd4b4d9b29c1940c7035a3d320a5e9afe9590ca"
+  },
+  "search.components.Settings.settingsRegistry.schema": {
+    "message": "スキーマ,構造,定義,データ構造,書式",
+    "sourceHash": "8637c59e5fe9f631e58ccc6be41c7097943b0e0e0f2b426df42cc8bd8e6e7f35"
+  },
+  "search.components.Settings.settingsRegistry.seat": {
+    "message": "シート,座席,ライセンス枠,利用枠,ユーザー枠",
+    "sourceHash": "be92a809ab7e5c92cfb0f73919990c07a213a6e0f458f9a766984de6ca6235ae"
+  },
+  "search.components.Settings.settingsRegistry.send": {
+    "message": "送信,送る,転送,投稿,送付",
+    "sourceHash": "40f8ccc4395762124621179990ccfa171e1afccd525419b2de07af382cb5e7f4"
+  },
+  "search.components.Settings.settingsRegistry.settings": {
+    "message": "設定,環境設定,オプション,構成,初期設定",
+    "sourceHash": "fbdd1239ec12599276ae2751b20910d3ce188e178d358748e73123511cd0a107"
+  },
+  "search.components.Settings.settingsRegistry.sharing": {
+    "message": "共有,共有設定,公開,送信,共同編集",
+    "sourceHash": "05fb6d3f120206df98be660da38b76816403478e8c886c469cde95af5e449e53"
+  },
+  "search.components.Settings.settingsRegistry.short": {
+    "message": "短い,略,短縮,省略,簡単",
+    "sourceHash": "7d4fd0dfa28cf95968ae333a0022b355de058bcc6c7d09a3df8738015933e525"
+  },
+  "search.components.Settings.settingsRegistry.shortcut": {
+    "message": "ショートカット,キーボードショートカット,近道,キー操作,短縮キー",
+    "sourceHash": "864be66a91f1a3f887defd12bbd004cbed2211221502264c5c4f5a1deb5f8380"
+  },
+  "search.components.Settings.settingsRegistry.shortcuts": {
+    "message": "ショートカット,キーボードショートカット,キー操作,短縮キー,近道",
+    "sourceHash": "9aabee9174ac87698d7a506bc71e9c41422fae324e7b99ad6c13a92eaf0bf70b"
+  },
+  "search.components.Settings.settingsRegistry.skills": {
+    "message": "スキル,能力,技能,AI スキル,機能",
+    "sourceHash": "2aafc8ace77c630b376c85c1817915b4d831051e31b7b34603edd39dab5f08f4"
+  },
+  "search.components.Settings.settingsRegistry.slash": {
+    "message": "スラッシュ,スラッシュコマンド,斜線,記号,コマンド入力",
+    "sourceHash": "08c17a3efeba629f4405f47a09e03e3030117367bfecc5edf45a6b1c9ca7a89e"
+  },
+  "search.components.Settings.settingsRegistry.spellcheck": {
+    "message": "スペルチェック,綴り,誤字,校正,誤字脱字",
+    "sourceHash": "91ea0d4d72a61ba87d747d74d9b81e008548d6ad67856d87d2b5857926355bae"
+  },
+  "search.components.Settings.settingsRegistry.sprint": {
+    "message": "スプリント,短期間,反復,サイクル,作業期間",
+    "sourceHash": "b31d4792576fe2ae420fb20572938866ac31588f999cc68fe81aca88da2cef6f"
+  },
+  "search.components.Settings.settingsRegistry.status": {
+    "message": "ステータス,状態,進捗,状況,進行状況",
+    "sourceHash": "42972ede172c38ea60ef993dcfd732e91cb4b319ff33c543c5a8d0ba9c174dfa"
+  },
+  "search.components.Settings.settingsRegistry.statuses": {
+    "message": "ステータス,状態,進捗,状況,進行状況",
+    "sourceHash": "22f4a1d0a3a431db6e60d3f8e13aead93d2d0eef395a34711def2060dff2cf37"
+  },
+  "search.components.Settings.settingsRegistry.subscription": {
+    "message": "サブスクリプション,契約,購読,課金,プラン",
+    "sourceHash": "ae4b3e9371a23dda8a4379e5573276f97aa70acc7a84c3a1a45865fb42b28584"
+  },
+  "search.components.Settings.settingsRegistry.subtasks": {
+    "message": "サブタスク,小タスク,子タスク,下位タスク,細分化",
+    "sourceHash": "c648bf5cb12ab3fdff398f088f505d64a6880db7893e29cfb1d20bcccf09a993"
+  },
+  "search.components.Settings.settingsRegistry.sync": {
+    "message": "同期,同期設定,同期する,自動同期,連携",
+    "sourceHash": "db9da923d145b638311bafac81923d80b28d8ae919d137db5b5dd8a04394a0ed"
+  },
+  "search.components.Settings.settingsRegistry.system": {
+    "message": "システム,端末,標準,既定,端末設定",
+    "sourceHash": "a772e886050a76d7f8e224975f4069a63a72efeb622d19d1b74eaedb298790b0"
+  },
+  "search.components.Settings.settingsRegistry.tags": {
+    "message": "タグ,付箋,分類,ラベル,キーワード",
+    "sourceHash": "6011b90bace6a38424c0a9ba32914c623c0e98d25ac0879b0fe9b4dacfce8a1e"
+  },
+  "search.components.Settings.settingsRegistry.taskLinks": {
+    "message": "タスクリンク,関連タスク,タスクの関連,依存関係,タスクの紐付け",
+    "sourceHash": "9d76a51b9accff5bccc73e0d3428c561c8b7bff5f58cf9f02d87a48d6fdb7b51"
+  },
+  "search.components.Settings.settingsRegistry.tasks": {
+    "message": "タスク,やること,作業,課題,予定",
+    "sourceHash": "e3086cee49f692d4c7f5a71a7b4a73deeead5fde7a2f26013049c3d2faa309f4"
+  },
+  "search.components.Settings.settingsRegistry.team": {
+    "message": "チーム,共同作業,組織,メンバー,グループ",
+    "sourceHash": "f4015c9d9f140d4bdd6036900f035b4792d6c4d3eea188b034a1e801d6546b01"
+  },
+  "search.components.Settings.settingsRegistry.template": {
+    "message": "テンプレート,ひな形,雛形,定型文,型",
+    "sourceHash": "69a5ed6507f2b73a14cab400115ba0020902250a9da205b27d0b24b38f40f195"
+  },
+  "search.components.Settings.settingsRegistry.templates": {
+    "message": "テンプレート,ひな形,雛形,定型文,型",
+    "sourceHash": "b94d395bb8a19e064a1f6c943e02247c474936f396ac1b652dfbf8a474ac9e20"
+  },
+  "search.components.Settings.settingsRegistry.theme": {
+    "message": "テーマ,配色,外観,色合い,ダークモード",
+    "sourceHash": "4a604f3ebe130d4d99dad1f6300df4736263efeb0e689438cdbddd52685a5594"
+  },
+  "search.components.Settings.settingsRegistry.time": {
+    "message": "時間,時刻,時計,所要時間,日時",
+    "sourceHash": "a85354c17ccda97b03b4346b81d60c103025a8652df0e0b47185a5888538c3be"
+  },
+  "search.components.Settings.settingsRegistry.timestamp": {
+    "message": "タイムスタンプ,日時,時刻,更新日時,記録時刻",
+    "sourceHash": "e6da8a307a81184174d90e9a499b13fbdc420b8a17ee2c0cbb69bd3f59dc5cfe"
+  },
+  "search.components.Settings.settingsRegistry.title": {
+    "message": "タイトル,見出し,題名,名前,表題",
+    "sourceHash": "fa38f4ba7ab5519036186f98fc9456ba1978de65efb2339b625a4c5fcd383522"
+  },
+  "search.components.Settings.settingsRegistry.tools": {
+    "message": "ツール,道具,機能,補助機能,ユーティリティ",
+    "sourceHash": "a8e2230aecc808e9eabd526dd714368416e56f8b82f471eb4a6847ea2683940c"
+  },
+  "search.components.Settings.settingsRegistry.triage": {
+    "message": "振り分け,仕分け,整理,受信箱,未処理",
+    "sourceHash": "95504c7e404474d0f4f1ba61e8b7ee482afee641e6b006a4f557b3ed760c7012"
+  },
+  "search.components.Settings.settingsRegistry.type": {
+    "message": "タイプ,種類,型,ノートタイプ,分類",
+    "sourceHash": "afbe680ab8ebc455da65f3cd89feb8d829c469bbd7d4ac03e96ff1b7e8d77dbf"
+  },
+  "search.components.Settings.settingsRegistry.types": {
+    "message": "タイプ,種類,型,ノートタイプ,分類",
+    "sourceHash": "cf7ce83d59aa912bf22c9ca98e1e54260391f212fb696e5f5aa0a3e43800b4c9"
+  },
+  "search.components.Settings.settingsRegistry.typography": {
+    "message": "書体,フォント,文字組み,字体,文字の見た目",
+    "sourceHash": "d1d871173432d6682ec1960b229cd4894256ebdd4f1e088f758b8179f4b5b342"
+  },
+  "search.components.Settings.settingsRegistry.unique": {
+    "message": "一意,ユニーク,重複なし,固有,唯一",
+    "sourceHash": "7a0de591d6cc206d2a85d8d185dd653c2819770bc064ce2524867e02e14b6933"
+  },
+  "search.components.Settings.settingsRegistry.upgrade": {
+    "message": "アップグレード,更新,有料化,乗り換え,プラン変更",
+    "sourceHash": "0afb5097cb3d6c8db68bc4ce709bc41e45a5346f7e54ee4b489534ce3441c625"
+  },
+  "search.components.Settings.settingsRegistry.version": {
+    "message": "バージョン,版,更新情報,リビジョン,更新履歴",
+    "sourceHash": "98e1b35b2c14113f6e8a6282349ac116c773c06c8f6a98672d6ec237f0f08614"
+  },
+  "search.components.Settings.settingsRegistry.week": {
+    "message": "週,週間,ウィークリー,週次,一週間",
+    "sourceHash": "323239b31bd942adbbbcf81139c64d29e2cd640600bd1db2dc48ca93d7c5b570"
+  },
+  "search.components.Settings.settingsRegistry.weeks": {
+    "message": "週,週間,ウィークリー,週次,数週間",
+    "sourceHash": "ad5cc8b6403f983a3b8ac888f36d6e5a699c14c3e537a8e089eaaa3d5fa0c815"
+  },
+  "search.components.Settings.settingsRegistry.width": {
+    "message": "幅,横幅,表示幅,広さ,サイズ",
+    "sourceHash": "bfaf114f883de69b02c7ab4196398fea1a16a51aad03f01708cc1f82251bdb77"
+  },
+  "search.components.Settings.settingsRegistry.wikilink": {
+    "message": "内部リンク,リンク,角括弧リンク,ノートリンク,双方向リンク",
+    "sourceHash": "992c26583560991bbf45d2255adddbca7a957c0f5a210705b48cee640c0f8dfb"
+  },
+  "search.components.Settings.settingsRegistry.window": {
+    "message": "ウィンドウ,画面,窓,ペイン,表示領域",
+    "sourceHash": "34054eccd98c5fdc5c922e40947dc202b9368343c1f3fccb617108ccd75cb648"
+  },
+  "search.components.Settings.settingsRegistry.workflow": {
+    "message": "ワークフロー,作業の流れ,手順,業務フロー,処理手順",
+    "sourceHash": "fce3b15e7d98981804aa2d7b41d9b30bfc354b4290b7977e9464f2111fd927ac"
+  },
+  "search.components.Settings.settingsRegistry.workspace": {
+    "message": "ワークスペース,作業領域,作業環境,作業空間,プロジェクト空間",
+    "sourceHash": "cf3bff0f04a54065be63c9c0e47a0dd65626c1d41ab1bf338a68a001281c7e21"
+  },
+  "search.components.Settings.settingsRegistry.yaml": {
+    "message": "フロントマター, メタデータ, 設定ファイル, 書式",
+    "sourceHash": "ae099cfba61019f61dd9257d55cb3269cc1351865a4d04223dbcb55d2c2a7409"
+  },
+  "search.components.Settings.settingsSearch.24HourTime": {
+    "message": "24 時間表記, 24 時間制, 時刻表示",
+    "sourceHash": "2d497621887b370dc708b0172c8a7b874a23fd8fca1771ca63804dd5e6b3bc5e"
+  },
+  "search.components.Settings.settingsSearch.24hourTimeFormat": {
+    "message": "24 時間表記, 時刻形式, 時間の表示形式",
+    "sourceHash": "e919ce1d38266d6ddd2be940c09ebe4b8941b5c10835225c946d8a5afe1e5334"
+  },
+  "search.components.Settings.settingsSearch.aIAssistant": {
+    "message": "AI アシスタント",
+    "sourceHash": "beb3cba1ed13f0665c3d977792bb0ed1f0f847b8bdd75798749558707e71dfe1"
+  },
+  "search.components.Settings.settingsSearch.about": {
+    "message": "について, バージョン情報, 概要, アプリ情報",
+    "sourceHash": "e4656ea333c21c40e34060317be61f01cad30d3133162b054bffc39ad3b060fb"
+  },
+  "search.components.Settings.settingsSearch.account": {
+    "message": "アカウント, ユーザー, 会員情報",
+    "sourceHash": "c34b304483774f0f448d9ece14fd08f7698327a69830af2fd16cc5cb1b12aaf4"
+  },
+  "search.components.Settings.settingsSearch.accounts": {
+    "message": "アカウント, ユーザー, ログイン, 会員情報",
+    "sourceHash": "0270c21a2e29a7bc5a1cdb97230065f49bc7633baf5db8748b6797bbb02abd9b"
+  },
+  "search.components.Settings.settingsSearch.activateLicense": {
+    "message": "ライセンス有効化, ライセンス認証, 認証, アクティベーション",
+    "sourceHash": "05c0cb8090be836c68a69afc2bf14e0ecf42d55980eb5a162fd81a5845291889"
+  },
+  "search.components.Settings.settingsSearch.activation": {
+    "message": "有効化, 認証, アクティベーション, ライセンス認証",
+    "sourceHash": "1d9be6080b5dd39322896bd27dc05e93c865605b102e9c52ecf6b4e8afb5c17e"
+  },
+  "search.components.Settings.settingsSearch.ai": {
+    "message": "人工知能, アシスタント, チャット, 生成",
+    "sourceHash": "dbaa8a0a0e68bb2dc40a203cca8e06307474257698d33625bef48735ca429a7c"
+  },
+  "search.components.Settings.settingsSearch.aiButtons": {
+    "message": "アシスタントボタン, クイックアクション, ショートカットボタン",
+    "sourceHash": "3bb38acdbc5bf4ca101a82128e664e00c093b34b8c6cc2cc988c94193e4c4914"
+  },
+  "search.components.Settings.settingsSearch.aiSkills": {
+    "message": "スキル, アシスタント機能, 機能",
+    "sourceHash": "1b62f41d2b7821a7e4481e9c5440f94ea73ea48a528311887e46061934c113a0"
+  },
+  "search.components.Settings.settingsSearch.aiTheme": {
+    "message": "テーマ, 配色, 外観, 色, デザイン",
+    "sourceHash": "8f167f35ee70ab221e9ab7df58d1f7e3ff0ded83a3652d6f670ca9de0d1be9bd"
+  },
+  "search.components.Settings.settingsSearch.allFileTypes": {
+    "message": "すべてのファイル形式, ファイルの種類, 拡張子, 全種類",
+    "sourceHash": "3a8f566355048657fa5653bfda206e60bcfbc33be7692bc813be634565208f3a"
+  },
+  "search.components.Settings.settingsSearch.allowDoubleControlToCapture": {
+    "message": "コントロールキー 2 回押し, ダブル押し, ダブルタップ, クイックキャプチャ, メモ",
+    "sourceHash": "9b87ccb314c1b2f0d075b714a7adcd411eec64abfa5c3c54aaf895428daa98cf"
+  },
+  "search.components.Settings.settingsSearch.allowDoubleOptionToCapture": {
+    "message": "オプションキー 2 回押し, ダブル押し, ダブルタップ, クイックキャプチャ, メモ",
+    "sourceHash": "db51deade9d5c1c50d9c559c7e186c21f1e534c0df0a70aa47a21f4429d79cbe"
+  },
+  "search.components.Settings.settingsSearch.allowedExtensions": {
+    "message": "許可する拡張子, 拡張子, ファイル形式, 対象ファイル",
+    "sourceHash": "e02da7a6c4b6ef45c8d9e616f5e54102ddca1acfdad510fea6a1933664428dbc"
+  },
+  "search.components.Settings.settingsSearch.alwaysOnTop": {
+    "message": "最前面, 常に前面, ウィンドウを固定, 手前に表示, ピン留め",
+    "sourceHash": "2ad15eb94795b7fad7700da6a7024a09e5c135880927f0017c602c5ec14daac2"
+  },
+  "search.components.Settings.settingsSearch.alwaysShowCalendar": {
+    "message": "カレンダー, 常時表示, 表示, 予定",
+    "sourceHash": "a729156ef0f131bb50f3171f9a626b2b514ff327e09fd5b464b7a2869c88dad7"
+  },
+  "search.components.Settings.settingsSearch.anthropic": {
+    "message": "アンソロピック, プロバイダ, 接続先",
+    "sourceHash": "07f9dffad21e23b42bcf4397860f8a3a9110e99d21efb189b6ba82de4fb91cd8"
+  },
+  "search.components.Settings.settingsSearch.apiKey": {
+    "message": "API キー, キー, 認証キー, 鍵",
+    "sourceHash": "3f9b01970a6f46668ced2f6aaef657f88f6556aa5a26d36a50ce9a3ed2cb02e6"
+  },
+  "search.components.Settings.settingsSearch.apiProviders": {
+    "message": "API プロバイダ, 接続先, プロバイダ, モデル提供元",
+    "sourceHash": "4a6ebdc15c820567aaa6237c9f27d9c5a5bb12efa95da754b9c223f1d7e09359"
+  },
+  "search.components.Settings.settingsSearch.app": {
+    "message": "アプリ, アプリケーション, 本体, アプリ情報",
+    "sourceHash": "0261f14832125059b474edf93c8f15a4ef4c239a159bfbf980f75608b4c768cb"
+  },
+  "search.components.Settings.settingsSearch.appStart": {
+    "message": "起動, 自動起動, 起動時, ログイン時に起動, スタートアップ",
+    "sourceHash": "2d01eb2c232bd4a729155108aad8b9d9aeff43b4e154c4a8db487aa5761df55c"
+  },
+  "search.components.Settings.settingsSearch.appearance": {
+    "message": "外観, 見た目, テーマ, 表示, 配色",
+    "sourceHash": "0891aefe8db8f29dacf09736a2c256593853d9a261283fd4565e92437fdcfdab"
+  },
+  "search.components.Settings.settingsSearch.appendFormat": {
+    "message": "追記形式, 追加形式, 書式, 形式",
+    "sourceHash": "e9ef2011b65b3c6ec30645dd8cc70bb21f8ce9d397ef54b3f1a8083ca49cba3a"
+  },
+  "search.components.Settings.settingsSearch.appendUntitled": {
+    "message": "無題, 追記, 新規, タイトルなし, 追加",
+    "sourceHash": "09958a95eb5d2a9ae7aecc4b8956977c16b8325a03f94b6bcc0afb6df77b25cd"
+  },
+  "search.components.Settings.settingsSearch.askOctarine": {
+    "message": "質問, チャット, 聞く, アシスタント",
+    "sourceHash": "fc67fac6ef592f6cd2dc679b0467e43f3cd7a8abec73eed6a64166a6c0c5a8db"
+  },
+  "search.components.Settings.settingsSearch.askOctarineExclusions": {
+    "message": "除外, 除外設定, 対象外, 除外フォルダ, 質問",
+    "sourceHash": "cace74c30813496472b4731d68eadf5868f6712025a7a2fb659d0efb3539a9eb"
+  },
+  "search.components.Settings.settingsSearch.attachments": {
+    "message": "添付ファイル, 添付, 画像, ファイル",
+    "sourceHash": "ed127c1850d82017a6c742380ede701c819caa450474d6a9f21d054032f3ff61"
+  },
+  "search.components.Settings.settingsSearch.auth": {
+    "message": "認証, ログイン, サインイン, 認可",
+    "sourceHash": "6b1504b3b74f8a502494f3a6defc27500450503667a718e375925f78284fb65d"
+  },
+  "search.components.Settings.settingsSearch.author": {
+    "message": "作成者, 著者, 執筆者, 名前",
+    "sourceHash": "9feaf5f9859190886dc8bcaf07a489d0f3e66b3e58f4d9bf81df2e123840d200"
+  },
+  "search.components.Settings.settingsSearch.authorAttribution": {
+    "message": "作成者, 著者表示, 帰属, 署名, クレジット",
+    "sourceHash": "4f54c497bd87db59ec4100970d5601f2d0a6fb313007e4c4ba6979a33c65fa09"
+  },
+  "search.components.Settings.settingsSearch.autoSync": {
+    "message": "自動同期, 同期, 自動更新, クラウド同期",
+    "sourceHash": "e9410f04f42027c715b618e4ca37cb3f8f51ec946d0e4818f5becd9cce610272"
+  },
+  "search.components.Settings.settingsSearch.autocorrect": {
+    "message": "自動修正, 自動補正, スペルチェック, 誤字修正, 変換",
+    "sourceHash": "8512d4f52ea0e780bc662bd2969c60509280e3b6baff18d0780f2aa83c0f53fc"
+  },
+  "search.components.Settings.settingsSearch.avatar": {
+    "message": "アバター, プロフィール画像, 画像, アイコン",
+    "sourceHash": "56bc1c48d8e7e51d06a01ec5f2fc86ae0225d5ff5176b2c75e91816803a1751e"
+  },
+  "search.components.Settings.settingsSearch.background": {
+    "message": "背景, 背景色, 壁紙, 背景画像",
+    "sourceHash": "38d5c57c65f3dfd43bc6dee5cf269629deb4ff7bf3af6ee49045d50e450119ed"
+  },
+  "search.components.Settings.settingsSearch.backlinks": {
+    "message": "バックリンク, 被リンク, 逆リンク, 参照元",
+    "sourceHash": "06868b0b1239a084631d233a2b9a607bdcbacab18ee39088cd3e14c7948ce0d2"
+  },
+  "search.components.Settings.settingsSearch.backup": {
+    "message": "バックアップ, 保存, 復元, 保護",
+    "sourceHash": "02125284180ab2271f834a2a1176c29f0b3bfb6fdfeb09683f55cb7a431c7a25"
+  },
+  "search.components.Settings.settingsSearch.backupInterval": {
+    "message": "バックアップ間隔, 間隔, 頻度, 自動保存, 周期",
+    "sourceHash": "d1970f22edddb4aa92e6255f64466b8d633f0dbb8004c9e128ffa496d0b60c8f"
+  },
+  "search.components.Settings.settingsSearch.badge": {
+    "message": "バッジ, 通知バッジ, 件数表示, 通知数",
+    "sourceHash": "704ce7052c42760a18f65067a0c329fba102c9d1938e7ad8e537f81de5c55d4f"
+  },
+  "search.components.Settings.settingsSearch.baseTheme": {
+    "message": "ベーステーマ, テーマ, 基本テーマ, 配色, 基本",
+    "sourceHash": "bbaa8f1c6501882e740a2e6059439d8a5b30494774ef1955ba6ba63401d39028"
+  },
+  "search.components.Settings.settingsSearch.baseUrl": {
+    "message": "接続先, エンドポイント, アドレス, サーバー",
+    "sourceHash": "febf0ddb7516a1b8122add07f76f19ccf0e23b57a567a9453ba1e3bcf798ac2a"
+  },
+  "search.components.Settings.settingsSearch.behavior": {
+    "message": "動作, 振る舞い, 挙動, 設定",
+    "sourceHash": "bb4b7838aa32e13917fb96ba89ae8e2ee3a063e56f1a5f16a67cb2f5a451246c"
+  },
+  "search.components.Settings.settingsSearch.bold": {
+    "message": "太字, 太文字, 強調, ボールド",
+    "sourceHash": "89c28bbe50de22563d4b449efcc9049681dbee3d747eb7957039f6f2bc914773"
+  },
+  "search.components.Settings.settingsSearch.brackets": {
+    "message": "括弧, かっこ, 角括弧, 山括弧, 中括弧",
+    "sourceHash": "c5080645c1ebe7326f0da1aea86674c6da0a5dd661742c1e74575adbd752d301"
+  },
+  "search.components.Settings.settingsSearch.bucket": {
+    "message": "レーン, 分類, グループ, 列, カテゴリ",
+    "sourceHash": "11d4f39a17ef192fc76ed416d54dad16e39087375ece70d31890b229032f9d89"
+  },
+  "search.components.Settings.settingsSearch.buckets": {
+    "message": "レーン, 分類, グループ, 列, カテゴリ",
+    "sourceHash": "665eca4c768bbfd59f4fa24935849641da35fbb60d0547a75d32a68d91982900"
+  },
+  "search.components.Settings.settingsSearch.bug": {
+    "message": "不具合, バグ, 不具合報告",
+    "sourceHash": "70b3719af2b93ad08968f73febeeedbb3e5724f517eae573d5cce9af64fa1e50"
+  },
+  "search.components.Settings.settingsSearch.bugReport": {
+    "message": "不具合報告, バグ報告, 障害報告, 問題報告, フィードバック",
+    "sourceHash": "a1a4739f4f7485450068069ad1484625e97779ba3605f71f5794ced81a58585f"
+  },
+  "search.components.Settings.settingsSearch.bugsOrRequests": {
+    "message": "不具合, 要望, フィードバック, 機能要望, 問題報告",
+    "sourceHash": "2cd6fff1cbb12238fc3a2a332d7ef3d1f9aeb92e8ce157625ef30f06d51d7321"
+  },
+  "search.components.Settings.settingsSearch.builtinStatuses": {
+    "message": "組み込みステータス, 標準ステータス, 既定のステータス, ステータス, 初期設定",
+    "sourceHash": "d4c341a13a700d138478c37890a665dfae58413ce15d71ad402f2bc3c2db47d2"
+  },
+  "search.components.Settings.settingsSearch.bullet": {
+    "message": "箇条書き, 中黒, 記号, リスト, 行頭記号",
+    "sourceHash": "d7d872d6ba66f59417534ad00029ee37f1d364e48c354814831c8ea6183c26ae"
+  },
+  "search.components.Settings.settingsSearch.cadence": {
+    "message": "頻度, 間隔, 周期, サイクル, リズム",
+    "sourceHash": "2530e0aba2226edc1e96c2d882d69f157e59e38d82d3fb131ef68a275bce9a0c"
+  },
+  "search.components.Settings.settingsSearch.calendar": {
+    "message": "カレンダー, 日付, 予定, 日程表",
+    "sourceHash": "28bbe63b0900a1b271866fe6814d4b21b28f5747ea88b382378c3e5c8da7181d"
+  },
+  "search.components.Settings.settingsSearch.calendarPosition": {
+    "message": "カレンダー位置, 表示位置, 配置, 左右",
+    "sourceHash": "5d01bf888041f6f57b0cea0e7fcd9cba94b94612f240f45949bc178bd05c3f78"
+  },
+  "search.components.Settings.settingsSearch.calendarWeekStartsOn": {
+    "message": "週の始まり, 週の開始, 曜日, 週初め, 日曜日, 月曜日",
+    "sourceHash": "aea78c71cc8aa96b15b55860b390831d5c43e323529d7df7e7784e93967ea4ec"
+  },
+  "search.components.Settings.settingsSearch.capture": {
+    "message": "メモ, 記録, キャプチャ, 取り込み, 保存",
+    "sourceHash": "9f44629275ee6be5b8c7759046ab3c4525263484c72f8ba32c2084c8517fd971"
+  },
+  "search.components.Settings.settingsSearch.captureDestination": {
+    "message": "メモの保存先, 保存先, 振り分け先, 取り込み先, 記録先",
+    "sourceHash": "0af1d7babb3d68fad705fdb0675c55963a467b4b7ca18829437368df9ed6bd7d"
+  },
+  "search.components.Settings.settingsSearch.captureFromClipboard": {
+    "message": "クリップボードからメモ, クリップボード, 貼り付け, 取り込み, コピー",
+    "sourceHash": "97bcc32ad3f215de89698b008d2316509ead9d26bea0da93703d0f33f7630a1c"
+  },
+  "search.components.Settings.settingsSearch.categories": {
+    "message": "カテゴリ,分類,種類,グループ",
+    "sourceHash": "544dd493d6476b0aff81b4a2ac90c5a0db9d553bfae5a1dfb05f9b9bbd5a12b5"
+  },
+  "search.components.Settings.settingsSearch.category": {
+    "message": "カテゴリ,分類,種類",
+    "sourceHash": "20812a4210d6171f36dc09ce236d38aa2267eae37c540ee237e2da063cd8be6e"
+  },
+  "search.components.Settings.settingsSearch.centered": {
+    "message": "中央揃え,センター,中央寄せ,中央配置",
+    "sourceHash": "485ecea003c2c15ef9793cbc676e4a5b08f3d488f15f2a8352e3122918bf272d"
+  },
+  "search.components.Settings.settingsSearch.chatgpt": {
+    "message": "チャット GPT,チャットジーピーティー,生成 AI,AI チャット",
+    "sourceHash": "c307f1fb0817284923f43c656f38932537551cda816d63fe591edb6a89f95464"
+  },
+  "search.components.Settings.settingsSearch.checkForUpdates": {
+    "message": "アップデート確認,更新確認,アップデートをチェック,バージョン更新,最新版",
+    "sourceHash": "17d046610be8d74ff6878cf641471f9ccea2cbfe683fcf7d941b90ae8eaf51f2"
+  },
+  "search.components.Settings.settingsSearch.childrenCount": {
+    "message": "子の数,子ノート数,子要素数,子の件数",
+    "sourceHash": "ce457da0480e96c5e464b7f61c678adfe97f13c99885c8b082fd5b825e5e3d55"
+  },
+  "search.components.Settings.settingsSearch.claude": {
+    "message": "クロード,AI チャット,アシスタント",
+    "sourceHash": "81d14f11e866eff2f075e1619fa156fceced959cdee628eb06c7a2c6d7f25e9e"
+  },
+  "search.components.Settings.settingsSearch.claudeCode": {
+    "message": "クロードコード,AI コーディング,コーディング支援",
+    "sourceHash": "d0f21057e2428cfd5705cd5bebd861e559b245db4c97c033d1fd11f0fb6f84e0"
+  },
+  "search.components.Settings.settingsSearch.cliAccount": {
+    "message": "CLI アカウント,コマンドラインアカウント,ログイン,認証",
+    "sourceHash": "77b789e599dedd0d5f880ed344119d9d4bd53ada853424ec60691c81dd276b1f"
+  },
+  "search.components.Settings.settingsSearch.clipboard": {
+    "message": "クリップボード,コピー,貼り付け,コピペ",
+    "sourceHash": "59b2d8d6656f1100cc8eca5163b144b30e8be35163816b07ade2639be844b3a1"
+  },
+  "search.components.Settings.settingsSearch.cmdEnter": {
+    "message": "⌘↵,送信,ショートカット,コマンドエンター",
+    "sourceHash": "0983506d009062017e4b67da1e9ccb882fb174e10ca54c965efdfc562b4b45cf"
+  },
+  "search.components.Settings.settingsSearch.codeBlock": {
+    "message": "コードブロック,コード,ソースコード,コードの囲み",
+    "sourceHash": "e40e891cc562e27a3d8a0c863beda4ed7eca59f7a221a0cf1b9864425dcb1936"
+  },
+  "search.components.Settings.settingsSearch.codex": {
+    "message": "コーデックス,AI コーディング,コーディング支援",
+    "sourceHash": "2e1ed89f5bf046e7b2b826c33bd6cb1d824a8e64b46674ad00d2f7fbdcbb153c"
+  },
+  "search.components.Settings.settingsSearch.colorTheme": {
+    "message": "カラーテーマ,配色,色,テーマ色,配色テーマ",
+    "sourceHash": "5d6e12b1c48ef93e37a0f7ac21772b3dea05192fd586d7762b891af80bfb6038"
+  },
+  "search.components.Settings.settingsSearch.colorVariables": {
+    "message": "カラー変数,色変数,カラー設定,CSS 変数",
+    "sourceHash": "bbaf4a3e8b421858112a29b005956c25b5b26f25b149233ed83f0faae98ebccf"
+  },
+  "search.components.Settings.settingsSearch.colourTheme": {
+    "message": "カラーテーマ,配色,色,テーマ色,配色テーマ",
+    "sourceHash": "9a6f87c5e71f387a9bc918d2e9e328d17253f0782da7328a66d05598f2956b08"
+  },
+  "search.components.Settings.settingsSearch.colourVariables": {
+    "message": "カラー変数,色変数,カラー設定,CSS 変数",
+    "sourceHash": "de5ebf3361c01195087f6207cef602e49c4cf80a57a4b42dd9aa579a00b4e940"
+  },
+  "search.components.Settings.settingsSearch.commandName": {
+    "message": "コマンド名,コマンド名称,コマンドの表示名,名前",
+    "sourceHash": "78f67629ea8d6b5ed641040c52323f2f676309787cfbe0adf0c25ba9727f135b"
+  },
+  "search.components.Settings.settingsSearch.commentEmailNotifications": {
+    "message": "コメント通知,メール通知,コメントのメール,メールで通知",
+    "sourceHash": "3ce091c53acd52d18767d08a96bea82f19c635a6e6c14f8a08379c4e6bb01852"
+  },
+  "search.components.Settings.settingsSearch.comments": {
+    "message": "コメント,注釈,フィードバック,書き込み",
+    "sourceHash": "62455c8c4d9da4f98c5c378aab0d309835a3061b1ce927adbcd831578244c4b4"
+  },
+  "search.components.Settings.settingsSearch.commits": {
+    "message": "コミット,変更履歴,履歴,バージョン履歴",
+    "sourceHash": "5438d8285d11fdc7ee93b4ef51a4d4c1fafe78649627d5530126f0c8f2fa7ab9"
+  },
+  "search.components.Settings.settingsSearch.completedTasks": {
+    "message": "完了したタスク,完了済みタスク,完了,タスク履歴",
+    "sourceHash": "bc94e1d8f94a7452562cf3018077b26f31fec890bf93f0823412cfd03fe61d63"
+  },
+  "search.components.Settings.settingsSearch.confirmDelete": {
+    "message": "削除の確認,削除確認,削除前に確認,確認ダイアログ",
+    "sourceHash": "f0e90de4161c98d506e3943c256a92545ad897a5c672bb3a96a8b8eb2cbadd38"
+  },
+  "search.components.Settings.settingsSearch.confirmation": {
+    "message": "確認,確認ダイアログ,確認メッセージ,確認画面",
+    "sourceHash": "12cc826c6bc6f0fe88374be7678e7954bd010e044a62b7add7d3c3104abc4e6e"
+  },
+  "search.components.Settings.settingsSearch.conflictResolution": {
+    "message": "競合の解決,競合解決,衝突,コンフリクト,同期の競合",
+    "sourceHash": "62da1fb28997691cd0f39c8eeb816462dd279b8ee4c087e9f9f1e767e87c4bf7"
+  },
+  "search.components.Settings.settingsSearch.connectAccount": {
+    "message": "アカウント接続,アカウント連携,ログイン,アカウント追加",
+    "sourceHash": "dd030174ac27ee75890a4c7ab32b5d7596f3fd028d30dbdf359f5e916da83b7a"
+  },
+  "search.components.Settings.settingsSearch.connectionStatus": {
+    "message": "接続状態,接続ステータス,接続の確認,オンライン,オフライン",
+    "sourceHash": "1710532578f52a75ca5962c44d6b90381a08445b191375566975585eaee1aa61"
+  },
+  "search.components.Settings.settingsSearch.contentAlignment": {
+    "message": "本文の配置,本文揃え,文字揃え,左揃え,中央揃え",
+    "sourceHash": "f810bb6c0cb4b74c3e73d7f33701be35b85e735856dc91954d31260be0c90fb4"
+  },
+  "search.components.Settings.settingsSearch.context": {
+    "message": "コンテキスト,文脈,前後関係,状況",
+    "sourceHash": "73a183e5923307379d5f9d6280f6f663891830dfb3350d929b563e383013c420"
+  },
+  "search.components.Settings.settingsSearch.copyCss": {
+    "message": "CSS をコピー,スタイルをコピー,CSS コピー",
+    "sourceHash": "8c36cdede2eefe5eb30aadc34758e57c039aeb4e87f45d710efc50ef2b8c6930"
+  },
+  "search.components.Settings.settingsSearch.copyFormatting": {
+    "message": "書式をコピー,書式コピー,スタイルをコピー,装飾をコピー",
+    "sourceHash": "cff591807026f54af56b1fc1044eef0c845a5b4ce76bd8457562fc1a43c94b63"
+  },
+  "search.components.Settings.settingsSearch.copyWithoutFormatting": {
+    "message": "書式なしでコピー,プレーンテキストでコピー,書式を除いてコピー,テキストのみコピー",
+    "sourceHash": "dbacf2032462a1397aa8bb01afe2c1cbf408eccc031ed912975551481481032a"
+  },
+  "search.components.Settings.settingsSearch.createTheme": {
+    "message": "テーマを作成,テーマ作成,新しいテーマ,配色を作る",
+    "sourceHash": "a6b44228dd180e255341d23dc72a91b3e9181e9364e589b0240a9838e044d575"
+  },
+  "search.components.Settings.settingsSearch.createType": {
+    "message": "タイプを作成,ノートタイプを作成,新規タイプ,種類を作成",
+    "sourceHash": "51e49da9b4c947d1b84536545b1f1a2dda306054dd8bdb5a0375509a9bc4cbe5"
+  },
+  "search.components.Settings.settingsSearch.createUniqueNoteNames": {
+    "message": "ユニークなノート名,重複しない名前,ノート名の重複を避ける,一意の名前,重複回避",
+    "sourceHash": "6af8011716ec2d4fb8cedbfef626be5e75fa27522db606933e089c684717f730"
+  },
+  "search.components.Settings.settingsSearch.ctrlEnter": {
+    "message": "⌃↵,送信,ショートカット,コントロールキー",
+    "sourceHash": "159bae2414e8fbefcfed01f478b91ace17789cf0447d48e813eb14703a531b31"
+  },
+  "search.components.Settings.settingsSearch.currentVersion": {
+    "message": "現在のバージョン,バージョン,バージョン情報,バージョン番号",
+    "sourceHash": "ea7f7d03bc71d4cfd8445cbf7b1ce3b5384ab604f682621e3ea1ef310af61268"
+  },
+  "search.components.Settings.settingsSearch.customCommands": {
+    "message": "カスタムコマンド,独自コマンド,ユーザー定義コマンド,コマンド追加",
+    "sourceHash": "89ae5d81cf1667f4d2adb635ddb4c736fce58e57e328fd0c76bb4c55814c6281"
+  },
+  "search.components.Settings.settingsSearch.customEndpoints": {
+    "message": "カスタムエンドポイント,独自エンドポイント,接続先,API の接続先",
+    "sourceHash": "51829622375648d42cf5ee101d1d43788323744b91dbf0201df140cde67fab6e"
+  },
+  "search.components.Settings.settingsSearch.customExtensions": {
+    "message": "カスタム拡張,拡張機能,プラグイン,拡張の追加",
+    "sourceHash": "0c5c0cd74af235593e75fa39851f9d66a968aa1838f651babd32934b7d8d2fce"
+  },
+  "search.components.Settings.settingsSearch.customProvider": {
+    "message": "カスタムプロバイダ,独自プロバイダ,プロバイダ追加,接続先",
+    "sourceHash": "b76230c7d2badb5302953a0bfa6ee7585da11073d6ddc46d351ef83298e51c18"
+  },
+  "search.components.Settings.settingsSearch.customStatus": {
+    "message": "カスタムステータス,独自ステータス,ステータス追加,状態",
+    "sourceHash": "06a7e0d85119a6e6f8f32478f12f8c5f11e40bd423b354d21b79ccbadb9eaebc"
+  },
+  "search.components.Settings.settingsSearch.customTheme": {
+    "message": "カスタムテーマ,独自テーマ,テーマ追加,配色",
+    "sourceHash": "e70ef8cdfb3c45d1ba3f5117a82d4848bb4e937f2f217564cee7122ae75820ac"
+  },
+  "search.components.Settings.settingsSearch.customWidth": {
+    "message": "カスタム幅,幅の調整,幅を指定,横幅",
+    "sourceHash": "c439de3b1a3d16cd35176469c0074349fef79a4e96b54bcbcdea82b8e0774bdb"
+  },
+  "search.components.Settings.settingsSearch.cycle": {
+    "message": "サイクル,周期,反復,スプリント",
+    "sourceHash": "615cb0dd8ff7f0ee0d95dbc0a6382af689305261e3f471ffc11abd326d73f3e6"
+  },
+  "search.components.Settings.settingsSearch.cycles": {
+    "message": "サイクル,周期,反復,スプリント",
+    "sourceHash": "43fa1b30175686910c2fbe9a30cd4dcbe1cead71b943c42c871934303673a481"
+  },
+  "search.components.Settings.settingsSearch.daily": {
+    "message": "デイリー,毎日,日次,今日,日報",
+    "sourceHash": "96d88f7fac3ab4fb5c89e2fb5985ee6958438f74a07112ca0b824732f84dfd75"
+  },
+  "search.components.Settings.settingsSearch.dailyNote": {
+    "message": "デイリーノート,日次ノート,毎日のノート,今日のノート,日記",
+    "sourceHash": "fcd8f14cdc975f1d6104e8d57c6b9b71aab1c025f25f4a55e3c3b3d0a33b1e60"
+  },
+  "search.components.Settings.settingsSearch.danger": {
+    "message": "危険,削除,取り消し,リスク,警告",
+    "sourceHash": "b9ad5387a1a044ec536d1eaf65dafc8dc1c0d1cc7912114aa526abd6d04a3b43"
+  },
+  "search.components.Settings.settingsSearch.dangerZone": {
+    "message": "危険ゾーン,危険な操作,削除,リセット,取り消し",
+    "sourceHash": "8be1237235c9440f5fbe7611e644f138ee3b549612832d2a682a21e233c13885"
+  },
+  "search.components.Settings.settingsSearch.darkPalette": {
+    "message": "ダークパレット,暗い配色,ダーク配色,暗いテーマ",
+    "sourceHash": "5a1f9108ec60ba7fcc0993563070f186188db4b031964843c6bfd1c9db2d589a"
+  },
+  "search.components.Settings.settingsSearch.darkTheme": {
+    "message": "ダークテーマ,暗いテーマ,ダークモード,夜間モード",
+    "sourceHash": "a3111bd0b3ba60baca29e9a0dd5a0eec3a4f59435089f6c49af6c5802cb3ca6f"
+  },
+  "search.components.Settings.settingsSearch.dashes": {
+    "message": "ダッシュ,ハイフン,長音,罫線,記号",
+    "sourceHash": "1111a71f4394b523de8a7a81f192f0ca51d6b2ea96eccc1930247797ca85cbc4"
+  },
+  "search.components.Settings.settingsSearch.dateDisplay": {
+    "message": "日付表示,日付の表示,日付の形式,表示形式",
+    "sourceHash": "43836fa20012489ace52a88e736e1ff71e82c5ac8bb82c16479953bf707eb031"
+  },
+  "search.components.Settings.settingsSearch.dateFormat": {
+    "message": "日付形式,日付フォーマット,日付の書式,日付の表示形式",
+    "sourceHash": "b6112362479edbb4e65925b2f23e961a985f21df732bfbd791ce69ac393ea5ab"
+  },
+  "search.components.Settings.settingsSearch.dateFormatForNewNotes": {
+    "message": "新規ノートの日付形式,新しいノートの日付,ノートの日付フォーマット,日付の書式",
+    "sourceHash": "aebcce2f541f86017994fa2740fd0e37f946b263660038f1e3671c9778376530"
+  },
+  "search.components.Settings.settingsSearch.deactivateIntegration": {
+    "message": "連携を解除,連携の無効化,連携停止,統合を解除",
+    "sourceHash": "faeec9b6f3a5a2e331fe477d9e075526e5e258e3c11e9134e3cbb9e4f0f11d4d"
+  },
+  "search.components.Settings.settingsSearch.deactivateLicense": {
+    "message": "ライセンスを解除,ライセンス無効化,ライセンスの解除,認証解除",
+    "sourceHash": "3d8af2baf31915d216fbfadfd09c0a5534dbfb9de1cc74ce7d41316d74ac2062"
+  },
+  "search.components.Settings.settingsSearch.deepseek": {
+    "message": "ディープシーク,ディープシーク AI,AI チャット",
+    "sourceHash": "b52759be499a790835017ee2bbf580093d5e891da49b0bb09cd8f50e822b2cda"
+  },
+  "search.components.Settings.settingsSearch.defaultFolder": {
+    "message": "デフォルトフォルダ,初期フォルダ,既定のフォルダ,保存先,標準フォルダ",
+    "sourceHash": "50226ad47065e3bf4708f2b8962da802de7ccf83e0e8b6003f04d217c201179d"
+  },
+  "search.components.Settings.settingsSearch.defaultFolderForNewNotes": {
+    "message": "新規ノート、既定フォルダ、デフォルトフォルダ、ノート保存先、保存先フォルダ",
+    "sourceHash": "84016f9d3e1d396891db03ada5c106e45585148c0f4715e73a68dddea0eda587"
+  },
+  "search.components.Settings.settingsSearch.defaultHighlightColor": {
+    "message": "既定のハイライト色、ハイライトカラー、強調色、マーカー色、ハイライト 色",
+    "sourceHash": "29f6b409b7a23293e6b6bc5b60370f32c688877f9fd02ab95acef8749eb2a1ae"
+  },
+  "search.components.Settings.settingsSearch.defaultLabels": {
+    "message": "既定のラベル、デフォルトラベル、ラベル初期値",
+    "sourceHash": "9016d93025cb8b40eff846028b3c3a0a992cefacdf0d54abb35496e302a8baa2"
+  },
+  "search.components.Settings.settingsSearch.defaultProperties": {
+    "message": "既定のプロパティ、デフォルトプロパティ、プロパティ初期値",
+    "sourceHash": "86ef3a49258f294809ce1502131c3d2c0c5b84d841901ab0ee05bd1224f61cd9"
+  },
+  "search.components.Settings.settingsSearch.defaults": {
+    "message": "既定値、初期値、デフォルト、標準設定",
+    "sourceHash": "eb6122501647627abb4e3ab547c26d9c88aa9685325fd4147220990d6f503c9b"
+  },
+  "search.components.Settings.settingsSearch.delete": {
+    "message": "削除、消去、除去",
+    "sourceHash": "af782776b1ae2e7727267fb34d27fe7282a00e9e150676f72bb74918ff5f2774"
+  },
+  "search.components.Settings.settingsSearch.deleteSettings": {
+    "message": "設定を削除、設定 削除、設定のリセット",
+    "sourceHash": "79b52dd7ca3baf6d65097d6e0b8617ff86517c5e586455a6ac47b94f8ba620df"
+  },
+  "search.components.Settings.settingsSearch.deleteTheme": {
+    "message": "テーマを削除、テーマ 削除",
+    "sourceHash": "3412562cb2fdbbf8ab341e209db91d6aec56782b5c30356c80d6888535f20213"
+  },
+  "search.components.Settings.settingsSearch.deleteType": {
+    "message": "ノートタイプを削除、タイプ削除、タイプ 消去",
+    "sourceHash": "2ab0dc1175113be46f165c9c850c4c0fbd9f63b462137129509ca5a6df0cadef"
+  },
+  "search.components.Settings.settingsSearch.deleteWorkspace": {
+    "message": "ワークスペースを削除、ワークスペース 削除、ワークスペース 消去",
+    "sourceHash": "089ed25e887468b5937f85cab8655a1d6c6e06d4d20a3713e1dcaa36081542a6"
+  },
+  "search.components.Settings.settingsSearch.deleting": {
+    "message": "削除中、消去中",
+    "sourceHash": "4b79b2aac91ee74fbfd85d324e301bff237e9c14cd249b57943e829f2a3d955f"
+  },
+  "search.components.Settings.settingsSearch.developerNotes": {
+    "message": "開発者メモ、開発者向け、デベロッパーノート、開発メモ",
+    "sourceHash": "8bd6b50c459828ad42221a4aac4ba5d28850128470304cc5eac86e7ccdfa3fba"
+  },
+  "search.components.Settings.settingsSearch.deviceActivationId": {
+    "message": "デバイス認証ID、端末ID、アクティベーションID、ライセンスID",
+    "sourceHash": "2c678c139c6a273b14f15697496587706f23906de626751b8a2236e37460b2d3"
+  },
+  "search.components.Settings.settingsSearch.deviceSkills": {
+    "message": "デバイススキル、端末スキル、ローカルスキル、スキル",
+    "sourceHash": "73dea2ceff9edcc9a96f00ce22e0e46b2cc625420f7afee2142de5f7a83c0d65"
+  },
+  "search.components.Settings.settingsSearch.dimInactivePanes": {
+    "message": "非アクティブペインを暗くする、ペイン 減光、非アクティブ 暗く、ペインの暗転",
+    "sourceHash": "97ef63f22c564e3750e144e4b74892d76d911c797d6e16765918c14835198be1"
+  },
+  "search.components.Settings.settingsSearch.dimPanes": {
+    "message": "ペインを暗くする、ペイン 減光、ペインの暗転",
+    "sourceHash": "244b5e64494f31cc18862b75cf37102f60e07fd589492f384c0e189276eafacc"
+  },
+  "search.components.Settings.settingsSearch.dimming": {
+    "message": "減光、暗転、暗く、薄暗く",
+    "sourceHash": "6e44877139b8d1b4b6e12c9aaf518f6478602cb6c46dd8dd2c1b32c246705d20"
+  },
+  "search.components.Settings.settingsSearch.directories": {
+    "message": "ディレクトリ、フォルダ、保存先",
+    "sourceHash": "c59419040b2f8e7435870595b465b242d2d5369d37ee5756d931836067044deb"
+  },
+  "search.components.Settings.settingsSearch.directory": {
+    "message": "ディレクトリ、フォルダ、保存先",
+    "sourceHash": "767c81c0ba513082855a97558b6e705f6a4c724c28279947f4eb0b02eb53a3a7"
+  },
+  "search.components.Settings.settingsSearch.displayName": {
+    "message": "表示名、ユーザー名、名前、ニックネーム",
+    "sourceHash": "67fad5bcfe6c509088e2d2d75580f6de56dd7a47321c43ef2249fcb13d2b9d98"
+  },
+  "search.components.Settings.settingsSearch.dontShowSystemTray": {
+    "message": "システムトレイを表示しない、トレイアイコン 非表示、トレイ 非表示、メニューバー 非表示",
+    "sourceHash": "b1f2d8bd8fbd1b315e52b97f2185a880cd8f1012028856d52d939ead3c42f591"
+  },
+  "search.components.Settings.settingsSearch.dotFolders": {
+    "message": "ドットフォルダ、隠しフォルダ、非表示フォルダ、ドット フォルダ",
+    "sourceHash": "89cf3b664c380c8f03d5bf42001b590f6594f86a1440d293ece5302fedb42dbb"
+  },
+  "search.components.Settings.settingsSearch.dotfolders": {
+    "message": "ドットフォルダ、隠しフォルダ、非表示フォルダ、ドット フォルダ",
+    "sourceHash": "57747b062782d24e1d761ca7abbf00def4a33d71b5d77da5406c646474f0e0aa"
+  },
+  "search.components.Settings.settingsSearch.dots": {
+    "message": "ドット、点、隠しファイル",
+    "sourceHash": "24f92142f00d5afbb3c82c07dacbac8db2947189544ec2a84382f5c8387930fa"
+  },
+  "search.components.Settings.settingsSearch.doubleModifierCapture": {
+    "message": "修飾キー 二回、修飾キー 連打、ダブルタップ キャプチャ、キー 二度押し、クイックキャプチャ",
+    "sourceHash": "6168ceeb1570411e45fcd79ea7382c1a3e65c540c9c0e0caa5dba9586669f8e5"
+  },
+  "search.components.Settings.settingsSearch.doubleTap": {
+    "message": "ダブルタップ、二回押し、連打、二度押し",
+    "sourceHash": "7648d2a7c82d1959e60c707f4e4ed4e9398ae2bb3d9f47520aed9ae9cb22169e"
+  },
+  "search.components.Settings.settingsSearch.editTheme": {
+    "message": "テーマを編集、テーマ 編集、色 変更",
+    "sourceHash": "69140a4dd6277e75d0905846ecaeb215910be72142a8e53743425787a5d0225d"
+  },
+  "search.components.Settings.settingsSearch.editType": {
+    "message": "ノートタイプを編集、タイプ 編集、タイプ 変更",
+    "sourceHash": "3a28949fac124811fe640a3a72b6e9d1cb7013b4fe7f322d41a3fe203f0c4366"
+  },
+  "search.components.Settings.settingsSearch.editorFont": {
+    "message": "エディタのフォント、エディタ 書体、文字 フォント、フォント 変更",
+    "sourceHash": "73e9519da4dceea317cd48d84dfa6058b941adc08124ce8ac0fc3677f61442ce"
+  },
+  "search.components.Settings.settingsSearch.editorStats": {
+    "message": "エディタ 統計、文字数、文字数カウント、単語数、統計情報",
+    "sourceHash": "4f8d90970fcd106ccff91b51f3c5e8d9a9b9dd5f01cdc5cc9fa92981c4e2b59c"
+  },
+  "search.components.Settings.settingsSearch.editorWidth": {
+    "message": "エディタ 幅、本文 幅、行幅、文字幅、余白",
+    "sourceHash": "226579f833f2ae58cf44a9c90146e12786f20c8cf48c1570cf9e7ceb5321b549"
+  },
+  "search.components.Settings.settingsSearch.email": {
+    "message": "メール、メールアドレス、電子メール",
+    "sourceHash": "f55eb62f24beb7b2915cffba41444f98b0fd70ed5b05fea2706cbd472bf4ab24"
+  },
+  "search.components.Settings.settingsSearch.emails": {
+    "message": "メール、メールアドレス、電子メール",
+    "sourceHash": "5932ba2ad5114f5779deef423ebd7452d858f17992c9da875703d5860ecd2063"
+  },
+  "search.components.Settings.settingsSearch.endpoint": {
+    "message": "エンドポイント、接続先、接続先 URL、API 接続先",
+    "sourceHash": "0e33840835cefb9000a1ab36f43b7a2a8930c8f38410cf73d301d39fbb834a36"
+  },
+  "search.components.Settings.settingsSearch.excludedFolders": {
+    "message": "除外フォルダ、対象外フォルダ、無視するフォルダ、除外",
+    "sourceHash": "23e441805f1e7cce2e684449ef979c64af18829175240217b562fb44eb723292"
+  },
+  "search.components.Settings.settingsSearch.excludedNotes": {
+    "message": "除外ノート、対象外ノート、無視するノート",
+    "sourceHash": "97a517d4e6ed0c480406c16847c375bb098b44242bd69d3816232f0eee677c10"
+  },
+  "search.components.Settings.settingsSearch.expiration": {
+    "message": "有効期限、期限、期限切れ、失効日",
+    "sourceHash": "2d3b5570304c63b8f501b96cb3a32a6bd28284a0a1e8215b6300e2d4214b6675"
+  },
+  "search.components.Settings.settingsSearch.expiry": {
+    "message": "有効期限、期限、期限切れ、失効",
+    "sourceHash": "99939508aa2d17f87ff78bf77e4f9cd89adfedb6eceac4e89e6828f3c922f00d"
+  },
+  "search.components.Settings.settingsSearch.exportTheme": {
+    "message": "テーマを書き出す、テーマ 書き出し、テーマ 保存、エクスポート",
+    "sourceHash": "a7de277cde70e44f47075e98a7ba3ba342432be9471d07d55d217443c6dc6680"
+  },
+  "search.components.Settings.settingsSearch.externalFiles": {
+    "message": "外部ファイル、外部 ファイル、取り込みファイル",
+    "sourceHash": "8b636db28acf9147d117b216db4e8ae5347de0d8ec1b0c4a8c434b9cf6a8acc2"
+  },
+  "search.components.Settings.settingsSearch.feature": {
+    "message": "機能、フィーチャー、機能 設定",
+    "sourceHash": "ed9d026b890b10aa50ccc8019dee168e790b3a002c779c1ec6fdf38ef9c97835"
+  },
+  "search.components.Settings.settingsSearch.feedback": {
+    "message": "フィードバック、意見、要望、感想",
+    "sourceHash": "b1e4da76b359e4c07475732c2e140c5ba96d15a868d79366491acf02b37396b4"
+  },
+  "search.components.Settings.settingsSearch.file": {
+    "message": "ファイル、書類、文書",
+    "sourceHash": "0726c0fa390a7239c69cb759074c85beb530fcb93de3056cc4083f470d957743"
+  },
+  "search.components.Settings.settingsSearch.fileBrowser": {
+    "message": "ファイルブラウザ、ファイル一覧、ファイル 閲覧、ファイル管理",
+    "sourceHash": "0910d5841ba05d2cc9f456632712e830da73b67a1851e69a4a07990a891036f3"
+  },
+  "search.components.Settings.settingsSearch.files": {
+    "message": "ファイル、書類、文書",
+    "sourceHash": "838d4f7810ebd010861b685a4c8582ffa7dbfe22a9038f4d9852e96f8f10a994"
+  },
+  "search.components.Settings.settingsSearch.finishSetup": {
+    "message": "セットアップを完了、初期設定、設定 完了、初期設定を終える",
+    "sourceHash": "1bebc3efdfe89cc111be98b2da23fab5a70b7dba68bca555cc1a119678d10a8d"
+  },
+  "search.components.Settings.settingsSearch.focusMode": {
+    "message": "集中モード、フォーカスモード、集中、没入",
+    "sourceHash": "8fc2bce78b84ec51ad4b6a24211b438602040b86502146e611e4fd5b488000ab"
+  },
+  "search.components.Settings.settingsSearch.focusModeDimming": {
+    "message": "集中モード 減光、集中モード 暗転、集中 暗転、フォーカス 暗く",
+    "sourceHash": "268a29c8bed07355834f241d338b974e59895464ada9b048d4880b0cb24b42ca"
+  },
+  "search.components.Settings.settingsSearch.folder": {
+    "message": "フォルダ、ディレクトリ、保存先",
+    "sourceHash": "7f8c96ab2e06374675637e369074b12ee206271681e73c880f73949160f6c39a"
+  },
+  "search.components.Settings.settingsSearch.folderTooltips": {
+    "message": "フォルダ ツールチップ、フォルダ ヒント、フォルダ 説明表示、ヒント表示",
+    "sourceHash": "57408d228ecc53a2db273ad157cc178425736867ca8fd5e63c9e16c533a3f9d1"
+  },
+  "search.components.Settings.settingsSearch.folders": {
+    "message": "フォルダ、ディレクトリ、保存先",
+    "sourceHash": "9e80f45dc97fe76986eb545dbfba7a9cd75eafe77f9f6095566d265af09eb735"
+  },
+  "search.components.Settings.settingsSearch.font": {
+    "message": "フォント、書体、文字、字体",
+    "sourceHash": "e1bbfa6258ce7ef8abe45a820bea15b21121f77872bdbee4b20d422120934b66"
+  },
+  "search.components.Settings.settingsSearch.fontSize": {
+    "message": "フォントサイズ、文字サイズ、文字の大きさ、字の大きさ",
+    "sourceHash": "cf0ff05251b8efc6abf9be340dabfd1a969b68a452f689478c9425bc8a930825"
+  },
+  "search.components.Settings.settingsSearch.fontWeight": {
+    "message": "フォント 太さ、文字の太さ、太字、ウェイト",
+    "sourceHash": "75cb85fca1313b99af893d6a6a7dcc18c4f932f8ff6b8711489bcaa97c5b4732"
+  },
+  "search.components.Settings.settingsSearch.fonts": {
+    "message": "フォント、書体、字体",
+    "sourceHash": "b1014071276c0afd90c211d2591e4eb3ab15a6fe4ba8e1b846ce10ba2eb0b7cf"
+  },
+  "search.components.Settings.settingsSearch.frontmatter": {
+    "message": "フロントマター、メタデータ、先頭メタデータ、YAML",
+    "sourceHash": "51215d7c3b4b0e54bc81cdac891821ec2a17f58ae41212f3be555e9f3293ba28"
+  },
+  "search.components.Settings.settingsSearch.fullPath": {
+    "message": "フルパス、完全パス、絶対パス、パス",
+    "sourceHash": "0ce016d9990c104a6dcab934d2423497fca5e97745ec350206cfa5a140279b7d"
+  },
+  "search.components.Settings.settingsSearch.fullWidth": {
+    "message": "全幅、全幅表示、幅 全体、横幅 いっぱい",
+    "sourceHash": "7b4d947d1ac65307e0d331061c6fdaa7307f83072adf31968a8340ab4eeb3a8e"
+  },
+  "search.components.Settings.settingsSearch.gemini": {
+    "message": "ジェミニ、グーグル AI、Google AI 連携",
+    "sourceHash": "b18ef83c692ba47c706c006504dff0889b414050dc3e3c06c23f1f4c43b708c7"
+  },
+  "search.components.Settings.settingsSearch.general": {
+    "message": "一般、全般、基本、基本設定",
+    "sourceHash": "6342eefd5f35970ab9a6badace8e3358241b67c0f4518ba37c84c98effdbcacd"
+  },
+  "search.components.Settings.settingsSearch.generateTheme": {
+    "message": "テーマ生成, テーマ作成, AI テーマ, 配色生成",
+    "sourceHash": "5efa6bdc2a3055326c72a716311394a5b6f2654f0fdc98d2fe98b2321552469f"
+  },
+  "search.components.Settings.settingsSearch.git": {
+    "message": "バージョン管理, 同期, リポジトリ, 履歴",
+    "sourceHash": "f5de82d5a87a1ac938295fac165069c1939551acbda4d644dd38bb84017f20e3"
+  },
+  "search.components.Settings.settingsSearch.gitSync": {
+    "message": "同期, バージョン管理, 自動同期, 同期設定",
+    "sourceHash": "849b5b9d41075f4bb38b89b046a126ced534aa8afb25d7ddb3e5d5526285711b"
+  },
+  "search.components.Settings.settingsSearch.gitignore": {
+    "message": "無視, 除外, 除外設定, 無視リスト",
+    "sourceHash": "8082fb2474d4e903946608daead2c03726efe11c6b3a24492ab52af858042876"
+  },
+  "search.components.Settings.settingsSearch.globalShortcut": {
+    "message": "ショートカット, キーボード, ホットキー, 全体, 呼び出しキー",
+    "sourceHash": "073ef641a6dfa6c6a751192808d0478fafb350b8b68337d30cc4847798f6ad15"
+  },
+  "search.components.Settings.settingsSearch.googleGemini": {
+    "message": "グーグル, ジェミニ, AI モデル, 生成 AI",
+    "sourceHash": "5190404d133a99852a9c1a61dfd770d494d589fd27d14d3cdfce1392944af6ff"
+  },
+  "search.components.Settings.settingsSearch.grid": {
+    "message": "グリッド, 格子, 表示, 整列",
+    "sourceHash": "9e85101d712eb72d68d8979c9baf2c34c24b0f067327c1845ba72930e646246c"
+  },
+  "search.components.Settings.settingsSearch.groq": {
+    "message": "AI モデル, プロバイダー, 推論",
+    "sourceHash": "e866abcdc2f2d58f1a64b1fbe65eb93a1b14214cd9fa90232b87a444cead9ef2"
+  },
+  "search.components.Settings.settingsSearch.headingFont": {
+    "message": "見出し, フォント, 書体, 見出しフォント",
+    "sourceHash": "0e239ab96196cf6aae8f995ef23cf439415a3b9aaa06c720b53dd9915e55446f"
+  },
+  "search.components.Settings.settingsSearch.headingGuides": {
+    "message": "見出し, ガイド, 罫線, 補助線",
+    "sourceHash": "cc3d15776f6b728898dff72ff7f075bbab2895e9ea054d3e37bcec91775ad5b9"
+  },
+  "search.components.Settings.settingsSearch.headingTypeface": {
+    "message": "見出し, 書体, フォント, 字体",
+    "sourceHash": "4b8a5545a5e682f49001143ab9c321bd07c3a4fa09efbcd51c88038664185c08"
+  },
+  "search.components.Settings.settingsSearch.hiddenFolders": {
+    "message": "非表示, 隠す, 表示しない, フォルダ",
+    "sourceHash": "11ac66eec1a31c6f2a84abb67b3c1232d4b1b59f9598cb8dc88bc11a5fedd619"
+  },
+  "search.components.Settings.settingsSearch.hideAi": {
+    "message": "非表示, 隠す, AI 非表示, オフ",
+    "sourceHash": "be6645168d39985aee9ea2ecef693812eeece5a51dd640bcbd2dd0f4d4bb0c4e"
+  },
+  "search.components.Settings.settingsSearch.hideAllAi": {
+    "message": "すべて非表示, AI オフ, 全部隠す, 無効",
+    "sourceHash": "eba8952cfe9032693c243153ef8411dde42624f6026b75676613b363f2c728f3"
+  },
+  "search.components.Settings.settingsSearch.hideAppMenu": {
+    "message": "メニュー非表示, 隠す, アプリメニュー, 表示しない",
+    "sourceHash": "aaaa7b404b239ba67aa868c9884076561b3b43fe59747b5d5be8af8ae45229b5"
+  },
+  "search.components.Settings.settingsSearch.hideCalendar": {
+    "message": "カレンダー非表示, 隠す, 表示しない",
+    "sourceHash": "d3307ce74562e5c8f28cb1572baf356290b486acfbe37598791238a040499d1b"
+  },
+  "search.components.Settings.settingsSearch.hideSystemTray": {
+    "message": "トレイ非表示, 隠す, システムトレイ, 常駐",
+    "sourceHash": "c90e47264ea9bb3a14c317cd184780f8323c39aad582b0774009c2ca65782482"
+  },
+  "search.components.Settings.settingsSearch.highlight": {
+    "message": "ハイライト, 強調, マーカー, 目立たせる",
+    "sourceHash": "64a33ee7b05c41948fd9c04cc00e1cfa76bef287f53aa488bbbfafa832992147"
+  },
+  "search.components.Settings.settingsSearch.highlightColor": {
+    "message": "ハイライト色, 強調色, 色, マーカー色",
+    "sourceHash": "1b8a4f0ea23919d8bcd48ddfa5406d7c5160f6cfbb401d7be93fcdccbb31935b"
+  },
+  "search.components.Settings.settingsSearch.horizontalScroll": {
+    "message": "横スクロール, 水平, スクロール, 横方向",
+    "sourceHash": "e0553cbc3f49a20a815583013a176d544a32b56e52cbcfa1af30a65a76a0cda9"
+  },
+  "search.components.Settings.settingsSearch.hoverTimestamps": {
+    "message": "ホバー, タイムスタンプ, 日時, マウスオーバー",
+    "sourceHash": "302120c165a89fc3ae818b794a827e890394a36c33e9cefd411b72fabc4611dc"
+  },
+  "search.components.Settings.settingsSearch.icon": {
+    "message": "アイコン, 絵文字, 記号, 図像",
+    "sourceHash": "be0c730d9d2d679c37b134f0b5966cdab81705200346810da6f3786ed635ba48"
+  },
+  "search.components.Settings.settingsSearch.identity": {
+    "message": "識別, 本人情報, アカウント情報, ID",
+    "sourceHash": "6ab465d8b1c6860bf40c8a98a09cbafc33723d3d14712e610b95f3918cce313e"
+  },
+  "search.components.Settings.settingsSearch.ignore": {
+    "message": "無視, 除外, 対象外, 無視する",
+    "sourceHash": "265101c85e93c87f7f26f1cdc6d636db6327e96a8f958e047bf5a8930bd9bd25"
+  },
+  "search.components.Settings.settingsSearch.ignored": {
+    "message": "無視, 除外, 対象外, 無視済み",
+    "sourceHash": "c565307146bfff330ed22b37830e9f8cc1029a7893cd005069ccaee27cc2b733"
+  },
+  "search.components.Settings.settingsSearch.ignoredByGitSync": {
+    "message": "同期から除外, 同期対象外, 同期除外, 除外, 無視",
+    "sourceHash": "0f6f17d122fd89bd6b01005c68b628320d2e697f1bfd2fbde1e8bbd16ed90444"
+  },
+  "search.components.Settings.settingsSearch.ignoredDirectories": {
+    "message": "除外ディレクトリ, 無視, 対象外, ディレクトリ",
+    "sourceHash": "639cb1ed76c8d417c846e43a325286e9accc1a37c657b71d80c0bdce86eea168"
+  },
+  "search.components.Settings.settingsSearch.ignoredFiles": {
+    "message": "除外ファイル, 無視, 対象外, ファイル",
+    "sourceHash": "e655d00b1d9222864b6389313df12fe5693379c1adcaecddf1203212541aa1ec"
+  },
+  "search.components.Settings.settingsSearch.ignoredFolders": {
+    "message": "除外フォルダ, 無視, 対象外, フォルダ",
+    "sourceHash": "7be6a9b1fc9745542327beab2f1067be99af149f3e9f0a98a7dcb5577678dcaf"
+  },
+  "search.components.Settings.settingsSearch.imageCaptions": {
+    "message": "画像, キャプション, 説明文, 図の説明",
+    "sourceHash": "078808afd5a1afd20f336019316e7225b7f3652bcb7789ccb4bf1dbab404e203"
+  },
+  "search.components.Settings.settingsSearch.import": {
+    "message": "読み込み, 取り込み, インポート, 移行",
+    "sourceHash": "2f306a73be1f03a8a125af1b2ba0497d1aced8438c6aaaf1a3709304cec13806"
+  },
+  "search.components.Settings.settingsSearch.importExtensions": {
+    "message": "拡張機能, 取り込み, インポート, プラグイン, 追加",
+    "sourceHash": "e475b1e571cd1795dbbe461bf8e8b28b08bbe7c795535af4d17f117980375196"
+  },
+  "search.components.Settings.settingsSearch.importSkill": {
+    "message": "スキル, 取り込み, インポート, 追加",
+    "sourceHash": "a215b97b703373e8f2fd67154386b8b7537b9d9e8247bec1da6844136bc3a5e8"
+  },
+  "search.components.Settings.settingsSearch.importTheme": {
+    "message": "テーマ, 取り込み, インポート, 読み込み",
+    "sourceHash": "695b46459b1c5b5f83400d1f880110ca88db9e950426320c5cbf39f0ed8025d5"
+  },
+  "search.components.Settings.settingsSearch.improvement": {
+    "message": "改善, 改良, 機能改善, 向上",
+    "sourceHash": "4c02c6d4b04382200822bf887620c734d6f69a215669f58f016767d08790d4a6"
+  },
+  "search.components.Settings.settingsSearch.inactivePane": {
+    "message": "非アクティブ, 非選択, 背景, ペイン",
+    "sourceHash": "4021e92c50074b85825a16ce52d9fbfd78561943a7905000a88d844efdc58cec"
+  },
+  "search.components.Settings.settingsSearch.inbox": {
+    "message": "受信箱, メモ, 未処理, キャプチャ, インボックス",
+    "sourceHash": "c6cbb0deca7e16533aa732ca3eb83c4aac9f22317793fedae124d7a2a333b0d0"
+  },
+  "search.components.Settings.settingsSearch.includeCaptureTimestamp": {
+    "message": "メモ, 時刻, タイムスタンプ, 日時, 記録時刻",
+    "sourceHash": "a85ff7141f83ac475021f2bc31a38b58896602af3f4eea0d8dc136511068ec8c"
+  },
+  "search.components.Settings.settingsSearch.index": {
+    "message": "インデックス, 索引, 検索, 再構築",
+    "sourceHash": "4688743d7b9f47a8d7c090ecc23558735a811b9c42fbf7228cb1e605c9d5b0d5"
+  },
+  "search.components.Settings.settingsSearch.insertAs": {
+    "message": "挿入, 貼り付け, 形式, 埋め込み",
+    "sourceHash": "c180c5d27db8bad342b996a257e59f9730f3d04c30ebcaf52b28a36c6a3b0748"
+  },
+  "search.components.Settings.settingsSearch.instructions": {
+    "message": "指示, 手順, 説明, 指示文, プロンプト",
+    "sourceHash": "abac16c3212d71523ad1ecbd1530133b3201dedae0fe1dc5e534b02cff8bc3bc"
+  },
+  "search.components.Settings.settingsSearch.interface": {
+    "message": "画面, 表示, 外観, UI",
+    "sourceHash": "53eeb78c6c8cde26fa083f4f73ea9588391724518a562d5a3be80af6833e8797"
+  },
+  "search.components.Settings.settingsSearch.interfaceFont": {
+    "message": "フォント, 書体, 画面, 表示",
+    "sourceHash": "77ca43be90b51b23e77f5829fd26db5630001ccad824e5c4345611d1b8230c2f"
+  },
+  "search.components.Settings.settingsSearch.interfaceFontSize": {
+    "message": "文字サイズ, フォントサイズ, 文字の大きさ, 表示",
+    "sourceHash": "efa4ec2e4dbf9747a8edee561747d19842c77ca78ceadbb418a534bed5a9bdc0"
+  },
+  "search.components.Settings.settingsSearch.invertCopyShortcuts": {
+    "message": "コピー, ショートカット, 反転, 逆, キー",
+    "sourceHash": "068cdc910ad343c797c1b8ce1d42cb5bb7d184d7170a9c1cb67ef36d4b2abc66"
+  },
+  "search.components.Settings.settingsSearch.itemCount": {
+    "message": "件数, 数, 個数, カウント",
+    "sourceHash": "36e6a0efef64cf66cd8c84fcf0fb125ce8b51638c03dd0357d320edc484162fe"
+  },
+  "search.components.Settings.settingsSearch.keepLocalChanges": {
+    "message": "ローカル, 変更, 保持, 競合, 残す",
+    "sourceHash": "f32276e3e8fb5e89be39946f715a740ee088f2a2601763ac1d88c130c46b534d"
+  },
+  "search.components.Settings.settingsSearch.label": {
+    "message": "ラベル, 色, タグ, 分類",
+    "sourceHash": "9ed465c4d8c387da4cbd5186f9a49d354717077b9bddeca1a94069b65e12eda7"
+  },
+  "search.components.Settings.settingsSearch.labelColour": {
+    "message": "ラベル色, 色, 配色",
+    "sourceHash": "c6804cac312581362beed3832863d35e16e9a716703d2f176e5e5cdde439b80f"
+  },
+  "search.components.Settings.settingsSearch.labels": {
+    "message": "ラベル, 色, 分類, タグ",
+    "sourceHash": "f426a4c97674e8502b4d92dbb7252cdd1f334f5beae78e8f0dae4752b1abdeae"
+  },
+  "search.components.Settings.settingsSearch.lanes": {
+    "message": "レーン, 列, 分類, ボード",
+    "sourceHash": "b0fc22f1599a6b1cca7cb0807699a2506a335ac1e83b8820ac1621a2d835af8a"
+  },
+  "search.components.Settings.settingsSearch.language": {
+    "message": "言語, 地域, 翻訳, ローカライズ, 表示言語",
+    "sourceHash": "2cf2db96c5225becc0a82bdf2bef9c8005468dfbd6c66c3ecbaa6db4d2486a67"
+  },
+  "search.components.Settings.settingsSearch.large": {
+    "message": "大きい, 大, 拡大, 大きめ",
+    "sourceHash": "d42fd9ea302c7af390619c83afaaf2104c9a1fa05ac8d1444da9fac4e3f3fb0c"
+  },
+  "search.components.Settings.settingsSearch.lastInboxEntry": {
+    "message": "最後, 直近, 受信箱, メモ, 最新",
+    "sourceHash": "6f77299beef585736da16ea73b099f0ee4d530bc5e1c02ed35eb5bab425eecdc"
+  },
+  "search.components.Settings.settingsSearch.lastModified": {
+    "message": "更新日, 最終更新, 変更日, 日時, 編集日",
+    "sourceHash": "0cdfda5291da3bcb602ae3230987163974d6cf4c47bf03867037d09b0bf93a02"
+  },
+  "search.components.Settings.settingsSearch.lastSynced": {
+    "message": "同期日時, 最終同期, 同期, 前回",
+    "sourceHash": "86a657c21c08b5c3df8147cf5edda390f781726d909309c8b361b776ef94fcf1"
+  },
+  "search.components.Settings.settingsSearch.later": {
+    "message": "あとで, 後で, 延期, 後日",
+    "sourceHash": "67529f2756996bc059f8a6ad1a9087980a7a0ec1937867808492cc73fa51a0b8"
+  },
+  "search.components.Settings.settingsSearch.latex": {
+    "message": "数式, 数学, 式, 記法",
+    "sourceHash": "8c84f72a228050be6c8614bb72ca6ceef8df339910af429e36dd5082cadc955b"
+  },
+  "search.components.Settings.settingsSearch.launch": {
+    "message": "起動, 開始, 立ち上げ, 自動起動",
+    "sourceHash": "116fa02e142c742edf398ce6874f1f08f801c3e84fa24634f80fd2eda19e00a0"
+  },
+  "search.components.Settings.settingsSearch.layout": {
+    "message": "レイアウト, 配置, 表示, 並び",
+    "sourceHash": "6f4f7d8ca179178412ad865b260ebe079dbd952b012dd07ff140a1809c5658b2"
+  },
+  "search.components.Settings.settingsSearch.leftAligned": {
+    "message": "左揃え,左寄せ,左詰め,左配置",
+    "sourceHash": "2ea7ec8a3d2c9e859c8fb1bd506c1252b47c4b2694fed63f630e5f5e1bea3698"
+  },
+  "search.components.Settings.settingsSearch.letterSpacing": {
+    "message": "字間,文字間隔,字送り,トラッキング,カーニング",
+    "sourceHash": "e7bbf5b330dc1426b4e7492536295fa743967c7d67f7712c0f23e585ce89746c"
+  },
+  "search.components.Settings.settingsSearch.license": {
+    "message": "ライセンス,認証,利用権,契約",
+    "sourceHash": "0a9b74b915cd345f3a471799d38a1fa5ab2a633a600367325d1cfa395cde4392"
+  },
+  "search.components.Settings.settingsSearch.licenseKey": {
+    "message": "ライセンスキー,認証キー,シリアル番号,プロダクトキー",
+    "sourceHash": "a9b77ff66518618b299ac63c7b1d99999bfe05f7d69c700d362a58c39861a5e5"
+  },
+  "search.components.Settings.settingsSearch.lightPalette": {
+    "message": "明るい配色,ライト,配色,カラー,明るいテーマ",
+    "sourceHash": "fac8c218ce6ae2158348aa86ea87d39707be1ecbe6461b78dc748d52634b3cbf"
+  },
+  "search.components.Settings.settingsSearch.lightTheme": {
+    "message": "ライトテーマ,明るいテーマ,ライトモード,白背景,外観",
+    "sourceHash": "3900fee73e96699d46438fa12211362e4701c4ed63b18ff0e9071949892f1210"
+  },
+  "search.components.Settings.settingsSearch.lightWeight": {
+    "message": "細字,細い,ライト,フォントの太さ,ウェイト",
+    "sourceHash": "392369748432a4f84849b35421f28b6b7d1aa5bb9533dd47b0aa9ba12d9ced56"
+  },
+  "search.components.Settings.settingsSearch.lineHeight": {
+    "message": "行の高さ,行間,行送り,行間隔",
+    "sourceHash": "2893169746fd5e1bd61db3e5f83d35f8cb8c2a2f275cfe2a9eb133f297780545"
+  },
+  "search.components.Settings.settingsSearch.lines": {
+    "message": "行,行数,行番号,行表示",
+    "sourceHash": "c222031dff5450456dcd5cfd487a9756bd60618c55cbe73be99659df0895f779"
+  },
+  "search.components.Settings.settingsSearch.linkedNotesDisplay": {
+    "message": "リンクされたノート,関連ノート,リンク表示,バックリンク表示,表示",
+    "sourceHash": "e1ffc243806e8bf863fc80a62d3c29fcd804e5e498adb64ef9a262e77f1aada3"
+  },
+  "search.components.Settings.settingsSearch.links": {
+    "message": "リンク,リンク先,つながり,関連",
+    "sourceHash": "a19cf290d3ab52af8c4663bbada0e28817642084aaaa4ed40af94651836f2b13"
+  },
+  "search.components.Settings.settingsSearch.listSpacing": {
+    "message": "リスト間隔,項目間隔,リストの余白,行間",
+    "sourceHash": "dd97ccff010d55b4a4fd25f6e043157d3fbd75cc996e101eef42b7bfa19b6c0f"
+  },
+  "search.components.Settings.settingsSearch.lmStudio": {
+    "message": "ローカルモデル,ローカル LLM,エルエムスタジオ,モデル実行",
+    "sourceHash": "4ab308cf02a0674d428d5635e5bbff129269f15dcf4fa7a63999243991c98fdd"
+  },
+  "search.components.Settings.settingsSearch.lmstudio": {
+    "message": "エルエムスタジオ,ローカル LLM,ローカルモデル,モデル実行",
+    "sourceHash": "a5698ae22e01909358e72bf75bbf1ba5415165fd599e0266a19d085335c4bd39"
+  },
+  "search.components.Settings.settingsSearch.location": {
+    "message": "場所,保存先,パス,フォルダの場所,位置",
+    "sourceHash": "1ffdddc0bc262fd23c2762116114f984b8d884c4a28550288c7bfd197a872a46"
+  },
+  "search.components.Settings.settingsSearch.login": {
+    "message": "ログイン,サインイン,ログアウト,アカウント",
+    "sourceHash": "6fa9cafb57095ce953a76825165a307144631f4c3c23a96ec634040184ffacfc"
+  },
+  "search.components.Settings.settingsSearch.maintenance": {
+    "message": "メンテナンス,保守,整理,修復,データ整理",
+    "sourceHash": "238759d6c41fc87fa4323987331e931c438eb35aa80dd8485732b0ebc37bc0d5"
+  },
+  "search.components.Settings.settingsSearch.manageDevices": {
+    "message": "デバイス管理,端末管理,デバイス,端末,シート管理",
+    "sourceHash": "1ce0705af55df81c2ab08995ff3b3539f060cbe7bdf38312148759783c44635e"
+  },
+  "search.components.Settings.settingsSearch.manageGitInOctarine": {
+    "message": "Git の管理,バージョン管理,同期,連携",
+    "sourceHash": "f6b9f49458015dbef47e286df71f0e6119d16490cf910b5201f8b70462a8ce20"
+  },
+  "search.components.Settings.settingsSearch.math": {
+    "message": "数式,数学,数学記号,LaTeX",
+    "sourceHash": "3dee6ea32302b4c1e53ba9701c6efce978026078e1e755c4c2d5c12ccd583eab"
+  },
+  "search.components.Settings.settingsSearch.metadata": {
+    "message": "メタデータ,メタ情報,プロパティ,属性,付随情報",
+    "sourceHash": "deb7e62dc171333d89348df4f091c841ebcc218b36b353d538e95956ba0be5e0"
+  },
+  "search.components.Settings.settingsSearch.mistral": {
+    "message": "ミストラル,ミストラル AI,AI モデル",
+    "sourceHash": "9f3935b7671de6c646599dfe15820eb59dac8153f80fdbe000df953fa7cb582c"
+  },
+  "search.components.Settings.settingsSearch.models": {
+    "message": "モデル,AI モデル,言語モデル",
+    "sourceHash": "b90878b79c46a97d2026cc2b59e4923bb900685acf58741f5aa835668b805e39"
+  },
+  "search.components.Settings.settingsSearch.modifiedTime": {
+    "message": "更新日時,変更日時,最終更新,更新時刻,編集日時",
+    "sourceHash": "e5d004c397324e6fb8401b160110405a36ce5ab9d1e110e248cf6b48e6f3d190"
+  },
+  "search.components.Settings.settingsSearch.monospace": {
+    "message": "等幅,等幅フォント,固定幅,コード",
+    "sourceHash": "006e502b456ace487dbb2d648668a1f6f5c1a84c6c2018e7cbf72886193f4f9e"
+  },
+  "search.components.Settings.settingsSearch.monospaceFont": {
+    "message": "等幅フォント,固定幅フォント,コードフォント,フォント",
+    "sourceHash": "e67c1230e4af117b50d19296da1d379d3bccd46b49e037c8b8b1f767d8fbce37"
+  },
+  "search.components.Settings.settingsSearch.name": {
+    "message": "名前,名称,表示名,ユーザー名",
+    "sourceHash": "f7a1c051c7ec617fcc126d7846d85022f0d1518e8ae827b9fd043f6c80f49bd5"
+  },
+  "search.components.Settings.settingsSearch.narrow": {
+    "message": "狭い,狭幅,狭く,幅,コンパクト",
+    "sourceHash": "88fab0cc4afc967d446da864c5df2a50bd0c9bb3d0aa16557becee0cd0309086"
+  },
+  "search.components.Settings.settingsSearch.newBucket": {
+    "message": "新しいレーン,レーン追加,レーンを作成,レーン",
+    "sourceHash": "e1338c112a7a88e78ed9bfc5e0b8a462cf135c6a8b766fb966da05dc500d8333"
+  },
+  "search.components.Settings.settingsSearch.newCommand": {
+    "message": "新しいコマンド,コマンド作成,コマンド追加,ショートカット",
+    "sourceHash": "b35196427293c034c074daa04530e1d4ec456a6a462cef4ddb0f5d00425692d4"
+  },
+  "search.components.Settings.settingsSearch.newLabel": {
+    "message": "新しいラベル,ラベル作成,ラベル追加,ラベル",
+    "sourceHash": "ebe291d569644bc13fa84acf9adb6e89e700d2e2c789175762e5380fffffab0f"
+  },
+  "search.components.Settings.settingsSearch.newSkill": {
+    "message": "新しいスキル,スキル作成,スキル追加,AI スキル",
+    "sourceHash": "28b70125ad1308a717395c93325eac66baccc6b3b5c0cd56d84a66d460cfa504"
+  },
+  "search.components.Settings.settingsSearch.newStatus": {
+    "message": "新しいステータス,ステータス作成,ステータス追加,状態",
+    "sourceHash": "0795d825f46158bdb0398d8158c05dc6dd02f5fd91f055491712f065b5299d70"
+  },
+  "search.components.Settings.settingsSearch.newTemplate": {
+    "message": "新しいテンプレート,テンプレート作成,テンプレート追加,ひな形",
+    "sourceHash": "197f970c49b7bcb7a7f0f1fa9ebe1b5c9d76d4ef8dbcc5ebc90ace24f2635274"
+  },
+  "search.components.Settings.settingsSearch.newTheme": {
+    "message": "新しいテーマ,テーマ作成,テーマ追加,配色",
+    "sourceHash": "ac3c1e805cf381380368bec866e246f6238b565aa0ae7017ae8e7618dece1d37"
+  },
+  "search.components.Settings.settingsSearch.newType": {
+    "message": "新しいノートタイプ,ノートタイプ作成,種類追加,タイプ追加",
+    "sourceHash": "4e717921980c5d6e73832b48e00f9cfc519ff56515634f2e7a57b8572e3e2626"
+  },
+  "search.components.Settings.settingsSearch.next": {
+    "message": "次,次へ,次のレーン,次回",
+    "sourceHash": "68eb072e797bea75f80ccbadc4933e5545c047e9db2f9aa5343484e573282703"
+  },
+  "search.components.Settings.settingsSearch.nonmarkdownFiles": {
+    "message": "Markdown 以外,非 Markdown,その他のファイル,添付ファイル,ファイル",
+    "sourceHash": "e1aeb04894791a0306dbb4dd84ae37ec6ea7723deb142488b70767657bfced86"
+  },
+  "search.components.Settings.settingsSearch.notIndexed": {
+    "message": "未インデックス,インデックス未登録,検索対象外,索引なし,インデックスされていない",
+    "sourceHash": "1b62e6294a4dc7a6bdf9641d3346b740c2cbe56e919e7bb41365fffc8ff950f3"
+  },
+  "search.components.Settings.settingsSearch.noteCreation": {
+    "message": "ノート作成,ノート追加,新規ノート,ファイル作成,新規作成",
+    "sourceHash": "0349d98d91f8ffa0ba1486b6a991484b07be463d983c66c5f3d00242adc224b6"
+  },
+  "search.components.Settings.settingsSearch.noteNaming": {
+    "message": "ノート名,ファイル名,名前付け,命名規則,ノートの命名",
+    "sourceHash": "1a7bde95195656abad3caccaa786431a386011dc96ea85846e58342a85148ca9"
+  },
+  "search.components.Settings.settingsSearch.noteType": {
+    "message": "ノートタイプ,ノートの種類,タイプ,テンプレート",
+    "sourceHash": "fcb582957707f4b764daaa32802d3e8260c8e47ff30a48e8a0b0d359c1a0057a"
+  },
+  "search.components.Settings.settingsSearch.noteTypes": {
+    "message": "ノートタイプ,ノートの種類,タイプ,テンプレート一覧",
+    "sourceHash": "8522085d0a70dfa38f79a332e236b59b362d6332b4c34d93b6cd6afb08af16e0"
+  },
+  "search.components.Settings.settingsSearch.notes": {
+    "message": "ノート,メモ,記録,文書",
+    "sourceHash": "f67c2d1f5dbbff057bb210eee28d0fda2b7ef963d63a527da36f911d082a6e67"
+  },
+  "search.components.Settings.settingsSearch.notifications": {
+    "message": "通知,お知らせ,アラート,リマインダー",
+    "sourceHash": "dbbea7127a176e73b31b54de33e6ca42924c5073ce19e0fd2e1ec637f2f81784"
+  },
+  "search.components.Settings.settingsSearch.now": {
+    "message": "現在,今,今日,ナウ",
+    "sourceHash": "d9db8fe14475b97926a14a27c168d4e6d6636c713f281dad42cd9d58c44757d4"
+  },
+  "search.components.Settings.settingsSearch.octarine": {
+    "message": "アプリ設定,アプリ情報,バージョン情報",
+    "sourceHash": "592fa0363b8ce7326a694ecce1a00b7c5d05e627ee517d714fb5f66009adf4d8"
+  },
+  "search.components.Settings.settingsSearch.octarineManagement": {
+    "message": "アプリ管理,アプリ設定,ライセンス管理,アップデート",
+    "sourceHash": "e595d97ffd1627054e26f6e47ef6d31d213ceaf5d408e851788be16b2834d630"
+  },
+  "search.components.Settings.settingsSearch.ollama": {
+    "message": "ローカル LLM,ローカルモデル,ローカル AI,オラマ",
+    "sourceHash": "ea8c94ff131983bdebf1e907b65fc906c6d1f4a1929ed39a17c7269ef536867d"
+  },
+  "search.components.Settings.settingsSearch.onAppStart": {
+    "message": "起動時,アプリ起動時,自動起動,ログイン時,起動",
+    "sourceHash": "b80204d176cb50cc7a57bd7ffa1f51a50893a90302051bf5360fabdc36ef7612"
+  },
+  "search.components.Settings.settingsSearch.onlyNoteName": {
+    "message": "ノート名のみ,ファイル名のみ,名前のみ,名前だけ",
+    "sourceHash": "f27edb11dee4ba63c3742f28ffb3aa88458fa9ae1457f179115bff853d34b033"
+  },
+  "search.components.Settings.settingsSearch.openai": {
+    "message": "オープン AI,ChatGPT,GPT,APIキー",
+    "sourceHash": "a6efab817d6aecb70e932b017b8b85aea774561eae21168b575db86a3bac84bc"
+  },
+  "search.components.Settings.settingsSearch.opencode": {
+    "message": "オープンコード,AI コーディング,コーディング支援",
+    "sourceHash": "5273726b96f1863b4ad95b65bae3f8eefb86d4591505a2c76c443e21cb573b7c"
+  },
+  "search.components.Settings.settingsSearch.organization": {
+    "message": "組織,団体,チーム,会社,組織設定",
+    "sourceHash": "0379042184baa29dcc9aa744727a4ec4b517ec5295423b9d5476c2a4ad0fdc2c"
+  },
+  "search.components.Settings.settingsSearch.outline": {
+    "message": "アウトライン,見出し,目次,構成,概要",
+    "sourceHash": "509072b054cc930100ede18c8845fad5ddc1cb214159ad72b89a7044d2450572"
+  },
+  "search.components.Settings.settingsSearch.overscroll": {
+    "message": "オーバースクロール,スクロール,余白,バウンス,はみ出し",
+    "sourceHash": "97f46a8e5610bc8b235008f700781d3473c71e5199d7084925d2ac2cf63e5ade"
+  },
+  "search.components.Settings.settingsSearch.palette": {
+    "message": "パレット,配色,色,カラーパレット,テーマ色",
+    "sourceHash": "697bfe1d5e11a0d223b5fd0154da3efe472fb948e858b691696179c2a0bfbd88"
+  },
+  "search.components.Settings.settingsSearch.pane": {
+    "message": "ペイン,分割ペイン,パネル,画面領域",
+    "sourceHash": "a907ba4dd9ffb459dd9f91513e729ec2c99738ce30d2c153363fb24b131b4e9c"
+  },
+  "search.components.Settings.settingsSearch.panes": {
+    "message": "ペイン,分割ペイン,パネル,画面",
+    "sourceHash": "202a57725c6f92d37f712eece562d4f9aae94397434cff43d5b6d031ca8e190c"
+  },
+  "search.components.Settings.settingsSearch.paper": {
+    "message": "用紙,紙,ペーパー,紙面,印刷用紙",
+    "sourceHash": "979e340b289304053775e362f6df874e93115eb4a1467a51e4cff7d314357f49"
+  },
+  "search.components.Settings.settingsSearch.paperType": {
+    "message": "用紙タイプ, 用紙サイズ, 紙の種類, 用紙, ページ サイズ",
+    "sourceHash": "fcd6136abfc2ad08c7a194b4579b4c7072667e013af16fa5704128f62f83e45d"
+  },
+  "search.components.Settings.settingsSearch.paragraphSpacing": {
+    "message": "段落間隔, 段落, 行間, 余白, 段落の余白",
+    "sourceHash": "0392656dafb15a908bcc5440f56d7cdadfb4dcd1f556ee0e6347e91b62de58d3"
+  },
+  "search.components.Settings.settingsSearch.pasteCss": {
+    "message": "CSS貼り付け, CSSを貼り付け, カスタムCSS, スタイル, 貼り付け",
+    "sourceHash": "2e4606af2d032563b83b35e64aa785fab739f533ad2ccf2a35711d259de3ea89"
+  },
+  "search.components.Settings.settingsSearch.path": {
+    "message": "パス, 保存先, 場所, ファイルパス, フォルダパス",
+    "sourceHash": "b37d024d95e4139a8a259f3b953c7e28140d9b5cba4c4374b2a24f72f8facac8"
+  },
+  "search.components.Settings.settingsSearch.perplexity": {
+    "message": "パープレキシティ, 検索AI, AI検索, 検索エンジン",
+    "sourceHash": "0c9b2fb50fd68df2379a695c92d9a4f41c5c92735731e21d3828ba6614638cbb"
+  },
+  "search.components.Settings.settingsSearch.personalize": {
+    "message": "カスタマイズ, 個人設定, パーソナライズ, 好み, 見た目の変更",
+    "sourceHash": "6e1494f6452be98a092d8699ed556085fe967a40a792fc889e7e1947daf3a05b"
+  },
+  "search.components.Settings.settingsSearch.preferences": {
+    "message": "環境設定, 基本設定, 設定, オプション, 初期設定",
+    "sourceHash": "f71e0000444fca6f90bc5004795e4bc5a50d66ada86f35bb1c2ce163e4a8e429"
+  },
+  "search.components.Settings.settingsSearch.preferredDarkColorTheme": {
+    "message": "ダークテーマ, 暗いテーマ, ダークモード, 配色, カラーテーマ",
+    "sourceHash": "b59ac5545f6f905d67bb189ad2e8caa301bbc6441d2e10df4b140e5b3eaec897"
+  },
+  "search.components.Settings.settingsSearch.preferredLightColorTheme": {
+    "message": "ライトテーマ, 明るいテーマ, ライトモード, 配色, カラーテーマ",
+    "sourceHash": "1c525cfeba1e78fbc5c5c7d2c4e61f9d940e91b6d50a4d5d99a56096eb7acec8"
+  },
+  "search.components.Settings.settingsSearch.premium": {
+    "message": "プレミアム, 有料, 課金, 有料プラン, 有料機能",
+    "sourceHash": "f67577e8583b1d06dd93f6b4fe498726396407e15898d34523163aee8b861892"
+  },
+  "search.components.Settings.settingsSearch.presets": {
+    "message": "プリセット, あらかじめ設定, 初期値, 設定の組み合わせ",
+    "sourceHash": "aa1e2b59c28a05bc7242333f83b0da37d26aaeb7516a5f86044103036907cb4a"
+  },
+  "search.components.Settings.settingsSearch.pro": {
+    "message": "プロ版, 有料版, 課金, ライセンス, 有料プラン",
+    "sourceHash": "20e53d065631e1ff838b7bf96450e8d33677d1f7d3a04693a51c1b8ad56fb908"
+  },
+  "search.components.Settings.settingsSearch.prompt": {
+    "message": "プロンプト, 指示, 指示文, 入力文, 命令文",
+    "sourceHash": "7c23e8a7916df209cd772d5dae3dd3551125c038714c5629a8f796305145dbee"
+  },
+  "search.components.Settings.settingsSearch.prompts": {
+    "message": "プロンプト, 指示, 指示文, 入力文, 命令文",
+    "sourceHash": "a14248240589e558a46dd5a7f81c70c296b4b951d12439b49404e140e8242e90"
+  },
+  "search.components.Settings.settingsSearch.properties": {
+    "message": "プロパティ, 属性, メタデータ, フィールド, 項目",
+    "sourceHash": "e69865f572b8fc44421c58f03c0860f7556400954e0244e3cd934f948b6340ac"
+  },
+  "search.components.Settings.settingsSearch.propertyDefinitions": {
+    "message": "プロパティ定義, 属性定義, フィールド定義, スキーマ, 項目定義",
+    "sourceHash": "03920c3b0bb2727a8248aa3ae5146a892cc1644a5d3f8b1936cf2b0e5c1bef01"
+  },
+  "search.components.Settings.settingsSearch.provider": {
+    "message": "プロバイダ, プロバイダー, 接続先, AIサービス, サービス",
+    "sourceHash": "9a52ee424edbdeb8d899e1f39307f854781a493efc08de484fdb57506d70c553"
+  },
+  "search.components.Settings.settingsSearch.providerFormat": {
+    "message": "プロバイダ形式, API形式, 互換形式, 形式, 接続形式",
+    "sourceHash": "b3e979d380a48131b2805a1e2b5fc646518d7c48c12934237dc84f0c856e2465"
+  },
+  "search.components.Settings.settingsSearch.providerName": {
+    "message": "プロバイダ名, サービス名, 表示名, 名前",
+    "sourceHash": "b3465e9134631749aeaf6d25d38835355dc0d21c344673e6088b2fbfcdf22380"
+  },
+  "search.components.Settings.settingsSearch.providers": {
+    "message": "プロバイダ, プロバイダー, 接続先, AIサービス, サービス",
+    "sourceHash": "e4e7ff7687da7ba89e5691fd1454af8ce0e5070a25f8ff7fa3d2624eb7361caf"
+  },
+  "search.components.Settings.settingsSearch.public": {
+    "message": "公開, 共有, 公開設定, 一般公開",
+    "sourceHash": "741fbef54eca851c0c8180e7c6f3b6efafccb271f797fce4148b9d917bf00f99"
+  },
+  "search.components.Settings.settingsSearch.publicNotes": {
+    "message": "公開ノート, 共有ノート, 公開ページ, 公開",
+    "sourceHash": "bf4fe77c89a959c90c1d398a86db6767a6ac5fa4338589f15f0a6c6154aa2c95"
+  },
+  "search.components.Settings.settingsSearch.publish": {
+    "message": "公開, 発行, 公開する, 配信",
+    "sourceHash": "686203f9ad4a320bf481bcc1120d733683c150e94b0f949db5b65514ee768f1e"
+  },
+  "search.components.Settings.settingsSearch.publishNotes": {
+    "message": "ノート公開, 公開ノート, 公開, 共有",
+    "sourceHash": "c133b624fd1419922205bd148c5c53ef5e1f428ec23f70e36f6dd57690545d47"
+  },
+  "search.components.Settings.settingsSearch.pullChanges": {
+    "message": "プル, 変更を取得, 変更を取り込み, 同期, 更新",
+    "sourceHash": "70b466aa7718f2d859ea04487a17cbbd80f6a9fbc32d69a9bd5a72b582f6dd4f"
+  },
+  "search.components.Settings.settingsSearch.quickCapture": {
+    "message": "クイックキャプチャ, メモ, 素早く記録, 簡易入力, 記録",
+    "sourceHash": "b53ff816239f0745ff849ebe3d262d2cecc35a8ec874812bdf1fbcf3da427574"
+  },
+  "search.components.Settings.settingsSearch.quotes": {
+    "message": "引用, 引用符, 引用ブロック, 引用文, カッコ",
+    "sourceHash": "b3a7347718b4a74df344f53b5f6f119568214428a0573c82650944b2f5752856"
+  },
+  "search.components.Settings.settingsSearch.quotesWrap": {
+    "message": "引用符, 折り返し, 引用, 改行, 自動改行",
+    "sourceHash": "74f08550a0e186ed7347ad0bbfede5c66961866cb6ea353ea42225b142c2b4b5"
+  },
+  "search.components.Settings.settingsSearch.randomThemeOnStartup": {
+    "message": "起動時, ランダム, ランダムテーマ, テーマ, 配色",
+    "sourceHash": "e45e17b263aa3b2e8e806e16e66b3c005b49b0006944aba6c44626d8ddafc250"
+  },
+  "search.components.Settings.settingsSearch.readerTheme": {
+    "message": "リーダー, 閲覧テーマ, 読書, 閲覧, テーマ, 読みやすさ",
+    "sourceHash": "2007cf7051beb5907e35e9e6e9bb727892130425d1e58f726bde5127190e9e16"
+  },
+  "search.components.Settings.settingsSearch.readingTime": {
+    "message": "読書時間, 読了時間, 読む時間, 所要時間",
+    "sourceHash": "120b3b55ce7c7c9e6137f2b88a3c13b50b8dce77c5749cde1b5803f926de0144"
+  },
+  "search.components.Settings.settingsSearch.rebuildProperties": {
+    "message": "プロパティ再構築, 再構築, 再作成, 再インデックス, 属性",
+    "sourceHash": "47e61fbdd907900c9bdb78429a42402f214b7674f316e987d276a15e3ff65f5c"
+  },
+  "search.components.Settings.settingsSearch.rebuildTags": {
+    "message": "タグ再構築, 再構築, 再作成, 再インデックス, タグ更新",
+    "sourceHash": "0c77be4b0bb7efc2cbf5ca8488df9881ed575d92e07e3a2d8cd0c0c7f7966d09"
+  },
+  "search.components.Settings.settingsSearch.recapPeriod": {
+    "message": "振り返り期間, 振り返り, レビュー期間, 集計期間, 期間",
+    "sourceHash": "e6d26a22593acbab45c51059da0dd1a51fd8865062f300d0cd4adf4571f7f17d"
+  },
+  "search.components.Settings.settingsSearch.references": {
+    "message": "参照, 参照元, 参照先, リンク, バックリンク",
+    "sourceHash": "21b3172bebedde588e727c56d59b0ff8d2b9d3572d8518bbcd5af205cd504fb9"
+  },
+  "search.components.Settings.settingsSearch.refreshStatus": {
+    "message": "ステータス更新, 状態更新, 再読み込み, 更新, 状況",
+    "sourceHash": "7efb7c30e04dd03cf2f7b158bacdddf476cebc0da7013ecbb99e9f6e4bff709d"
+  },
+  "search.components.Settings.settingsSearch.refreshTagsAndProperties": {
+    "message": "タグとプロパティを更新, タグ更新, プロパティ更新, 再読み込み, 再インデックス",
+    "sourceHash": "47823599b2e5ab61a71c17e68f2bb7db07c1bf2d4d3911a968b80de8565a418b"
+  },
+  "search.components.Settings.settingsSearch.regular": {
+    "message": "通常, 標準, 普通, 既定, 通常版",
+    "sourceHash": "47c2fa50e92d526446d95accad58b83411df7fe6f4fca6b23b1a5ea382de237f"
+  },
+  "search.components.Settings.settingsSearch.reindexTags": {
+    "message": "タグ再インデックス, 再インデックス, インデックス再作成, タグ更新",
+    "sourceHash": "6a39f49080202ccfdde6e7ff167a64964117a9305f686ff9cee1cbe08780995b"
+  },
+  "search.components.Settings.settingsSearch.releaseNotes": {
+    "message": "リリースノート, 更新履歴, 変更履歴, 新機能, バージョン情報",
+    "sourceHash": "bfd09eb2c09f09600776fdb386fbbd57ef9c1b218c8ad5df27c0ee31a4f10e7d"
+  },
+  "search.components.Settings.settingsSearch.remoteSshUrl": {
+    "message": "リモートURL, SSH接続先, 接続アドレス, サーバーアドレス, 接続先",
+    "sourceHash": "b75dbccb06148de6608c8d2aec629d128c952de0b991e7c0d9d73988d1a7e3b2"
+  },
+  "search.components.Settings.settingsSearch.remoteUrl": {
+    "message": "リモートURL, 接続先, サーバーアドレス, 接続アドレス, リポジトリ",
+    "sourceHash": "ed6b0154d4e78e715c5360113fab283fa5585498b719ef4752b3838574e818f1"
+  },
+  "search.components.Settings.settingsSearch.remove": {
+    "message": "削除, 取り除く, 除去, 解除, 外す",
+    "sourceHash": "a66d43c57c8e711135fccf1b1bf550b187df16de767b5f2150e8793c98300cd5"
+  },
+  "search.components.Settings.settingsSearch.removeGitsyncIntegration": {
+    "message": "Git同期解除, 同期解除, 連携解除, 連携を削除",
+    "sourceHash": "b90e91f05d406d03ab903b9c2a6f6eb17157c6b6b558fd0e02b668895c62a9c5"
+  },
+  "search.components.Settings.settingsSearch.removeIntegration": {
+    "message": "連携解除, 連携を削除, 統合解除, 接続解除",
+    "sourceHash": "51c2b0baf16d5180f08594029e3940dcdd3ae1a9965d1dce674cdbfd152c67cc"
+  },
+  "search.components.Settings.settingsSearch.removeWorkspace": {
+    "message": "ワークスペース削除, 削除, 除外, 登録解除",
+    "sourceHash": "99c6b1dcffa5b1439b216ba8e08dbe30479e27be151d1a4deaa9302f6b439dc3"
+  },
+  "search.components.Settings.settingsSearch.rename": {
+    "message": "名前変更, 改名, リネーム, 名称変更",
+    "sourceHash": "8ad89b2f16ce4e2304951333080898438993905cd766c4eff99522a2c8457331"
+  },
+  "search.components.Settings.settingsSearch.renderMathEquations": {
+    "message": "数式, 数式表示, 数式描画, 数学記号, 方程式",
+    "sourceHash": "7bf26310878de20f9e5900fd95a9f9fe2be0f94be723921bc0a4b1ae891ae497"
+  },
+  "search.components.Settings.settingsSearch.repository": {
+    "message": "リポジトリ, レポジトリ, 保存場所, 保管場所",
+    "sourceHash": "673f71849bea821e405deeba3e4ee5cd82b3cc8b17ac5bb13f7910d3147387a1"
+  },
+  "search.components.Settings.settingsSearch.requireModifierToSend": {
+    "message": "修飾キー, 送信キー, 修飾キーで送信, 送信, 送信設定",
+    "sourceHash": "32dafb3980fff84d3ad1e7f76c21ebcceefb715ef99d5c9cd89866c9c5596545"
+  },
+  "search.components.Settings.settingsSearch.reset": {
+    "message": "リセット, 初期化, 既定に戻す, 元に戻す",
+    "sourceHash": "eddbb8f6d1cec1af9cb36705e47741f4bbd8ad2566d0cbc292c4ad555ebae04b"
+  },
+  "search.components.Settings.settingsSearch.resetWorkspace": {
+    "message": "ワークスペースを初期化, 初期化, リセット, 既定に戻す",
+    "sourceHash": "b19b36422f7f19fd62a4026965da5d72099f8b6dfb9d2ef03c58d2c9c65d02aa"
+  },
+  "search.components.Settings.settingsSearch.root": {
+    "message": "ルート, 最上位, ルートフォルダ, 起点, 基点",
+    "sourceHash": "6c0c4880acad3b60803df66d1617ef84e9185a7ea5e2c4691c6b4bec55ce48d2"
+  },
+  "search.components.Settings.settingsSearch.rules": {
+    "message": "ルール, 規則, 条件, 自動化, 振り分けルール",
+    "sourceHash": "df218a57fb696e8ef5783216190a103e0641fee5c4c97e5b4fe2fe10769643b2"
+  },
+  "search.components.Settings.settingsSearch.saveTo": {
+    "message": "保存先, 保存, 保存場所, 出力先, 書き出し先",
+    "sourceHash": "28e548a776e787b3f950adf9869fb704f5985cb44144f39fd8abc702eb32bcb2"
+  },
+  "search.components.Settings.settingsSearch.scaling": {
+    "message": "拡大縮小, 倍率, 表示倍率, スケール, 拡大率",
+    "sourceHash": "4b54bf1375df19249423c870981f4bf1d0f2a04694e75712195a2b82fb6a3cd4"
+  },
+  "search.components.Settings.settingsSearch.schedule": {
+    "message": "スケジュール, 予定, 日程, 定期実行, 時間",
+    "sourceHash": "c87d1d31dac25e2e1043ca9de26a59c93e5d3cdfcbcf72302f9eb7c1b8ebc713"
+  },
+  "search.components.Settings.settingsSearch.schema": {
+    "message": "スキーマ, 構造, 定義, データ構造, 形式",
+    "sourceHash": "eaafb4d4661c460f2211bd5e9f663fd019041de514a469cb366674cc6e9daa4d"
+  },
+  "search.components.Settings.settingsSearch.scrollSpace": {
+    "message": "スクロール余白, 余白, 末尾余白, 余白量, スクロール",
+    "sourceHash": "f3670f534ac051f8004a3c1d82cad358b8ecbd15ac127bdc270c86bc6eb6dea1"
+  },
+  "search.components.Settings.settingsSearch.sendAiRequests": {
+    "message": "AIリクエスト送信, リクエスト送信, 問い合わせ, 外部送信, 送信",
+    "sourceHash": "7a9411709d37f6764fd4f207b923b056febf891882da32ef2faf75326284d554"
+  },
+  "search.components.Settings.settingsSearch.sendFeedback": {
+    "message": "フィードバック送信,意見,要望,感想,問い合わせ",
+    "sourceHash": "97f1aa3300bd10b323f87b1194349e0d8a4b60a24aea18265fcf2e863ded3e7c"
+  },
+  "search.components.Settings.settingsSearch.sendMessageModifier": {
+    "message": "メッセージ送信,修飾キー,送信キー,キーボード,ショートカット",
+    "sourceHash": "69a6d356f210456173e55e12f9578ca910100f993e78aebc675c94ba2eb15a7c"
+  },
+  "search.components.Settings.settingsSearch.serverUrl": {
+    "message": "サーバーURL,サーバーアドレス,接続先,エンドポイント,URL",
+    "sourceHash": "27a0113ec128cae55d230cc49c0d3c75bd715271d421e07c207598bf84f09c74"
+  },
+  "search.components.Settings.settingsSearch.setRandomThemeOnStartup": {
+    "message": "起動時,ランダム,テーマ,配色,ランダムテーマ,起動",
+    "sourceHash": "03f125692dbff0dcbbd9b49200f9c3d0b4e1734933396a6fea4d9d1fc635b838"
+  },
+  "search.components.Settings.settingsSearch.setup": {
+    "message": "セットアップ,初期設定,導入,はじめに,設定",
+    "sourceHash": "ad11734cb4b7b4a8b79cd87817d1b2e7762888a83791565c3ed29e7476650ab2"
+  },
+  "search.components.Settings.settingsSearch.share": {
+    "message": "共有,シェア,公開",
+    "sourceHash": "5acf051b8b60127f499e2429ad85ba3511da5020ab3b6970f7fbc75110e5a968"
+  },
+  "search.components.Settings.settingsSearch.shareButton": {
+    "message": "共有ボタン,シェアボタン,共有アイコン",
+    "sourceHash": "19794352305c99153518c2987f121ae4c88e46ed8ed6b08c57aaeb9d68a37de9"
+  },
+  "search.components.Settings.settingsSearch.sharedNoteAppearance": {
+    "message": "共有ノート,共有ノートの見た目,公開ノート,外観,デザイン",
+    "sourceHash": "1da30df9041562849b804b93ad5849fab1418b9007a38bc3fe885fb793054f02"
+  },
+  "search.components.Settings.settingsSearch.sharing": {
+    "message": "共有,シェア,公開,リンク共有",
+    "sourceHash": "9fe0d20035aae48183e8483eba5191e7e72ff90304a62c43d9c189707008bf5a"
+  },
+  "search.components.Settings.settingsSearch.short": {
+    "message": "短い,短縮,簡潔",
+    "sourceHash": "4d5311c85e9e9ae540261e70b4eb00c69ee79c6f06ce5b5158e15b42f46fad87"
+  },
+  "search.components.Settings.settingsSearch.shortcut": {
+    "message": "ショートカット,キーボードショートカット,キー,ホットキー,キーバインド",
+    "sourceHash": "3a3ac57a066a672f18bff6b36ec92744d35b7f78c9bd285c4cacec567ce18809"
+  },
+  "search.components.Settings.settingsSearch.shortcuts": {
+    "message": "ショートカット,キーボードショートカット,キー,ホットキー,キーバインド",
+    "sourceHash": "83e5566512e9c965216e310e25f5de397d613eb559d273a626cb69fefe786c23"
+  },
+  "search.components.Settings.settingsSearch.shortestName": {
+    "message": "最短名,短い名前,ファイル名,名前",
+    "sourceHash": "b5e4c08c7bdfbdd7f72460ccfead5e9f0255a91b54d260d81b87af177af194f7"
+  },
+  "search.components.Settings.settingsSearch.showAllFileTypesInTree": {
+    "message": "ファイルの種類,ファイル形式,ツリー,全ファイル表示,すべてのファイル,ファイルツリー,表示",
+    "sourceHash": "dc9459f4a5b3cb4a78ef439fdb4250afb54cc3186e976cd501754067b163a447"
+  },
+  "search.components.Settings.settingsSearch.showAuthor": {
+    "message": "作成者,著者,表示名,ユーザー名",
+    "sourceHash": "2ee11f3b706830bf87ddb99ce7fe95daa7b2ce53a6d2a5134c503a41152c475b"
+  },
+  "search.components.Settings.settingsSearch.showCalendar": {
+    "message": "カレンダー,日付,カレンダー表示,予定",
+    "sourceHash": "25d6b7f44ae17e8709ed38ac1fd51c8b23bfdafaf0af0f4682c0fc607b3f8448"
+  },
+  "search.components.Settings.settingsSearch.showConfirmationWhenDeleting": {
+    "message": "削除の確認,確認ダイアログ,削除時,警告,確認メッセージ",
+    "sourceHash": "1bd624978aa97942da7134ac5ee1f39da55f76504f08d25db394985ccdf16c67"
+  },
+  "search.components.Settings.settingsSearch.showDirectoryChildrenCount": {
+    "message": "フォルダ内の件数,子要素数,ファイル数,件数,フォルダ",
+    "sourceHash": "1da34b79bfbbd8196d422b491d48840e3b5c6b0b22914eac7a5eb4058edba1cf"
+  },
+  "search.components.Settings.settingsSearch.showEditorStatsBar": {
+    "message": "統計バー,文字数,単語数,ステータスバー,エディタ,ワードカウント",
+    "sourceHash": "95cae82a81ccbfc9e225fbdf74b5e7d0ad8e364ec46823166f138bb5b48892f5"
+  },
+  "search.components.Settings.settingsSearch.showFileTimestampsOnHover": {
+    "message": "タイムスタンプ,日時,更新日時,作成日時,マウスオーバー,ホバー,ファイル日付",
+    "sourceHash": "7080e38709edd6cf25404f49d90055ef773ca8f5bc49c684ea85bbffe0a5d5b4"
+  },
+  "search.components.Settings.settingsSearch.showHeadingGuides": {
+    "message": "見出し,ガイド線,インデントガイド,ガイド,区切り線",
+    "sourceHash": "0cfe2b8e81ad62661c58d1be52f4a0e0f0bd59f93698c676d24260c3c47b6637"
+  },
+  "search.components.Settings.settingsSearch.showImageCaptions": {
+    "message": "画像説明,キャプション,画像の説明文,図表",
+    "sourceHash": "b70e47795adcfddedb3df1185cc3757e3633d4a06759649efa0fa482c53d5878"
+  },
+  "search.components.Settings.settingsSearch.showLastModifiedTime": {
+    "message": "最終更新日時,更新日時,最終編集,編集時刻,日時",
+    "sourceHash": "1bb72facb3c45ba32c1959dae050b49813509e61fc057afeeea2b990dca1f193"
+  },
+  "search.components.Settings.settingsSearch.showOutline": {
+    "message": "アウトライン,見出し一覧,目次,構造,ドキュメントマップ",
+    "sourceHash": "209920a87ef45f577e0b661f8c42a439049be20aad827473cc5d603ee35124d7"
+  },
+  "search.components.Settings.settingsSearch.showPersistedShareButton": {
+    "message": "共有ボタン,シェアボタン,常時表示,固定表示,共有アイコン",
+    "sourceHash": "487e50de2e0ca5714ddf0b8fb76906d993d2095cc1a3e7ced4e3d1071f08cac7"
+  },
+  "search.components.Settings.settingsSearch.showPropertiesByDefault": {
+    "message": "プロパティ,デフォルト,初期表示,既定,メタデータ,フロントマター",
+    "sourceHash": "b3bf00791c70c4df7cd333dc9cc76f24746656da63498e61d23cb1a9b2d34d91"
+  },
+  "search.components.Settings.settingsSearch.showRawFrontmatter": {
+    "message": "フロントマター,生データ,YAML,メタデータ,ソース表示,プレーン表示",
+    "sourceHash": "d3884a859ae684d0dfc8aa2af7d818bbb91a7176f4afc4d9b70cc13dae483ed4"
+  },
+  "search.components.Settings.settingsSearch.showTaskCompletionCount": {
+    "message": "タスク完了数,完了件数,完了数,進捗,カウント,タスク",
+    "sourceHash": "82b6c62d3f773c2418a551e1fe08f9717f1fe3ae81e1750ce4c68c26bf52c7da"
+  },
+  "search.components.Settings.settingsSearch.signIn": {
+    "message": "サインイン,ログイン,ログオン,認証",
+    "sourceHash": "ffa619d0153b73613ef27da999e52b32578d2e792130ffe529f0f1c9cf558e09"
+  },
+  "search.components.Settings.settingsSearch.skill": {
+    "message": "スキル,AI スキル,機能,能力",
+    "sourceHash": "ed468d249acd0b8e52d8f0a7209272df0437bc523ed76b1c83ef4c7527eb1101"
+  },
+  "search.components.Settings.settingsSearch.skillDescription": {
+    "message": "スキルの説明,説明,概要,スキル説明",
+    "sourceHash": "46dd97de42c8a83250db6025f515569575fcf41c60ba1a3a25c53dbdbc99cf54"
+  },
+  "search.components.Settings.settingsSearch.skillInstructions": {
+    "message": "スキルの指示,指示,手順,プロンプト,命令",
+    "sourceHash": "ad8496d670cd0e4d16aa376c8cfb9e2def509493dff81427a1bbf4f83a5029ce"
+  },
+  "search.components.Settings.settingsSearch.skillName": {
+    "message": "スキル名,名前,名称,スキルの名前",
+    "sourceHash": "9ecd72536008da9f3cbae34cdf932900be8e1e81f6ac8d15e0f3fee36063cf97"
+  },
+  "search.components.Settings.settingsSearch.skills": {
+    "message": "スキル,AI スキル,機能,能力",
+    "sourceHash": "209a008d7d4560e225943e80337158e55bd8c0d595fc366bc31ac0c9d1e44070"
+  },
+  "search.components.Settings.settingsSearch.slashCommand": {
+    "message": "スラッシュコマンド,コマンド,/コマンド,命令",
+    "sourceHash": "f92dcecc6a4938f11afbf940255554d211a32b58cbffb40071cfbbe0520220bc"
+  },
+  "search.components.Settings.settingsSearch.slashCommands": {
+    "message": "スラッシュコマンド,コマンド,/コマンド,命令",
+    "sourceHash": "4c90d7eed6502524552c7cf794a2a830948c4f3baed41729f77ed0836b09ee0e"
+  },
+  "search.components.Settings.settingsSearch.smartTypography": {
+    "message": "スマートタイポグラフィ,自動置換,スマート置換,引用符,ダッシュ,変換,タイポグラフィ",
+    "sourceHash": "b8c3fa06eac10c4668bc273b859cf1c0f1a2f004da0e129ee7c93f458b9f3392"
+  },
+  "search.components.Settings.settingsSearch.spacing": {
+    "message": "間隔,余白,行間,字間,パディング,行の高さ",
+    "sourceHash": "2b7ade626da0d34e6c60c0df87d6c05f7906dffdfe11dfae19bcff5589f20e81"
+  },
+  "search.components.Settings.settingsSearch.spellcheck": {
+    "message": "スペルチェック,誤字脱字,校正,綴り,スペル確認,誤字",
+    "sourceHash": "cabe96f971a10105dc620acd9c049464f9c9dafc1a2a5f5e5bd2b9ef34bdd1be"
+  },
+  "search.components.Settings.settingsSearch.splitPanes": {
+    "message": "分割ペイン,分割,画面分割,ペイン,分割表示",
+    "sourceHash": "5310ed4d12fc696f5a162c3ce91b67049ff455cae14b41f0f960ea5c79eba0c2"
+  },
+  "search.components.Settings.settingsSearch.sprint": {
+    "message": "スプリント,反復,イテレーション,サイクル,期間",
+    "sourceHash": "bc43a44de27e42bacc73cb005cb214abfadddc846754fcd8231fc87794dc992e"
+  },
+  "search.components.Settings.settingsSearch.startDay": {
+    "message": "週の開始日,開始曜日,始まり,開始日,カレンダー",
+    "sourceHash": "0f55ab698071ed0aab42fa7b1b768c7f932621a5419c58cd226233bf71e1be3d"
+  },
+  "search.components.Settings.settingsSearch.startOfWeek": {
+    "message": "週の開始,週初め,開始曜日,週の始まり,カレンダー",
+    "sourceHash": "15bfd5e1924a216935d0b421684e2426a46c852366335585ec2bcfc32e0f5816"
+  },
+  "search.components.Settings.settingsSearch.startup": {
+    "message": "起動,起動時,スタートアップ,開始,立ち上げ",
+    "sourceHash": "439ba0e1d20f9598e80f205b46f4607922494a845de1b12952742097b47f5474"
+  },
+  "search.components.Settings.settingsSearch.startupBehavior": {
+    "message": "起動時の動作,起動,スタートアップ,起動時,開始時の挙動,ウィンドウ",
+    "sourceHash": "0b3162d64a8dcdf0b563acacc01ef8e33625f30c81e69f5a7d3d6c6179c3a859"
+  },
+  "search.components.Settings.settingsSearch.status": {
+    "message": "ステータス,状態,進捗,状況",
+    "sourceHash": "cd70a755e6832b7cc8ba27f753c726df7dfa2574c8e4219403d2152b1cc88a5e"
+  },
+  "search.components.Settings.settingsSearch.statuses": {
+    "message": "ステータス,状態,進捗,状況",
+    "sourceHash": "93574ae1d3a4ae3e690693589b8b73ce2936e98777c2f36ade526f2c30cf5f90"
+  },
+  "search.components.Settings.settingsSearch.strikeCompletedTasks": {
+    "message": "完了したタスク,取り消し線,打ち消し線,完了,タスク",
+    "sourceHash": "8a9b101a259e889725bfc44eb8a1fc037c42f15e36b27e4527427a4086c268e7"
+  },
+  "search.components.Settings.settingsSearch.strikethrough": {
+    "message": "取り消し線,打ち消し線,打ち消し,文字装飾,取消線",
+    "sourceHash": "23ddc00b0305a42dc1daa307c06d97ffe6c4b7d0127b2a164d26c79c5e72a497"
+  },
+  "search.components.Settings.settingsSearch.subscription": {
+    "message": "サブスクリプション,契約,プラン,定期購読,支払い,課金",
+    "sourceHash": "2a1c37657353759294ceb1b7e3e4d062277570b023944d5b1041ba93aa36521e"
+  },
+  "search.components.Settings.settingsSearch.subtasks": {
+    "message": "サブタスク,子タスク,下位タスク,小タスク",
+    "sourceHash": "c06e57b340a8e8216073bdd94262aa242e82d7cb8cdf1c42c27130f55bf1c7bb"
+  },
+  "search.components.Settings.settingsSearch.subtleTabs": {
+    "message": "控えめなタブ,タブ,タブ表示,シンプルタブ,目立たない",
+    "sourceHash": "3120119637aea80848d5f87b8243a1e05553187a365ba8b64fe835bf2f032ed7"
+  },
+  "search.components.Settings.settingsSearch.supportedExtensions": {
+    "message": "対応拡張子,拡張子,ファイル形式,ファイルの種類,対応形式",
+    "sourceHash": "7f00198af1ab6d18cf3dac86d53dc6611796c655213233fbaff0b71332b72bcf"
+  },
+  "search.components.Settings.settingsSearch.swatch": {
+    "message": "色見本,カラー,スウォッチ,色,配色",
+    "sourceHash": "e35b87c42c133fc07f1a16c4ce55a87b508204967b273e8e072a5d7a3608d8fa"
+  },
+  "search.components.Settings.settingsSearch.syncNow": {
+    "message": "今すぐ同期,同期,手動同期,同期実行,更新",
+    "sourceHash": "5a6990fa2e2b423ca48892e78d9be998cba9f5646aaa33f322abaafba2bc534a"
+  },
+  "search.components.Settings.settingsSearch.syncPreferences": {
+    "message": "同期設定,同期,環境設定,設定",
+    "sourceHash": "f145531a39cb9be1be1ee0096362b651bc1749aa2122b6b8dcda4985adfa414a"
+  },
+  "search.components.Settings.settingsSearch.systemSettings": {
+    "message": "システム設定,システム,環境設定,OS設定",
+    "sourceHash": "5fbe3ff2458e1991c3eeb21ef8c459ed41151cc19f5d3481ffe942f4bb9f1e17"
+  },
+  "search.components.Settings.settingsSearch.systemTray": {
+    "message": "トレイ,通知領域,メニューバー,タスクトレイ,システムトレイ",
+    "sourceHash": "02f0ee68ab2bf8814eeb0de242ea25143c3806414589778aefcc9f611edc861d"
+  },
+  "search.components.Settings.settingsSearch.tabBorders": {
+    "message": "タブの境界線,境界線,枠線,タブ,罫線",
+    "sourceHash": "154bbc0f96e0f04e5bb2af8d0d8ef07026257857c932d6d0c00c779163836dfd"
+  },
+  "search.components.Settings.settingsSearch.tableOfContents": {
+    "message": "目次,見出し一覧,アウトライン,章立て,ToC",
+    "sourceHash": "ac44d82234ed48b128047e2883cac26419cd0482d5c124db4754ef3ee07efb15"
+  },
+  "search.components.Settings.settingsSearch.tabs": {
+    "message": "タブ, 切り替え, 開いているページ",
+    "sourceHash": "272bcf5b2c56b3b2231423316584763dd2a7740387a1ff636f2103596579e39b"
+  },
+  "search.components.Settings.settingsSearch.tags": {
+    "message": "タグ, ラベル, 分類, ハッシュタグ",
+    "sourceHash": "700bdec4394cc549c14cd310a14c6d9845965956bca28ff1f9268d2c79ad31b2"
+  },
+  "search.components.Settings.settingsSearch.tagsRules": {
+    "message": "タグ, ルール, 自動タグ, 分類ルール",
+    "sourceHash": "684af7fe2c26d8cd2391d8b01850aace2fb205008f3f12a25be0481c029e08ad"
+  },
+  "search.components.Settings.settingsSearch.task": {
+    "message": "タスク, やること, TODO, 作業",
+    "sourceHash": "92586f67357eeac5efafe2d852e8344cef2b647bc342004b4f97ece1b9d46377"
+  },
+  "search.components.Settings.settingsSearch.taskCompletionCount": {
+    "message": "完了数, タスク完了, 完了件数, 達成数",
+    "sourceHash": "c92b9176914fdef6e84029f21dc646f6094cfe134ad1498848cfc922d3656f33"
+  },
+  "search.components.Settings.settingsSearch.taskCount": {
+    "message": "タスク数, 件数, 残り, 未完了",
+    "sourceHash": "0dae767a993e5d69b986390d456219bce4dbd7b141a9a1632d4ad3621c5e7f6b"
+  },
+  "search.components.Settings.settingsSearch.taskLinkDisplay": {
+    "message": "リンク, 表示, タスク表示, リンク表示",
+    "sourceHash": "da431e455af421f782d42f037f227916b74e0bdf0e2e5e8c3fc6b5e3825d8b8e"
+  },
+  "search.components.Settings.settingsSearch.taskLinks": {
+    "message": "リンク, タスクリンク, 関連",
+    "sourceHash": "5db39a2e12640c6fd8f21dc5026d93a9ef67d6502f5dd99f1ef29e598ed67c3a"
+  },
+  "search.components.Settings.settingsSearch.taskProgress": {
+    "message": "進捗, 進行状況, 完了率",
+    "sourceHash": "01b86d75b5fceec47d07723b9fa0ea05c9014b0a25c398dae4a5bc60edb57d1c"
+  },
+  "search.components.Settings.settingsSearch.taskTemplate": {
+    "message": "テンプレート, タスクテンプレート, 雛形",
+    "sourceHash": "d46645900d1d508aa9c9feb32ab3979e80457af13b278bba66faef6fd552dea3"
+  },
+  "search.components.Settings.settingsSearch.tasks": {
+    "message": "タスク, やること, TODO",
+    "sourceHash": "1545da23aa48a6994a6559c3c71006a6bb1635a05fa369ce057292e93e47d5df"
+  },
+  "search.components.Settings.settingsSearch.team": {
+    "message": "チーム, 共有, 組織",
+    "sourceHash": "6c8b0a91182f2b4eb32062f0ab160ea02c3ebf51ffe9695f0178ebe06a7c4b52"
+  },
+  "search.components.Settings.settingsSearch.teamSeat": {
+    "message": "シート, チームシート, ユーザー, 席数",
+    "sourceHash": "49c280e0f5d8408ed87ed3e62720f04f421b6a12d6ed3737c18c55c6d092e7ac"
+  },
+  "search.components.Settings.settingsSearch.template": {
+    "message": "テンプレート, 雛形, ひな形",
+    "sourceHash": "69a56fd44002bb042cb1c50c3dd962efdf56656d7cf7ef82fe4e6a5b95874a3d"
+  },
+  "search.components.Settings.settingsSearch.templates": {
+    "message": "テンプレート, 雛形, ひな形",
+    "sourceHash": "cdbe2bedeeea64645abf947348bbfc87634aaaf55779d572dbc2e373d9525598"
+  },
+  "search.components.Settings.settingsSearch.theme": {
+    "message": "テーマ, 配色, 外観, デザイン, ダークモード, ライトモード",
+    "sourceHash": "63db463f283c005deb008f3bf4c1c4a32a84ea8abf15e22463d8ac125fb37749"
+  },
+  "search.components.Settings.settingsSearch.themeCreator": {
+    "message": "テーマ作成, テーマ制作, 配色作成",
+    "sourceHash": "89ea3f53233d98da7b556cf82c00708edd9a1a99250eba318fc9eb8ca91271cf"
+  },
+  "search.components.Settings.settingsSearch.themeEditor": {
+    "message": "テーマ編集, 配色編集, カスタマイズ",
+    "sourceHash": "1a47699125a0f45b1b33a329b0ed5be46354ea48f9299e3871e5a2e037cc8a57"
+  },
+  "search.components.Settings.settingsSearch.themeName": {
+    "message": "テーマ名, 名前, 配色名",
+    "sourceHash": "67c32c1fbfb0e4d2da21b5ca1c26e61ddacad928a12cfe5c665b667144c7f78f"
+  },
+  "search.components.Settings.settingsSearch.themeOnStartup": {
+    "message": "起動時, 起動, テーマ, 外観",
+    "sourceHash": "a466abfdde2fce33b4f55d318a090a66b78b400133e03fa257dcc6e3396ffaed"
+  },
+  "search.components.Settings.settingsSearch.timeDisplay": {
+    "message": "時刻表示, 日時表示, 時間表示",
+    "sourceHash": "3c865b5ed7e1172366436c5817414babf05258c62eecb6fb8979064461bca157"
+  },
+  "search.components.Settings.settingsSearch.timeFormat": {
+    "message": "時刻形式, 日時形式, 24 時間, 12 時間",
+    "sourceHash": "a226665e17f0bebc128e7661ae5161367b41de76db94cbbe76836c4bfa3899c2"
+  },
+  "search.components.Settings.settingsSearch.timestamp": {
+    "message": "タイムスタンプ, 日時, 時刻, 作成日時, 更新日時",
+    "sourceHash": "dd0c1054c276f8d5c5a2e62da7b2fd3159bd0f70fdec0a18101352e6fd426834"
+  },
+  "search.components.Settings.settingsSearch.timestamps": {
+    "message": "タイムスタンプ, 日時, 時刻, 作成日時, 更新日時",
+    "sourceHash": "2328902d0a651bef3a01270b275f1050868ef19527887ed7cf7918314f036ba5"
+  },
+  "search.components.Settings.settingsSearch.toc": {
+    "message": "目次, アウトライン, 見出し",
+    "sourceHash": "6f110057128eac6d2e10c7f2b04d61849493ceae0049baebc1a5ef50d48ff520"
+  },
+  "search.components.Settings.settingsSearch.togetherAi": {
+    "message": "プロバイダ, AI モデル, 接続, キー",
+    "sourceHash": "2519cfcd60a6113030740cb29a4a474b4a60aa4fd22d216f49f186e70d767fe6"
+  },
+  "search.components.Settings.settingsSearch.tray": {
+    "message": "トレイ, 通知領域, メニューバー, 常駐",
+    "sourceHash": "3ab07b2f657eb4c32f1d48816e19093a55b485d32d35f54d0ccee7dc954e3797"
+  },
+  "search.components.Settings.settingsSearch.triage": {
+    "message": "振り分け, 仕分け, 整理, 未処理, 受信箱",
+    "sourceHash": "a6a967d0b71795cd9d3ffeac8fa8ad8436dbec048dfdff8e350bec358ceecb84"
+  },
+  "search.components.Settings.settingsSearch.trial": {
+    "message": "試用, お試し, 体験版, 無料",
+    "sourceHash": "de4c48aa9d764cab900f26cbfa5bbc5e194a1616571e5e55fb82515ac9f3004e"
+  },
+  "search.components.Settings.settingsSearch.trialStatus": {
+    "message": "試用状況, 試用期間, 残り日数, 体験版",
+    "sourceHash": "57d12f81d91b92d51d5d7436968ba47169df2f77cd639858b0494033058bd542"
+  },
+  "search.components.Settings.settingsSearch.turnOffComments": {
+    "message": "コメント, 非表示, オフ, 無効, コメント非表示",
+    "sourceHash": "f3321d34fd7a78efded898cdbf67a5fb22d255557c7162e1d35d0ef7f1f8fe0d"
+  },
+  "search.components.Settings.settingsSearch.type": {
+    "message": "種類, タイプ, 種別",
+    "sourceHash": "b1a8b657bbc3bcdcf188e5a3e8b3cfb448115c8b04353a3ffeca7b71f4f3a75d"
+  },
+  "search.components.Settings.settingsSearch.typeColor": {
+    "message": "色, 配色, カラー, 種類の色",
+    "sourceHash": "86887215659f65171b3a5ef0511f878948151b808aff26f6273aad5e371df32e"
+  },
+  "search.components.Settings.settingsSearch.typeDescription": {
+    "message": "説明, 種類の説明, 解説",
+    "sourceHash": "b36e4965cd5f73851f2b79acdcd701f7d7c2a402053e80aee59e22fd053ca045"
+  },
+  "search.components.Settings.settingsSearch.typeIcon": {
+    "message": "アイコン, 種類のアイコン, 絵文字",
+    "sourceHash": "768be79058bedd88d15d1befe99a4377ddf6ec44e4e1fc888379795aeb1a8e0f"
+  },
+  "search.components.Settings.settingsSearch.typeName": {
+    "message": "名前, 種類名, 名称",
+    "sourceHash": "3af58ff6c64a9d16a9a88337124ca89585d57552a36ce5f85ede911eb4f5c872"
+  },
+  "search.components.Settings.settingsSearch.typeRules": {
+    "message": "ルール, 自動, 種類ルール, 割り当て",
+    "sourceHash": "306bd322838c1da3187c6614ca7c320fc50acd8fb17fca6ec4d8c9d2d09b0948"
+  },
+  "search.components.Settings.settingsSearch.types": {
+    "message": "種類, タイプ, 種別",
+    "sourceHash": "10c8ec242746b97746aad337d8163f7ba82dd91200200989f7ffb7c489213540"
+  },
+  "search.components.Settings.settingsSearch.typewriter": {
+    "message": "タイプライター, 入力位置, 中央, スクロール",
+    "sourceHash": "1ba5b77e39309ba9469e84508cf7ca005e0598977ec7225d37a4142da9533d91"
+  },
+  "search.components.Settings.settingsSearch.typewriterInFocusMode": {
+    "message": "フォーカスモード, タイプライター, 集中モード, 入力位置",
+    "sourceHash": "fc7be055fb0e89772829bbb4ab40e8e25188cca9cd90602fcfa5635fef08b300"
+  },
+  "search.components.Settings.settingsSearch.typography": {
+    "message": "タイポグラフィ, 文字, フォント, 書体, 整形",
+    "sourceHash": "fb726ce952e1a533d87c0915c716fe6a122a94a5856beeee6946b7e2c3b2839f"
+  },
+  "search.components.Settings.settingsSearch.typographyRules": {
+    "message": "タイポグラフィ, 変換, 置換, 記号, 整形ルール",
+    "sourceHash": "f81d524dad5f184ca5538df91aeeed68381ea69e220f2afb8b696d3a97767b8d"
+  },
+  "search.components.Settings.settingsSearch.uiFont": {
+    "message": "フォント, 文字, 書体, インターフェース",
+    "sourceHash": "d27965f2590b6e242675446d9c51961e16a197b6d80cbb8b8ac5a6f445b6e65c"
+  },
+  "search.components.Settings.settingsSearch.uniqueNoteNames": {
+    "message": "ノート名, 重複, 一意, 名前の重複, ユニーク",
+    "sourceHash": "2fa0393e4ec3329e0ec572062ad9b54e551452126765221126f9ceb7cb36477a"
+  },
+  "search.components.Settings.settingsSearch.unlinkWorkspace": {
+    "message": "ワークスペース, 連携解除, 切断, 削除",
+    "sourceHash": "742894befe6875e3e76de8f2bb61a4ed1ffe3d154a5cc7a728718c1732a9e64b"
+  },
+  "search.components.Settings.settingsSearch.updates": {
+    "message": "アップデート, 更新, 新しいバージョン, 自動更新",
+    "sourceHash": "759437efb16a10d33c425864ef41e252e9605d8e2f7672c0549626fe937c3265"
+  },
+  "search.components.Settings.settingsSearch.upgrade": {
+    "message": "アップグレード, 更新, プラン変更, 購入, Pro",
+    "sourceHash": "591fe8036ed712e119abf49212d9cf5d0f6c46b56d5f0aa7e416cf9cb7703734"
+  },
+  "search.components.Settings.settingsSearch.useRemoteChanges": {
+    "message": "リモート, 変更, 外部, 他の端末, 同期",
+    "sourceHash": "34c959406a63e918bbe5e7954e9981e355aa06cedc738f8f419b46e3328fbcf7"
+  },
+  "search.components.Settings.settingsSearch.version": {
+    "message": "バージョン, 版, ver",
+    "sourceHash": "886b2e7896ceed1b52b219e25ebaf4de188222a409129638df914fe4178a6116"
+  },
+  "search.components.Settings.settingsSearch.versionControl": {
+    "message": "バージョン管理, 履歴, 変更履歴, 同期",
+    "sourceHash": "f4d8b7bfeb191feb2107dc8e4a31c916381cbd11ab0d1a72375ba62bd2710e26"
+  },
+  "search.components.Settings.settingsSearch.weekStart": {
+    "message": "週の始まり, 週初め, 日曜, 月曜, 開始曜日",
+    "sourceHash": "7b9bba2cdcd52651af6c08442d308cade380d6cda246c87623ea5fcda58e22a0"
+  },
+  "search.components.Settings.settingsSearch.weeklyRecap": {
+    "message": "週次レビュー, 振り返り, 週間まとめ",
+    "sourceHash": "9296450e99461d0ad9aa4d69bd1e4c8dec3374396926d0bfa6e6e8d81257d1bd"
+  },
+  "search.components.Settings.settingsSearch.weeklyRecapPeriod": {
+    "message": "週次レビュー, 期間, 振り返り期間, 週",
+    "sourceHash": "d472a82e3eb7ce8bebc655e6ce2d492607b0f1348d6825bc8637ab043aa55c3c"
+  },
+  "search.components.Settings.settingsSearch.weeks": {
+    "message": "週, 週間, ウィーク",
+    "sourceHash": "e15fb3783d1b9b665b9c4a94d4c22547689b39b48d293e851bdf53aad5f32f9a"
+  },
+  "search.components.Settings.settingsSearch.wikilink": {
+    "message": "ウィキリンク, 内部リンク, リンク, 括弧リンク",
+    "sourceHash": "335f32650d3eb1776a4fbf9dba1945cd64084134caf06ecdaa3609f8c01e07f5"
+  },
+  "search.components.Settings.settingsSearch.wikilinkFolderTooltips": {
+    "message": "ウィキリンク, フォルダ, ツールチップ, ヒント, 吹き出し",
+    "sourceHash": "23e1098539bac93df8baf7182882d05895580d6e2e347d534861f32ff48ff3d9"
+  },
+  "search.components.Settings.settingsSearch.window": {
+    "message": "ウィンドウ, 画面, 表示",
+    "sourceHash": "b1885065f5d13084093322f312f35b610d8c6b524f4f6b25b1246df7ef1e1c44"
+  },
+  "search.components.Settings.settingsSearch.windowBehavior": {
+    "message": "ウィンドウ, 動作, 挙動, 表示",
+    "sourceHash": "f0879f5f4aebe116392d7c3e26c087f0c4d27b56a077effe3fe6c168e02c614c"
+  },
+  "search.components.Settings.settingsSearch.windowsAppMenu": {
+    "message": "アプリメニュー, メニュー, メニューバー, 項目",
+    "sourceHash": "44f416007433b133690081f2c1715ebfb6b39fdc97533e93802003074a24f332"
+  },
+  "search.components.Settings.settingsSearch.wordCount": {
+    "message": "文字数, 語数, 単語数, 字数, カウント",
+    "sourceHash": "0a7dcaad75739df57a85bb5bb76c07cd7000804e2744250f45c18c6a0c2a46a8"
+  },
+  "search.components.Settings.settingsSearch.workflow": {
+    "message": "ワークフロー,作業の流れ,手順,プロセス",
+    "sourceHash": "f430ea23f8061795b23fcef5c43694f0274be2013726085b1fb1f5035e8a65a8"
+  },
+  "search.components.Settings.settingsSearch.workspace": {
+    "message": "ワークスペース,作業領域,作業スペース",
+    "sourceHash": "97f1abab89e09fabab3f249b2c2ed90b31cb37624f8fa361f17b119d8a24eeb5"
+  },
+  "search.components.Settings.settingsSearch.workspaceColor": {
+    "message": "ワークスペース 色,ワークスペース カラー,カラー,色分け",
+    "sourceHash": "6c4bf1e56c1ce61b2895711d67297069a3ae29a96ea45ec7a0661341dcb6f484"
+  },
+  "search.components.Settings.settingsSearch.workspaceColour": {
+    "message": "ワークスペース 色,ワークスペース カラー,カラー,色分け",
+    "sourceHash": "5632f46163fb7a9e7032931011e07928a74c458d4e0320afd708eedc9285ce2d"
+  },
+  "search.components.Settings.settingsSearch.workspaceName": {
+    "message": "ワークスペース 名前,ワークスペース 名称,名前,名称",
+    "sourceHash": "62a98af1263bfe9bb7b87b167120853923d311fd65ea67985af6935ff0a7c8d9"
+  },
+  "search.components.Settings.settingsSearch.workspacePath": {
+    "message": "ワークスペース パス,保存先,場所,フォルダ 場所",
+    "sourceHash": "8fd17e38133ff0d4603152aef07b248ce550f12609348c427443cc6baefd8467"
+  },
+  "search.components.Settings.settingsSearch.workspaceSkills": {
+    "message": "ワークスペース スキル,スキル,機能,ワークスペース 機能",
+    "sourceHash": "b1b892aa6bcca35cbd036094a2cac506c3ec8afe116e9a0856c21fe9d99f13c5"
+  },
+  "search.components.Settings.settingsSearch.wrapLines": {
+    "message": "折り返し,行の折り返し,改行,自動改行",
+    "sourceHash": "37622947673ea985a5e1e111899f2204addafc1b1a121b11bb4ef6285878116a"
+  },
+  "search.components.Settings.settingsSearch.wrapLongLines": {
+    "message": "長い行 折り返し,長い行,折り返し,自動改行",
+    "sourceHash": "5ca479757ed54cf5d5fd704655f4360b4cc8b6c6b3c0950385833b0b36751f34"
+  },
+  "search.components.Settings.settingsSearch.wrapSelectionWithPairs": {
+    "message": "選択範囲 囲む,括弧で囲む,かっこ,記号 囲む,囲み",
+    "sourceHash": "e45d3992202051eef3ee9840212d72e791cbc381928490e352f924ef6448bf8d"
+  },
+  "search.components.Settings.settingsSearch.writing": {
+    "message": "執筆,文章,ライティング,文章作成",
+    "sourceHash": "41cf17d80dabbc9ab6aa308e8759c20b203a7461699cebd8e0023968228d67e1"
+  },
+  "search.components.Settings.settingsSearch.writingAssistantPrompts": {
+    "message": "ライティングアシスタント プロンプト,ライティング 指示,文章 プロンプト,プロンプト",
+    "sourceHash": "05799eb867182875bd0279d8da9aad96197c98a0577d821e44b9f11dfcaa8866"
+  },
+  "search.components.Settings.settingsSearch.xai": {
+    "message": "エックスエーアイ,グロック,グロク,Grok",
+    "sourceHash": "6efd7c4a0f82b1a631af7da765965ad9e8e8e483e4e895773a7622af149fea1a"
+  },
+  "search.components.Settings.settingsSearch.yaml": {
+    "message": "ヤムル,フロントマター,メタデータ,設定ファイル",
+    "sourceHash": "78382ee518e9355dd4f2f05d94bf4f7ab5ba015161330d7a39e4d1c1c6ae3684"
+  },
+  "search.helpers.askOctarine.integrationItems.high": {
+    "message": "高",
+    "sourceHash": "5e7f0abebdb66911958055f923ddc047c3e9326a1896bd7ed86f1d08b527592b"
+  },
+  "search.helpers.askOctarine.integrationItems.low": {
+    "message": "低",
+    "sourceHash": "6cac6b1be87a88ba62fd54156e72c86b86acc791e0e8700f2c55167dbec2dd26"
+  },
+  "search.helpers.askOctarine.integrationItems.medium": {
+    "message": "中",
+    "sourceHash": "34fb3e9024fcb764913cdcf40a7562580f8b0fcaaac52bfed67e24a2caa8afd7"
+  },
+  "search.helpers.askOctarine.integrationItems.urgent": {
+    "message": "緊急",
+    "sourceHash": "039c19818909f6d2ed4010b749c5744e9f3a3800596c882848facce53e7edd2b"
+  },
+  "search.hooks.commands.useAskOctarineActions.helpOnboardingAskOctarineTutorialGuide": {
+    "message": "ヘルプ, オンボーディング, チュートリアル, ガイド, 使い方, はじめに, 入門, 質問, AI, アシスタント",
+    "sourceHash": "044dc35166ee80549992870983fd6640f5edcbe6f2f5ba44849df6cf1690d1f1"
+  },
+  "search.hooks.commands.useNoteActions.askOctarineChatAi": {
+    "message": "チャット, 質問, 会話, AI, アシスタント, 相談, 聞く",
+    "sourceHash": "38ec323d812d06c9e1ad7cf39f86c1bdacada6a5648676cc6baf9557d9bfd07d"
+  },
+  "search.hooks.commands.useNoteActions.backlinksReferencesMentionsLinked": {
+    "message": "バックリンク, 参照, 言及, リンク, 被リンク, 関連, 引用",
+    "sourceHash": "f30249b16f699491dae6bd60a88d0e919a92e4b287ec8a5d75bd29b3e4d8a6c8"
+  },
+  "search.hooks.commands.useNoteActions.clearRemoveNoneType": {
+    "message": "クリア, 消去, 削除, 解除, なし, 未設定, ノートタイプ, 外す",
+    "sourceHash": "0be7734f9f6aeb74a3dc3e3475b029a310e3ddf081c8fd7fcec4335c3747c1d4"
+  },
+  "search.hooks.commands.useNoteActions.collapseFoldHideHeadersHeadings": {
+    "message": "折りたたむ, 畳む, 非表示, 隠す, 見出し, ヘッダー, 閉じる",
+    "sourceHash": "27da940d679de1cb3d4f420b8be9ef47b5a6876209e142d303023be46e879a30"
+  },
+  "search.hooks.commands.useNoteActions.collapseFoldHideMediaImagesVideos": {
+    "message": "折りたたむ, 畳む, 非表示, 隠す, 画像, 動画, メディア, 添付, 閉じる",
+    "sourceHash": "9b78243ce14172d5b280dab831a1d7ffc8d2ce11efa901e2c762ce5244382ef3"
+  },
+  "search.hooks.commands.useNoteActions.combineJoinConsolidateNotes": {
+    "message": "結合, 統合, まとめる, 合体, 併合, ノート, 連結",
+    "sourceHash": "770a74a065c6855a52eaeeba71c8658b87aac5eb8ae38819e3cd8ea9f97fcf65"
+  },
+  "search.hooks.commands.useNoteActions.copy": {
+    "message": "コピー, 複製, 写し, クリップボード",
+    "sourceHash": "6b03c7df58c6e3be178ae1e8a37089d6cf84ab0dd67a5cf110be4390565b5147"
+  },
+  "search.hooks.commands.useNoteActions.copyMarkdownContentBodyClipboard": {
+    "message": "コピー, 本文, 内容, クリップボード, マークダウン, 書式",
+    "sourceHash": "c307ab137685d873ff362d2c6a3958e9c6de22e79ce24ffe224369cb1e8bba01"
+  },
+  "search.hooks.commands.useNoteActions.copyMarkdownContentPropertiesFrontmatterClipboard": {
+    "message": "コピー, プロパティ, メタデータ, フロントマター, 前付け, クリップボード, マークダウン, 内容",
+    "sourceHash": "8356690c132a00bcf5892057c0355cb83f84e5fb7cc3087c7bf197668de22ee4"
+  },
+  "search.hooks.commands.useNoteActions.copyShareLinkUrlPublic": {
+    "message": "コピー, 共有リンク, 公開, 公開リンク, URL, アドレス, クリップボード",
+    "sourceHash": "a599b9a2c066cf9098f832a239d071f357e155e05c53e06254951c6a7def4b08"
+  },
+  "search.hooks.commands.useNoteActions.createFolderRoot": {
+    "message": "フォルダ作成, 新規フォルダ, 作成, 追加, 新しいフォルダ, ルート, 最上位",
+    "sourceHash": "b37a54c65dd378ac1404a3f5032314f18ca7bda1878cfc4c19b06084c83b5b78"
+  },
+  "search.hooks.commands.useNoteActions.createRoot": {
+    "message": "作成, 新規, 追加, 新しい, ルート, 最上位, ノート作成",
+    "sourceHash": "2b498e83c155ab073cbd595b59e5c08acc25b2670c7f811fb4898a836d470f4b"
+  },
+  "search.hooks.commands.useNoteActions.customiseCustomizeNoteAppearanceTypographyFontHeadingWidthSize": {
+    "message": "カスタマイズ, 設定, 外観, 見た目, 書体, フォント, 見出し, 幅, サイズ, 行の高さ, 行間, 文字間隔, 字間, テーマ, 表示",
+    "sourceHash": "19ef08ba0255b3764ff3679d8dbf711b68cb6586c3d548e7ad22bb01f4229056"
+  },
+  "search.hooks.commands.useNoteActions.delete": {
+    "message": "削除, 消去, 除去, ゴミ箱, 捨てる",
+    "sourceHash": "8137bea8c610b1c0dc43b471dea948af7e071cb5a51a70226c542be9bfa77647"
+  },
+  "search.hooks.commands.useNoteActions.expandUnfoldShowHeadersHeadings": {
+    "message": "展開, 開く, 広げる, 表示, 見出し, ヘッダー, 折りたたみ解除",
+    "sourceHash": "9adc6fb852f068b72abb4241a3832747c8fa33cb74e1ef3479e894b187cafb33"
+  },
+  "search.hooks.commands.useNoteActions.expandUnfoldShowMediaImagesVideos": {
+    "message": "展開, 開く, 広げる, 表示, 画像, 動画, メディア, 添付, 折りたたみ解除",
+    "sourceHash": "e4266ffac7a049e18316a6a412eb8f991e66136e993954375523e3cd99996616"
+  },
+  "search.hooks.commands.useNoteActions.exportPdfHtmlDocxWordTxtPlainPrint": {
+    "message": "書き出し, エクスポート, 出力, 保存, PDF, HTML, ワード, テキスト, 印刷, プリント",
+    "sourceHash": "a38b2d1ccd41874f4d5b94583bc43bc930547d4a2eee98b4fff732b87c962744"
+  },
+  "search.hooks.commands.useNoteActions.extractSelectionSaveNoteLinked": {
+    "message": "抽出, 切り出し, 選択, 保存, 新規ノート, 分割, 独立, 別ノート, リンク付き, 引用",
+    "sourceHash": "018b346c1688e19ad4ae07ff80e5dfe23366c2f32ed221c93ad972ce6c6d878e"
+  },
+  "search.hooks.commands.useNoteActions.finder": {
+    "message": "ファインダー, フォルダを開く, ファイル, 場所, 表示, 開く",
+    "sourceHash": "ebceafb8b5f857d5219a7b2d173f1735dbc44c5305c8fb0eab9af8ec70c1d129"
+  },
+  "search.hooks.commands.useNoteActions.finderExplorer": {
+    "message": "ファインダー, エクスプローラー, 表示, 開く, 場所, フォルダ, ファイル",
+    "sourceHash": "213d5074bf850f606b10191c7037f8c4d47232c5aa2d61703cac0604ea9605f1"
+  },
+  "search.hooks.commands.useNoteActions.focus": {
+    "message": "フォーカス, 集中, 集中モード, 没入, 作業, 絞り込み",
+    "sourceHash": "74f2e34a2b0ad36587d06f2721eb74c0da01ea2ec7a583842439d93b848c677a"
+  },
+  "search.hooks.commands.useNoteActions.inboxDoneCompleteReopenActive": {
+    "message": "受信箱, 完了, 済み, 再度開く, 未処理, 戻す, 完了にする",
+    "sourceHash": "6dbb1a9ffc87e25995797561595b6946c759a4b88afd5c891b1ac5a94b5d69ef"
+  },
+  "search.hooks.commands.useNoteActions.inboxPriorityUrgentHighMediumLowNone": {
+    "message": "受信箱, 優先度, 緊急, 高, 中, 低, なし, 未設定, 重要度",
+    "sourceHash": "7370ea3fa4ae10a1a907a56264145d95861d0c0aa6942e7e2ab112865f682d12"
+  },
+  "search.hooks.commands.useNoteActions.inboxSnoozeClearRemove": {
+    "message": "受信箱, スヌーズ, 解除, 取り消し, 削除, 消去, 外す, 再通知",
+    "sourceHash": "de0aef8f4d69b033291e3f46cfc8589b40063c64e45e9d40fdf2d1b9e5c10c0b"
+  },
+  "search.hooks.commands.useNoteActions.inboxSnoozeLaterTomorrowNextWeekClear": {
+    "message": "受信箱, スヌーズ, 後で, 明日, 来週, 解除, 取り消し, 再通知, 延期",
+    "sourceHash": "d65c257797ad1baa35e40c0e1cb35665622bd616e6375286a4dcbda4ccad3031"
+  },
+  "search.hooks.commands.useNoteActions.keepTopFolderSortPinIndex": {
+    "message": "固定, ピン留め, 上に表示, 先頭, フォルダ, 並べ替え, 目印",
+    "sourceHash": "d929599f31943878d218f1f00b939ed8fcca972259fb87ff5c9daba338bc93af"
+  },
+  "search.hooks.commands.useNoteActions.keepTopFolderSortUnpinIndex": {
+    "message": "固定解除, ピン留め解除, 外す, 上部, フォルダ, 並べ替え, 解除",
+    "sourceHash": "d060603fa3f8532f20ad3cfa8db9faa29aaf79e382e44123ceca43b4a3ad2115"
+  },
+  "search.hooks.commands.useNoteActions.linkDeeplinkHookmarkRaycastAlfredUrlShare": {
+    "message": "リンク, ディープリンク, ブックマーク, 連携, ランチャー, Raycast, Alfred, URL, 共有, アドレス",
+    "sourceHash": "d83db0bd36b80807512673c5e0fc177bfe96c3e57d0cad9355578343efb5fab5"
+  },
+  "search.hooks.commands.useNoteActions.linkUrlOctarineMarkdownCopy": {
+    "message": "リンク, URL, アドレス, Octarine, マークダウン, コピー, 複製",
+    "sourceHash": "cb5621db29d9adfdcc184eb64e848924f10345e8e198acd004627811a13567f0"
+  },
+  "search.hooks.commands.useNoteActions.lock": {
+    "message": "ロック, 施錠, 鍵, 保護, ロックする, 編集禁止",
+    "sourceHash": "7aca6e52700fea8db111625989137e8a81d0636d9dab8a7e57355b7ccfc5f798"
+  },
+  "search.hooks.commands.useNoteActions.moveSelectionAppendExistingNoteLinked": {
+    "message": "移動, 選択, 追記, 追加, 既存, ノート, 別のノート, リンク, 結合, 末尾",
+    "sourceHash": "63ce31d4068667cd0d12b69180c05b3c13fdd4c93191a0aa4b0d3e7b2b18424b"
+  },
+  "search.hooks.commands.useNoteActions.newFolder": {
+    "message": "新規フォルダ, フォルダ作成, 作成, 追加, 新しいフォルダ",
+    "sourceHash": "b3b44f7e5be6e6f211868930f5794ea450eb0429ef344cd40a697d42ccee333f"
+  },
+  "search.hooks.commands.useNoteActions.newNote": {
+    "message": "新規ノート, ノート作成, 作成, 追加, 新しいノート, 書く, メモ",
+    "sourceHash": "2a02f4512c6294676a710d7a9d1501c8f9f7f96b3a867033ff3414422ab9a71f"
+  },
+  "search.hooks.commands.useNoteActions.openDefaultAppSystem": {
+    "message": "開く, 既定のアプリ, デフォルト, システム, アプリ, 外部, 別のアプリ",
+    "sourceHash": "160e28302363b9490b949fc25665ad6f12933d035382833f1295c543f7ff66d5"
+  },
+  "search.hooks.commands.useNoteActions.openShareLinkBrowser": {
+    "message": "開く, 共有リンク, 公開, ブラウザ, ウェブ, 表示, 確認",
+    "sourceHash": "ac20b207a0054a274c100e4309e79c7aa1860a0d96c0b9b0c0e7053c3de6afdc"
+  },
+  "search.hooks.commands.useNoteActions.pin": {
+    "message": "ピン留め, 固定, 留める, 上に固定",
+    "sourceHash": "d7af42943cea642e109f4d4cf81bc659a5c477c1cf752e2217e5798953d32526"
+  },
+  "search.hooks.commands.useNoteActions.search": {
+    "message": "検索, 探す, 見つける, 検索する, 絞り込み, 探索",
+    "sourceHash": "9c5eadc8d795f1c1f3dde5130064658601c5f5e00792c8dee0e42a2354d372df"
+  },
+  "search.hooks.commands.useNoteActions.sharePublishPublicLink": {
+    "message": "共有, 公開, 公開リンク, 共有リンク, 配信, 発行, 外部公開",
+    "sourceHash": "63c02c0147809718d9d7fd9f051ad5cbaa43a2bbb1c69011919ec79e1a8f68d8"
+  },
+  "search.hooks.commands.useNoteActions.syncUpdateSharePublish": {
+    "message": "同期, 更新, 共有, 公開, 再公開, 最新, 反映, 再同期",
+    "sourceHash": "c1dcf2054d80d3d1892889004f6f714b1aa4b05bd0f14953b9ad995142fc479c"
+  },
+  "search.hooks.commands.useNoteActions.tasksSortCompletedChecklistTodoDoneReorderMoveBottom": {
+    "message": "タスク, やること, 完了, 済み, チェックリスト, 並べ替え, 並び替え, 末尾, 最後, 下, 移動",
+    "sourceHash": "f2cd38741813d9a7c4c50f9601b8b08daaab71b8d7356832654e16997f1c1ded"
+  },
+  "search.hooks.commands.useNoteActions.typeNotePropertyProperties": {
+    "message": "ノートタイプ, タイプ, 種類, プロパティ, 属性, 項目, メタデータ, 種別",
+    "sourceHash": "28e9e3a2fb7f85a3e63f89e41d2cfe29cf6872699a04bb852dc88ed021f1b625"
+  },
+  "search.hooks.commands.useNoteActions.unlock": {
+    "message": "ロック解除, 解錠, 鍵を開ける, 解除, 編集可能, 保護解除",
+    "sourceHash": "2a601d9e23ad5c919b1254c8c5bd40fc123842a27b3e7f89e440b25ec5b4e7fa"
+  },
+  "search.hooks.commands.useNoteActions.unpin": {
+    "message": "ピン留め解除, 固定解除, 外す, 解除, 留め解除",
+    "sourceHash": "9c65def9883fe1025d54a60ab4f3abec6c665df13e8960e6b11254e815c4cee2"
+  },
+  "search.hooks.commands.useNoteActions.unpublishUnshareRemovePublic": {
+    "message": "公開停止, 非公開, 共有停止, 共有解除, 削除, 取り消し, 外す, 公開解除",
+    "sourceHash": "4f7f0a8df52038658022e0f9761cc3b3324271ebcb30f2944f9ed4b88a5a159b"
+  },
+  "search.hooks.commands.useNoteActions.windowPopoutSeparate": {
+    "message": "ウィンドウ, 切り離す, 別ウィンドウ, ポップアウト, 分離, 独立, 新しいウィンドウ, 別窓",
+    "sourceHash": "4554531e0963c0eda9d7cc6f296adc695b13e388eb15b1c1625eefbc764e1bdc"
+  },
+  "search.hooks.commands.useNoteActions.writeAskAssistantAi": {
+    "message": "書く, 執筆, 文章, 作成, 下書き, アシスタント, AI, 支援, 質問, ライティング",
+    "sourceHash": "cc3d9eba7f6bf47b36a0a521a9632b0b35bdd02c53b2c71ef7af189288c56ab2"
+  },
+  "search.hooks.commands.useOutlineActions.outlineHeadersHeadingsJumpNavigateSymbols": {
+    "message": "アウトライン, 見出し, ヘッダー, 目次, 移動, ジャンプ, 開く, 構造, ナビゲート, シンボル",
+    "sourceHash": "2103d3f64e69b572fc2e1a1029adef6894e412638103d8554963a46e592fe47e"
+  },
+  "search.hooks.commands.useRootActions.alwaysOnTopWindow": {
+    "message": "常に手前, 最前面, ウィンドウ, 固定, 前面表示, ピン留め, フロート",
+    "sourceHash": "5f69907d9ee28c9e718d1a982c6bc302934bbc642fa95b834a6f1156fd6b49bd"
+  },
+  "search.hooks.commands.useRootActions.appSettingsGlobal": {
+    "message": "設定, アプリ設定, 環境設定, グローバル, 全体, 初期設定, オプション",
+    "sourceHash": "19b753c2d343bbf72d102063365e912662dd9f25b1fd190a9a03754707d04d45"
+  },
+  "search.hooks.commands.useRootActions.bugHelpIssue": {
+    "message": "バグ, 不具合, 問題, 報告, 不具合報告, フィードバック, ヘルプ, 課題, サポート",
+    "sourceHash": "edf54c264120bcc1019c4e2d6e246dcfdb77fed27235be89b896aef566688f4c"
+  },
+  "search.hooks.commands.useRootActions.changelog": {
+    "message": "更新履歴, 変更履歴, リリースノート, 新機能, 更新, バージョン, 履歴",
+    "sourceHash": "9a69f06e0acc13201d6a20921ae3fd59996fcaa99469e623a0a1505b70acd476"
+  },
+  "search.hooks.commands.useRootActions.customizeSidebarNavigation": {
+    "message": "カスタマイズ, サイドバー, ナビゲーション, メニュー, 表示, 並べ替え, 非表示, 項目, 設定",
+    "sourceHash": "c20d07ab3751e5dd9bfb47756e9ca00a387c67af8ad81780e353eb30248c21d9"
+  },
+  "search.hooks.commands.useRootActions.devLicenseProPaidActive": {
+    "message": "開発用ライセンス, Pro, 有料, 契約, 有効, 契約中, 有効化",
+    "sourceHash": "c04c6ff2675a75dabda4392636f0d8f57b24ab1b6bb863bfd960551a65587301"
+  },
+  "search.hooks.commands.useRootActions.devLicenseProPaidTrial": {
+    "message": "開発用ライセンス, Pro, 有料, 試用, トライアル, 体験版, 無料体験",
+    "sourceHash": "e6865be9eba888fe391af20cd01c284b7cb71c50cfbfc232b3ddd7c020b2a140"
+  },
+  "search.hooks.commands.useRootActions.devLicenseProTrial": {
+    "message": "開発用ライセンス, Pro, トライアル, 試用, 体験版, 無料体験",
+    "sourceHash": "eb8a45bbbb08189fe0c6855047a7a1c92b5e325694ccbe2dd1c6bc067347ed56"
+  },
+  "search.hooks.commands.useRootActions.devLicenseProTrialThirtyMinutesExpiryExpiring": {
+    "message": "開発用ライセンス, Pro, トライアル, 30分, 期限, 有効期限, 期限切れ間近, 残り時間, 試用",
+    "sourceHash": "ccac5067b52812fde9dba8fea7ef3f4fec4a968dc715bf0c54a85748fa2f4fed"
+  },
+  "search.hooks.commands.useRootActions.devLicenseProUnpaidFreeExpired": {
+    "message": "開発用ライセンス, Pro, 無料, 未払い, 無償, 期限切れ, 失効, 無料プラン, 終了",
+    "sourceHash": "eefe4b5734ddcb198aec69893d1237212dbfb67d06968d5eee2a479a0c0bc97c"
+  },
+  "search.hooks.commands.useRootActions.docsDocumentationHelp": {
+    "message": "ドキュメント, 文書, 説明書, マニュアル, ヘルプ, 使い方, 解説, ガイド, 手引き",
+    "sourceHash": "fc459a641e547efc502b5ab9bc120dbd0533dfe54ed511e4575e0f0f220bfdd5"
+  },
+  "search.hooks.commands.useRootActions.meta": {
+    "message": "メタ, 修飾, 修飾キー, コマンド, キー",
+    "sourceHash": "afbf01cf7698f20bbab2f3b99add7cd930b5c1d2f398c2cad64fa15313b6c66e"
+  },
+  "search.hooks.commands.useRootActions.settings": {
+    "message": "設定,環境設定,オプション,構成,カスタマイズ",
+    "sourceHash": "8e0eb3e18cc39b91c5c32fd2320a6001e157877e2b109b6d60c4862ad70324fe"
+  },
+  "search.hooks.commands.useRootActions.shorcut": {
+    "message": "ショートカット,キーボード,キー,ホットキー,キーバインド",
+    "sourceHash": "561bcb9a31062a3d568f3e7099123587f2af33681a7a931b09ea3cc7102d5a32"
+  },
+  "search.hooks.commands.useRootActions.sidebar": {
+    "message": "サイドバー,側面,パネル,メニュー,表示切替",
+    "sourceHash": "b3069759a713eaabebd6f7bb955ad4771b3f2514ac84385040c43c67a24e5383"
+  },
+  "search.hooks.commands.useRootActions.update": {
+    "message": "更新,アップデート,最新版,バージョン,アップグレード",
+    "sourceHash": "0a4b5aef9c61aaeeddfef0105f34c2b60bc40b3594777e8c2518179036b85220"
+  },
+  "search.hooks.commands.useRootActions.zoomDecreaseInterfaceSize": {
+    "message": "縮小,画面を小さく,文字を小さく,表示サイズ,小さく,ズームアウト",
+    "sourceHash": "3a8104a72d6ba8dbb6632ceff73d6a83f4736131a7b99a1da4f6f08885c78585"
+  },
+  "search.hooks.commands.useRootActions.zoomIncreaseInterfaceSize": {
+    "message": "拡大,画面を大きく,文字を大きく,表示サイズ,大きく,ズームイン",
+    "sourceHash": "038ef68289b58e0d3fb3310a0b6bb68d567b5cd912797d870def049cac0a1189"
+  },
+  "search.hooks.commands.useTabContextActions.closeAllOtherTabs": {
+    "message": "他のタブを閉じる,タブを全て閉じる,タブ,閉じる,一括クローズ",
+    "sourceHash": "f1d4c36687e73fde091f854b2ca48c10766064d665b13aa7649ba078a08bd368"
+  },
+  "search.hooks.commands.useTabContextActions.closeAllTabsPane": {
+    "message": "ペインを閉じる,ペイン,タブを全て閉じる,分割ペイン,閉じる",
+    "sourceHash": "39ac8ef7a88cfc11fc4dc1ad00654489a9943410ed742214109c8a0b58efeab6"
+  },
+  "search.hooks.commands.useTabContextActions.closeTab": {
+    "message": "タブを閉じる,閉じる,クローズ,タブ",
+    "sourceHash": "5f332f907382b3ff6352f5216d2a030a5d495f114e49095328761334d95b842d"
+  },
+  "search.hooks.commands.useTabContextActions.moveTabBelowSplit": {
+    "message": "タブを下に移動,下に分割,分割ペイン,移動,タブ",
+    "sourceHash": "dab7f7101cc0431a7b6c280c88da7e23626df890456226b4843e355b0d38a103"
+  },
+  "search.hooks.commands.useTabContextActions.moveTabRightSplit": {
+    "message": "タブを右に移動,右に分割,分割ペイン,移動,タブ",
+    "sourceHash": "73f1b49e03ec53f0ef9732947fe99acb49d444c1271c1c05a6fe42c1348ce591"
+  },
+  "search.hooks.commands.useTabContextActions.protectReplacementMarkClean": {
+    "message": "保護,置換,未保存,変更済み,汚れ,ダーティ,変更フラグ",
+    "sourceHash": "14c3823efabf4f7095424fbf1c9673e15268c6bb2d2077c7dba7892fea65e256"
+  },
+  "search.hooks.commands.useTabContextActions.resetTabsPanesClearDatabase": {
+    "message": "リセット,初期化,タブ,ペイン,データベース,消去,クリア",
+    "sourceHash": "4a2b0db800c54dd71c3c96f559e68bd319a659164e1207300fb2ad4f581a889b"
+  },
+  "search.hooks.commands.useTabContextActions.splitTabBelow": {
+    "message": "下に分割,タブを分割,分割ペイン,ペイン,タブ",
+    "sourceHash": "67f4b43b9eb2d10fa9af51ed0d7ed1d91b7d04bf18219a8e04f25649e6a3cdd6"
+  },
+  "search.hooks.commands.useTabContextActions.splitTabRight": {
+    "message": "右に分割,タブを分割,分割ペイン,ペイン,タブ",
+    "sourceHash": "f48d4684cdc27b6a044c67abd3090e7eb7ae49e65e89f762f94ce0a7de9b5b2e"
+  },
+  "search.hooks.commands.useTaskSearchActions.taskIssueTicketFindSearchProjectSpace": {
+    "message": "タスク,課題,チケット,検索,探す,見つける,プロジェクト,スペース",
+    "sourceHash": "ce158b1ee47b9ba7e28a732757bc651e49adf09311e53b5cb050fce2f9e940eb"
+  },
+  "search.hooks.commands.useViewActions.helpOnboardingViewsTutorialGuide": {
+    "message": "ヘルプ,使い方,オンボーディング,ビュー,チュートリアル,ガイド,案内,入門",
+    "sourceHash": "3acc40b5057d9c3bfda4ab06c17efde6885d0a90013618be72d467ac50a20b13"
+  },
+  "search.hooks.commands.useWorkspaceActions.aiAccountsCodexClaudeChatgptLogin": {
+    "message": "AI,アカウント,ログイン,サインイン,認証,ログアウト,接続",
+    "sourceHash": "ce79a62348ce80cb6828b2f262755bf05a33df7582ad5a3a44da518a7470f664"
+  },
+  "search.hooks.commands.useWorkspaceActions.aiIgnoredFoldersNotesContext": {
+    "message": "AI,無視,除外,フォルダ,ノート,コンテキスト,文脈,対象外",
+    "sourceHash": "93eb54bb5569dd8e747a56a9bbb29123e345fe366abb238497f2982050046ff4"
+  },
+  "search.hooks.commands.useWorkspaceActions.aiSkillsInstructionsPrompts": {
+    "message": "AI,スキル,指示,プロンプト,命令,指示文",
+    "sourceHash": "98d8ad63b2b80c77539f6d7b2907853db6d40d204b76afb2c35d74447a82bb48"
+  },
+  "search.hooks.commands.useWorkspaceActions.aiSlashCommandsShortcuts": {
+    "message": "AI,スラッシュコマンド,コマンド,ショートカット,呼び出し",
+    "sourceHash": "0d8bd1e54c4a440b0e8ce5e32dff1945bd01e7643e60c5572735d4dc5509435d"
+  },
+  "search.hooks.commands.useWorkspaceActions.calendarVisibilitySidebar": {
+    "message": "カレンダー,表示,表示切替,非表示,サイドバー,表示設定",
+    "sourceHash": "c10a14739a2d113886fa40438f066da789e971b1a54352c73d6f601b35d6f391"
+  },
+  "search.hooks.commands.useWorkspaceActions.captureInboxDailyShortcut": {
+    "message": "メモ,記録,受信箱,デイリー,デイリーノート,ショートカット,キャプチャ,クイックキャプチャ",
+    "sourceHash": "10f9023abe5cbfa185a66447132cbe8a0003bd9647a59c5c498d47c27460651c"
+  },
+  "search.hooks.commands.useWorkspaceActions.collapseCloseFoldersNotesFileTreeSidebar": {
+    "message": "折りたたむ,閉じる,たたむ,展開,フォルダ,ノート,ファイルツリー,サイドバー",
+    "sourceHash": "d63303c24d02a5e19b25bdbc22702e1f704bab265a3b184dcd7f894240b5f470"
+  },
+  "search.hooks.commands.useWorkspaceActions.dimInactivePanesSplitFocusAppearance": {
+    "message": "非アクティブ,暗く,薄く,減光,ペイン,分割,フォーカス,外観,見た目",
+    "sourceHash": "09d4a2a0428250337150f2cece715f495d478b8d5e42a732b75679ecd0b9a1d2"
+  },
+  "search.hooks.commands.useWorkspaceActions.editorOutlineHeadingsTableContentsVisibility": {
+    "message": "エディタ,アウトライン,見出し,目次,表示,表示切替,非表示",
+    "sourceHash": "d533ec68deab351817a234662fece24f160bf5a26bb7ff72549becd7eb915be6"
+  },
+  "search.hooks.commands.useWorkspaceActions.editorRawFrontmatterYamlPropertiesVisibility": {
+    "message": "エディタ,生データ,ソース,フロントマター,YAML,プロパティ,表示,非表示,メタデータ",
+    "sourceHash": "bb1ed297fd6d094d91a96f2cf5600468fccb48a9a13598b92043f4077ddb7146"
+  },
+  "search.hooks.commands.useWorkspaceActions.editorStatsWordsCharactersReadingTimeVisibility": {
+    "message": "エディタ,統計,文字数,単語数,読了時間,表示,非表示,カウント",
+    "sourceHash": "19544e1f2676571918ee80f7fa1c2ec162cbf4c87e085951bf997b7ce796fac8"
+  },
+  "search.hooks.commands.useWorkspaceActions.gitSyncIgnoredFoldersGitignore": {
+    "message": "Git,同期,無視,除外,フォルダ,除外設定,無視設定",
+    "sourceHash": "ca8a7cf3f6a63e12b9c694599b6d60cbc500a2e409bb732770cf6d51a69cd112"
+  },
+  "search.hooks.commands.useWorkspaceActions.inboxCaptureTasks": {
+    "message": "受信箱,メモ,記録,タスク,キャプチャ,未処理",
+    "sourceHash": "4c416896722b1df8f504be3b79966cc2314e42ad46f24e7cd05cce9a5cc92c19"
+  },
+  "search.hooks.commands.useWorkspaceActions.newCreateTaskTodoIssue": {
+    "message": "新規,作成,追加,タスク,やること,TODO,課題,チケット",
+    "sourceHash": "2806064ba8df05dd6eef2239ef23ebc7a0d43cd28c5aaca5d062e4e64b120881"
+  },
+  "search.hooks.commands.useWorkspaceActions.newCreateTemplate": {
+    "message": "新規,作成,追加,テンプレート,ひな形,雛形",
+    "sourceHash": "8173e08cbf40545a01057db95053c010818b994b06de879df571758d82127741"
+  },
+  "search.hooks.commands.useWorkspaceActions.newNoteRoot": {
+    "message": "新規,作成,ノート,ルート,直下,トップ,追加",
+    "sourceHash": "66d3d4bca9a37f6cbaa354cfa6bfd396eaecd4bba3f3b52505336911017b21fe"
+  },
+  "search.hooks.commands.useWorkspaceActions.newNoteTemplate": {
+    "message": "新規,作成,ノート,テンプレート,ひな形,追加",
+    "sourceHash": "47fa5ecd1eb7da8f9ce125f506ad592dc090bb8f8b88af7f59cbcc4d2329974d"
+  },
+  "search.hooks.commands.useWorkspaceActions.noteTypesPropertiesSchemaMetadata": {
+    "message": "ノートタイプ,プロパティ,スキーマ,メタデータ,構造,項目,フィールド",
+    "sourceHash": "cf18e1fce9b2aa1b74cac8afd564908739716e351aaa3a7f146260b24c75b546"
+  },
+  "search.hooks.commands.useWorkspaceActions.sharingPublishPublicAuthorTheme": {
+    "message": "共有,公開,パブリック,作者,著者,テーマ,配色,外観",
+    "sourceHash": "20ac937403f12a015d2c21b0d6a7406b88b82cd07e5285aaf3869944877692b3"
+  },
+  "search.hooks.commands.useWorkspaceActions.tasksProjectsIssues": {
+    "message": "タスク,プロジェクト,課題,やること,チケット,一覧",
+    "sourceHash": "bd01d9c68d1a16ff7e17360e8f66361ef49f07f9b733f9f4cd5584783cad6bf8"
+  },
+  "search.pages.workspace.uuid.settings.editor.editorcontentalignmentcenteredleft": {
+    "message": "エディタ,コンテンツ,配置,中央,左,揃え,寄せ,整列",
+    "sourceHash": "3e380b90b9dae4d20c7a74e9462c8a2487988c04eab3d0d7b7d00c8e8822a330"
+  },
+  "search.pages.workspace.uuid.settings.editor.editorwidthsizenarrowfull": {
+    "message": "エディタ,幅,サイズ,狭い,広い,全幅,横幅",
+    "sourceHash": "c10b88f262b95d6e93f8c2209c0305353fd3c7e190037a7fe8e0886fa1eda797"
+  },
+  "search.pages.workspace.uuid.settings.editor.focusmodedimmingtypewritersentence": {
+    "message": "フォーカス,集中,モード,減光,暗く,薄く,タイプライター,文,センテンス",
+    "sourceHash": "567df41a68cbef4c63981029f9dc94e75c51cd45623a84e8995c41f9ff7b6f76"
+  },
+  "search.pages.workspace.uuid.settings.editor.fontweightboldlightregular": {
+    "message": "フォント,書体,太さ,太字,ボールド,細字,ライト,標準,レギュラー",
+    "sourceHash": "f6c5a33a4d041081ba6c942ce8066343de603067a1101c69148243456764ac41"
+  },
+  "search.pages.workspace.uuid.settings.editor.highlightcolordefaultmarking": {
+    "message": "ハイライト,色,カラー,デフォルト,既定,マーキング,蛍光ペン,強調",
+    "sourceHash": "750fc29ad4c39b1f6393608509facd7fb90984d1f768d241f309e7e9ba683bda"
+  },
+  "search.pages.workspace.uuid.settings.editor.linkednotesdisplaywikilinkpathname": {
+    "message": "リンク,関連ノート,表示,ウィキリンク,パス,パス名,ファイル名,名前,表示名",
+    "sourceHash": "d123e6222931768e3a9ca203db6f482543c77f9cef4a1b23b1b36218a6a6f317"
+  },
+  "search.pages.workspace.uuid.settings.editor.overscrollscrolleditorwritingbottom": {
+    "message": "オーバースクロール,スクロール,エディタ,執筆,下端,余白,末尾",
+    "sourceHash": "5e7642670fc94918276cf1e07df92c7402bcf63b1ccc7dca15dfa086a9a9327f"
+  },
+  "search.pages.workspace.uuid.settings.editor.papertypebackgroundgridlinesdots": {
+    "message": "用紙,紙,背景,種類,グリッド,罫線,方眼,ドット,点線",
+    "sourceHash": "7ef43e68f433dd900c61282478a640c8a31ed70f182e2b934b7d928054489c08"
+  },
+  "search.pages.workspace.uuid.settings.editor.wraplinecodeblockhorizontalscroll": {
+    "message": "折り返し,改行,コード,コードブロック,横スクロール,ラップ,折りたたみ",
+    "sourceHash": "d162b9e2072a233c7237a037e3a86230bf9839d4d7f215df09b2fd2d1da10a97"
+  },
+  "search.pages.workspace.uuid.settings.preferences.calendarpositiontopbottom": {
+    "message": "カレンダー,位置,上,下,上部,下部,配置",
+    "sourceHash": "e442a04a1875f6d172c6c823c3d49f36d1d814d3c3408e2f3ca8407671a375f4"
+  },
+  "search.pages.workspace.uuid.settings.preferences.calendarweekstartday": {
+    "message": "カレンダー,週,開始,週の始まり,曜日,始まり,日曜,月曜",
+    "sourceHash": "fd48d3404f008fe8d87293aa82ebd5dcdf09444a9bb94c72d318ad926db3d659"
+  },
+  "search.pages.workspace.uuid.settings.preferences.dateformatdisplay": {
+    "message": "日付,形式,書式,表示,日付形式,フォーマット",
+    "sourceHash": "44cffae1c6e43eb20a84c4245f6cefaeacb93c98fce96d46579819c008a7d95e"
+  },
+  "search.pages.workspace.uuid.settings.quickcapture.appendformatbullettaskcheckboxlistparagraphdailynote": {
+    "message": "追記,形式,書式,箇条書き,箇条,タスク,チェックボックス,リスト,段落,デイリーノート,クイックキャプチャ",
+    "sourceHash": "74b2548e995075f5deb0049d072ae5936d4c9e38e743db8fdc67d4bc8a9b4971"
+  },
+  "search.pages.workspace.uuid.settings.quickcapture.clipboarddestinationinboxdailylastEntrynote": {
+    "message": "クリップボード,コピー,貼り付け,保存先,送り先,受信箱,デイリーノート,最後,直前,エントリ,ノート",
+    "sourceHash": "7ba265e2d2ad43eacbf95e93f114faf43d74b952d76ee1926e9b98aff0a4462d"
+  }
+}

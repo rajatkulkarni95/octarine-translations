@@ -1,0 +1,12 @@
+{
+  "merge.destination": {
+    "message": "{title} に統合しました。元のノートは残されています。",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "other": "統合元の {count} 件のノートをゴミ箱に移動しました"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}

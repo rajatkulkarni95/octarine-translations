@@ -1,0 +1,15 @@
+{
+  "name": "octarine-translations",
+  "private": true,
+  "description": "Community translations for the Octarine app",
+  "scripts": {
+    "check": "node scripts/i18n.mjs check",
+    "format": "node scripts/i18n.mjs format",
+    "pending": "node scripts/i18n.mjs pending",
+    "stamp": "node scripts/i18n.mjs stamp",
+    "translate": "node scripts/i18n-translate.mjs"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^1.14.0"
+  }
+}

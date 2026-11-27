@@ -1,0 +1,44 @@
+[
+  {
+    "at": "2026-11-26T09:10:44.238Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "654b157ac49177f66d9f0951c678fed4fc6e794a",
+    "glossarySha256": "7f43bb6b44f3ab0afa6a44448690e452727063c9e6ce0871cd7e550376e8b93f",
+    "translated": 6989,
+    "failed": 4,
+    "usage": {
+      "input_tokens": 618135,
+      "output_tokens": 656080,
+      "cache_read_input_tokens": 318942
+    }
+  },
+  {
+    "at": "2026-11-26T10:22:52.864Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "83485e178a6ed0195fdc3a8a1ca3bf6cd4ce2e53",
+    "glossarySha256": "7f43bb6b44f3ab0afa6a44448690e452727063c9e6ce0871cd7e550376e8b93f",
+    "translated": 4,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 548,
+      "output_tokens": 365,
+      "cache_read_input_tokens": 0
+    }
+  },
+  {
+    "at": "2026-11-26T10:38:02.849Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "9ca19887fa6efb7df46322fb51d2d43b3b114759",
+    "glossarySha256": "7f43bb6b44f3ab0afa6a44448690e452727063c9e6ce0871cd7e550376e8b93f",
+    "translated": 2,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 199,
+      "output_tokens": 107,
+      "cache_read_input_tokens": 0
+    }
+  }
+]

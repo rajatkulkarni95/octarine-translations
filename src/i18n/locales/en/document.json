@@ -1,0 +1,6 @@
+{
+  "document.failedReveal": {
+    "message": "Could not reveal document in Finder",
+    "description": "User-facing application copy."
+  }
+}

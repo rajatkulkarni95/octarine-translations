@@ -1,0 +1,10 @@
+{
+  "share.expired": {
+    "message": "Partage expiré",
+    "sourceHash": "c55dc989e44399fd822d221bb8feedafae7dab43b1ba3e2933d14423233bcd4c"
+  },
+  "share.loadingStatus": {
+    "message": "Chargement de l’état du partage",
+    "sourceHash": "80d8b718743e1d1c0f56d0e788f550809512e80ef780be8525c13f1351945706"
+  }
+}

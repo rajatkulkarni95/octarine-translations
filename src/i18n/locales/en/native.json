@@ -1,0 +1,2706 @@
+{
+  "native.ai.accounts.codexStatusIsAvailableThroughTheCodexAccountIntegration": {
+    "message": "Codex status is available through the Codex account integration",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToCheckClaudeCodeAuthentication": {
+    "message": "Failed to check Claude Code authentication: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToCheckOpenCodeAuthentication": {
+    "message": "Failed to check OpenCode authentication: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToIsolate": {
+    "message": "Failed to isolate {provider}: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToOpen": {
+    "message": "Failed to open {terminal}: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToOpenCommandPrompt": {
+    "message": "Failed to open Command Prompt: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToOpenTerminal": {
+    "message": "Failed to open Terminal: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.failedToReadOpenCodeAuthenticationStatus": {
+    "message": "Failed to read OpenCode authentication status: {error}",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.noSupportedTerminalApplicationWasFound": {
+    "message": "No supported terminal application was found",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.opencodeAuthenticationStatusIsNotValidJSON": {
+    "message": "OpenCode authentication status is not valid JSON",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.opencodeCouldNotListItsCredentials": {
+    "message": "OpenCode could not list its credentials",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.timedOutWhileCheckingClaudeCodeAuthentication": {
+    "message": "Timed out while checking Claude Code authentication",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.accounts.timedOutWhileCheckingOpenCodeAuthentication": {
+    "message": "Timed out while checking OpenCode authentication",
+    "description": "Native ai/accounts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.claudeCodeCLIWasNotFound": {
+    "message": "Claude Code CLI was not found",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.claudeCodeExitedBeforeReturningAResult": {
+    "message": "Claude Code exited before returning a result ({status})",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.claudeCodeExitedBeforeReturningItsModels": {
+    "message": "Claude Code exited before returning its models",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.claudeCodeRequestFailed": {
+    "message": "Claude Code request failed",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.claudeCodeReturnedNoSupportedModels": {
+    "message": "Claude Code returned no supported models",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToInitializeClaudeCode": {
+    "message": "Failed to initialize Claude Code: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToOpenClaudeCodeInput": {
+    "message": "Failed to open Claude Code input",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToReadClaudeCodeOutput": {
+    "message": "Failed to read Claude Code output: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToReadClaudeCodeOutputWithoutDetails": {
+    "message": "Failed to read Claude Code output",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToStartClaudeCode": {
+    "message": "Failed to start Claude Code: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToWaitForClaudeCode": {
+    "message": "Failed to wait for Claude Code: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToWriteClaudeCodeInput": {
+    "message": "Failed to write Claude Code input: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToWriteClaudeCodeMCPConfig": {
+    "message": "Failed to write Claude Code MCP config: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.failedToWriteClaudeCodeSystemPrompt": {
+    "message": "Failed to write Claude Code system prompt: {error}",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.timedOutListingClaudeCodeModels": {
+    "message": "Timed out listing Claude Code models",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.claude.timedOutWaitingForClaudeCode": {
+    "message": "Timed out waiting for Claude Code",
+    "description": "Native ai/claude.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexAppServerClosedBeforeResponding": {
+    "message": "Codex app-server closed before responding",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexCLIWasNotFoundInstallTheOpenAICodexCLIOrMakeSureTheCodexCommandIsAvailableToOctarineThenRefreshCodexStatus": {
+    "message": "Codex CLI was not found. Install the OpenAI Codex CLI, or make sure the `codex` command is available to Octarine, then refresh Codex status.",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexDidNotReturnAThreadId": {
+    "message": "Codex did not return a thread id",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexResponseMissingResult": {
+    "message": "Codex response missing result: {value}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexStreamError": {
+    "message": "Codex stream error",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexToolCallIsNoLongerPending": {
+    "message": "Codex tool call is no longer pending",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.codexTurnFailed": {
+    "message": "Codex turn failed",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToDeliverCodexToolResult": {
+    "message": "Failed to deliver Codex tool result",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToFlushCodexRequest": {
+    "message": "Failed to flush Codex request: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToFlushCodexResponse": {
+    "message": "Failed to flush Codex response: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToLockCodexCancellationState": {
+    "message": "Failed to lock Codex cancellation state: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToLockCodexToolResultState": {
+    "message": "Failed to lock Codex tool result state: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToOpenCodexStdin": {
+    "message": "Failed to open Codex stdin",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToOpenCodexStdout": {
+    "message": "Failed to open Codex stdout",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToParseCodexResponse": {
+    "message": "Failed to parse Codex response: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToReadCodexResponse": {
+    "message": "Failed to read Codex response: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToStartCodexAppServer": {
+    "message": "Failed to start Codex app-server: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToWriteCodexRequest": {
+    "message": "Failed to write Codex request: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.failedToWriteCodexResponse": {
+    "message": "Failed to write Codex response: {error}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.timedOutWaitingForCodexResponseToRequest": {
+    "message": "Timed out waiting for Codex response to request {value}",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.codex.timedOutWaitingForCodexStream": {
+    "message": "Timed out waiting for Codex stream",
+    "description": "Native ai/codex.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.images.aUserMessageSupportsAtMost4Images": {
+    "message": "A user message supports at most 4 images",
+    "description": "Native ai/images.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.images.eachImageMustBeAtMost5MiB": {
+    "message": "Each image must be at most 5 MiB",
+    "description": "Native ai/images.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.images.expectedABase64PNGJPEGWebPOrGIFDataURL": {
+    "message": "Expected a base64 PNG, JPEG, WebP, or GIF data URL",
+    "description": "Native ai/images.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.images.imageBytesDoNotMatchTheDeclaredMediaType": {
+    "message": "Image bytes do not match the declared media type",
+    "description": "Native ai/images.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.images.imagesAreOnlySupportedInUserMessages": {
+    "message": "Images are only supported in user messages",
+    "description": "Native ai/images.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.cliToolCallIsNoLongerPending": {
+    "message": "CLI tool call is no longer pending",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToCloneOctarineMCPProxy": {
+    "message": "Failed to clone Octarine MCP proxy: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToConnectOctarineMCPProxy": {
+    "message": "Failed to connect Octarine MCP proxy: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToDeliverCLIToolResult": {
+    "message": "Failed to deliver CLI tool result",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToFlushMCPResponse": {
+    "message": "Failed to flush MCP response: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToInitializeOctarineMCPProxy": {
+    "message": "Failed to initialize Octarine MCP proxy: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToLocateOctarineToolBridge": {
+    "message": "Failed to locate Octarine tool bridge: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToLockCLIToolResultState": {
+    "message": "Failed to lock CLI tool result state",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToParseOctarineMCPTools": {
+    "message": "Failed to parse Octarine MCP tools: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToParseOctarineToolResult": {
+    "message": "Failed to parse Octarine tool result: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToReadMCPRequest": {
+    "message": "Failed to read MCP request: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToReadOctarineMCPTools": {
+    "message": "Failed to read Octarine MCP tools: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToReadOctarineToolResult": {
+    "message": "Failed to read Octarine tool result: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToResolveOctarineToolBridge": {
+    "message": "Failed to resolve Octarine tool bridge: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToSendOctarineToolCall": {
+    "message": "Failed to send Octarine tool call: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToStartOctarineToolBridge": {
+    "message": "Failed to start Octarine tool bridge: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.failedToWriteMCPResponse": {
+    "message": "Failed to write MCP response: {error}",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.mcp.invalidOctarineMCPProxyArguments": {
+    "message": "Invalid Octarine MCP proxy arguments",
+    "description": "Native ai/mcp.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToConfigureOpenCode": {
+    "message": "Failed to configure OpenCode: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToConfigureOpenCodeTools": {
+    "message": "Failed to configure OpenCode tools: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToIsolateOpenCodeAuthentication": {
+    "message": "Failed to isolate OpenCode authentication: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToIsolateOpenCodeAuthenticationWithoutDetails": {
+    "message": "Failed to isolate OpenCode authentication",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToIsolateOpenCodeRuntime": {
+    "message": "Failed to isolate OpenCode runtime: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToListOpenCodeModels": {
+    "message": "Failed to list OpenCode models: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToOpenOpenCodeInput": {
+    "message": "Failed to open OpenCode input",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToPrepareOpenCodeImageAttachment": {
+    "message": "Failed to prepare OpenCode image attachment",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToReadOpenCodeAuthentication": {
+    "message": "Failed to read OpenCode authentication: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToReadOpenCodeOutput": {
+    "message": "Failed to read OpenCode output: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToReadOpenCodeOutputWithoutDetails": {
+    "message": "Failed to read OpenCode output",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToStartOpenCode": {
+    "message": "Failed to start OpenCode: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToWaitForOpenCode": {
+    "message": "Failed to wait for OpenCode: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToWriteOpenCodeImageAttachment": {
+    "message": "Failed to write OpenCode image attachment",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.failedToWriteOpenCodeInput": {
+    "message": "Failed to write OpenCode input: {error}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.opencodeCLIWasNotFound": {
+    "message": "OpenCode CLI was not found",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.opencodeCouldNotImportItsAuthentication": {
+    "message": "OpenCode could not import its authentication",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.opencodeCouldNotListModels": {
+    "message": "OpenCode could not list models",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.opencodeExitedWith": {
+    "message": "OpenCode exited with {status}",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.opencodeRequestFailed": {
+    "message": "OpenCode request failed",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.timedOutIsolatingOpenCodeAuthentication": {
+    "message": "Timed out isolating OpenCode authentication",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.timedOutListingOpenCodeModels": {
+    "message": "Timed out listing OpenCode models",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.timedOutReadingOpenCodeAuthentication": {
+    "message": "Timed out reading OpenCode authentication",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.ai.opencode.timedOutWaitingForOpenCode": {
+    "message": "Timed out waiting for OpenCode",
+    "description": "Native ai/opencode.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.fonts.failedToGetSystemFonts": {
+    "message": "Failed to get system fonts: {error}",
+    "description": "Native commands/fonts.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToConvertNoteTypeToJSON": {
+    "message": "Failed to convert note type to JSON: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToCreateOctarineDirectory": {
+    "message": "Failed to create .octarine directory: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToParseNoteTypesFile": {
+    "message": "Failed to parse note types file: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToParseUpdatedNoteType": {
+    "message": "Failed to parse updated note type: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToReadNoteTypesFile": {
+    "message": "Failed to read note types file: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToSerializeNoteTypes": {
+    "message": "Failed to serialize note types: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.failedToWriteNoteTypesFile": {
+    "message": "Failed to write note types file: {error}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.noteTypeAlreadyExists": {
+    "message": "Note type '{value}' already exists",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.noteTypeNotFound": {
+    "message": "Note type not found",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.note_types.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/note_types.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.octarine_ignore.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/octarine_ignore.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToCreateDataProvider": {
+    "message": "Failed to create data provider",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToCreateMergedPDFContext": {
+    "message": "Failed to create merged PDF context",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToCreatePDFContext": {
+    "message": "Failed to create PDF context",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToGetSourcePage": {
+    "message": "Failed to get source page",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToLoadFirstPDFChunk": {
+    "message": "Failed to load first PDF chunk",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToLoadSourcePDF": {
+    "message": "Failed to load source PDF",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToParsePDFChunk": {
+    "message": "Failed to parse PDF chunk {value}",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToReadFirstPDFChunk": {
+    "message": "Failed to read first PDF chunk",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.failedToReadPDFChunk": {
+    "message": "Failed to read PDF chunk {value}",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.firstPDFChunkHasNoPages": {
+    "message": "First PDF chunk has no pages",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.mergePdfFilesIsOnlySupportedOnMacOS": {
+    "message": "merge_pdf_files is only supported on macOS",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.nativePDFExportIsNotYetSupportedOnLinuxUsePrintDialogInstead": {
+    "message": "Native PDF export is not yet supported on Linux. Use print dialog instead.",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.noPDFChunksToMerge": {
+    "message": "No PDF chunks to merge",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.pdfCreationFailed": {
+    "message": "PDF creation failed",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.pdfExportChannelError": {
+    "message": "PDF export channel error: {error}",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.pdf.printtopdfFailed": {
+    "message": "PrintToPdf failed: {error}",
+    "description": "Native commands/pdf.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.additionallyFailedToRollBackProperties": {
+    "message": "{value1}; additionally failed to roll back properties: {value2}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.failedToCreateOctarineDirectory": {
+    "message": "Failed to create .octarine directory: {error}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.failedToParsePropertiesFile": {
+    "message": "Failed to parse properties file: {error}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.failedToReadPropertiesFile": {
+    "message": "Failed to read properties file: {error}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.failedToSerializeProperties": {
+    "message": "Failed to serialize properties: {error}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.failedToWritePropertiesFile": {
+    "message": "Failed to write properties file: {error}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.propertyAlreadyExists": {
+    "message": "Property '{value}' already exists",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.propertyNotFound": {
+    "message": "Property not found",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.properties.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/properties.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.skills.couldNotAccess": {
+    "message": "Could not access {value1}: {error}",
+    "description": "Native commands/skills.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.skills.couldNotRead": {
+    "message": "Could not read {value1}: {error}",
+    "description": "Native commands/skills.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.skills.couldNotReadAnEntryIn": {
+    "message": "Could not read an entry in {value1}: {error}",
+    "description": "Native commands/skills.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.skills.invalidSkillId": {
+    "message": "Invalid skill id: {value}",
+    "description": "Native commands/skills.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.skills.targetWorkspacePathDoesNotExist": {
+    "message": "Target workspace path does not exist: {value}",
+    "description": "Native commands/skills.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.skills.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/skills.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.slash_commands.targetWorkspacePathDoesNotExist": {
+    "message": "Target workspace path does not exist: {value}",
+    "description": "Native commands/slash_commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.slash_commands.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/slash_commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.aThemeNamedAlreadyExists": {
+    "message": "A theme named '{value}' already exists",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.failedToCreateOctarineDirectory": {
+    "message": "Failed to create .octarine directory: {error}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.failedToParseThemesFile": {
+    "message": "Failed to parse themes file: {error}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.failedToReadThemesFile": {
+    "message": "Failed to read themes file: {error}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.failedToSerializeThemes": {
+    "message": "Failed to serialize themes: {error}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.failedToWriteThemesFile": {
+    "message": "Failed to write themes file: {error}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.invalidCharactersInColorValueForSemicolonsAndBracesAreNotAllowed": {
+    "message": "Invalid characters in color value for {value1}: {value2}. Semicolons and braces are not allowed.",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.invalidColorValueForMustBeAHexColorRgbHslOrCSSVariable": {
+    "message": "Invalid color value for {value1}: {value2}. Must be a hex color (#), rgb(), hsl(), or CSS variable.",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.invalidVariableKeyAllThemeVariablesMustStartWithColor": {
+    "message": "Invalid variable key: {value}. All theme variables must start with '--color-'",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.targetWorkspacePathDoesNotExist": {
+    "message": "Target workspace path does not exist: {value}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.themeIDCannotBeEmpty": {
+    "message": "Theme ID cannot be empty",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.themeNameCannotBeEmpty": {
+    "message": "Theme name cannot be empty",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.themeNotFound": {
+    "message": "Theme not found",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.themes.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/themes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.url.urlMetadataResponseExceeded2MB": {
+    "message": "URL metadata response exceeded 2 MB",
+    "description": "Native commands/url.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToConvertViewToJSON": {
+    "message": "Failed to convert view to JSON: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToCreateOctarineDirectory": {
+    "message": "Failed to create .octarine directory: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToParseUpdatedView": {
+    "message": "Failed to parse updated view: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToParseViewsFile": {
+    "message": "Failed to parse views file: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToReadViewsFile": {
+    "message": "Failed to read views file: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToSerializeViews": {
+    "message": "Failed to serialize views: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.failedToWriteViewsFile": {
+    "message": "Failed to write views file: {error}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.viewNotFound": {
+    "message": "View not found",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.views.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native commands/views.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToClearWorkspaceMapping": {
+    "message": "Failed to clear workspace mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToCreateNoteWindow": {
+    "message": "Failed to create note window",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToCreateQuickCaptureWindow": {
+    "message": "Failed to create quick capture window",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToCreateSettingsWindow": {
+    "message": "Failed to create settings window",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToCreateWindow": {
+    "message": "Failed to create window",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToForwardDeepLink": {
+    "message": "Failed to forward deep link: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToHideQuickCapture": {
+    "message": "Failed to hide Quick Capture: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToNavigateSettingsWindow": {
+    "message": "Failed to navigate settings window: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToRegisterNoteWindowSatelliteMapping": {
+    "message": "Failed to register note window satellite mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToRegisterQuickCaptureSatelliteMapping": {
+    "message": "Failed to register quick capture satellite mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToRegisterSatelliteMapping": {
+    "message": "Failed to register satellite mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToRegisterSatelliteWorkspaceMapping": {
+    "message": "Failed to register satellite workspace mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToRegisterSettingsWindowSatelliteMapping": {
+    "message": "Failed to register settings window satellite mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToRegisterWorkspaceMapping": {
+    "message": "Failed to register workspace mapping: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.failedToSetWindowTitle": {
+    "message": "Failed to set window title: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.missingWebviewToResolveQuickCaptureURL": {
+    "message": "Missing webview to resolve Quick Capture URL",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.noOctarineWindowAvailable": {
+    "message": "No Octarine window available",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.octarine": {
+    "message": "Octarine",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.quickCapture": {
+    "message": "Quick Capture",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.quickCaptureCurrentURL": {
+    "message": "Quick Capture current URL: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.quickCaptureDismissDispatch": {
+    "message": "Quick Capture dismiss dispatch: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.quickCaptureNavigate": {
+    "message": "Quick Capture navigate: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.quickCaptureRequiresAnActiveWorkspace": {
+    "message": "Quick Capture requires an active workspace.",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.quickCaptureURLBase": {
+    "message": "Quick Capture URL base: {error}",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.commands.window.settingsRouteDoesNotBelongToTheWorkspace": {
+    "message": "Settings route does not belong to the workspace",
+    "description": "Native commands/window.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.core.app_store.invalidWorkspaceEntryIsMissing": {
+    "message": "invalid workspace entry {uuid}: {field} is missing",
+    "description": "Shared native app_store.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.app_store.octarineAppStoreIsMissingStoreWorkspace": {
+    "message": "Octarine app store is missing store.workspace",
+    "description": "Shared native app_store.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.app_store.octarineAppStoreNotFound": {
+    "message": "Octarine app store not found: {value}",
+    "description": "Shared native app_store.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.app_store.workspaceNameIsAmbiguousUseItsUUIDInstead": {
+    "message": "workspace name is ambiguous; use its UUID instead: {value}",
+    "description": "Shared native app_store.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.app_store.workspaceNameOrUUIDNotFound": {
+    "message": "workspace name or UUID not found: {value}",
+    "description": "Shared native app_store.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.hunkDoesNotMatchNearLine": {
+    "message": "hunk {value1} does not match near line {value2}",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.lineIsPastTheEnd": {
+    "message": "line {line} is past the end",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.lineNumbersStartAt1": {
+    "message": "line numbers start at 1",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.malformedHunkHeader": {
+    "message": "malformed hunk header: {line}",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.noHunksFound": {
+    "message": "no hunks found",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.searchText": {
+    "message": "search text",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.searchTextIsEmpty": {
+    "message": "search text is empty",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.section": {
+    "message": "section {wanted}",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.edit.unexpectedLineInHunk": {
+    "message": "unexpected line in hunk: {line}",
+    "description": "Shared native edit.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.ambiguousMatchOccurrencesPassAllOrIncludeMoreContext": {
+    "message": "ambiguous match: {value} occurrences; pass --all or include more context",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.destinationAlreadyExists": {
+    "message": "destination already exists: {value}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.details": {
+    "message": "{name}: {e}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.duplicateInboxNumberINB": {
+    "message": "duplicate Inbox number: INB-{number}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.failedToReadWorkspaceEntry": {
+    "message": "failed to read workspace entry",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.inboxStatus": {
+    "message": "inbox status",
+    "description": "Invalid-property error context for an unrecognized Inbox status. Not a persisted field name or status value."
+  },
+  "native.core.lib.invalidEdit": {
+    "message": "invalid edit: {value}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.invalidPropertyValueFor": {
+    "message": "invalid property value for {value}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.mustContainAJSONArray": {
+    "message": "{name} must contain a JSON array",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.noteNotFound": {
+    "message": "note not found: {value}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.patchDoesNotApply": {
+    "message": "patch does not apply: {value}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.pathEscapesWorkspace": {
+    "message": "path escapes workspace",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.protectedPathCannotBeTrashed": {
+    "message": "protected path cannot be trashed",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.revisionConflictCurrentRevisionIs": {
+    "message": "revision conflict: current revision is {value}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.schemaJson": {
+    "message": "schema.json: {e}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.schemaJsonHasAnUnsupportedSchemaVersion": {
+    "message": "schema.json has an unsupported schemaVersion",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.strandedTemporaryFileOctarine": {
+    "message": "stranded temporary file: .octarine/{name}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.task": {
+    "message": "task {id}",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.lib.workspace": {
+    "message": "workspace",
+    "description": "Missing-note error context when the random note command has no folder scope. Not a filesystem name."
+  },
+  "native.core.lib.workspaceDoesNotExist": {
+    "message": "workspace does not exist",
+    "description": "Shared native lib.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aBucketNamedAlreadyExists": {
+    "message": "a bucket named {name} already exists",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aLabelNamedAlreadyExists": {
+    "message": "a label named {name} already exists",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aProjectNeedsAtLeastOneCompletedStatus": {
+    "message": "a project needs at least one completed status",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aProjectNeedsAtLeastOneOpenStatus": {
+    "message": "a project needs at least one open status",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aSpaceHasNo": {
+    "message": "a space has no {key}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aSpaceNamedAlreadyExists": {
+    "message": "a space named {name} already exists",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aSpaceNamedAlreadyExistsRenameOneBeforeRestoring": {
+    "message": "a space named {value} already exists; rename one before restoring",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aStatusNamedAlreadyExists": {
+    "message": "a status named {name} already exists",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aStatusSCategoryCannotChange": {
+    "message": "a status's category cannot change",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aSubtaskCannotHaveSubtasks": {
+    "message": "a subtask cannot have subtasks",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aTaskCannotBeItsOwnParent": {
+    "message": "a task cannot be its own parent",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aTaskWithSubtasksCannotBecomeASubtask": {
+    "message": "a task with subtasks cannot become a subtask",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aTemplateNamedAlreadyExists": {
+    "message": "a template named {name} already exists",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.aTypeNamedAlreadyExists": {
+    "message": "a type named {name} already exists",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.archiveMove": {
+    "message": "archive move: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.badFolder": {
+    "message": "bad folder",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.bucketDoesNotExist": {
+    "message": "bucket {id} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.bucketDoesNotExistWithDetails": {
+    "message": "bucket {bucket} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.bucketMustBeABucketId": {
+    "message": "bucket must be a bucket id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.bucketNamesCannotContainCommasOrQuotes": {
+    "message": "bucket names cannot contain commas or quotes",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.bucketsMustBeAListOfBucketIds": {
+    "message": "buckets must be a list of bucket ids",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.bucketsMustBeBucketIds": {
+    "message": "buckets must be bucket ids",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cannotAddASubtaskToAnArchivedTask": {
+    "message": "cannot add a subtask to an archived task",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cannotAssignATaskToAnArchivedProject": {
+    "message": "cannot assign a task to an archived project",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cannotDeleteA": {
+    "message": "cannot delete a {kind}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cannotMoveIntoAnArchivedSpace": {
+    "message": "cannot move into an archived space",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.clearOperationRecord": {
+    "message": "clear operation record: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.commentBodyMustNotBeEmpty": {
+    "message": "comment body must not be empty",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.commentDoesNotExist": {
+    "message": "comment does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.configYmlMustBeAnObject": {
+    "message": "config.yml must be an object",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.corruptActivityPreserved": {
+    "message": "corrupt activity {value} (preserved): {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.corruptComment": {
+    "message": "corrupt comment",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.create": {
+    "message": "create {value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.createTemporaryFile": {
+    "message": "create temporary file: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cycleDurationMustBe71421Or28Days": {
+    "message": "cycle duration must be 7, 14, 21 or 28 days",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cycleEndMustNotBeBeforeItsStart": {
+    "message": "cycle end must not be before its start",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cycleNameCannotBeEmpty": {
+    "message": "cycle name cannot be empty",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cycleStartDayMustBeFrom0Through6": {
+    "message": "cycle start day must be from 0 through 6",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.cycleStateMustBeUpcomingActiveOrEnded": {
+    "message": "cycle state must be upcoming, active or ended",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.delete": {
+    "message": "delete {value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.detailsWithDetails": {
+    "message": "{value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.documentAlreadyExistsCreateOnlyWrite": {
+    "message": "document already exists (create-only write)",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.documentDoesNotExist": {
+    "message": "document does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.dueMustBeAnISODateStringOrNull": {
+    "message": "due must be an ISO date string or null",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.dueMustBeYYYYMMDD": {
+    "message": "due must be YYYY-MM-DD",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.duplicateLiveAndArchived": {
+    "message": "duplicate live and archived {kind} {id}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.duplicateTaskIDFilesPreserved": {
+    "message": "duplicate task ID {value}; files preserved",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.eventIdMissing": {
+    "message": "event id missing",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.fieldsPatchMustBeAJSONObject": {
+    "message": "fields patch must be a JSON object",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.flushDirectory": {
+    "message": "flush directory: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.flushTemporaryFile": {
+    "message": "flush temporary file: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.frontmatterInIsNotAnObject": {
+    "message": "frontmatter in {value} is not an object",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.hasNoYAMLFrontmatter": {
+    "message": "{value} has no YAML frontmatter",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.idMustBeA24CharacterLowercaseCUID2BeginningWithALetter": {
+    "message": "id must be a 24 character lowercase CUID2 beginning with a letter",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.inspect": {
+    "message": "inspect {value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidEventId": {
+    "message": "invalid event id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidProjectState": {
+    "message": "invalid project state: {state}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidProjectStatusUseOneOf": {
+    "message": "invalid project status: {value1}; use one of {value2}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidRecoveryRecordIdentityVersionPreserved": {
+    "message": "invalid recovery record identity/version; preserved",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidStatusCategory": {
+    "message": "invalid status category: {category}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidTaskId": {
+    "message": "invalid task id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidTaskState": {
+    "message": "invalid task state: {state}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidTaskStorageFilename": {
+    "message": "invalid task storage filename: {value}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.invalidWorkspace": {
+    "message": "invalid workspace: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.isNativeControlled": {
+    "message": "{controlled} is native-controlled",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.isNotABuiltInStatus": {
+    "message": "{status} is not a built-in status",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.isNotUTF8": {
+    "message": "{value} is not UTF-8: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.isRequiredAndMustBeAString": {
+    "message": "{key} is required and must be a string",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.keyMustBe2To5LettersOrDigitsStartingWithALetter": {
+    "message": "key must be 2 to 5 letters or digits, starting with a letter",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.keyMustBeAString": {
+    "message": "key must be a string",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.kindMustBeTaskProjectSpaceViewLabelStatusBucketTypeCycleOrTemplate": {
+    "message": "kind must be 'task', 'project', 'space', 'view', 'label', 'status', 'bucket', 'type', 'cycle' or 'template'",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.labelNamesCannotContainCommasOrQuotes": {
+    "message": "label names cannot contain commas or quotes",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.labelsMustBeAListOfLabelNames": {
+    "message": "labels must be a list of label names",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.malformedConfigYml": {
+    "message": "malformed config.yml: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.malformedFrontmatterIn": {
+    "message": "malformed frontmatter in {value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.malformedRecoveryRecord": {
+    "message": "malformed recovery record: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.mustBeADateInYYYYMMDDFormat": {
+    "message": "{field} must be a date in YYYY-MM-DD format",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.mustBeADateInYYYYMMDDFormatWithDetails": {
+    "message": "{key} must be a date in YYYY-MM-DD format",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.mustBeAListOfStrings": {
+    "message": "{key} must be a list of strings",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.mustBeAString": {
+    "message": "{key} must be a string",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.numberIsImmutable": {
+    "message": "number is immutable",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.numberMustBeAPositiveInteger": {
+    "message": "number must be a positive integer",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.orderMustBeANumber": {
+    "message": "order must be a number",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.parentIdMustBeATaskId": {
+    "message": "parent_id must be a task id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.parentTaskDoesNotExist": {
+    "message": "parent task {parent_id} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.priorityMustBeAnIntegerFrom0Through4": {
+    "message": "priority must be an integer from 0 through 4",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.projectDoesNotExist": {
+    "message": "project {project} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.projectMustBeAProjectId": {
+    "message": "project must be a project id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.projectNumbersMustBeAnObject": {
+    "message": "project_numbers must be an object",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.queryIsRequiredAndMustBeAString": {
+    "message": "query is required and must be a string",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.read": {
+    "message": "read {value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.readActivity": {
+    "message": "read activity: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.readConfigYml": {
+    "message": "read config.yml: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.recoverArchiveMove": {
+    "message": "recover archive move: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.recoveryConflictForFilesPreserved": {
+    "message": "recovery conflict for {value1} {value2}; files preserved",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.recoveryRecordAfterDocumentFailedVerificationPreserved": {
+    "message": "recovery record after document failed verification; preserved",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.replace": {
+    "message": "replace {value}: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.resourcesMustBeAList": {
+    "message": "resources must be a list",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.serializeYAML": {
+    "message": "serialize YAML: {e}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.spaceDoesNotExist": {
+    "message": "space {space} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.spaceMustBeASpaceId": {
+    "message": "space must be a space id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.spaceNamesCannotContainCommasOrQuotes": {
+    "message": "space names cannot contain commas or quotes",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.staleRevision": {
+    "message": "stale revision",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.statusDoesNotExist": {
+    "message": "status {id} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.statusNamesCannotContainCommasOrQuotes": {
+    "message": "status names cannot contain commas or quotes",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.statusesMustBeAListOfStatusIds": {
+    "message": "statuses must be a list of status ids",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.statusesMustBeStatusIds": {
+    "message": "statuses must be status ids",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.storageFileHasNoParent": {
+    "message": "storage file has no parent",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.storedFrontmatterIsNotAnObject": {
+    "message": "stored frontmatter is not an object",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.tagsMustBeAListOfLabelNames": {
+    "message": "tags must be a list of label names",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.targetDateMustNotBeBeforeTheStartDate": {
+    "message": "target date must not be before the start date",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.taskChangedDuringNumberReconciliationRetryRequired": {
+    "message": "task changed during number reconciliation; retry required",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.taskDoesNotExist": {
+    "message": "task does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.taskFieldsMustBeAnObject": {
+    "message": "task fields must be an object",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.taskNumberHighWaterMarkExhausted": {
+    "message": "task number high-water mark exhausted",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.taskRootHasNoOctarineParent": {
+    "message": "task root has no .octarine parent",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.tasksStorageLockPoisoned": {
+    "message": "tasks storage lock poisoned",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.theKeyIsAlreadyUsed": {
+    "message": "the key {key} is already used",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.theKeyIsAlreadyUsedByAProject": {
+    "message": "the key {key} is already used by a project",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.typeDoesNotExist": {
+    "message": "type {kind} does not exist",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.typeMustBeATypeId": {
+    "message": "type must be a type id",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.typeNameCannotBeEmpty": {
+    "message": "type name cannot be empty",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.typeNamesCannotContainCommasOrQuotes": {
+    "message": "type names cannot contain commas or quotes",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.unsafeStorageFile": {
+    "message": "unsafe storage file: {value}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.unsafeTaskStoragePath": {
+    "message": "unsafe task storage path: {value}",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.unsupportedActivityPreserved": {
+    "message": "unsupported activity {value} (preserved)",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.core.tasks.workspaceIsNotADirectory": {
+    "message": "workspace is not a directory",
+    "description": "Shared native tasks.rs: user-facing error. Named values preserve opaque paths, identifiers, field names, user content or library errors."
+  },
+  "native.integrations.mod.aCustomHeaderNameIsInvalid": {
+    "message": "A custom header name is invalid",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.aCustomHeaderValueIsInvalid": {
+    "message": "A custom header value is invalid",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.bearerTokenIsNotConfigured": {
+    "message": "Bearer token is not configured",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.credentialStorageIsUnavailable": {
+    "message": "Credential storage is unavailable",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationEndpointChangedReviewTheCallAgain": {
+    "message": "Integration endpoint changed. Review the call again.",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationIsDisconnected": {
+    "message": "Integration is disconnected",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationMetadataIsInvalid": {
+    "message": "Integration metadata is invalid",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationNameIsRequired": {
+    "message": "Integration name is required",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationNotFound": {
+    "message": "Integration not found",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationWasRemoved": {
+    "message": "Integration was removed",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.integrationWasRemovedAddANewConnection": {
+    "message": "Integration was removed. Add a new connection.",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.invalidHeaderName": {
+    "message": "Invalid header name",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.invalidHeaderValue": {
+    "message": "Invalid header value",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.invalidIntegrationId": {
+    "message": "Invalid integration id",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.invalidMCPEndpointURL": {
+    "message": "Invalid MCP endpoint URL",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.invalidToolCatalog": {
+    "message": "Invalid tool catalog",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpAsynchronousTasksAreNotSupported": {
+    "message": "MCP asynchronous tasks are not supported",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpConnectionTimedOut": {
+    "message": "MCP connection timed out",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpEndpointMustNotContainCredentialsQueryOrFragment": {
+    "message": "MCP endpoint must not contain credentials, query, or fragment",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpEndpointMustUseHTTPSLiteralLoopbackHTTPIsAllowed": {
+    "message": "MCP endpoint must use HTTPS (literal loopback HTTP is allowed)",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpResultExceedsThe128KiBLimit": {
+    "message": "MCP result exceeds the 128 KiB limit",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpResultIsInvalid": {
+    "message": "MCP result is invalid",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpServerAdvertisesToolsTheLimitIs": {
+    "message": "MCP server advertises {value} tools; the limit is {MAX_CATALOG_TOOLS}",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolCallCancelled": {
+    "message": "MCP tool call cancelled",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolCallFailed": {
+    "message": "MCP tool call failed",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolCallTimedOut": {
+    "message": "MCP tool call timed out",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolCatalogIsKiBTheLimitIsKiB": {
+    "message": "MCP tool catalog is {value1} KiB; the limit is {value2} KiB",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolDiscoveryTimedOut": {
+    "message": "MCP tool discovery timed out",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolIsNotAdvertisedByThisServer": {
+    "message": "MCP tool is not advertised by this server",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.mcpToolRequestedInteractiveInput": {
+    "message": "MCP tool requested interactive input",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.protocolHeadersCannotBeOverriddenUseTheTokenFieldForAuthorization": {
+    "message": "Protocol headers cannot be overridden. Use the token field for Authorization.",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.requestBelongsToAnotherWindow": {
+    "message": "Request belongs to another window",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.requestidIsAlreadyActive": {
+    "message": "requestId is already active",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.requestidIsRequired": {
+    "message": "requestId is required",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.storedCredentialsAreInvalid": {
+    "message": "Stored credentials are invalid",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.storedCredentialsBelongToADifferentEndpointReconnectThisIntegration": {
+    "message": "Stored credentials belong to a different endpoint. Reconnect this integration.",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToCommitIntegrationMetadata": {
+    "message": "Unable to commit integration metadata",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToConnectToMCPServer": {
+    "message": "Unable to connect to MCP server",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToCreateMCPClient": {
+    "message": "Unable to create MCP client",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToEncodeCredentials": {
+    "message": "Unable to encode credentials",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToEncodeIntegrationMetadata": {
+    "message": "Unable to encode integration metadata",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToListMCPTools": {
+    "message": "Unable to list MCP tools",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToPrepareIntegrationStorage": {
+    "message": "Unable to prepare integration storage",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToReadIntegrationMetadata": {
+    "message": "Unable to read integration metadata",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToReadStoredCredentials": {
+    "message": "Unable to read stored credentials",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToRemoveStoredCredentials": {
+    "message": "Unable to remove stored credentials",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToResolveAppDataDirectory": {
+    "message": "Unable to resolve app data directory",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToStoreCredentials": {
+    "message": "Unable to store credentials",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToVerifyMCPTool": {
+    "message": "Unable to verify MCP tool",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unableToWriteIntegrationMetadata": {
+    "message": "Unable to write integration metadata",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.unsupportedMCPToolResponse": {
+    "message": "Unsupported MCP tool response",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.mod.useTheTokenFieldForAuthorization": {
+    "message": "Use the token field for Authorization",
+    "description": "Native integrations/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.connectedToOctarineYouCanCloseThisTab": {
+    "message": "Connected to Octarine. You can close this tab.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.incompleteCallback": {
+    "message": "Incomplete callback",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.invalidAuthorizationURL": {
+    "message": "Invalid authorization URL",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.invalidOAuthEndpoint": {
+    "message": "Invalid OAuth endpoint",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.oauthAuthorizationMustUseHTTPS": {
+    "message": "OAuth authorization must use HTTPS",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.oauthDiscoveryOrRegistrationFailedThisServerMustSupportDynamicClientRegistration": {
+    "message": "OAuth discovery or registration failed. This server must support dynamic client registration.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.oauthSessionCouldNotBeRestoredReconnectInIntegrations": {
+    "message": "OAuth session could not be restored. Reconnect in Integrations.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.oauthSessionExpiredOrWasRevokedReconnectInIntegrations": {
+    "message": "OAuth session expired or was revoked. Reconnect in Integrations.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.signInCallbackFailed": {
+    "message": "Sign-in callback failed",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.signInTimedOutClickConnectToTryAgain": {
+    "message": "Sign-in timed out. Click Connect to try again.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.signInUsingConnectInIntegrations": {
+    "message": "Sign in using Connect in Integrations.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.signInWasNotAcceptedReturnToOctarineToRetry": {
+    "message": "Sign-in was not accepted. Return to Octarine to retry.",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToAccessSecureOAuthCredentials": {
+    "message": "Unable to access secure OAuth credentials",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToConfigureOAuth": {
+    "message": "Unable to configure OAuth",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToCreateOAuthClient": {
+    "message": "Unable to create OAuth client",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToInitializeOAuth": {
+    "message": "Unable to initialize OAuth",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToOpenTheSignInCallbackListener": {
+    "message": "Unable to open the sign-in callback listener",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToOpenYourBrowser": {
+    "message": "Unable to open your browser",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToReadCallbackAddress": {
+    "message": "Unable to read callback address",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.integrations.oauth.unableToStartBrowserSignIn": {
+    "message": "Unable to start browser sign-in",
+    "description": "Native integrations/oauth.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToCreateAppDataDir": {
+    "message": "Failed to create app data dir: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToDeleteTeamCredential": {
+    "message": "Failed to delete team credential: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToGetAppDataDir": {
+    "message": "Failed to get app data dir: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToPersistInstallationId": {
+    "message": "Failed to persist installation id: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToReadInstallationId": {
+    "message": "Failed to read installation id: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToReadTeamCredential": {
+    "message": "Failed to read team credential: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.failedToStoreTeamCredential": {
+    "message": "Failed to store team credential: {e}",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.team.teamDeviceCredentialCannotBeEmpty": {
+    "message": "Team device credential cannot be empty",
+    "description": "Native licensing/team.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.debugCommandsAreNotAvailableInReleaseBuilds": {
+    "message": "Debug commands are not available in release builds",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToCreateAppDataDir": {
+    "message": "Failed to create app data dir: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToGetAppDataDir": {
+    "message": "Failed to get app data dir: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToInitHMAC": {
+    "message": "Failed to init HMAC: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToParseMarkerFile": {
+    "message": "Failed to parse marker file: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToReadMarkerFile": {
+    "message": "Failed to read marker file: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToReadTrialFile": {
+    "message": "Failed to read trial file: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToSerializeMarkerPayload": {
+    "message": "Failed to serialize marker payload: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToSerializeMarkerRecord": {
+    "message": "Failed to serialize marker record: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToSerializePayload": {
+    "message": "Failed to serialize payload: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToSerializeTrialRecord": {
+    "message": "Failed to serialize trial record: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToWriteMarkerFile": {
+    "message": "Failed to write marker file: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.licensing.trial.failedToWriteTrialFile": {
+    "message": "Failed to write trial file: {e}",
+    "description": "Native licensing/trial.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.cannotCopyDirectoryIntoNestedWorkspace": {
+    "message": "Cannot copy directory '{value1}' into nested workspace '{value2}'",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.clipboardImageContainedInvalidRGBAData": {
+    "message": "Clipboard image contained invalid RGBA data",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.clipboardImageTaskFailed": {
+    "message": "Clipboard image task failed: {error}",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.failedToEncodeClipboardImage": {
+    "message": "Failed to encode clipboard image: {error}",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.failedToStoreClipboardImage": {
+    "message": "Failed to store clipboard image: {error}",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.folderAlreadyExists": {
+    "message": "folder already exists",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.folderDoesNotExist": {
+    "message": "Folder does not exist: {value}",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.folderPathMustStayWithinTheWorkspace": {
+    "message": "folder path must stay within the workspace",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.parentDirectoryIsOutsideTheWorkspace": {
+    "message": "parent directory is outside the workspace",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.pathHasNoExistingWorkspaceAncestor": {
+    "message": "path has no existing workspace ancestor",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.pathMustStayWithinTheWorkspace": {
+    "message": "path must stay within the workspace",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.pathResolvesOutsideTheWorkspace": {
+    "message": "path resolves outside the workspace",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.sourcePathDoesNotExist": {
+    "message": "Source path does not exist: {value}",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.sourcePathHasNoFileName": {
+    "message": "Source path has no file name",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.targetWorkspacePathDoesNotExist": {
+    "message": "Target workspace path does not exist: {value}",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.theFolderIsNoLongerEmpty": {
+    "message": "the folder is no longer empty",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.notes.theNoteChangedBeforeTheOperationCouldBeApplied": {
+    "message": "the note changed before the operation could be applied",
+    "description": "Native markdown/notes.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.references.convertTaskJoin": {
+    "message": "convert task join: {error}",
+    "description": "Native markdown/references.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.references.fetchReferencesTaskJoinError": {
+    "message": "fetch_references task join error: {error}",
+    "description": "Native markdown/references.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.references.readFailed": {
+    "message": "read failed: {error}",
+    "description": "Native markdown/references.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.references.rename": {
+    "message": "rename: {error}",
+    "description": "Native markdown/references.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.references.sourceHasNoParent": {
+    "message": "source has no parent",
+    "description": "Native markdown/references.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.references.tmpWrite": {
+    "message": "tmp write: {error}",
+    "description": "Native markdown/references.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.search.invalidRegexPattern": {
+    "message": "Invalid regex pattern: {error}",
+    "description": "Native markdown/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.search.invalidSearchTerm": {
+    "message": "Invalid search term: {error}",
+    "description": "Native markdown/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.search.invalidSearchTerms": {
+    "message": "Invalid search terms: {error}",
+    "description": "Native markdown/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.markdown.search.searchPanicked": {
+    "message": "Search panicked: {error}",
+    "description": "Native markdown/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.platform.mail.failedToOpenEmailClient": {
+    "message": "Failed to open email client: {error}",
+    "description": "Native platform/mail.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.chat_history.chatHistoryOperationFailed": {
+    "message": "chat history operation failed",
+    "description": "Native sqlite/chat_history.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.connection.unsupportedDatabaseMode": {
+    "message": "Unsupported database mode: {mode}",
+    "description": "Native sqlite/connection.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.failedToAcquireLockOnEmbeddingEngineState": {
+    "message": "Failed to acquire lock on embedding engine state: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.failedToCreateModelDirectory": {
+    "message": "Failed to create model directory: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.failedToDeleteModelDirectory": {
+    "message": "Failed to delete model directory: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.failedToLoadModelInRust": {
+    "message": "Failed to load model '{value1}' in Rust: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.modelExistenceCheckFailed": {
+    "message": "Model existence check failed: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.modelLoadingTaskFailed": {
+    "message": "Model loading task failed: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.commands.modelUnloadTaskFailed": {
+    "message": "Model unload task failed: {error}",
+    "description": "Native sqlite/embeddings/commands.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.engine.embeddingTaskFailed": {
+    "message": "Embedding task failed: {error}",
+    "description": "Native sqlite/embeddings/engine.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.engine.failedToGenerateEmbeddings": {
+    "message": "Failed to generate embeddings: {error}",
+    "description": "Native sqlite/embeddings/engine.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.engine.failedToLoadModelFromPath": {
+    "message": "Failed to load model '{value1}' from path {value2}: {error}",
+    "description": "Native sqlite/embeddings/engine.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.engine.modelNameNotSet": {
+    "message": "Model name not set",
+    "description": "Native sqlite/embeddings/engine.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.engine.modelNotLoadedOrNotAvailable": {
+    "message": "Model not loaded or not available",
+    "description": "Native sqlite/embeddings/engine.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.engine.unsupportedModelName": {
+    "message": "Unsupported model name: {value}",
+    "description": "Native sqlite/embeddings/engine.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToAddEmbeddingErrorColumn": {
+    "message": "Failed to add embedding_error column: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToBeginSchemaTransaction": {
+    "message": "Failed to begin schema transaction: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToCheckEmbeddingErrorColumn": {
+    "message": "Failed to check embedding_error column: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToClearOldSchema": {
+    "message": "Failed to clear old schema: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToCommitSchemaTransaction": {
+    "message": "Failed to commit schema transaction: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToCreateAppDataDirectory": {
+    "message": "Failed to create app data directory: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToCreateConnectionPool": {
+    "message": "Failed to create connection pool: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToCreateSchemaMetaTable": {
+    "message": "Failed to create schema_meta table: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToGetConnectionFromPool": {
+    "message": "Failed to get connection from pool: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToInitializeSqliteSchema": {
+    "message": "Failed to initialize sqlite schema: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToLockConnectionPools": {
+    "message": "Failed to lock connection pools: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToReadSchemaVersion": {
+    "message": "Failed to read schema version: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.pool.failedToWriteSchemaVersion": {
+    "message": "Failed to write schema version: {error}",
+    "description": "Native sqlite/embeddings/pool.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.chunkLookupJoinError": {
+    "message": "Chunk lookup join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.clearJoinError": {
+    "message": "Clear join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedFtsRow": {
+    "message": "Failed fts row: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCheckVectorsVecTable": {
+    "message": "Failed to check vectors_vec table: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToClearEmbeddingError": {
+    "message": "Failed to clear embedding error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToClearEmbeddings": {
+    "message": "Failed to clear embeddings: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToClearVectorsVec": {
+    "message": "Failed to clear vectors_vec: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCommitClearedEmbeddings": {
+    "message": "Failed to commit cleared embeddings: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCommitDocumentUpdate": {
+    "message": "Failed to commit document update: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCommitEmbeddings": {
+    "message": "Failed to commit embeddings: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCountChunks": {
+    "message": "Failed to count chunks: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCountHashUsage": {
+    "message": "Failed to count hash usage: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCountVectorData": {
+    "message": "Failed to count vector data: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCountVectors": {
+    "message": "Failed to count vectors: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToCreateVectorsTable": {
+    "message": "Failed to create vectors table: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteChunkFtsRows": {
+    "message": "Failed to delete chunk fts rows: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteChunks": {
+    "message": "Failed to delete chunks: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteContent": {
+    "message": "Failed to delete content: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteDocument": {
+    "message": "Failed to delete document: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteOldContent": {
+    "message": "Failed to delete old content: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteVectors": {
+    "message": "Failed to delete vectors: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDeleteVectorsVec": {
+    "message": "Failed to delete vectors_vec: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToDropOldVectorsTable": {
+    "message": "Failed to drop old vectors table: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToEmbedQuery": {
+    "message": "Failed to embed query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToExecuteFtsQuery": {
+    "message": "Failed to execute fts query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToExecuteVectorQuery": {
+    "message": "Failed to execute vector query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToFetchChunk": {
+    "message": "Failed to fetch chunk: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToFetchChunkForPath": {
+    "message": "Failed to fetch chunk for path: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToFetchDocuments": {
+    "message": "Failed to fetch documents: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToFetchEmbeddingErrors": {
+    "message": "Failed to fetch embedding errors: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToGenerateEmbeddings": {
+    "message": "Failed to generate embeddings: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToInsertChunk": {
+    "message": "Failed to insert chunk: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToInsertChunkFtsRow": {
+    "message": "Failed to insert chunk fts row: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToInsertContent": {
+    "message": "Failed to insert content: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToInsertDocument": {
+    "message": "Failed to insert document: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToInsertVec": {
+    "message": "Failed to insert vec: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToInsertVectorMetadata": {
+    "message": "Failed to insert vector metadata: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToLockEmbeddingEngine": {
+    "message": "Failed to lock embedding engine: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToParseChunk": {
+    "message": "Failed to parse chunk: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToParseFolderCount": {
+    "message": "Failed to parse folder count: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToParsePruneRow": {
+    "message": "Failed to parse prune row: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkFtsInsert": {
+    "message": "Failed to prepare chunk fts insert: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkInsert": {
+    "message": "Failed to prepare chunk insert: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkLookup": {
+    "message": "Failed to prepare chunk lookup: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkQuery": {
+    "message": "Failed to prepare chunk query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareDocumentsQuery": {
+    "message": "Failed to prepare documents query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareErrorQuery": {
+    "message": "Failed to prepare error query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareExpandedChunkLookup": {
+    "message": "Failed to prepare expanded chunk lookup: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareFolderCountQuery": {
+    "message": "Failed to prepare folder count query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareFtsQuery": {
+    "message": "Failed to prepare fts query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPreparePrefixQuery": {
+    "message": "Failed to prepare prefix query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPreparePruneQuery": {
+    "message": "Failed to prepare prune query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleChunkQuery": {
+    "message": "Failed to prepare stale chunk query: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleDocumentQuery": {
+    "message": "Failed to prepare stale document query: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleVectorMetadataQuery": {
+    "message": "Failed to prepare stale vector metadata query: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleVectorQuery": {
+    "message": "Failed to prepare stale vector query: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareVectorInsert": {
+    "message": "Failed to prepare vector insert: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareVectorQuery": {
+    "message": "Failed to prepare vector query: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToPrepareVectorsVecInsert": {
+    "message": "Failed to prepare vectors_vec insert: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryChunks": {
+    "message": "Failed to query chunks: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryDocuments": {
+    "message": "Failed to query documents: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryExpandedChunks": {
+    "message": "Failed to query expanded chunks: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryFolderCounts": {
+    "message": "Failed to query folder counts: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryPrefixes": {
+    "message": "Failed to query prefixes: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleChunks": {
+    "message": "Failed to query stale chunks: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleDocuments": {
+    "message": "Failed to query stale documents: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleVectorMetadata": {
+    "message": "Failed to query stale vector metadata: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleVectors": {
+    "message": "Failed to query stale vectors: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadContentForStaleCheck": {
+    "message": "Failed to read content for stale check: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadError": {
+    "message": "Failed to read error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadExistingDocument": {
+    "message": "Failed to read existing document: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadExpandedChunk": {
+    "message": "Failed to read expanded chunk: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadFile": {
+    "message": "Failed to read file: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadFileMetadata": {
+    "message": "Failed to read file metadata: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadFtsChunkId": {
+    "message": "Failed to read fts chunk id: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadHashSeq": {
+    "message": "Failed to read hash_seq: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadPath": {
+    "message": "Failed to read path: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleChunk": {
+    "message": "Failed to read stale chunk: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleDocument": {
+    "message": "Failed to read stale document: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleVector": {
+    "message": "Failed to read stale vector: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleVectorMetadata": {
+    "message": "Failed to read stale vector metadata: {e}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadStatus": {
+    "message": "Failed to read status: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToReadVectorsTableInfo": {
+    "message": "Failed to read vectors table info: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToResetEmbeddingError": {
+    "message": "Failed to reset embedding error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToSerializeEmbedding": {
+    "message": "Failed to serialize embedding: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToSerializeQueryEmbedding": {
+    "message": "Failed to serialize query embedding: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToStartClearTransaction": {
+    "message": "Failed to start clear transaction: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToStartInsertTransaction": {
+    "message": "Failed to start insert transaction: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToStartTransaction": {
+    "message": "Failed to start transaction: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToTouchDocument": {
+    "message": "Failed to touch document: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedToUpdateDocument": {
+    "message": "Failed to update document: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.failedVectorRow": {
+    "message": "Failed vector row: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.folderCountJoinError": {
+    "message": "Folder count join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.indexingJoinError": {
+    "message": "Indexing join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.listErrorsJoinError": {
+    "message": "List errors join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.listJoinError": {
+    "message": "List join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.listStatusJoinError": {
+    "message": "List status join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.noEmbeddingGenerated": {
+    "message": "No embedding generated",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.pruneJoinError": {
+    "message": "Prune join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.searchJoinError": {
+    "message": "Search join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.staleCheckJoinError": {
+    "message": "Stale check join error: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.tokenizationFailed": {
+    "message": "Tokenization failed: {error}",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.tokenizationOffsetsOutOfBounds": {
+    "message": "Tokenization offsets out of bounds",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.tokenizationReturnedNoOffsets": {
+    "message": "Tokenization returned no offsets",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.embeddings.store.workspaceIDAndPathCannotBeEmpty": {
+    "message": "Workspace ID and path cannot be empty",
+    "description": "Native sqlite/embeddings/store.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.headings.invalidWorkspacePath": {
+    "message": "invalid workspace path: {e}",
+    "description": "Native sqlite/headings.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.headings.notepathMustBeWorkspaceRelative": {
+    "message": "notePath must be workspace-relative",
+    "description": "Native sqlite/headings.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.headings.notepathResolvesOutsideTheWorkspace": {
+    "message": "notePath resolves outside the workspace",
+    "description": "Native sqlite/headings.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.headings.workspacePathIsAlreadyRegistered": {
+    "message": "workspace path is already registered: {e}",
+    "description": "Native sqlite/headings.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.headings.workspaceidMustBeAUUID": {
+    "message": "workspaceId must be a UUID",
+    "description": "Native sqlite/headings.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.migrations.applicationDatabaseSchemaIsNewerThanSupported": {
+    "message": "application database schema {version} is newer than supported {SCHEMA_VERSION}",
+    "description": "Native sqlite/migrations.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.search.noteChangedWhileIndexingContent": {
+    "message": "Note changed while indexing content",
+    "description": "Native sqlite/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.search.pathMustBeWorkspaceRelative": {
+    "message": "path must be workspace-relative",
+    "description": "Native sqlite/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.search.pathResolvesOutsideTheWorkspace": {
+    "message": "path resolves outside the workspace",
+    "description": "Native sqlite/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.sqlite.search.workspaceidMustBeAUUID": {
+    "message": "workspaceId must be a UUID",
+    "description": "Native sqlite/search.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.couldNotConvertFileURLToALocalPath": {
+    "message": "Could not convert file URL to a local path",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.couldNotInspectDocument": {
+    "message": "Could not inspect document: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.couldNotOpen": {
+    "message": "Could not open {value}: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.couldNotReadDocument": {
+    "message": "Could not read document: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.couldNotSaveDocument": {
+    "message": "Could not save document: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.externalDocumentHasNoParentDirectory": {
+    "message": "External document has no parent directory",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.externalDocumentPathLockPoisoned": {
+    "message": "External document path lock poisoned: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.externalDocumentSessionLockPoisoned": {
+    "message": "External document session lock poisoned: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.externalDocumentSessionNoLongerExists": {
+    "message": "External document session no longer exists",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.externalDocumentWatcherLockPoisoned": {
+    "message": "External document watcher lock poisoned: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.failedToCreateExternalDocumentWatcher": {
+    "message": "Failed to create external document watcher: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.failedToCreateExternalDocumentWindow": {
+    "message": "Failed to create external document window",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.failedToWatchExternalDocument": {
+    "message": "Failed to watch external document: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.octarineCanOnlyOpenMarkdownDocuments": {
+    "message": "Octarine can only open Markdown documents",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.onlyFilesCanBeOpenedAsExternalDocuments": {
+    "message": "Only files can be opened as external documents",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.openedFileQueueLockPoisoned": {
+    "message": "Opened file queue lock poisoned: {e}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.external_documents.unsupportedURLScheme": {
+    "message": "Unsupported URL scheme: {value}",
+    "description": "Native windows/external_documents.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.details": {
+    "message": "{value1}: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToCreateAppDataDirectory": {
+    "message": "Failed to create app data directory: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToFocusWindow": {
+    "message": "Failed to focus window {value1}: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToParseWorkspaceWindowSession": {
+    "message": "Failed to parse workspace window session: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToReadRouteFor": {
+    "message": "Failed to read route for {label}: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToResolveAppDataDirectory": {
+    "message": "Failed to resolve app data directory: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToRestoreWorkspaceWindow": {
+    "message": "Failed to restore workspace window",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToSaveWorkspaceWindowSession": {
+    "message": "Failed to save workspace window session: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.failedToSerializeWorkspaceWindowSession": {
+    "message": "Failed to serialize workspace window session: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.octarine": {
+    "message": "Octarine",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.onlyTheMainWindowCanRestoreTheWorkspaceSession": {
+    "message": "Only the main window can restore the workspace session",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.thePrimaryWorkspaceIsNotInTheHydratedRegistry": {
+    "message": "The primary workspace is not in the hydrated registry",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.windowWithLabelNotFound": {
+    "message": "Window with label {value} not found",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.workspaceWindowRegistryLockPoisoned": {
+    "message": "workspace window registry lock poisoned: {error}",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.manager.workspaceWindowStateIsUnavailable": {
+    "message": "Workspace window state is unavailable",
+    "description": "Native windows/manager.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.quick_capture.notification.osascriptExitedWithStatus": {
+    "message": "osascript exited with status {status}",
+    "description": "Native windows/quick_capture/notification.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.active": {
+    "message": "Active",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.more": {
+    "message": "More…",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.octarine": {
+    "message": "Octarine",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.openInbox": {
+    "message": "Open Inbox",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.quickCapture": {
+    "message": "Quick Capture…",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.quitOctarine": {
+    "message": "Quit Octarine",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.settings": {
+    "message": "Settings…",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.systemTrayStateIsUnavailable": {
+    "message": "System tray state is unavailable.",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.windows.tray.trayLock": {
+    "message": "tray lock: {error}",
+    "description": "Native windows/tray.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.folder_config.globPatternError": {
+    "message": "Glob pattern error: {error}",
+    "description": "Native folder configuration command error. error is the opaque glob library error; do not translate its value."
+  },
+  "native.workspace.mod.failedToConvertPathToString": {
+    "message": "Failed to convert path to string",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToGetFileMetadata": {
+    "message": "Failed to get file metadata: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToReadChangedFile": {
+    "message": "Failed to read changed file: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToReadFile": {
+    "message": "Failed to read file: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToReadFileContents": {
+    "message": "Failed to read file contents: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToStripPrefix": {
+    "message": "Failed to strip prefix: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToWriteBackupFile": {
+    "message": "Failed to write backup file: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.failedToWriteFile": {
+    "message": "Failed to write file: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.invalidFileName": {
+    "message": "Invalid file name",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.invalidTagName": {
+    "message": "Invalid tag name",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.tagCannotBeEmpty": {
+    "message": "Tag cannot be empty",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.tagsCanOnlyContainLettersNumbersUnderscoresDashesAndSlashes": {
+    "message": "Tags can only contain letters, numbers, underscores, dashes, and slashes",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.taskJoinError": {
+    "message": "Task join error: {error}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.mod.workspacePathDoesNotExist": {
+    "message": "Workspace path does not exist: {value}",
+    "description": "Native workspace/mod.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.watcher.failedToCreateWatcher": {
+    "message": "Failed to create watcher: {error}",
+    "description": "Native workspace/watcher.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.watcher.failedToWatchWorkspace": {
+    "message": "Failed to watch workspace: {error}",
+    "description": "Native workspace/watcher.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  },
+  "native.workspace.watcher.taskJoinError": {
+    "message": "Task join error: {error}",
+    "description": "Native workspace/watcher.rs: returned error or application-owned UI copy. Interpolated values are opaque and must not be translated."
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "menu.about": {
+    "message": "About Octarine",
+    "description": "App menu: opens About settings. Keep Octarine unchanged."
+  },
+  "menu.ai": {
+    "message": "AI",
+    "description": "Top-level artificial intelligence menu."
+  },
+  "menu.alwaysOnTop": {
+    "message": "Keep Always on Top",
+    "description": "Keep this window above other windows."
+  },
+  "menu.ask": {
+    "message": "Ask Octarine",
+    "description": "Open AI conversation product; keep Octarine unchanged."
+  },
+  "menu.changelog": {
+    "message": "View Changelog...",
+    "description": "Native macOS menu action."
+  },
+  "menu.changelogWindows": {
+    "message": "View Changelog…",
+    "description": "Windows menu action."
+  },
+  "menu.checkUpdates": {
+    "message": "Check for Updates...",
+    "description": "Native macOS menu action; preserve three-dot punctuation in English."
+  },
+  "menu.checkUpdatesWindows": {
+    "message": "Check for Updates…",
+    "description": "Windows menu action."
+  },
+  "menu.closeWindow": {
+    "message": "Close Window",
+    "description": "Close only this window."
+  },
+  "menu.copy": {
+    "message": "Copy",
+    "description": "Edit menu clipboard action."
+  },
+  "menu.copyMarkdownUrl": {
+    "message": "Copy Octarine URL in Markdown",
+    "description": "Copy a Markdown-formatted app link."
+  },
+  "menu.copyUrl": {
+    "message": "Copy Octarine URL",
+    "description": "Copy the current note's app URL; preserve brand and URL."
+  },
+  "menu.createWorkspace": {
+    "message": "Create Workspace",
+    "description": "Create a workspace."
+  },
+  "menu.cut": {
+    "message": "Cut",
+    "description": "Edit menu clipboard action."
+  },
+  "menu.dailyDesk": {
+    "message": "Go to Daily Desk",
+    "description": "Navigate to the daily-note surface."
+  },
+  "menu.disableAlwaysOnTop": {
+    "message": "Disable Always on Top",
+    "description": "Stop keeping this window above other windows."
+  },
+  "menu.docs": {
+    "message": "Read Documentation",
+    "description": "Open documentation website."
+  },
+  "menu.edit": {
+    "message": "Edit",
+    "description": "Top-level Edit menu."
+  },
+  "menu.enterFocus": {
+    "message": "Enter Focus Mode",
+    "description": "View menu when Focus Mode is inactive."
+  },
+  "menu.exit": {
+    "message": "Exit",
+    "description": "Windows File menu: quit app."
+  },
+  "menu.exitFocus": {
+    "message": "Exit Focus Mode",
+    "description": "View menu when Focus Mode is active."
+  },
+  "menu.exportNote": {
+    "message": "Export Note",
+    "description": "File menu export action."
+  },
+  "menu.feedback": {
+    "message": "Send Feedback",
+    "description": "Open feedback form."
+  },
+  "menu.file": {
+    "message": "File",
+    "description": "Top-level File menu."
+  },
+  "menu.fullscreen": {
+    "message": "Toggle Full Screen",
+    "description": "Enter/exit fullscreen."
+  },
+  "menu.graph": {
+    "message": "Open Graph View",
+    "description": "Open workspace link graph."
+  },
+  "menu.help": {
+    "message": "Help",
+    "description": "Top-level Help menu."
+  },
+  "menu.hide": {
+    "message": "Hide Octarine",
+    "description": "macOS Window menu hide action."
+  },
+  "menu.inbox": {
+    "message": "Open Inbox",
+    "description": "Open captured Inbox items."
+  },
+  "menu.issues": {
+    "message": "Report Issues",
+    "description": "Open bug report feedback form."
+  },
+  "menu.minimize": {
+    "message": "Minimize",
+    "description": "Minimize this window."
+  },
+  "menu.navigate": {
+    "message": "Navigate",
+    "description": "Top-level Navigate menu."
+  },
+  "menu.newFolder": {
+    "message": "New Folder",
+    "description": "File menu: create a folder."
+  },
+  "menu.newNote": {
+    "message": "New Note",
+    "description": "File menu: create a Markdown note."
+  },
+  "menu.notes": {
+    "message": "Go to Notes",
+    "description": "Navigate to workspace notes."
+  },
+  "menu.openNoteWindow": {
+    "message": "Open Note in New Window",
+    "description": "Open the current note in a separate window."
+  },
+  "menu.openWorkspaceWindow": {
+    "message": "Open Workspace in New Window",
+    "description": "Open another workspace in a full window."
+  },
+  "menu.paste": {
+    "message": "Paste",
+    "description": "Edit menu clipboard action."
+  },
+  "menu.pullChanges": {
+    "message": "Pull Changes",
+    "description": "Git pull action."
+  },
+  "menu.quickCapture": {
+    "message": "Quick Capture…",
+    "description": "Open the lightweight Quick Capture window."
+  },
+  "menu.quit": {
+    "message": "Quit Octarine",
+    "description": "Quit the app; keep Octarine unchanged."
+  },
+  "menu.recentlyViewed": {
+    "message": "Recently Viewed",
+    "description": "Open recently viewed notes."
+  },
+  "menu.redo": {
+    "message": "Redo",
+    "description": "Edit menu: redo last edit."
+  },
+  "menu.searchNotes": {
+    "message": "Search in Notes",
+    "description": "Open workspace content search."
+  },
+  "menu.selectAll": {
+    "message": "Select All",
+    "description": "Select the whole document/input."
+  },
+  "menu.settings": {
+    "message": "Settings...",
+    "description": "Native macOS menu action."
+  },
+  "menu.settingsWindows": {
+    "message": "Settings…",
+    "description": "Windows menu action."
+  },
+  "menu.shortcuts": {
+    "message": "Keyboard Shortcuts",
+    "description": "Open shortcut help."
+  },
+  "menu.switchWorkspace": {
+    "message": "Switch Workspace Here",
+    "description": "Switch the current window to another workspace."
+  },
+  "menu.syncNow": {
+    "message": "Sync Now",
+    "description": "Git sync action."
+  },
+  "menu.templates": {
+    "message": "Go to Templates",
+    "description": "Navigate to note templates."
+  },
+  "menu.toggleMetaSidebar": {
+    "message": "Toggle Meta Sidebar",
+    "description": "Show/hide the right metadata sidebar."
+  },
+  "menu.toggleSidebar": {
+    "message": "Toggle Sidebar",
+    "description": "Show/hide the left navigation sidebar."
+  },
+  "menu.undo": {
+    "message": "Undo",
+    "description": "Edit menu: undo last edit."
+  },
+  "menu.view": {
+    "message": "View",
+    "description": "Top-level View menu."
+  },
+  "menu.views": {
+    "message": "Go to Views",
+    "description": "Navigate to saved note views."
+  },
+  "menu.window": {
+    "message": "Window",
+    "description": "Top-level Window menu."
+  },
+  "menu.workspace": {
+    "message": "Workspace",
+    "description": "Top-level Workspace menu."
+  },
+  "menu.writingAssistant": {
+    "message": "Writing Assistant",
+    "description": "Open the inline selection rewrite assistant, distinct from Ask Octarine."
+  },
+  "menu.zoomIn": {
+    "message": "Zoom In",
+    "description": "Increase interface zoom."
+  },
+  "menu.zoomOut": {
+    "message": "Zoom Out",
+    "description": "Decrease interface zoom."
+  }
+}

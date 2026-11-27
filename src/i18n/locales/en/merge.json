@@ -1,0 +1,13 @@
+{
+  "merge.destination": {
+    "message": "Merged into {title}. Original notes were kept.",
+    "description": "Merge success toast. title is the user-owned destination note title; never translate its value."
+  },
+  "merge.trashed": {
+    "message": {
+      "one": "{count} merged note moved to Trash",
+      "other": "{count} merged notes moved to Trash"
+    },
+    "description": "Success toast after the user explicitly trashes source notes from a merge. count is the number of source notes."
+  }
+}

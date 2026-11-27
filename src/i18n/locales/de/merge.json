@@ -1,0 +1,13 @@
+{
+  "merge.destination": {
+    "message": "Zusammengeführt in {title}. Ursprüngliche Notizen wurden behalten.",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "one": "{count} zusammengeführte Notiz in den Papierkorb verschoben",
+      "other": "{count} zusammengeführte Notizen in den Papierkorb verschoben"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}

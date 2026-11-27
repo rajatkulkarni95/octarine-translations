@@ -1,0 +1,41 @@
+name: Translation
+description: A wrong, awkward or missing translation, an offer to review a language, or a request for a new one.
+labels: ["translation"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is this about?
+      options:
+        - A translation is wrong or awkward
+        - Something still shows in English
+        - I'd like to review a language
+        - Please add a new language
+        - The English text itself is unclear
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: e.g. German, Brazilian Portuguese
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the app
+      description: The screen, menu or dialog. A screenshot helps.
+  - type: input
+    id: current
+    attributes:
+      label: Text shown now
+  - type: input
+    id: suggested
+    attributes:
+      label: What it should say
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Why the change reads better, or for a new language, how you use Octarine in it.

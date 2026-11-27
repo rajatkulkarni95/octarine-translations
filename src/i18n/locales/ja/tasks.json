@@ -1,0 +1,4114 @@
+{
+  "tasks.activity.anotherProject": {
+    "message": "別のプロジェクト",
+    "sourceHash": "04f17bd137ee2f095c222d0f3b68b6e63626205a838cd4e67c077db3eb9a9961"
+  },
+  "tasks.activity.changedVerb": {
+    "message": "変更",
+    "sourceHash": "8744ef638add9983c070a1607cb728f6cf0837300195d497b07b092392daa7cb"
+  },
+  "tasks.activity.changesPerDay": {
+    "message": "1日ごとの変更数",
+    "sourceHash": "b84f60fd77a3481d5ab406122831947780202a314206db09c1914465878f2acd"
+  },
+  "tasks.activity.changesPerWeek": {
+    "message": "1週間ごとの変更数",
+    "sourceHash": "f8e943b3ee22f350f2deac36951bf084214401560064da928fa9b9d2c6a81b5c"
+  },
+  "tasks.activity.commentedOn": {
+    "message": "コメントした",
+    "sourceHash": "510ef261042b4f459e3bf40913b4c3efa9a9ab044fada410e15ba447a452b7b9"
+  },
+  "tasks.activity.createdAt": {
+    "message": "{date} に作成",
+    "sourceHash": "b808671ed226ba8dd621c232910d1ee3f0ec70e717af6afc013e45e2401c7540"
+  },
+  "tasks.activity.createdVerb": {
+    "message": "作成",
+    "sourceHash": "ae1bfa45c241c86542a097200462024307d3d801a54c62741cb103b445408c37"
+  },
+  "tasks.activity.deletedStatus": {
+    "message": "削除されたステータス",
+    "sourceHash": "bb067e80648a0ea592d1f11ad439290a07255c4cc0abe40e4c9a9dcc76f238c5"
+  },
+  "tasks.activity.noChangesDays": {
+    "message": {
+      "other": "過去{count}日間に変更はありません"
+    },
+    "sourceHash": "e5d591f8052bec29be4dcd867df9da7938b7ac31c5c6f54136e3a368a383a49e"
+  },
+  "tasks.activity.noChangesYear": {
+    "message": "過去 1 年間に変更はありません",
+    "sourceHash": "13b1ce681f14902a8689d442d5c78a75b40d0a2d549fd166a4a66f8430aa2a14"
+  },
+  "tasks.activity.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "b303a9e22c5bb89f8eac90bf83723ce8878f654947a088dadfb587fd329c222b"
+  },
+  "tasks.activity.noStatus": {
+    "message": "なし",
+    "sourceHash": "e4c507bd1253db7cba0a2ecd351803a00cde462d9d2510bfb9b97ac2b1a479b1"
+  },
+  "tasks.activity.projectChanged": {
+    "message": "{from} から {to} に移動",
+    "sourceHash": "326e68a5ac2d25d1bb473ec90b5e923a4f87c8c37f3457f37edd1aa7de0715b5"
+  },
+  "tasks.activity.statusChanged": {
+    "message": "ステータスを {from} から {to} に変更",
+    "sourceHash": "8298920d1e78499a6f5995704bec5b2deb5fd54100dd84ef656b44286b2dc004"
+  },
+  "tasks.activity.summary.daysOneTask": {
+    "message": {
+      "other": "過去{days}日間に{tasks}件のタスクで{changes}件の変更"
+    },
+    "sourceHash": "8af4c7d4544fa47ffef641961fa3b7e82688c8e0e722c5a2168057bfb8d86166"
+  },
+  "tasks.activity.summary.daysTasks": {
+    "message": {
+      "other": "過去{days}日間に{tasks}件のタスクで{changes}件の変更"
+    },
+    "sourceHash": "0e483ac1275deb09354cc33c7c27cdf7ee2e56751e12cdab8d7ae2bb5ac542f6"
+  },
+  "tasks.activity.summary.yearOneTask": {
+    "message": {
+      "other": "過去 1 年間に{tasks}件のタスクで{changes}件の変更"
+    },
+    "sourceHash": "49b216661906a48a2529e36b10d8dc2580b8a1a906566f899245811b8b5f84f7"
+  },
+  "tasks.activity.summary.yearTasks": {
+    "message": {
+      "other": "過去 1 年間に{tasks}件のタスクで{changes}件の変更"
+    },
+    "sourceHash": "b848a541e60794e11c4f7f243684502c4e069c8fa62e38bfe35059dfdae218c8"
+  },
+  "tasks.activityChart.options.1Year": {
+    "message": "1 年",
+    "sourceHash": "97b1bc8487730f417b28556a42ba340ed2504cf97c267b86e5626bc5321991b0"
+  },
+  "tasks.activityChart.options.30Days": {
+    "message": "30 日間",
+    "sourceHash": "99bada879bec19c27e5b8379cc5b6133eb92f707b7c2a5194a8f51e94e56b25c"
+  },
+  "tasks.activityChart.options.7Days": {
+    "message": "7 日間",
+    "sourceHash": "d64f8dae2efef93e0f51cc32967d2904435c0a687d77304445b4878b4dfce3e2"
+  },
+  "tasks.activityChart.options.90Days": {
+    "message": "90 日間",
+    "sourceHash": "b46fe64785d266ea1f4dfd5cdb69e768a4fda6932c5c355e9298b02528869e47"
+  },
+  "tasks.activityChart.options.byLabel": {
+    "message": "ラベル別",
+    "sourceHash": "ffc631b2bcf37097a944a481d163ec1a1b83be4642c03c25f83a7457fc49948f"
+  },
+  "tasks.activitychart.activity": {
+    "message": "アクティビティ",
+    "sourceHash": "7da8ba8faab68a28acf0508235d5f4409ba2c738921f3f1d713c0919d4e9de39"
+  },
+  "tasks.activitychart.byProject": {
+    "message": "プロジェクト別",
+    "sourceHash": "97a0c21651929238c53c28fb8f9a52c51dd5bcf29c7d034472b7720a132fc14c"
+  },
+  "tasks.activitychart.byStatus": {
+    "message": "ステータス別",
+    "sourceHash": "16235de2a43bd7ff0710d1d83c87865d236d3b5c23027c44b4878ad2d5c87c86"
+  },
+  "tasks.activitychart.comments": {
+    "message": "コメント",
+    "sourceHash": "58b26108fbbde963febf3fbcefe2114c813d86c9ffbe7defda895ff89d2a7247"
+  },
+  "tasks.activitychart.couldNotReadHistoryQueryerror": {
+    "message": "履歴を読み込めませんでした: {queryError}",
+    "sourceHash": "b88527e8d9e03e0cfdd1bc28e1126c6c919222d18af95a4423502a4b94b24734"
+  },
+  "tasks.activitychart.created": {
+    "message": "作成",
+    "sourceHash": "396fed47e8c7c7b52fd82c41c1be2409d2f1442e7d28d9438ac2191f7b4eeff0"
+  },
+  "tasks.activitychart.day": {
+    "message": "日",
+    "sourceHash": "888c931e3216f87e5f233e7d93a58631e538c3256c09edffb7ef352d0ca9ac92"
+  },
+  "tasks.activitychart.noChanges": {
+    "message": "変更なし",
+    "sourceHash": "20853ed4b0192faa04cb2bfd9a14aa9446f1969ed0c8d6297ad51628b7645bbb"
+  },
+  "tasks.activitychart.noLabel": {
+    "message": "ラベルなし",
+    "sourceHash": "5ed6434226af3fb9e0826223efbd75fda0ef9fe808f86a099795cfdd61185d56"
+  },
+  "tasks.activitychart.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "d26ba4f81486366df7fd9a0ed671189a975f52aeda94ab49c2ce750c9c863a7b"
+  },
+  "tasks.activitychart.other": {
+    "message": "その他",
+    "sourceHash": "3f8e52c2eb4f1587ed34a370b196c2aad4057e2b5d8942fe2652e2c50229c4ac"
+  },
+  "tasks.activitychart.range": {
+    "message": "期間",
+    "sourceHash": "79ebef46fb247837ed1e2ef6b5170423e8e9f59ab39e3cac4295d490532fe21c"
+  },
+  "tasks.activitychart.readingHistory": {
+    "message": "履歴を読み込み中…",
+    "sourceHash": "49b1679484c2ab864e1c3d736e615fe23a4fb70853b000d6f362418274765b52"
+  },
+  "tasks.activitychart.recentActivity": {
+    "message": "最近のアクティビティ",
+    "sourceHash": "03e6ebe125d6c02044d79258ec442fbf3962bc71790001f50451cbd330d80d23"
+  },
+  "tasks.activitychart.removedProject": {
+    "message": "削除済みプロジェクト",
+    "sourceHash": "f075ab90c01f048c526734229dacfab0b99e1a6b3701cfc00bd8fa28347bf6d8"
+  },
+  "tasks.activitychart.stackBy": {
+    "message": "積み上げ基準",
+    "sourceHash": "fef60e6f901cbf24cba04afd104ddf7914503532ff91066f35236e3d4d32db83"
+  },
+  "tasks.activitychart.total": {
+    "message": "合計",
+    "sourceHash": "d0259cededf737e132dc20379c21ab345ca00ba417c9b20b711504b942a69085"
+  },
+  "tasks.activitychart.week": {
+    "message": "週",
+    "sourceHash": "ab8994c666c43d80ab1c2e518c208eef9c12c55105e7e7b00f0372e524c40dfe"
+  },
+  "tasks.activitychart.weekOfBucketstarttolocaledatestringundefinedoptions": {
+    "message": "{bucketStartTolocaledatestringUndefinedOptions}の週",
+    "sourceHash": "2dc04e03f980713366840ac2fde1b93bf0db89326361b82a1859b89c13f3f83a"
+  },
+  "tasks.age.days": {
+    "message": {
+      "other": "{count}日"
+    },
+    "sourceHash": "c63c3530b55307a44ea3b0d2d12208fc675fb819b48a45edde9408800ad83375"
+  },
+  "tasks.age.daysAgo": {
+    "message": {
+      "other": "{count}日前"
+    },
+    "sourceHash": "1671b4ef72960f3255ccfbb0e9b296b6d3e73237a7fa17c10cdc7dc4b2ca8c83"
+  },
+  "tasks.age.hours": {
+    "message": {
+      "other": "{count}時間"
+    },
+    "sourceHash": "684df23713a804a1f2e6d79b19f35875bac4dff16346d32beef23d3b5c338b6c"
+  },
+  "tasks.age.hoursAgo": {
+    "message": {
+      "other": "{count}時間前"
+    },
+    "sourceHash": "e00ce095f7fb9ba1daaf442464bf0ac27a28c1137c2d6d0598332c067b04fa99"
+  },
+  "tasks.age.minutes": {
+    "message": {
+      "other": "{count}分"
+    },
+    "sourceHash": "6b74f69fc16709c3d61d41e8967d83ad922b5815a119a3ca08e6f63043c09fe0"
+  },
+  "tasks.age.minutesAgo": {
+    "message": {
+      "other": "{count}分前"
+    },
+    "sourceHash": "a252378dbf4f97316bc4e834b6bbe2ae9b0151d160de0859188465631acc7c17"
+  },
+  "tasks.age.weeks": {
+    "message": {
+      "other": "{count}週"
+    },
+    "sourceHash": "f3bee88f142efca26c33b1ddb6b63e9a2c5974b56261a6beeb083f631e1290a0"
+  },
+  "tasks.age.weeksAgo": {
+    "message": {
+      "other": "{count}週前"
+    },
+    "sourceHash": "ca9c7aac9b0441f0f120192cb53bdea87bf9e6d1010b1ef5219d6f18b1937f67"
+  },
+  "tasks.bulk.archived": {
+    "message": {
+      "other": "{count} 件のタスクをアーカイブしました"
+    },
+    "sourceHash": "95e88fba8818452af44aa70d733851d56db403e413e6380957a31b7ea58478ae"
+  },
+  "tasks.bulk.restored": {
+    "message": {
+      "other": "{count} 件のタスクを復元しました"
+    },
+    "sourceHash": "9fbe8a7b0424ecfe3e55ebd7c95ab32e59ad9894b471f1bdaa2b75274763bbc7"
+  },
+  "tasks.closeSubtasks.multipleParents": {
+    "message": {
+      "other": "これらのタスクには未完了のサブタスクが {count} 件あります。それらも {name} に変更されます。"
+    },
+    "sourceHash": "eb235a803c94f073a2fa9bf0a5c349545fffca0bc0a8dae7fadfdd7d97d0bc61"
+  },
+  "tasks.closeSubtasks.singleParent": {
+    "message": {
+      "other": "「{title}」には未完了のサブタスクが {count} 件あります。それらも {name} に変更されます。"
+    },
+    "sourceHash": "94fff4e4eae1f7527d6d88021f1ff3f201e06650d5ba799d0a4f365a0bb77882"
+  },
+  "tasks.comment.deleteConfirm": {
+    "message": "削除",
+    "sourceHash": "0e42c5c17e95c31c1f35615e196367797a2ee5a80af0c16933d885dbcb6b268c"
+  },
+  "tasks.comment.noteNotFound": {
+    "message": "「{note}」が見つかりません",
+    "sourceHash": "930f5d0608776df7a6fe353157796eaa651282d99e777673f1eb647edcec2b12"
+  },
+  "tasks.copy.failed": {
+    "message": "コピーできませんでした",
+    "sourceHash": "92115a708db93196af3a02978695f1b80f46060d2a196a10e15a651034f6ba39"
+  },
+  "tasks.cycle.numbered": {
+    "message": "サイクル {number}",
+    "sourceHash": "bad0d6fa532d30985c3f2f7710d37c542f20e5292206d92c6634591d272b50ba"
+  },
+  "tasks.cycle.untitled": {
+    "message": "無題のサイクル",
+    "sourceHash": "080f275465540f80e79de82c59cb60a00df2b38d2bcab1d92c5ef100f34b6de1"
+  },
+  "tasks.cycle.upcoming": {
+    "message": "今後のサイクル",
+    "sourceHash": "dd5e2d314dcdbe2681a6d1461f8b486f0bee829602a0e20e1e72351a061ae12c"
+  },
+  "tasks.cycleTiming.ended": {
+    "message": "終了",
+    "sourceHash": "f1a65085655d7ca71fa164c3e10ae860b495e3f896255fb9b1c4a74ca4cb1379"
+  },
+  "tasks.cycleTiming.lastDay": {
+    "message": "{length}日間のうち{day}日目 · 最終日",
+    "sourceHash": "6d00f52ed17c907ff094a7bdce4b727d90cd35040ea77725315f93243ec7573e"
+  },
+  "tasks.cycleTiming.remaining": {
+    "message": {
+      "other": "{length}日間のうち{day}日目 · 残り{count}日"
+    },
+    "sourceHash": "578a354d996a274013341903ef5a38044ae9c4fbc342366e81a011e900dc6643"
+  },
+  "tasks.cycleTiming.startsIn": {
+    "message": {
+      "other": "{count}日後に開始"
+    },
+    "sourceHash": "4a667becac4023e9bb7762af534347381c44eb87581ab546b70caf4e114e0722"
+  },
+  "tasks.cycleTiming.startsToday": {
+    "message": "今日開始",
+    "sourceHash": "71cd97dca815cd8ec73d698ccd51ae21a1f17109c3374f97f32b142fb4c23a91"
+  },
+  "tasks.cyclesidebar.dates": {
+    "message": "日付",
+    "sourceHash": "1f1395017c3818cd0a49758f6a307da443ca58b4d9e65de0420aab877dbb4806"
+  },
+  "tasks.cyclesidebar.time": {
+    "message": "時間",
+    "sourceHash": "7429031d58e1575abc59f6746a202d0db712918ee4d126251ae7f75fb39637af"
+  },
+  "tasks.delete.multiple": {
+    "message": "これらのタスクはコメントと履歴とともに完全に削除されます。この操作は取り消せません。",
+    "sourceHash": "a9faf1dac03a72b800c53e4ad809841580bf7dba528e483d612055c89f1d6aba"
+  },
+  "tasks.delete.multipleWithSubtasks": {
+    "message": {
+      "other": "これらのタスクと {count} 件のサブタスクは、コメントと履歴とともに完全に削除されます。この操作は取り消せません。"
+    },
+    "sourceHash": "0c1b430a2fa46a25670c2acd4a224709e3edd7b0efcc905227a62dfee9ea66be"
+  },
+  "tasks.delete.single": {
+    "message": "このタスクはコメントと履歴とともに完全に削除されます。この操作は取り消せません。",
+    "sourceHash": "d1a4784a16dafb0988e355eb422dd2be2b19570c936e9ad2cd3652c7ca38886f"
+  },
+  "tasks.delete.singleWithSubtasks": {
+    "message": {
+      "other": "このタスクと {count} 件のサブタスクは、コメントと履歴とともに完全に削除されます。この操作は取り消せません。"
+    },
+    "sourceHash": "50fb0caae5b6876ac375cbfb746f7c72f3db3d37d9c8e5b90f0184fc5d49b5ef"
+  },
+  "tasks.display.bucketDraggingHint": {
+    "message": "ボード上でのドラッグでは引き続きレーンが変わります。並べ替えには手動の並び順が必要です。",
+    "sourceHash": "0340e4576055d15137c6985abe6e49d2fe122f1b79029fa197bef493f3d8d410"
+  },
+  "tasks.display.statusDraggingHint": {
+    "message": "ボード上でのドラッグでは引き続きステータスが変わります。並べ替えには手動の並び順が必要です。",
+    "sourceHash": "f9ddfa39fb476714cf7fd57908a040f6e9f7a2fa6df0750026aa10d745bac211"
+  },
+  "tasks.documentheading.changeProjectIcon": {
+    "message": "プロジェクトのアイコンを変更",
+    "sourceHash": "9801d3fe9a7e45bc55903f41ed3fc4a702d77a4ea47125e9f1429f6212d1d84e"
+  },
+  "tasks.documentheading.changeSpaceIcon": {
+    "message": "スペースのアイコンを変更",
+    "sourceHash": "2765a1cf36ce2f3a52f8c43f6c87b8b3edcf089b8141b8643f6289678ba76cf9"
+  },
+  "tasks.documentheading.projectName": {
+    "message": "プロジェクト名",
+    "sourceHash": "1e58fcc2f39c94e4420f8a96cb39b12738ba1afc264913e79143f2548ef48a2d"
+  },
+  "tasks.documentheading.spaceName": {
+    "message": "スペース名",
+    "sourceHash": "ad6d78c02dbf07db5942f5cc8027e1fd4b34f2acba6b56b8c3baca6f2a0b85a1"
+  },
+  "tasks.documentheading.untitledProject": {
+    "message": "無題のプロジェクト",
+    "sourceHash": "2fda3630ce3e107010529dfd7d4c4e8882cfeea547c2c435445dccc0ffc7f322"
+  },
+  "tasks.documentheading.untitledSpace": {
+    "message": "無題のスペース",
+    "sourceHash": "7ebd9abec53861dfc61ba78fcd6b366c3635fba1c901724a0aca8cb3c0ed70fb"
+  },
+  "tasks.due.days": {
+    "message": {
+      "other": "{count}日"
+    },
+    "sourceHash": "7a0a228ca8bcef35ae2c793ca38c08e46c93088abb63bbde2c5246c22d2bf3e6"
+  },
+  "tasks.due.daysAgo": {
+    "message": {
+      "other": "{count}日前"
+    },
+    "sourceHash": "711648a9fd24ee80d3d02f22bc63f142c82078e7b6f8ed23ebd01d52b3452a19"
+  },
+  "tasks.due.overdueTooltip": {
+    "message": "期日 {date} · 期限切れ",
+    "sourceHash": "430ff088a54c9018b72a316e82c1e7b327b567c8bf35ca09397304765fec2328"
+  },
+  "tasks.due.today": {
+    "message": "今日",
+    "sourceHash": "80c151637d4a50aae0d0668bc0d695bb815dc9d23d7a743cc0be0501154a48c4"
+  },
+  "tasks.due.tomorrow": {
+    "message": "明日",
+    "sourceHash": "d52a840f3d3ed7d0e15371d8db9bcfeec9a82eec9e51dce0bc2e0e2afe8cdb36"
+  },
+  "tasks.due.tooltip": {
+    "message": "期日 {date}",
+    "sourceHash": "f2f04204a5ddb0537681d4ee3cc98d8751ce5672be2c1d7e92ea1077faaedda5"
+  },
+  "tasks.due.yesterday": {
+    "message": "昨日",
+    "sourceHash": "2f839f37c15b7e8e03e7ea1825dce860e1b19627683b668942fd7718e0542a4d"
+  },
+  "tasks.filter.matches": {
+    "message": {
+      "other": "{matches} 件のタスクに一致"
+    },
+    "sourceHash": "c24a44a70495a41e17acb0754479ae6927eb8062b27a8557e717a0e8bcea42d5"
+  },
+  "tasks.filter.untitled": {
+    "message": "無題のフィルタ",
+    "sourceHash": "cd0eecf47c26a01679424aa8c9902189253cc43c5e22447c3aaa67ee9ed4e25f"
+  },
+  "tasks.labels.removeFromTasks": {
+    "message": {
+      "other": "“{name}” は {count} 件のタスクから削除されます。"
+    },
+    "sourceHash": "93d11425c56bfa68f899738c0f9949bf430f49f4e7466224d5ade0213b98868e"
+  },
+  "tasks.mentions.show": {
+    "message": "表示",
+    "sourceHash": "e3224018bad1fa8f8dadb14aa55c2f6200e43d2701ea32634ab7e1e2ae88f06c"
+  },
+  "tasks.mentions.showAll": {
+    "message": "すべて {count} 件を表示",
+    "sourceHash": "ce7332973e79a1e5c5ad0d0bf34b382288c30eb540a0c42153e4a0518b1e9ae4"
+  },
+  "tasks.mentions.showFewer": {
+    "message": "表示を減らす",
+    "sourceHash": "e471ac574ceca5abfa22a397f57f452bc72c9784f99358bb3d227c7a3a7384ed"
+  },
+  "tasks.move.outOfProject": {
+    "message": "{task} をプロジェクトから外しました",
+    "sourceHash": "4fc17d74fe785d6fe2f51401f4c923713e26850c35212aa1f0f6979af8ae497a"
+  },
+  "tasks.move.toProject": {
+    "message": "{task} を {project} に移動しました",
+    "sourceHash": "13d6b282a79199f3a10c5a9e4aec431248885f4b3e7594dc46bdcf40913fcb69"
+  },
+  "tasks.move.undo": {
+    "message": "元に戻す",
+    "sourceHash": "201a46d1a54efd9f7abd9d0f574b186f2cf60b2c54d2daaf06353c8d66abed59"
+  },
+  "tasks.ordering.overlap": {
+    "message": "これらのタスクは順序の値が重複しています。先にレーンの境界へ移動してください。",
+    "sourceHash": "c4e0472394a73310cd669feacade839bebe7be2b8b979087db76223b81235466"
+  },
+  "tasks.pickList.buckets.all": {
+    "message": "すべてのレーン",
+    "sourceHash": "4989723bc805351cc727a2bb8d86b2ef7dd6edbb251d0e95b2f7983e5aef9102"
+  },
+  "tasks.pickList.buckets.count": {
+    "message": {
+      "other": "{total} 件中 {count} 件のレーン"
+    },
+    "sourceHash": "da7bbe2d22e8ea7a0b53c369661e3f2b5c4fe8d1dd049cfe4dd6f26454c329b8"
+  },
+  "tasks.pickList.buckets.every": {
+    "message": "すべてのレーンを使用",
+    "sourceHash": "f7e6f50faab540636c3afc7d4dcf48d52df947f8130b531c7439f75ef18f3791"
+  },
+  "tasks.pickList.buckets.label": {
+    "message": "レーン",
+    "sourceHash": "a1159c6ed4a9b414f85366b4728edb0f0855607e382fb9855e850b37190fd163"
+  },
+  "tasks.pickList.filters.all": {
+    "message": "すべてのフィルタ",
+    "sourceHash": "6441c4a3e23bf6341ecdbe8c2572fd9b75770e09059b052a1b39ac707b0b714a"
+  },
+  "tasks.pickList.filters.count": {
+    "message": {
+      "other": "{total} 件中 {count} 件のフィルタ"
+    },
+    "sourceHash": "e1d4adf35092be88bd7fb8e35bb0f4840495ffeaf434c585bd3e196bc181e295"
+  },
+  "tasks.pickList.filters.every": {
+    "message": "すべてのフィルタを使用",
+    "sourceHash": "ae45bd7b3f7fa6b5a9acebde1f9f9b1cda20d4e5e8ca21a1cc3e405d3174de77"
+  },
+  "tasks.pickList.filters.label": {
+    "message": "フィルタ",
+    "sourceHash": "9347f7fde3a3db4915538972592d64ab907b25719f152cb0de6a384c24e23c69"
+  },
+  "tasks.pickList.labels.all": {
+    "message": "すべてのラベル",
+    "sourceHash": "8f4e6614b0b6f1c01cdc3e526b974ab4d95ca4b7029384874cacafbfb7397ec6"
+  },
+  "tasks.pickList.labels.count": {
+    "message": {
+      "other": "{total} 件中 {count} 件のラベル"
+    },
+    "sourceHash": "f7cc36caac64a637934266c89e34c6fd825dd89ee8d1042afa0f20560c75b7cb"
+  },
+  "tasks.pickList.labels.every": {
+    "message": "すべてのラベルを使用",
+    "sourceHash": "fe714784322f491fbe381e72692cd9deaed9c457db4e1038a9c303fb52611feb"
+  },
+  "tasks.pickList.labels.label": {
+    "message": "ラベル",
+    "sourceHash": "f42683c92f48d3b581f8e061beff1e490e908eaf0bf214f603cad9c2453d1d24"
+  },
+  "tasks.pickList.statuses.all": {
+    "message": "すべてのステータス",
+    "sourceHash": "f8047ec9b45452b557f0edf8f5b7eba0a1a0b7ce0c5c13598051a69521e6099d"
+  },
+  "tasks.pickList.statuses.count": {
+    "message": {
+      "other": "{total} 件中 {count} 件のステータス"
+    },
+    "sourceHash": "f1f898467599c58974f86eb63a9a7e0cb6b014715abb86707aeb63747209b0ae"
+  },
+  "tasks.pickList.statuses.every": {
+    "message": "すべてのステータスを使用",
+    "sourceHash": "320807b943395d6b47ef1d76db799b06eb4fbf7c3eb30884cb2c1f5a4a261552"
+  },
+  "tasks.pickList.statuses.label": {
+    "message": "ステータス",
+    "sourceHash": "f00657a48c68dc1441f4b4dfa4b930ac24a084165fc09c2c0ea17f6a5960682a"
+  },
+  "tasks.placeCommand.project.archiveNoun": {
+    "message": "プロジェクトをアーカイブ",
+    "sourceHash": "dbc0e37e87de18944a527114a29192933d44683facb42858b57bbd86f8580119"
+  },
+  "tasks.placeCommand.project.deleteNoun": {
+    "message": "プロジェクトを削除",
+    "sourceHash": "de42ddf55d359806b359b2dbac12e37c54cd98369a5494d76d8f0b8564febd09"
+  },
+  "tasks.placeCommand.project.issuesKeywords": {
+    "message": "プロジェクト タブ 表示 開く 課題",
+    "sourceHash": "7d732a22f5c8d810ff1d9420aa728bb120f672e9bb2162f6c60b0fe2a0830f02"
+  },
+  "tasks.placeCommand.project.lowerArchiveRestoreUnarchive": {
+    "message": "プロジェクト アーカイブ 復元 アーカイブ解除",
+    "sourceHash": "dedc4a96ac40ed2fa1e9f340c3ce0c35c24e69e5690b978fdaaa890a9d956f49"
+  },
+  "tasks.placeCommand.project.lowerDeleteRemove": {
+    "message": "プロジェクト 削除 除去",
+    "sourceHash": "37a441c9c93f10832e129149888a79c0921760b2ab51e6c5907cb4e10cc938e1"
+  },
+  "tasks.placeCommand.project.lowerOpenTab": {
+    "message": "プロジェクト 開く タブ",
+    "sourceHash": "2f701a8c02213442e5206672ae1d703d60851c7e16ff3cd67732a4dc36aa1ccd"
+  },
+  "tasks.placeCommand.project.nounActions": {
+    "message": "プロジェクトのアクション",
+    "sourceHash": "977304271dcb93aaa558c9d7efbc4255aff3c8605a92094d722aaa8995042448"
+  },
+  "tasks.placeCommand.project.nounName": {
+    "message": "プロジェクト {name}",
+    "sourceHash": "4c2e69062f913b456baaa3800af42bb33436c815489f6d963dd819fbf30a67c0"
+  },
+  "tasks.placeCommand.project.openNounInNewTab": {
+    "message": "新しいタブでプロジェクトを開く",
+    "sourceHash": "7a016103ff7be5f7a7dcf097f438307c203aded4817b0eb16a23f7528554f2c1"
+  },
+  "tasks.placeCommand.project.overviewKeywords": {
+    "message": "プロジェクト タブ 表示 開く 概要",
+    "sourceHash": "bd256c1381133a03fb5b243f19dfbba4fc83050c13cba78dacbcedcf323d32fd"
+  },
+  "tasks.placeCommand.project.projectCreateAddNewLower": {
+    "message": "プロジェクト 作成 追加 新規 プロジェクト",
+    "sourceHash": "6c76ba4936f6374c89eb9aa5f80e5632d80021f740104974a4c306d49e012e71"
+  },
+  "tasks.placeCommand.project.restoreNoun": {
+    "message": "プロジェクトを復元",
+    "sourceHash": "e3190f1a21ed1d8d22e74fcf8fa22cdea2f0f3a05c9f496725bf937a3391f7c2"
+  },
+  "tasks.placeCommand.project.settingsKeywords": {
+    "message": "プロジェクト タブ 表示 開く 設定",
+    "sourceHash": "c545f5982a0d2181affa1261d470472cce6999b2dff931963747f0a24f63528e"
+  },
+  "tasks.placeCommand.project.taskCreateAddNewLower": {
+    "message": "タスク 作成 追加 新規 プロジェクト",
+    "sourceHash": "73a6d13fea6b6479c41b6cf99f09ddcfbcfc1d3c11afa33d474560cb7dfe1025"
+  },
+  "tasks.placeCommand.space.archiveNoun": {
+    "message": "スペースをアーカイブ",
+    "sourceHash": "a3b2d8ec3cecd553b5855fcb0c86ad86e7a3f1c972e90819899b0775558d80ac"
+  },
+  "tasks.placeCommand.space.deleteNoun": {
+    "message": "スペースを削除",
+    "sourceHash": "283d3a9c7444c2094ee7cfef67c2aec538ed5bbe71d474062967711d5fda8894"
+  },
+  "tasks.placeCommand.space.issuesKeywords": {
+    "message": "スペース タブ 表示 開く 課題",
+    "sourceHash": "32d6e8d6607dcd6482d9957655663ad65272d4a4693f01cc205deb1e4dcd0d2c"
+  },
+  "tasks.placeCommand.space.lowerArchiveRestoreUnarchive": {
+    "message": "スペース アーカイブ 復元 アーカイブ解除",
+    "sourceHash": "daa5e5fd4aa01a79b9a633a9f9876293e7b8d2f6c61438030c4dd7a8a198cfb9"
+  },
+  "tasks.placeCommand.space.lowerDeleteRemove": {
+    "message": "スペース 削除 除去",
+    "sourceHash": "3c9d1db00f12ef481dcea077bf3e625cf93af64331ac4158918493026fbcc300"
+  },
+  "tasks.placeCommand.space.lowerOpenTab": {
+    "message": "スペース 開く タブ",
+    "sourceHash": "ceb45403070ebcef0d980173b1d5709e36b176e0af96519ec2007a6abd9d43a6"
+  },
+  "tasks.placeCommand.space.nounActions": {
+    "message": "スペースのアクション",
+    "sourceHash": "3c61413f7ea468a4c349763cd9ce18d9b9c3efd4a8ec58c4e2f876d6eaf1052d"
+  },
+  "tasks.placeCommand.space.nounName": {
+    "message": "スペース {name}",
+    "sourceHash": "c62cda4e6497e0526f8559d21ae8822170aa08176d082651e5b6804d79e97422"
+  },
+  "tasks.placeCommand.space.openNounInNewTab": {
+    "message": "新しいタブでスペースを開く",
+    "sourceHash": "6423dd2d5a63ed2f4106512389df2a3ceb4968430ec320b139eab1509d469b1f"
+  },
+  "tasks.placeCommand.space.overviewKeywords": {
+    "message": "スペース タブ 表示 開く 概要",
+    "sourceHash": "c4ae8abce15ed9bf7f837b1f30dccbc8504d01d21f60ba4b0ecb1af98f36d33e"
+  },
+  "tasks.placeCommand.space.projectCreateAddNewLower": {
+    "message": "プロジェクト 作成 追加 新規 スペース",
+    "sourceHash": "cd01a0a38f87a34244b61b1e7a454525a2e3186e6d8a865bf30b564cd747575a"
+  },
+  "tasks.placeCommand.space.restoreNoun": {
+    "message": "スペースを復元",
+    "sourceHash": "c64bdf579c1943ef877982f2745012416e5a5586957ba4e6d1763c42c433be4b"
+  },
+  "tasks.placeCommand.space.settingsKeywords": {
+    "message": "スペース タブ 表示 開く 設定",
+    "sourceHash": "2158de635842944a921fd0f4d3a4112605cb9d6e5e62d8c9de8f8f0d1a172ba3"
+  },
+  "tasks.placeCommand.space.taskCreateAddNewLower": {
+    "message": "タスク 作成 追加 新規 スペース",
+    "sourceHash": "44da1ba6a02dbbe071300e856ebd1a1137ed252b5d3f9502caa7db6e879a3b51"
+  },
+  "tasks.priority.high": {
+    "message": "高",
+    "sourceHash": "6a045739b0755b3d2068cd2603a955f244425f239446355b63f7bd0b51364f5e"
+  },
+  "tasks.priority.low": {
+    "message": "低",
+    "sourceHash": "c77fdd7ba7dc9376e60f904a8996bc958a3b1869a60a86df71429fb8f705661d"
+  },
+  "tasks.priority.medium": {
+    "message": "中",
+    "sourceHash": "8bd9ee244d54afe8e2a4daee5f4bdeeef082a8a19ca3ad15560805a0ccd9e9dc"
+  },
+  "tasks.priority.none": {
+    "message": "優先度なし",
+    "sourceHash": "9c121740f3d88f185f7ccbc69594b88d77c29d879e22525f0f9b36f22c5536fa"
+  },
+  "tasks.priority.urgent": {
+    "message": "緊急",
+    "sourceHash": "629dc0f090ba086ab5f8f880b3eddf309f2aca1e7814921c1bf0c10577a88553"
+  },
+  "tasks.progress.minimalTooltip": {
+    "message": {
+      "other": "{completed} / {count} 件のタスクが完了"
+    },
+    "sourceHash": "de83ba9a5a7f98871b488938f206ab0e5a456a8b7383a9d1196b2522e17fb254"
+  },
+  "tasks.progress.taskCount": {
+    "message": {
+      "other": "{count} 件のタスク"
+    },
+    "sourceHash": "3c5fc768c39330ca29ef438fb556fd02baf4f9e61125e90322f8e6ac384afd42"
+  },
+  "tasks.project.archive": {
+    "message": "「{name}」はサイドバーから移動します。タスクと履歴は保持されます。",
+    "sourceHash": "54a93ae964391f30b57a6c7c50b9aa961da83925692f162062f161938caa5265"
+  },
+  "tasks.project.archiveOpen": {
+    "message": {
+      "other": "「{name}」はサイドバーから移動します。タスクと履歴は保持されます。未完了のタスクが {count} 件あります。"
+    },
+    "sourceHash": "040b54607c1c00ece15ebd6988ac816e797589f08ce7328195c0b806752b287c"
+  },
+  "tasks.project.bucketRemoval": {
+    "message": {
+      "other": "{count} 件のタスクはレーンから外れます。"
+    },
+    "sourceHash": "95f34842ca1d501e65adf3ed90762ea8cb8e316fb1614aae538c19bc25ae7307"
+  },
+  "tasks.project.deleteEmpty": {
+    "message": "このプロジェクトは完全に削除されます。この操作は元に戻せません。",
+    "sourceHash": "5ed89e93b42650dcdb3ccb20bf7535920758da1c8ae11c0c0a730a574f6093d7"
+  },
+  "tasks.project.deleteWithTasks": {
+    "message": {
+      "other": "このプロジェクトとそのタスク {count} 件は完全に削除されます。この操作は元に戻せません。"
+    },
+    "sourceHash": "d3338e1715dc923a9a1b2da579cdcc25414935b6633eeedc87d74d205a8c90f2"
+  },
+  "tasks.project.keyDescription": {
+    "message": "タスクには {key}-1、{key}-2… と番号が付きます。変更すると番号が振り直されますが、古い ID でも引き続き見つけられます。",
+    "sourceHash": "0f0448e07e566acd6a50e245932ac3d5733d5fbfed4cc8a898c62e84df2e74e8"
+  },
+  "tasks.project.noStartDate": {
+    "message": "開始日なし",
+    "sourceHash": "fd02902a97f0c2a0b702b5b599e58602803453471105b334ff6b7293ce512a4c"
+  },
+  "tasks.project.noTargetDate": {
+    "message": "目標日なし",
+    "sourceHash": "b9e9f4b1a66f2aedd520ad6850fe86c7cc7935079f1a8a5ab7009944da57d786"
+  },
+  "tasks.project.startDate": {
+    "message": "開始日",
+    "sourceHash": "57b033ef32da3719ebc0f5931025177ef9148bfa876894998ff15ce5ab558a24"
+  },
+  "tasks.project.targetDate": {
+    "message": "目標日",
+    "sourceHash": "046d0f9ce6fb11a533389f8ec2388ba04167d9e8aa5f6c7dd8c818db3c3abab1"
+  },
+  "tasks.projectActions.Archiveproject": {
+    "message": "プロジェクトをアーカイブ",
+    "sourceHash": "28f0372451e5458ef5ac21c142a0f6ac9d37b50c68204d8e1972f1ff67edaffc"
+  },
+  "tasks.projectActions.Deleteproject": {
+    "message": "プロジェクトを削除",
+    "sourceHash": "94e89e91f7c267cd72ef54632e776da5c1c6889445aa72ffcae64cf068b0b781"
+  },
+  "tasks.projectActions.Markprojectcompleted": {
+    "message": "プロジェクトを完了にする",
+    "sourceHash": "7a9d8d38cd98b4eead87434f63b1045ef24e177f4766d22d26dd196f9d32d427"
+  },
+  "tasks.projectActions.Pinproject": {
+    "message": "プロジェクトをピン留め",
+    "sourceHash": "3d9263f9815e9a3c10758877e8a0c62cc1db8fee5f9ee52a2a3f76a1568a6dc3"
+  },
+  "tasks.projectActions.Reopenproject": {
+    "message": "プロジェクトを再開",
+    "sourceHash": "649a8a9c2403aa7d6d6d39fd29d5cca8b9d359a5fcbf22967b6b6cfaab692b12"
+  },
+  "tasks.projectActions.Restoreproject": {
+    "message": "プロジェクトを復元",
+    "sourceHash": "5915c5c26914dae90954149c3edcc928dd69f7d69fb0daeb654a3666d6b84d99"
+  },
+  "tasks.projectActions.Unpinproject": {
+    "message": "プロジェクトのピン留めを解除",
+    "sourceHash": "c6ac877229acd8b9c4b19b52e4dd19ce0a076c7be5c1c74a3d30bb3dac043364"
+  },
+  "tasks.projectDescription.rich.whatYouTypedIsStillHere": {
+    "message": "{error} 入力した内容はそのまま残っています。",
+    "sourceHash": "47af97ab1cf327bdad9595c7580920e5e71cf56d1e217ca31e84cc2dadbac609"
+  },
+  "tasks.projectOptions.project_groupings.none": {
+    "message": "グループ化なし",
+    "sourceHash": "2951a3402b14671801c5c79fab2a7883dcd814a670d0f652717797f79b402d69"
+  },
+  "tasks.projectOptions.project_groupings.priority": {
+    "message": "優先度",
+    "sourceHash": "7cd4d859b27807a95b1903809e778e2f568344c799a6590fa6e78bfb1c374502"
+  },
+  "tasks.projectOptions.project_groupings.status": {
+    "message": "ステータス",
+    "sourceHash": "dada805360fb158cb8fba2f82b426ca570e2d9de9600ce2ab24e207ea37e5da0"
+  },
+  "tasks.projectOptions.project_sorts.manual": {
+    "message": "手動",
+    "sourceHash": "e31e5bdc329148056a6464ed24f6598c9282b73f3d19122ee522f33459317347"
+  },
+  "tasks.projectOptions.project_sorts.name": {
+    "message": "名前",
+    "sourceHash": "131d8903044062c240a49e029bd825898c65f508a61a190d3ed4c7f6ba9904b9"
+  },
+  "tasks.projectOptions.project_sorts.priority": {
+    "message": "優先度",
+    "sourceHash": "7cd4d859b27807a95b1903809e778e2f568344c799a6590fa6e78bfb1c374502"
+  },
+  "tasks.projectOptions.project_sorts.status": {
+    "message": "ステータス",
+    "sourceHash": "dada805360fb158cb8fba2f82b426ca570e2d9de9600ce2ab24e207ea37e5da0"
+  },
+  "tasks.projectOptions.project_sorts.target": {
+    "message": "目標日",
+    "sourceHash": "bdcf2f885038a506ac62437722be93df74313ab3a1577b247b3c0fc238358c01"
+  },
+  "tasks.projectOptions.project_statuses.backlog": {
+    "message": "バックログ",
+    "sourceHash": "92b088a4cabd01fa425e42a3ded61ef92ba2ae7108573e7eb918f56ce1decab0"
+  },
+  "tasks.projectOptions.project_statuses.cancelled": {
+    "message": "キャンセル",
+    "sourceHash": "5f868d5b859ea1384384fc491656fb1318b65bf149e7c73a771ae0c7c2ecce04"
+  },
+  "tasks.projectOptions.project_statuses.completed": {
+    "message": "完了",
+    "sourceHash": "2b5b30cdc6f885532172f663f47029172ca26695cb62e6727e4c97169331e38e"
+  },
+  "tasks.projectOptions.project_statuses.in-progress": {
+    "message": "進行中",
+    "sourceHash": "cd9ceda57933d2c057392e85d2784f6a191e867950d14fc7887a25ecf71625a8"
+  },
+  "tasks.projectOptions.project_statuses.paused": {
+    "message": "一時停止",
+    "sourceHash": "1dc311cc5b970cb0253899c62a2b8baad14c05e97ed507628daa847544738164"
+  },
+  "tasks.projectOptions.project_statuses.planned": {
+    "message": "予定",
+    "sourceHash": "7e47738ef3164d2cf2ef54fd4ff70e4c77595f6eb6f44d5acde1a5bfca04aa69"
+  },
+  "tasks.projectOverview.rich.resources": {
+    "message": "リソース {value}",
+    "sourceHash": "2aaa8b3d1285fbab475ce55d741b6ad06323d7ace09f707ec53e20352636c329"
+  },
+  "tasks.projectactions.archiveProject": {
+    "message": "プロジェクトをアーカイブしますか？",
+    "sourceHash": "82ca99f615e406aad5d408da2be769abd236d57068bde420d0790b2a6b2da324"
+  },
+  "tasks.projectactions.archiveProject2": {
+    "message": "プロジェクトをアーカイブ",
+    "sourceHash": "3068bebc986830e900cebc2d76d419a0c4e4d3feacea85b182933ab0eba45ba5"
+  },
+  "tasks.projectactions.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "51a55ee59abbb7d1770618ab71341171c87e8f491a0b1872b5523ad6788376a2"
+  },
+  "tasks.projectactions.deleteProject": {
+    "message": "プロジェクトを削除",
+    "sourceHash": "edd29315822ed5d94a24c34b3065b9486e914f0a56d48f8f8c6508262fdbbfcf"
+  },
+  "tasks.projectactions.deleteProjectProjectnameproject": {
+    "message": "プロジェクト {projectnameProject} を削除",
+    "sourceHash": "6e141253c664d966f06dfd2cb827f9b125c9b27687cc86944f2ec8a0e967f337"
+  },
+  "tasks.projectdescription.projectDescription": {
+    "message": "プロジェクトの説明",
+    "sourceHash": "0aaa19998d67ae9c2700e6470854a99f2d7c640ebbc494db89074c5ad6aeac22"
+  },
+  "tasks.projectoverview.activity": {
+    "message": "アクティビティ",
+    "sourceHash": "76799013880b66fb838bec2dbf8e34ece1b85bdc5d859cc2f1e2a9acc7f87976"
+  },
+  "tasks.projectoverview.addResource": {
+    "message": "リソースを追加",
+    "sourceHash": "d3fa5df8aa344173e5e4352f9f68683a996b16fa6af5abf10845ccc625c237ba"
+  },
+  "tasks.projectoverview.attachFromPlatformspecificstringsfilesystemname": {
+    "message": "{platformspecificstringsFilesystemname} から添付",
+    "sourceHash": "d47ad0434cca270b1872ebce2d0d6e64ead16fbbd2acecf44750119b92dd323f"
+  },
+  "tasks.projectoverview.dropToAddToResources": {
+    "message": "ドロップしてリソースに追加",
+    "sourceHash": "d86ea152313a7fa9b4650d2461a9a600101f05d966fd6513ad583bb9271b986f"
+  },
+  "tasks.projectoverview.keepTheNotesFilesAndLinksThisProjectReliesOnHereDropFilesFromFinderToAddThem": {
+    "message": "このプロジェクトに関連するノート、ファイル、リンクをここに保存しておけます。Finder からファイルをドロップして追加できます。",
+    "sourceHash": "8a5185c713d444a7d2f27ff20a368da61cf6d59f3b8286056e702435751b2794"
+  },
+  "tasks.projectoverview.mentionedIn": {
+    "message": "言及元",
+    "sourceHash": "11bc96ff58ca3bf2084a57b4ceeb9b13d25f901f5d1d94148891f3c2da8b07cb"
+  },
+  "tasks.projectoverview.progress": {
+    "message": "進捗",
+    "sourceHash": "a5bd452b31faf22958ac5f643d950e6f390b32c57a1eb28a88bcdabeb8f74bd0"
+  },
+  "tasks.projectoverview.resources": {
+    "message": "リソース",
+    "sourceHash": "3351fcde9b7557e121b19d66eb9910fe1ecbefc761a1d3c3aa4e1c92a2d84a69"
+  },
+  "tasks.projectproperties.clear": {
+    "message": "クリア",
+    "sourceHash": "6a0711cc84bb44906c5770233cbcff4b31c9cde9c2f26792599fa31ac09049ef"
+  },
+  "tasks.projectsettings.addLabel": {
+    "message": "ラベルを追加",
+    "sourceHash": "e3f5b7cdedf6bb8ee08d789aa73d3db046b1132456fe6ac22e617556e20201ef"
+  },
+  "tasks.projectsettings.archive": {
+    "message": "アーカイブ",
+    "sourceHash": "3c8f9f30e359cdb795b46373ef7ed29cea96d67f7dc90832db6d896c50088dc3"
+  },
+  "tasks.projectsettings.archiveProject": {
+    "message": "プロジェクトをアーカイブ",
+    "sourceHash": "476c5c84e57c761f5531d78429a6a80cf971da46f86837895f9d41c752d6097c"
+  },
+  "tasks.projectsettings.bringItBackToTheSidebar": {
+    "message": "サイドバーに戻します。",
+    "sourceHash": "38a22473f57576241425952343ce0b4f4ebe995b05b8ba9e5cf9c68d00905064"
+  },
+  "tasks.projectsettings.buckets": {
+    "message": "レーン",
+    "sourceHash": "6c827614a432f8a8fb1d0efc613fcaa5c5b43a9824c4a5e213f146bec0ef247b"
+  },
+  "tasks.projectsettings.changeProjectIcon": {
+    "message": "プロジェクトアイコンを変更",
+    "sourceHash": "349056bd0c766d20cd8f1194dd8b15fad21b7d9921ad5bb7088308930badd798"
+  },
+  "tasks.projectsettings.dangerZone": {
+    "message": "危険な操作",
+    "sourceHash": "b6231bc82e69e8a61aac552aa11ad84e78ce35f65921f45e117d7f1dbfe8b47e"
+  },
+  "tasks.projectsettings.defaultTemplate": {
+    "message": "デフォルトのテンプレート",
+    "sourceHash": "2f255680e040faf58f2dd6d30f3e08094273fb8f344ce06241301ed8d2c08f63"
+  },
+  "tasks.projectsettings.deleteAction": {
+    "message": "削除",
+    "sourceHash": "938bf91c2ba0dcc19b077c30a8fcc536a2b49680e1f1a37cf298d1cc1c791a71"
+  },
+  "tasks.projectsettings.deleteProject": {
+    "message": "プロジェクトを削除",
+    "sourceHash": "0974a3b33ba364d2316307dfc97e3771ca0faa2717c4ee7fce0a3b59bde772b3"
+  },
+  "tasks.projectsettings.deletesItAndItsCountTasksForGood": {
+    "message": {
+      "other": "プロジェクトとその {count} 件のタスクを完全に削除します。"
+    },
+    "sourceHash": "fb0b559132b6da180e2b1b282728c1293cb2c1ac07742b98358bb3316c4bf49f"
+  },
+  "tasks.projectsettings.edit": {
+    "message": "編集",
+    "sourceHash": "02cf8e0e1e6b1d417f181229ad2b8a1ed094a437272427e80ca69a79eed7c5ba"
+  },
+  "tasks.projectsettings.editProjectLabels": {
+    "message": "プロジェクトのラベルを編集",
+    "sourceHash": "99d20f61717ac09e91a1f2baa88345eee4b9dc0177e4f300643db8938a4f4c32"
+  },
+  "tasks.projectsettings.filtersFromAcrossProjectsShownAsTabsHere": {
+    "message": "複数のプロジェクトにまたがるフィルタを、ここでタブとして表示します。",
+    "sourceHash": "663989c54d37b2e26437695a1559e35020115da308f15a1c1f030a8500ed89cc"
+  },
+  "tasks.projectsettings.general": {
+    "message": "一般",
+    "sourceHash": "fb6389902740194477ca91ee13212c67d34f4dd4467878a9dcfd20db8c197598"
+  },
+  "tasks.projectsettings.itLeavesTheSidebarItsTasksAndHistoryAreKept": {
+    "message": "サイドバーから外れます。タスクと履歴は保持されます。",
+    "sourceHash": "fe89dd5ddebeb96ab69a6dee1b7df4a4fa474914f844821e4ea9c56a25c758be"
+  },
+  "tasks.projectsettings.keepAtLeastOneCompletedStatus": {
+    "message": "完了ステータスを少なくとも 1 つ残してください。",
+    "sourceHash": "8cb17569820a6af0de721c17a50a2162c5d1c8cac233e2f6ff09e209573b9d1e"
+  },
+  "tasks.projectsettings.keepAtLeastOneOpenStatus": {
+    "message": "未完了ステータスを少なくとも 1 つ残してください。",
+    "sourceHash": "faef1c67c9f3847777f236858a0d32b9d1eaee783bf6d4d4cabeff4a66af0b56"
+  },
+  "tasks.projectsettings.key": {
+    "message": "キー",
+    "sourceHash": "bd39aa3dd5b4c2f152e30239494a6df630df13b9af0140a7b11a6297ccd6ebe4"
+  },
+  "tasks.projectsettings.keyFormat": {
+    "message": "英字または数字の 2～5 文字（先頭は英字）。",
+    "sourceHash": "ba77f15a87430c34af5e702cd503b41fa94cc826deceec91c7b5cf1214ee7ff9"
+  },
+  "tasks.projectsettings.labels": {
+    "message": "ラベル",
+    "sourceHash": "db26780ca253993b5888d99d8e1fb898bd4329131767e2b1380e5e51558386d1"
+  },
+  "tasks.projectsettings.labelsOffered": {
+    "message": "提供するラベル",
+    "sourceHash": "287785b99eb4f5274f1b6e9a1840848c77c3d5253cbd66e55c734f5b71d68b72"
+  },
+  "tasks.projectsettings.labelsOnTheProjectItselfToFindAndGroupProjects": {
+    "message": "プロジェクト自体のラベル。プロジェクトを検索・グループ化するために使います。",
+    "sourceHash": "b14d2ee4a5b944b00579630934e83fac77b327badeaa00bd32ed4726cc5c5e31"
+  },
+  "tasks.projectsettings.nameAndIcon": {
+    "message": "名前とアイコン",
+    "sourceHash": "31c55ce347309bee6f3481543ff2866ed6cb27834a32068fc63fea0b248d27ae"
+  },
+  "tasks.projectsettings.newTasksInThisProjectStartFromIt": {
+    "message": "このプロジェクトの新規タスクは、ここから作成されます。",
+    "sourceHash": "3e24e046c85fc44780d959216071f3137791eb78ae1e135b9dc6094090098aca"
+  },
+  "tasks.projectsettings.noSpace": {
+    "message": "スペースなし",
+    "sourceHash": "7f0577fa4a01ade1790ca92958005da9410ca2b283c1a400bebbe977e65f1f50"
+  },
+  "tasks.projectsettings.none": {
+    "message": "なし",
+    "sourceHash": "bb39110be4201d0aca109c56dfb024fa731604001881904e6153cb9f3112cd85"
+  },
+  "tasks.projectsettings.projectKey": {
+    "message": "プロジェクトキー",
+    "sourceHash": "0cb5a801cc8bcc0657a1a34d947287e93209021cd475104b6ef7a74115974916"
+  },
+  "tasks.projectsettings.projectName": {
+    "message": "プロジェクト名",
+    "sourceHash": "e0b49d1fafc0e8c37433aae94857cc1114c2841474935dc3002f1f3f8edf5f94"
+  },
+  "tasks.projectsettings.projectSpace": {
+    "message": "プロジェクトのスペース",
+    "sourceHash": "e12266a4114be9c573321b00f61f1c48d15b891dd7fe1f18afd01dec41fd0f76"
+  },
+  "tasks.projectsettings.restore": {
+    "message": "復元",
+    "sourceHash": "d4a5af53774467fc85752964d80f707278870da029b6dd7a5c5fd6b940a367fd"
+  },
+  "tasks.projectsettings.restoreProject": {
+    "message": "プロジェクトを復元",
+    "sourceHash": "ad5a2176c2568a2fc469baba7bae2a73a157e84d35bba3f40dd169d153fef47f"
+  },
+  "tasks.projectsettings.sharedFilters": {
+    "message": "共有フィルタ",
+    "sourceHash": "9d5efb739a4d9fef2ba99fbfdd4bed6c0394522b9e81ae22edd5b1a699af5c1b"
+  },
+  "tasks.projectsettings.space": {
+    "message": "スペース",
+    "sourceHash": "de1d92c29e1c8a56172108d646b84405d01e62aee9290741516df71d151e354d"
+  },
+  "tasks.projectsettings.statuses": {
+    "message": "ステータス",
+    "sourceHash": "bc19c83a1ba40003f2f1fb1adab9f0f5f95095095eff2a99ce8715d4001fee35"
+  },
+  "tasks.projectsettings.tasks": {
+    "message": "タスク",
+    "sourceHash": "317e580e1f2ba4bf548f49b4996ff020d14e7158b4a4e2b20e2df4afca46c43c"
+  },
+  "tasks.projectsettings.templateForNewTasks": {
+    "message": "新規タスクのテンプレート",
+    "sourceHash": "fa45bda6d49c7dea8874536c4b045a3204f34b446f36ab1d46a54ef212da7b43"
+  },
+  "tasks.projectsettings.theBucketsItsTasksCanSitIn": {
+    "message": "このプロジェクトのタスクが置けるレーン。",
+    "sourceHash": "9ebd8274a5d625901f44d72e0b8c5bb47cddb0f970cc3fc79f1087cd8e76a064"
+  },
+  "tasks.projectsettings.theLabelsItsTasksCanPickFrom": {
+    "message": "タスクが選択できるラベル。",
+    "sourceHash": "b4c23edbb54fe68eca0f50e7d49e7c1e75050955e975529e763473e58ea22644"
+  },
+  "tasks.projectsettings.theStatusesItsTasksCanBeInLeavingOneOutMovesItsTasksToTheNearestOneKept": {
+    "message": "タスクが取りうるステータス。外すと、そのタスクは残っている最も近いステータスに移動します。",
+    "sourceHash": "c76e497937ca89252170a3729c1d42201840c4f731394ce26483694ce9686ca2"
+  },
+  "tasks.projectsettings.whereItSitsInTheSidebar": {
+    "message": "サイドバー内の表示位置。",
+    "sourceHash": "c66a4d0587222f7ad1399722cf359027acdd77e810db156569e1b948e1af36ed"
+  },
+  "tasks.projectsidebar.addLabel": {
+    "message": "ラベルを追加",
+    "sourceHash": "984ea6d7256e07c8297ea07365b53d44ec1cfb1ab79934e966253baccd2a6102"
+  },
+  "tasks.projectsidebar.editLabels": {
+    "message": "ラベルを編集",
+    "sourceHash": "c418a38212fa8da970352380785e7e62becf8377c9abc231959b091cd823234e"
+  },
+  "tasks.projectsidebar.labelCount": {
+    "message": {
+      "other": "{count} 件のラベル"
+    },
+    "sourceHash": "476d50a2e6209df0dc30888a92268aaf7be49ed25a1e98ba83b5110e690f16ae"
+  },
+  "tasks.projectsidebar.labels": {
+    "message": "ラベル",
+    "sourceHash": "c9a1768e1263f064e2bb9c42ae9d8acac25511d6855042d629c8d8e930d81a48"
+  },
+  "tasks.projectsidebar.late": {
+    "message": "· 遅延",
+    "sourceHash": "ebc28cc89ba97ff4a093926b570602862ce52dcebb02a2051a9f27149645d6b9"
+  },
+  "tasks.projectsidebar.priority": {
+    "message": "優先度",
+    "sourceHash": "31c05011359ee5bb17651b895a16c9ce7f32518a62f7b325661731b45fc86e43"
+  },
+  "tasks.projectsidebar.progress": {
+    "message": "進捗",
+    "sourceHash": "9cc5d683c5e1acc26302457fd1ff8725783c2dae3ab1f4ef3cb19a3c5b8cf265"
+  },
+  "tasks.projectsidebar.projectPriority": {
+    "message": "プロジェクトの優先度",
+    "sourceHash": "5df8bb6e03a0e3f1b694ac7be0f9ff0c0b1c3d692319a2e3286c38bf71faf4cf"
+  },
+  "tasks.projectsidebar.projectStatus": {
+    "message": "プロジェクトのステータス",
+    "sourceHash": "cfbd25434ddc54971cfd70c439e32b81f876354418df98624f614bae4f77df2a"
+  },
+  "tasks.projectsidebar.properties": {
+    "message": "プロパティ",
+    "sourceHash": "eea821f925843faba5a5b94716a2ebe8075c798ec9269207376c7dcaaf6a8008"
+  },
+  "tasks.projectsidebar.removeLabelLabel": {
+    "message": "ラベル {label} を削除",
+    "sourceHash": "1976dd61e490178c2d4c393ba3905c5290f418ecdefa34cad1a384492ec7c0be"
+  },
+  "tasks.projectsidebar.start": {
+    "message": "開始",
+    "sourceHash": "3d59ae7dd092fc9fe3868e9a96c61fff68a36ff683ddc73296525eb812e0ed31"
+  },
+  "tasks.projectsidebar.status": {
+    "message": "ステータス",
+    "sourceHash": "dd41208815b0f9dac6915f191288ab5c87d144b8a348d9674252854f491b3401"
+  },
+  "tasks.projectsidebar.target": {
+    "message": "目標",
+    "sourceHash": "1f0e1fa688a3f63ad42fb1823f05194c1f4e6315e5422af3eb3f373985fe5cec"
+  },
+  "tasks.projecttabs.deleteFilter": {
+    "message": "フィルタを削除",
+    "sourceHash": "c3c6eedb182290ab79bfbda6f8c292fde7ecfc4f46f9a697b9d5ea8bc26dd3c2"
+  },
+  "tasks.projecttabs.editFilter": {
+    "message": "フィルタを編集",
+    "sourceHash": "4be959fffd662b944e8b72b9fcede4af9dcc502c54bf7b7c8586b41183237087"
+  },
+  "tasks.projecttabs.newFilter": {
+    "message": "新しいフィルタ",
+    "sourceHash": "a46465ffdaf9c3304a6cd009daf44f00f925ff9ffc0427096a9a580d5ecdaf91"
+  },
+  "tasks.projecttabs.overview": {
+    "message": "概要",
+    "sourceHash": "4f72728c5caad3a879a739bbac3549b571a79f2451f44e0ab90da074432288e6"
+  },
+  "tasks.projecttabs.projectTabs": {
+    "message": "プロジェクトタブ",
+    "sourceHash": "bb69dc0c5e51b694ada193119f69fad6d9661af0e9241b6007c3f2e751bd0959"
+  },
+  "tasks.projecttabs.settings": {
+    "message": "設定",
+    "sourceHash": "c0ceb0819c41c779b97cf7ee1d0e9efc3e29fb79f61934f26ada6ddca5c5e250"
+  },
+  "tasks.promotetask.convertToTask": {
+    "message": "タスクに変換",
+    "sourceHash": "51503a051dda3257bcb326b964432c7542381a453b8c12eb7c3cad4fca88c6e1"
+  },
+  "tasks.promotetask.createTaskFromSelection": {
+    "message": "選択範囲からタスクを作成",
+    "sourceHash": "ef5cf6ba93e662c3d956de44f3d5bdbe4ec74683e76b31b3d15f4d78374b8a03"
+  },
+  "tasks.promotetask.theNoteChangedSoItWasLeftAsIsTheTaskWasCreated": {
+    "message": "ノートが変更されていたため、そのままにしました。タスクを作成しました。",
+    "sourceHash": "d87e9097bdeb12c602b4fe758361b4b74b2b8c769a548d3d89e1321116356156"
+  },
+  "tasks.properties.labelCount": {
+    "message": {
+      "other": "{count} 件のラベル"
+    },
+    "sourceHash": "4126a0326f5eded37416673d5c1c06b2d2ec9f5f46471c72072958faaa1278eb"
+  },
+  "tasks.properties.resourceCount": {
+    "message": {
+      "other": "{count} 件のリソース"
+    },
+    "sourceHash": "b459898f8f1cb1527e18677c696952b0c9ac0e530aa81c64619427cde62756bf"
+  },
+  "tasks.queryHelp.bucket": {
+    "message": "レーン名、または none",
+    "sourceHash": "51c6aace67610de5c4f98f78bd18cb9337b188e702f6754203869a0f21fb6b32"
+  },
+  "tasks.queryHelp.completed": {
+    "message": "完了からの経過時間、例: <7d",
+    "sourceHash": "62096c713d3ec67448e0db1d875d4bc3145864daf9c7786b7565697683a2cdf6"
+  },
+  "tasks.queryHelp.created": {
+    "message": "経過期間、例: <7d",
+    "sourceHash": "fa8baec3423698bf6ab95c733146fee32adecbe510e4d18414dbbab685504e68"
+  },
+  "tasks.queryHelp.cycle": {
+    "message": "current, upcoming, previous, none",
+    "sourceHash": "a6c1f76f28026dfb2e9e3b786e9d1a011c4b7e1be5c118161b2bba6a13203be3"
+  },
+  "tasks.queryHelp.due": {
+    "message": "overdue, today, <7d",
+    "sourceHash": "252cb385c1bb32e77f82a535ca6f2667834b9ca151b2642024badf83c52564ff"
+  },
+  "tasks.queryHelp.has": {
+    "message": "due, labels, comments, subtasks",
+    "sourceHash": "7e93a402b2cc01336ecfc941bf7510bae82fd705910633cff84cff415bb93d6d"
+  },
+  "tasks.queryHelp.is": {
+    "message": "open, closed, overdue, parent, subtask",
+    "sourceHash": "b19a2ef910217b8755da5a5cc27e24269b885c2f5a67c81b2879696f9f9bf1dc"
+  },
+  "tasks.queryHelp.label": {
+    "message": "ラベル名",
+    "sourceHash": "3bad4afd4f92e4317f4a621d496854b02a1e8fa2fa243f2a1d8f923adefd97a7"
+  },
+  "tasks.queryHelp.priority": {
+    "message": "Urgent, high, medium, low, none",
+    "sourceHash": "a44bd82655ccf421772489e014b4881119ee29c912ce30a63b6b08c34002128b"
+  },
+  "tasks.queryHelp.space": {
+    "message": "スペース名、または none",
+    "sourceHash": "9a154c04132361f9b7363067052e34aaf2cc3c72b9d95bc4b8fb87fcfc018a47"
+  },
+  "tasks.queryHelp.status": {
+    "message": "Backlog, todo, in progress…",
+    "sourceHash": "c86cf7a4473578d4f7457ef32d68e9fe648aa09c8ebc31ee3ded6968ab19e06f"
+  },
+  "tasks.queryHelp.type": {
+    "message": "タイプ名、または none",
+    "sourceHash": "58b2f423f624295e38a9be1859607744c1de5043a0e5176d6724fcedaa90bc85"
+  },
+  "tasks.quickcreatetask.createdIdentifier": {
+    "message": "{identifier} を作成しました",
+    "sourceHash": "aa367201a89d36f3c5ebbf1069bb356d567c47e756e6a60fefc3eb9e11675385"
+  },
+  "tasks.quickcreatetask.open": {
+    "message": "開く",
+    "sourceHash": "c0189555d447d3fac29643ac4ac987da886de08f83c449a802cb6b3c9b9fd189"
+  },
+  "tasks.quickcreatetask.taskCreated": {
+    "message": "タスクを作成しました",
+    "sourceHash": "323a6792629e2fa4111ac9ad3cd81cc863d5142b769ee0ceb4135741753d3cd6"
+  },
+  "tasks.resources.addResource": {
+    "message": "リソースを追加",
+    "sourceHash": "1de51a9fd78df92df079e5d33b1705787a54e1fba3a32a5ff6134f9eaf036e92"
+  },
+  "tasks.resources.couldnTImportPath": {
+    "message": "{path} をインポートできませんでした",
+    "sourceHash": "15e5084d8dc2fd93418949feee63545b9721de9397810cee88114de5c9389625"
+  },
+  "tasks.resources.group.files": {
+    "message": "ファイル",
+    "sourceHash": "f17ecd22c349b431169cede2c4f8edd44e9862cfd8d8ae5337068ba487f7e3aa"
+  },
+  "tasks.resources.group.links": {
+    "message": "リンク",
+    "sourceHash": "3d3df37aed891ddb6031cff644cf3381c34a25716beecf20c87313a720b3deb5"
+  },
+  "tasks.resources.group.media": {
+    "message": "メディア",
+    "sourceHash": "63b8dc8e3c14f6896b85d1c7eb4b7a8872ebac407f0df03ee9b9f3e07e8e4c38"
+  },
+  "tasks.resources.group.notes": {
+    "message": "ノート",
+    "sourceHash": "d8c8de209d4c577ffcc8025bbf70e52630fd96168b14751fcf13140412cd3c43"
+  },
+  "tasks.resources.mediaAndFiles": {
+    "message": "メディアとファイル",
+    "sourceHash": "c52b3a824c087b2c1d5a82f25bdfe07849c2e08460063ad38d64c9c31c9b006e"
+  },
+  "tasks.resources.removeTitle": {
+    "message": "{title} を削除",
+    "sourceHash": "3cbd0279af2ff1347b83a503de7d2706c4ee38cdbec64caf8a03e884bf11e20a"
+  },
+  "tasks.search.excludingLabel": {
+    "message": "{key}: 除外中、クリックして含める",
+    "sourceHash": "16c007a175fba2bd4863163854431a2c43fa5b615a7eed80bf6318060c59a2a8"
+  },
+  "tasks.search.includingLabel": {
+    "message": "{key}: 含めています、クリックして除外",
+    "sourceHash": "d995663405dbb863dcdfcf955f538f6aff965fda4510918f8af48b462bd7ea0a"
+  },
+  "tasks.sortablesections.dragToMove": {
+    "message": "ドラッグして移動",
+    "sourceHash": "5dc9a61385a668dc9c47178ca5a64aaf2f30c36c5707ee95a9ea9afcbd66fe92"
+  },
+  "tasks.sortablesections.moveLabel": {
+    "message": "{label} を移動",
+    "sourceHash": "cea268f9d41fc7b742a765aaa404ab2274c219dc2f6a3f80e8a7947d65665fa1"
+  },
+  "tasks.space.deleteEmpty": {
+    "message": "スペースは完全に削除されます。そのタスクはスペースの外に残ります。",
+    "sourceHash": "74107e433261d0f4c67effdbdc0445ebcff914dd60a295c58127fa24fe8d4257"
+  },
+  "tasks.space.deleteWithProjects": {
+    "message": {
+      "other": "スペースは完全に削除されます。{names} はプロジェクトに移動し、そのタスクは残ります。"
+    },
+    "sourceHash": "405a602d0512e7e0ff3729db74c1e060e922cba2d4f733aeacf8bd1292d49d44"
+  },
+  "tasks.space.untitled": {
+    "message": "無題のスペース",
+    "sourceHash": "bcfa1d740ed16fc778771bda01e94ede7dca9f2498560efe6650546598690c94"
+  },
+  "tasks.spaceActions.Archivespace": {
+    "message": "スペースをアーカイブ",
+    "sourceHash": "d9f203e9316c4150d21e10f75fc7f1deff1794abc1a8eb7059d2f372bcb12865"
+  },
+  "tasks.spaceActions.Deletespace": {
+    "message": "スペースを削除",
+    "sourceHash": "215ce6d9b5ec17ff09fb0133aa848118901415b6f00d8e11ea365ab8c665397c"
+  },
+  "tasks.spaceActions.Movetospace": {
+    "message": "スペースに移動",
+    "sourceHash": "0fec47ead7d70c06f28d19731dc401bb65b407a62010d77cb8627a02e01745b9"
+  },
+  "tasks.spaceActions.None": {
+    "message": "なし",
+    "sourceHash": "0eafc0f32836d1d8f03a76ca47cc6b6da1b5949b775ff47eac6544b6c66385dc"
+  },
+  "tasks.spaceActions.Restorespace": {
+    "message": "スペースを復元",
+    "sourceHash": "5e5d1a06283398903a71389f22c1f67c00f6070be842d18a4ca205e010e63c7c"
+  },
+  "tasks.spaceActions.moveToNamedSpace": {
+    "message": "{name} に移動",
+    "sourceHash": "49302250ac764135ec74c978b7c53ac940e1132501faab5c92cbf11b95e8d439"
+  },
+  "tasks.spaceActions.rich.createNewProject": {
+    "message": "{icon} 新しいプロジェクトを作成",
+    "sourceHash": "a6932629b8bdfa8cd4b067d6b562bdade73ad181adcb0e3bc5f78c36df116824"
+  },
+  "tasks.spaceOverview.rich.inCycle": {
+    "message": {
+      "other": "サイクル中 {count} 件"
+    },
+    "sourceHash": "1a5de12dca865c5246be34a0361332a133b5cbb21809b98f19244a928321f662"
+  },
+  "tasks.spaceactions.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "d67071e0de4f4760b0aad5836913a71f9af52b415f69489e199643bb64a23726"
+  },
+  "tasks.spaceactions.deleteSpace": {
+    "message": "スペースを削除",
+    "sourceHash": "c01a86b5101d602cefd1cd9496f3f00aeee0bf4d7f2d8240a1ef6f47e09a6afb"
+  },
+  "tasks.spaceactions.deleteSpaceSpacenamespace": {
+    "message": "スペース {spacenameSpace} を削除",
+    "sourceHash": "7c3f2a6e6b08918447510f0f009cb8fe8a59686905f8577876e4146014041389"
+  },
+  "tasks.spaceactions.pinSpace": {
+    "message": "スペースをピン留め",
+    "sourceHash": "f902395b0804bed2ef37e4651cc87dda459cdb58fd68ba538fd0094e5231e6c2"
+  },
+  "tasks.spaceactions.unpinSpace": {
+    "message": "スペースのピン留めを解除",
+    "sourceHash": "db6f9517fdbe2df28d266cf082d2d8e11ba18e8fa4579e1459cba7654c724ef1"
+  },
+  "tasks.spaceheading.aSpaceIsSomethingYouKeepUpRatherThanFinishNameItAndPressEnterEscToCancel": {
+    "message": "スペースは完了させるものではなく、継続して維持するものです。名前を入力して Enter、キャンセルは Esc を押してください。",
+    "sourceHash": "76d47568a2e7199d28e21acdda17ad1d6a4fc7362853d3102c4f1aad624aac7b"
+  },
+  "tasks.spaceheading.addADescription": {
+    "message": "説明を追加…",
+    "sourceHash": "6ff1276cbbd3f299da0d9e47ae834adcc0c8929a8b2bc9ceb5064bff2bd4c218"
+  },
+  "tasks.spaceheading.changeIconAndColour": {
+    "message": "アイコンと色を変更",
+    "sourceHash": "8258252a834cb85f023b6c5a191cd9404bd2146e4433d25d411dc5474125526a"
+  },
+  "tasks.spaceheading.nameFormat": {
+    "message": "スペース名にカンマや引用符は使えません。",
+    "sourceHash": "0148748d4a5498aac6563c3fb17a32cc8eb487c8ac3b63fcbd1f4c93779e0f88"
+  },
+  "tasks.spaceheading.spaceDescription": {
+    "message": "スペースの説明",
+    "sourceHash": "60c771b1e1136b09752896b5e40e35cdef115c8aad532d8bb29c91626d7f4430"
+  },
+  "tasks.spaceoverview.0Active": {
+    "message": "0 件の進行中",
+    "sourceHash": "ec351a0abc5750b79ee67180de7cddd47b658aa253c874c38112aa9d414a89bb"
+  },
+  "tasks.spaceoverview.activecountActive": {
+    "message": {
+      "other": "{count} 件の進行中"
+    },
+    "sourceHash": "d0818443f5595628e3e74cd5ec089b5145c7143604d600d15049ded3856db96e"
+  },
+  "tasks.spaceoverview.activity": {
+    "message": "アクティビティ",
+    "sourceHash": "96155a6e271d365bd60564cb55ad471f960f0702a4fec5de722b983b43491510"
+  },
+  "tasks.spaceoverview.addATaskToThisSpace": {
+    "message": "このスペースにタスクを追加",
+    "sourceHash": "914252493ef3b717fbd112d2b9cef3f7e22391be8bcd933445417498c3b24fab"
+  },
+  "tasks.spaceoverview.addProjectsToThisSpace": {
+    "message": "このスペースにプロジェクトを追加",
+    "sourceHash": "52f91a0ce7a664d02d67827bec43499d210523003971a5129f2f95ffcda8a102"
+  },
+  "tasks.spaceoverview.addResource": {
+    "message": "リソースを追加",
+    "sourceHash": "546e0270d9c48716878217bb00cbe96b464053f97b0d6ece3f226070fa5681b9"
+  },
+  "tasks.spaceoverview.attachFromPlatformspecificstringsfilesystemname": {
+    "message": "{platformspecificstringsFilesystemname} から添付",
+    "sourceHash": "8f0ac30eadadcfbb4903cdec2d62b09890a0289976ddf33e65d2850f47246995"
+  },
+  "tasks.spaceoverview.completedProjects": {
+    "message": "完了したプロジェクト",
+    "sourceHash": "685e13007dd80f82a969418079ff5984a3e814b24bd0a068718f2c74ffe97949"
+  },
+  "tasks.spaceoverview.createAProjectHereOrMoveOneWithNoSpace": {
+    "message": "ここにプロジェクトを作成するか、スペースのないプロジェクトを移動",
+    "sourceHash": "269c103774c70a1d13ce5c071a82287f17c339b54930cd1e3f5dfd0cdaa61421"
+  },
+  "tasks.spaceoverview.doneOfTotal": {
+    "message": {
+      "other": "{count} 件中 {done} 件完了"
+    },
+    "sourceHash": "a4fd87adf4c50baca39e52e791d4434ace4ff745483b72df077ce9831b75100c"
+  },
+  "tasks.spaceoverview.dropToAddToResources": {
+    "message": "ドロップしてリソースに追加",
+    "sourceHash": "ee6906593c3fc47e8eb8145f31df67a89d9088a0b3e1da6300a224beed9b1cda"
+  },
+  "tasks.spaceoverview.groupBy": {
+    "message": "グループ化",
+    "sourceHash": "e4876b69540564e7d58445c7bded954d412c821f2f2200bf7043287b9b117d79"
+  },
+  "tasks.spaceoverview.keepTheNotesFilesAndLinksThisSpaceReliesOnLikePrinciplesOrAChecklistDropFilesHereToAd": {
+    "message": "このスペースが頼りにするノート、ファイル、リンク（原則やチェックリストなど）を保存できます。ファイルをここにドロップすると追加されます。",
+    "sourceHash": "ca3effc246bd1cdddd09d134f7bc63e2a60750abd6db8e7df7f5c0445f8a87ab"
+  },
+  "tasks.spaceoverview.keepTheUpkeepThatNeverBecomesAProjectHereLikeRenewDomainOrMonthlyInvoices": {
+    "message": "「ドメインを更新」や「月次請求書」のような、プロジェクトにはならない定期的な作業をここに残しておきます。",
+    "sourceHash": "98734323dce5fb70e611d2fb6a1f2f9a297424dd381e00afa8d3f88f2cb52c86"
+  },
+  "tasks.spaceoverview.noActiveProjectsAddOneWithTheAboveOrUseMoveToSpaceOnAProject": {
+    "message": "進行中のプロジェクトはありません。上の + から追加するか、プロジェクトで「スペースに移動」を使用してください。",
+    "sourceHash": "095d766e5881eebb06fea69ec970e8c7ed0bb72e54df20e23f412689e47a1b54"
+  },
+  "tasks.spaceoverview.notInAProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "1bfe1d8679a202daf6f888d681353ac32b8c70aac527a38638b13974e8e72f48"
+  },
+  "tasks.spaceoverview.nothingOpenHereEnjoyTheQuiet": {
+    "message": "未完了のものはありません。静かな時間をお楽しみください。",
+    "sourceHash": "d95f98e4b1797931d4a958dde08ad99dc5716a0cba21bb33d7a125b7b4dcf753"
+  },
+  "tasks.spaceoverview.pastItsTargetDate": {
+    "message": "目標日を過ぎています",
+    "sourceHash": "84b05a4e7cd2a21c2504cbbf4e68f8786b0b0cd22158fbc4ee7ccd3ef2075c9a"
+  },
+  "tasks.spaceoverview.projects": {
+    "message": "プロジェクト",
+    "sourceHash": "3cdd12fbf367968f2ebf72a65633fc420612d4d507c8ba77f4c83956c20e3c46"
+  },
+  "tasks.spaceoverview.resources": {
+    "message": "リソース",
+    "sourceHash": "8bccbc19a36dc01799fc3c1f0475341554b12468c515f46bc8c2d135de25755b"
+  },
+  "tasks.spaceoverview.sortAndGroupProjects": {
+    "message": "プロジェクトを並べ替え・グループ化",
+    "sourceHash": "4e133852dd895717e470f9c1991a23be6f13a7f4a1716095d2c704870e1d5b55"
+  },
+  "tasks.spaceoverview.sortBy": {
+    "message": "並べ替え",
+    "sourceHash": "fe2a008b973ae971ddb30b4cc0f9d8a84c3ae1ff9ac998195b7fc52c75e0fc23"
+  },
+  "tasks.spaceoverview.spaceTasks": {
+    "message": "スペースのタスク",
+    "sourceHash": "3762693ca78e563da07e252a14471b3650dc2410786c3b2cc5dbd5f0dc287e67"
+  },
+  "tasks.spaceoverview.tagscountLabels": {
+    "message": {
+      "other": "{count} 件のラベル"
+    },
+    "sourceHash": "74e5b44b1f711f5c5e8dd248bca790eadbc9e7e5dc1cdd3912f770c5ec21f2bc"
+  },
+  "tasks.spaceoverview.targetDate": {
+    "message": "目標日",
+    "sourceHash": "97762488b8c06ccc08d4b6eafaedb64b57345d08d21f3497bfa92d3f5e2fd834"
+  },
+  "tasks.spaceoverview.upNext": {
+    "message": "次にやること",
+    "sourceHash": "8d8e07b3b7ed9f54acff52978f1c0d6838a7efacf6e129422de3bb760b257d29"
+  },
+  "tasks.spaceoverview.upNextAcrossThisSpace": {
+    "message": "このスペース全体で次にやること",
+    "sourceHash": "0c3f4c2bbcee784b07e24b431ac1ec2972752e1cfcdf7528939aaff57c035dbd"
+  },
+  "tasks.spaceoverview.viewTasks": {
+    "message": "タスクを表示",
+    "sourceHash": "60c93383151f2877be206fa1f7566eb355871da2827ddebe64553e744bbfb805"
+  },
+  "tasks.spacesettings.addLabel": {
+    "message": "ラベルを追加",
+    "sourceHash": "ae2dd7fd11de6717bd43ad1488d8310b73f4473ea6f0d19b50f5eac797826be3"
+  },
+  "tasks.spacesettings.archive": {
+    "message": "アーカイブ",
+    "sourceHash": "125f227a0c4d5119d9d858c7a389eab113fbc62cf88e91c4575c2100c8c6711c"
+  },
+  "tasks.spacesettings.archiveSpace": {
+    "message": "スペースをアーカイブ",
+    "sourceHash": "5524f9af7eab0323bdc25aefad0054af040acb39251954e2b1f548a42967cdc1"
+  },
+  "tasks.spacesettings.bringItAndItsProjectsBackToTheSidebar": {
+    "message": "スペースとそのプロジェクトをサイドバーに戻します。",
+    "sourceHash": "7f5478ff087ef48eb0823cd08d73c55a9d0ab2e940c99808d3f6ef1bcfd816f2"
+  },
+  "tasks.spacesettings.changeSpaceIcon": {
+    "message": "スペースのアイコンを変更",
+    "sourceHash": "d4691642afb46c6ff23e6913c7f33974efa4776e47ba8f4a5fa2a5969ff133bf"
+  },
+  "tasks.spacesettings.dangerZone": {
+    "message": "危険な操作",
+    "sourceHash": "27069a3b8006a4623940513dd9d7d7be1047bc0a4439e2ad1b892400a7610a67"
+  },
+  "tasks.spacesettings.deleteAction": {
+    "message": "削除",
+    "sourceHash": "aac69d6bddfbb1c99961ac41504293f244f43c91115545f06a37e2bb263b1850"
+  },
+  "tasks.spacesettings.deleteSpace": {
+    "message": "スペースを削除",
+    "sourceHash": "2342d6429447fe61cc50dd501bed66364235ed6f694e5a5204ead4a55c0feecb"
+  },
+  "tasks.spacesettings.deletesItForGoodItsCountProjectsMoveOutOfAnySpaceAndEveryTaskStays": {
+    "message": {
+      "other": "完全に削除されます。{count} 件のプロジェクトはどのスペースからも外れ、すべてのタスクは残ります。"
+    },
+    "sourceHash": "869d90f07265012df24e2014d04c475c5a14f4e11502c7b48e261eea0b82178d"
+  },
+  "tasks.spacesettings.deletesItForGoodItsTasksStayOutsideAnySpace": {
+    "message": "完全に削除されます。タスクはどのスペースにも属さない状態で残ります。",
+    "sourceHash": "06810a47ddc81be28618a64213ae06608b4ef0c71b4f16513d468bf0b8f8f021"
+  },
+  "tasks.spacesettings.edit": {
+    "message": "編集",
+    "sourceHash": "ed2d297f38640c80454cbebebb0f2dddc179763fb3f4fc710817fdb55a1326a7"
+  },
+  "tasks.spacesettings.editSpaceLabels": {
+    "message": "スペースのラベルを編集",
+    "sourceHash": "f7606860ffc98c10b5718ebab149843aebfbb8db89783d80088e4869e1ba2880"
+  },
+  "tasks.spacesettings.general": {
+    "message": "一般",
+    "sourceHash": "c038e5c18ed545442706aa51b6b8f9d05f5fdfdac57d38db8d40be0271f96d28"
+  },
+  "tasks.spacesettings.itLeavesTheSidebarAndItsProjectsKeepItForWhenItSRestored": {
+    "message": "サイドバーから消えますが、プロジェクト側に記録が残り、復元時に戻ります。",
+    "sourceHash": "5fce8d4e7837a75eb08cafded17d21c79a8f8d09d18fe437afc8023f67396130"
+  },
+  "tasks.spacesettings.labels": {
+    "message": "ラベル",
+    "sourceHash": "2d8d2ceb11251e43c18927adaf2db99fbd9334716bbdf116e3862ea6dc19c3b0"
+  },
+  "tasks.spacesettings.labelsOnTheSpaceItself": {
+    "message": "スペース自体のラベルです。",
+    "sourceHash": "b21c1e7179544f7bb43d4ed8d7e882a0f5945af5d99d07cfda615c1422729d4c"
+  },
+  "tasks.spacesettings.nameAndIcon": {
+    "message": "名前とアイコン",
+    "sourceHash": "56429e56126c52331ba915517645a502feea43c1f6cfe1cb99277edc6e833bf7"
+  },
+  "tasks.spacesettings.nameFormat": {
+    "message": "名前にカンマや引用符は使用できません。",
+    "sourceHash": "a19c588720a8685b1722fb23654f273c08aabd2f3cff5324a098d995020982ab"
+  },
+  "tasks.spacesettings.restore": {
+    "message": "復元",
+    "sourceHash": "5f62c588d247617aa2704fd63a05a461ab507b04a7e85457ba64b6e0e571e821"
+  },
+  "tasks.spacesettings.restoreSpace": {
+    "message": "スペースを復元",
+    "sourceHash": "7561e8b2074df67af0cbdbef1c639c6a50a220521ff8c658d359ec8f0589b0c8"
+  },
+  "tasks.spacesettings.spaceName": {
+    "message": "スペース名",
+    "sourceHash": "470224c055f01bbd435672002bf95fd3cf3807fe9b5ce596c5fd14d2b14473f0"
+  },
+  "tasks.status.backlog": {
+    "message": "バックログ",
+    "sourceHash": "27806f6d3fccbfaea894b4fde53729c568cb8f270cfacf58927b4ab61b12594d"
+  },
+  "tasks.status.cancelled": {
+    "message": "キャンセル",
+    "sourceHash": "fa421ba1cbd59e028c2a5693959fffb1cfaeb04891674951f58760e3fe3644d9"
+  },
+  "tasks.status.done": {
+    "message": "完了",
+    "sourceHash": "c72f4eb211445ccabe9078798cb9569cd498ef923a8afbd799e9ccb633849227"
+  },
+  "tasks.status.inprogress": {
+    "message": "進行中",
+    "sourceHash": "174ca370cc4ff74a2237aaa22819facc126fe7d5088e456175ece7d691af6c1c"
+  },
+  "tasks.status.inreview": {
+    "message": "レビュー中",
+    "sourceHash": "72321de9f2898640cba1337a71d20905c677ae09ada6c7f7f483dcc9b4b2dbed"
+  },
+  "tasks.status.toDoCategory": {
+    "message": "未着手",
+    "sourceHash": "92dc3fb2cad96aa083e0d44ad23b72f9c782192950971228569591e2f3c8459f"
+  },
+  "tasks.status.todo": {
+    "message": "Todo",
+    "sourceHash": "5b55639a46e5efa6cadb04da2dbe9dba0904a7c8dbf9524b883e4d0c7783e544"
+  },
+  "tasks.subtaskclosedialog.cancelSubtasksToo": {
+    "message": "サブタスクもキャンセルしますか？",
+    "sourceHash": "5b2513388299e70fffe06f7d30fd1749df373015c699da9a2a45769775cc686c"
+  },
+  "tasks.subtaskclosedialog.completeSubtasksToo": {
+    "message": "サブタスクも完了にしますか？",
+    "sourceHash": "4512896201aa66b945a525bec2d46137d39b31b400eb98bc5ff10798ca77dc07"
+  },
+  "tasks.subtaskclosedialog.goBack": {
+    "message": "戻る",
+    "sourceHash": "0f8c86b1a7b6cf5a643619eaf7c90dd7f940f4ef15176baa100f83e3bff926cf"
+  },
+  "tasks.subtaskclosedialog.markAllName": {
+    "message": "すべてを {name} にする",
+    "sourceHash": "918e8a61e3da694c821ba9c216ea3fecabe4fac218bc8083eec3b0d5bbfadd2e"
+  },
+  "tasks.taskBreakdown.rich.ofDone": {
+    "message": "{done} / {total} 完了",
+    "sourceHash": "844a2cdf9b0189745f445daa563cbaeeb441f5a2764495a42d270a290e73e095"
+  },
+  "tasks.taskBulkBar.rich.clearSelection": {
+    "message": "選択を解除 {shortcut}",
+    "sourceHash": "ef2b4d5c3365492d8140aca42ba05d4b37861629b23afe6e8ec326fc479dd1ea"
+  },
+  "tasks.taskBulkBar.rich.selected": {
+    "message": {
+      "other": "{count} 件を選択中"
+    },
+    "sourceHash": "cb37f4017b5cd0ce6a88ac3e8c3cd0cf8190fbc3a02b60b0cd1fdac128170872"
+  },
+  "tasks.taskCard.rich.changeStatus": {
+    "message": "ステータスを変更 {shortcut}",
+    "sourceHash": "e7d62c8beeb7af574e16287a5ff0afabc30f19eee5ef5a821b46459bd2051d18"
+  },
+  "tasks.taskCommandMenu.rich.tasks": {
+    "message": {
+      "other": "{count} 件のタスク"
+    },
+    "sourceHash": "7fc9d9a5b999857bef704190b5eb521ea5aafc1317d728de09f6c18535efa15d"
+  },
+  "tasks.taskContextMenu.rich.open": {
+    "message": "{value} を開く",
+    "sourceHash": "8b1a7da60c23b2b8e5066571c131cb7eaa57a5c399439fc059aeb55a8b3c23a8"
+  },
+  "tasks.taskContextMenu.rich.tasksSelected": {
+    "message": {
+      "other": "{count} 件のタスクを選択中"
+    },
+    "sourceHash": "448bac845382174cbb3dfca7264bd91d3546e61314e80e37a0a5459befe405e2"
+  },
+  "tasks.taskCreateDialog.rich.createMore": {
+    "message": "{content} 続けて作成",
+    "sourceHash": "ee3e08060d58bb00d0f62d39e511048f8698ba169ab879303e336970850c30cd"
+  },
+  "tasks.taskCycleCloseDialog.rich.ofTheTasksPlannedAtTheStartWereCompleted": {
+    "message": "開始時に予定していたタスクの {value}% が完了しました。",
+    "sourceHash": "2a5e8dde35a80148601f13a1f4d94162eba9e591d01e4bb72f426ee7165d570f"
+  },
+  "tasks.taskDetails.rich.restore": {
+    "message": "{content} 復元",
+    "sourceHash": "b68139dd422b77202cd61a0a12296cd851abe125ca2b984bb43c809e7ea3caed"
+  },
+  "tasks.taskDetails.rich.thisTaskChangedElsewhereYourEditsHereArenRsquoTSavedYet": {
+    "message": "このタスクは別の場所で変更されました。ここでの編集はまだ保存されていません。{content}",
+    "sourceHash": "b73c106caa6c9d1590574349a4f5234a7fde21e440767e3ae66a4cae7b667061"
+  },
+  "tasks.taskDetails.rich.thisTaskIsArchived": {
+    "message": "{content} このタスクはアーカイブされています。",
+    "sourceHash": "89dd2ee33ab16b016da3efb9a125a771afb3796308939ad15843096c4d39f233"
+  },
+  "tasks.taskLabelDialog.rich.tasksLabelledWillBeRelabelled": {
+    "message": "「{initialName}」のラベルが付いたタスクは「{trimmed}」に変更されます。",
+    "sourceHash": "d84b24625d0465e8ff571050fe0cd37c47b132ac58845b51edd386e90f003602"
+  },
+  "tasks.taskLabelPicker.rich.createLabel": {
+    "message": "ラベル「{value}」を作成",
+    "sourceHash": "1a421e31144a267f754609a54ecb7093766110e67c1d26ac28777a8ed6ec316e"
+  },
+  "tasks.taskProjectDialog.rich.firstTaskWillBe": {
+    "message": "最初のタスクは {content}",
+    "sourceHash": "54c60aca577195ad9d7367926a9f36d8a52b3f3c6d86494fd50a9852c26bc418"
+  },
+  "tasks.taskSubtasks.rich.addSubtask": {
+    "message": "{icon} サブタスクを追加",
+    "sourceHash": "24bc9eb5965feeecb6ce5c267b1aab6cbdab3d9e9ea2ccfd4b64bd57c7bc0772"
+  },
+  "tasks.taskSubtasks.rich.open": {
+    "message": "{value} を開く",
+    "sourceHash": "8ef06b7c09ba73ee32ba83011023e1e84f1495c4a0f4699ad229c8b693fa79db"
+  },
+  "tasks.taskSubtasks.rich.subtasks": {
+    "message": "サブタスク {value}",
+    "sourceHash": "e89af1a3a46a25634c779cbda20566c768ad445a452a6b7d2bce202b5a1299d6"
+  },
+  "tasks.taskbreakdown.doneOfTotal": {
+    "message": {
+      "other": "{count} 件中 {done} 件のタスクが完了"
+    },
+    "sourceHash": "fc4021d027180a0c70c9a95407976e2487cf66349d5a43f5a1cbe9d2ddbfafdd"
+  },
+  "tasks.taskbreakdown.due": {
+    "message": "期日",
+    "sourceHash": "7ef78c2e15643373d2488d84e3322d5491d8c5c4e88ff76d22c1facc10997e04"
+  },
+  "tasks.taskbreakdown.dueThisWeek": {
+    "message": "今週が期日",
+    "sourceHash": "11496df724e38ca8157e9e5821aeb7b75d5a451ce23433de189fe55c9c79b970"
+  },
+  "tasks.taskbreakdown.dueThisWeek2": {
+    "message": {
+      "other": "今週が期日: {count} 件"
+    },
+    "sourceHash": "fcc3abf9180e623614631a67e9da15becdcb26eb2205bb4b39b73c3a09a2092f"
+  },
+  "tasks.taskbreakdown.everyTaskIsCancelled": {
+    "message": "すべてのタスクがキャンセル済み",
+    "sourceHash": "4e087479cb6f71039dda6a3a0b55c203deeec08bca140f57e92b932bc528c6f0"
+  },
+  "tasks.taskbreakdown.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "80c7a024cfd33f6260ea475eedfb06aedcb51de441015d3631c9ed0c403893ba"
+  },
+  "tasks.taskbreakdown.noTasksYet": {
+    "message": "まだタスクがありません",
+    "sourceHash": "be9f7dd185234561fa26cf1af89d51af03089727a4fa497b9b7b7b70ff52ed9e"
+  },
+  "tasks.taskbreakdown.overdue": {
+    "message": "期限超過",
+    "sourceHash": "9c264c89de502095943dc0301ba57c4f995990aa323854c5692c8128a8a94c1d"
+  },
+  "tasks.taskbreakdown.overdue2": {
+    "message": {
+      "other": "{count} 件が期限超過"
+    },
+    "sourceHash": "e4d94df0f603092b4bd7742be419e3f13ff16a1b17260a72c80acddc9f003ab5"
+  },
+  "tasks.taskbreakdown.percentDoneOfTotal": {
+    "message": {
+      "other": "{percentage} · {count} 件中 {done} 件完了"
+    },
+    "sourceHash": "8d56d6a1e9edc3a18eb1cec8c6e39ce06eec7aace29bfee86447b56bae5b2b3f"
+  },
+  "tasks.taskbreakdown.percentageDone": {
+    "message": "{percentage}% 完了",
+    "sourceHash": "8a70cc97a85e674acc25e8c52b066facce90188ceb22fc05d31e3e46f466022a"
+  },
+  "tasks.taskbreakdown.progress": {
+    "message": "進捗",
+    "sourceHash": "91d2129c452fe41daa0dd0ddb2db2606762db108b9fa10da46537aea0c5d8ec5"
+  },
+  "tasks.taskbreakdown.projects": {
+    "message": "プロジェクト",
+    "sourceHash": "cd552d937ecc8aec79a62dd8f9893b0be7c2d22c612f3a544705f280ebd9ebe1"
+  },
+  "tasks.taskbreakdown.segmentCount": {
+    "message": "{name} {count} 件",
+    "sourceHash": "a0976a0280ba4afdef4bfc7805a0912e54c8cdf4014b1a55aedd2539a666c307"
+  },
+  "tasks.taskbreakdown.statuses": {
+    "message": "ステータス",
+    "sourceHash": "c55dba6098236460508a1d3b674aae026859c82ffd3e7b3c1e477e9eceea4d63"
+  },
+  "tasks.taskbulkbar.archive": {
+    "message": "アーカイブ",
+    "sourceHash": "ceff82f0deb21cdf94dae0adbd0aff78d82d25e10edff1cb31b764e587a9bd2e"
+  },
+  "tasks.taskbulkbar.bucket": {
+    "message": "レーン",
+    "sourceHash": "3679164a32cb554a8c16d06620dd02420e501357b209aeaf05b414a10bdccad4"
+  },
+  "tasks.taskbulkbar.clearSelection": {
+    "message": "選択を解除",
+    "sourceHash": "5026474a0c9834d0d089b686bc2c1804e576394f90660edc356ba679a054e524"
+  },
+  "tasks.taskbulkbar.countSelectedTasks": {
+    "message": {
+      "other": "{count} 件のタスクを選択中"
+    },
+    "sourceHash": "8e18ba56c749da0227503639e922ad3d0ba2f6d7cda25469eeb45d7f2ab078df"
+  },
+  "tasks.taskbulkbar.cycle": {
+    "message": "サイクル",
+    "sourceHash": "7385f7de1b55860abb954ced62ae3410cc2786d3d904f2ab49cac4b8c9c4e216"
+  },
+  "tasks.taskbulkbar.dueDate": {
+    "message": "期日",
+    "sourceHash": "df13375628c2b86c37307c7c097952978e19bf23ef5f920dd61d5715d0eb36bd"
+  },
+  "tasks.taskbulkbar.esc": {
+    "message": "Esc",
+    "sourceHash": "d877475be88803896aa50b70c2544fff0363865810a88814d8dc279e1179e626"
+  },
+  "tasks.taskbulkbar.labels": {
+    "message": "ラベル",
+    "sourceHash": "225deb4449cce4b5c8f7ac5b8b09f872cc075df6daeb7b375b69ca997145e39b"
+  },
+  "tasks.taskbulkbar.priority": {
+    "message": "優先度",
+    "sourceHash": "431f0b3022caf27034757c6af75990f5b3128476c7bb4ad242b82c331f2c96f9"
+  },
+  "tasks.taskbulkbar.project": {
+    "message": "プロジェクト",
+    "sourceHash": "e0a29c887b04a206a5307460ba9d5e0768275c88f3e30463e255e1de970dc160"
+  },
+  "tasks.taskbulkbar.restore": {
+    "message": "復元",
+    "sourceHash": "f09442a5db3bbe8c86b18e42f298b2ab20e0ed8e2eeae14f4cefa1b967f64d40"
+  },
+  "tasks.taskbulkbar.status": {
+    "message": "ステータス",
+    "sourceHash": "0f33b1e9a19184793faad4fe98f8259c47a1a1c3d378e1d644af6182e995b5f8"
+  },
+  "tasks.taskbulkbar.type": {
+    "message": "タイプ",
+    "sourceHash": "29f7f0caa9a2cdad642bf5538f326f3c1ee69a55a62fa36421b319cf6634518e"
+  },
+  "tasks.taskcard.archived": {
+    "message": "アーカイブ済み",
+    "sourceHash": "6e81e74476600c0e7b950e0f561283cc75c431338ab826138f80753273a49347"
+  },
+  "tasks.taskcard.changeStatusOfTasktitletask": {
+    "message": "{tasktitleTask} のステータスを変更",
+    "sourceHash": "0612f944edfd15e838cdb4fdce2ab9946f8005c74e6ffebc964f8f37acffb275"
+  },
+  "tasks.taskcard.createdNewdatetaskfieldscreatedtolocalestring": {
+    "message": "作成日 {newDateTaskFieldsCreatedTolocalestring}",
+    "sourceHash": "8e81280ef1cd3d4a2918c62b8cd4944122837191662d2d7afc1fbd64c1c059dc"
+  },
+  "tasks.taskcard.hasDescription": {
+    "message": "説明あり",
+    "sourceHash": "408abbf9dfe45efba3a163822f489fb95762e5ad77068a9152a0349925b38b72"
+  },
+  "tasks.taskcard.progressdoneOfProgresstotalSubtasksDone": {
+    "message": "サブタスク {progressTotal} 件中 {progressDone} 件が完了",
+    "sourceHash": "12ddadcf82c5b4532e665da05a2b02f86921eaa5222f76994f85e243603da601"
+  },
+  "tasks.taskcard.selectTasktitletask": {
+    "message": "{tasktitleTask} を選択",
+    "sourceHash": "7a51a0a953e7c44c5d5cd02cda14244fb4532cae6aea21032812b73065314013"
+  },
+  "tasks.taskchip.dueDue": {
+    "message": "期日 {due}",
+    "sourceHash": "bc7f96aa962334b5a86e45b471d1f8f4f7add3ddb1cfb592fe7d4c9dd8c94f45"
+  },
+  "tasks.taskchip.eitherTheIdIsIncorrectOrTheTaskHasBeenDeleted": {
+    "message": "ID が正しくないか、タスクが削除されています",
+    "sourceHash": "6964546ea2d86d25a616099ed1c99e01c9119674ddd2171bcbcfbd5f29bf52d9"
+  },
+  "tasks.taskchip.unknownTask": {
+    "message": "不明なタスク",
+    "sourceHash": "b464ecfd91b1771d9b0d38092d8bf499d898570ac688edce87b1b7130eb4a64f"
+  },
+  "tasks.taskcolorpicker.colour": {
+    "message": "色",
+    "sourceHash": "e6d348f8adfbc6ed8f0e62ba8a8c5501460b70dec01bc2a8c017f6dc6c658a94"
+  },
+  "tasks.taskcommandmenu.addOrRemoveLabels": {
+    "message": "ラベルを追加または削除…",
+    "sourceHash": "b3c16d84b37a9a9da9d96b6b05d02574a67337ee460c1a300a658bbbe5e53c5c"
+  },
+  "tasks.taskcommandmenu.changeStatus": {
+    "message": "ステータスを変更…",
+    "sourceHash": "852bebf9d94294af9461771d1d5aa94c704553e1854c0530f6a292c37c901d76"
+  },
+  "tasks.taskcommandmenu.createLabelName": {
+    "message": "ラベル「{name}」を作成",
+    "sourceHash": "b867998673f87925d1e5fbc75b95fff66864b4ed3233a8ae33dd914ce55d86fa"
+  },
+  "tasks.taskcommandmenu.makeSubtaskOf": {
+    "message": "親タスクのサブタスクにする…",
+    "sourceHash": "e2383d7f73e2dafd82424518d49b837af99b7d44944b229a045d6fd024fbaf03"
+  },
+  "tasks.taskcommandmenu.moveToBucket": {
+    "message": "レーンに移動…",
+    "sourceHash": "7b5c9d79ae38069afdb04ad2f59869dd144e7197de15202389b84518e341a8da"
+  },
+  "tasks.taskcommandmenu.moveToCycle": {
+    "message": "サイクルに移動…",
+    "sourceHash": "c15076b8400dd5a7b5d14781009c9d8639edde17e177ccd1ac86a47b4f4dc320"
+  },
+  "tasks.taskcommandmenu.moveToProject": {
+    "message": "プロジェクトに移動…",
+    "sourceHash": "0013cc6fb0f1f966859d00d9c4888c23f84b5aa2df1f19d457d13e53e1146b57"
+  },
+  "tasks.taskcommandmenu.nextWeek": {
+    "message": "来週",
+    "sourceHash": "d6fd6b0de05d2b96987805a8ca59279dc846ae0b3efc6d76c6803a6ad380b13a"
+  },
+  "tasks.taskcommandmenu.noActiveProjects": {
+    "message": "進行中のプロジェクトはありません。",
+    "sourceHash": "3b1ef329c176241c2f18ceeb64ff31758c1846fdf7356f6b7e382fc408d14532"
+  },
+  "tasks.taskcommandmenu.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "13f46391de479cde6094f88a0f14c73a374d4da7aa35876b23957373883bdd97"
+  },
+  "tasks.taskcommandmenu.noCycle": {
+    "message": "サイクルなし",
+    "sourceHash": "e5efc563aacbdf68e3f434654cb83fb214b543e2bdd9ba72dfa34eaa778317b7"
+  },
+  "tasks.taskcommandmenu.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "1eaf9cf9c4348181eaad23548f1073a8c4c6b5aad4a36448dc223bba69594003"
+  },
+  "tasks.taskcommandmenu.noResultsFound": {
+    "message": "結果が見つかりません。",
+    "sourceHash": "bc4a769bb73559f5629252915587eaa75f4c0704b23c6cd09fd2a234ca38bce3"
+  },
+  "tasks.taskcommandmenu.noType": {
+    "message": "タイプなし",
+    "sourceHash": "5e4e9386210a8b250488a723c3a0835b981b3bee011a5b00a1cad187898891a4"
+  },
+  "tasks.taskcommandmenu.removeDueDate": {
+    "message": "期日を削除",
+    "sourceHash": "25c458336fb99cc8bde52553e9d173d50163f6ffb0d73ce609c736aa06437a24"
+  },
+  "tasks.taskcommandmenu.setDueDateTryFridayOrDec12": {
+    "message": "期日を設定… 「金曜日」または「12月12日」と入力",
+    "sourceHash": "8832ca21f2009ad0b7f668187d27650c354ece1e22957ff4ab8e53c4b02787c6"
+  },
+  "tasks.taskcommandmenu.setPriority": {
+    "message": "優先度を設定…",
+    "sourceHash": "4af528e4f6dcc08294de54a8ab4332eeb50a21ac2f57e42b083154d8b9725afd"
+  },
+  "tasks.taskcommandmenu.setType": {
+    "message": "タイプを設定…",
+    "sourceHash": "803252e4619e83d63d7cd724cea475956c80cfd4c44e4a176c051e5c3d34950b"
+  },
+  "tasks.taskcommandmenu.taskCommands": {
+    "message": "タスクのコマンド",
+    "sourceHash": "30eeb026d3083494b5803bc20c8c6943b5d76c98835bbaf022d8704e0ff7361c"
+  },
+  "tasks.taskcommandmenu.today": {
+    "message": "今日",
+    "sourceHash": "ee0dcdb16f0f633a7fbbc8a88f060389d57e96293f1e292f9b284b34b3fa2582"
+  },
+  "tasks.taskcommandmenu.tomorrow": {
+    "message": "明日",
+    "sourceHash": "961c10f84d437cb9ad02c1f59763139b2f1bea1c56adad3b4725ff72e88a951f"
+  },
+  "tasks.taskcommandmenu.typeADateLikeNextFriday": {
+    "message": "「次の金曜日」のような日付を入力します。",
+    "sourceHash": "b3c7dea5212b677ad45a7cda96b6cefacc91e4f5f5764a22a9b7ef568a4bde9b"
+  },
+  "tasks.taskcontextmenu.archiveTargetscountTasks": {
+    "message": {
+      "other": "{count} 件のタスクをアーカイブ"
+    },
+    "sourceHash": "cb44967525ab3f49671aee57d7e3676d966509cb471e958209570b888b682231"
+  },
+  "tasks.taskcontextmenu.archiveTask": {
+    "message": "タスクをアーカイブ",
+    "sourceHash": "83f56b6b67cb744e2ba27f94df60825d933d59f6662ca88e673b738d6c77ac95"
+  },
+  "tasks.taskcontextmenu.bucket": {
+    "message": "レーン",
+    "sourceHash": "00220b88f51d8311dc4f3e88848fbfd444ce66d5bfd4cbeaa09c3e6cb7eca6b2"
+  },
+  "tasks.taskcontextmenu.copyAsWikilink": {
+    "message": "Wikilink としてコピー",
+    "sourceHash": "54788828b510967d92ac53f8b648f9bfa3109fce579e36340f442a13f7f8b4da"
+  },
+  "tasks.taskcontextmenu.copyAsWikilinks": {
+    "message": "Wikilink としてコピー",
+    "sourceHash": "f0dd9abbd5efaeb5cd9a94fe3f2dd52b61d8b7171096cc3d288dd4f8abb0eff6"
+  },
+  "tasks.taskcontextmenu.copyId": {
+    "message": "ID をコピー",
+    "sourceHash": "678f73090d7507b04638297c74b45ddb43992e793c78deae9361bfebdac2df42"
+  },
+  "tasks.taskcontextmenu.copyIds": {
+    "message": "ID をコピー",
+    "sourceHash": "28f7337b13506a83361f46e83782f139e9413e8865f1ae668e2b29fdfe8596a6"
+  },
+  "tasks.taskcontextmenu.copyLink": {
+    "message": "リンクをコピー",
+    "sourceHash": "e94862fb5ed036379dee68631a912977b78037ef0be5c91ebe0b0b5c8256bb3c"
+  },
+  "tasks.taskcontextmenu.copyLinks": {
+    "message": "リンクをコピー",
+    "sourceHash": "d386f81cedff282eb2bdde2e7b6f5f04bbf58e7088938ddfae27fc2a3edbd0d9"
+  },
+  "tasks.taskcontextmenu.cycle": {
+    "message": "サイクル",
+    "sourceHash": "786c12dc082243af8b76144e4d26c623facafda77203a206d29d58c556bb9267"
+  },
+  "tasks.taskcontextmenu.deleteTargetscountTasks": {
+    "message": {
+      "other": "{count} 件のタスクを削除"
+    },
+    "sourceHash": "1a77281f703216effe62d4924b74c1c2c9775f239e27e7758c5bab691f4bf9cd"
+  },
+  "tasks.taskcontextmenu.deleteTask": {
+    "message": "タスクを削除",
+    "sourceHash": "b87f235b76d08de05783b4f270bd416a1f5faeb85e28584f6b226d1b77dafb43"
+  },
+  "tasks.taskcontextmenu.dueDate": {
+    "message": "期日",
+    "sourceHash": "ac67bea506d2828ac747722d8ddad47e83ba5cf7b929ce32f03fbd2b32f03bec"
+  },
+  "tasks.taskcontextmenu.labels": {
+    "message": "ラベル",
+    "sourceHash": "ac092007092fe178ba2173b06df61d7c2a92cdabca42bd234f8be57c09a7073b"
+  },
+  "tasks.taskcontextmenu.makeARegularTask": {
+    "message": "通常のタスクに変換",
+    "sourceHash": "cd39c2e13045bffb90c47c13c0f10a355a01e86f947d28dfb3e3b852524dd676"
+  },
+  "tasks.taskcontextmenu.makeRegularTasks": {
+    "message": "通常のタスクに変換",
+    "sourceHash": "49b647d217d0b86f6811053f54c2f4ce0d404799adf8ab03d4756c7e14cdcf32"
+  },
+  "tasks.taskcontextmenu.makeSubtaskOf": {
+    "message": "サブタスクにする",
+    "sourceHash": "ea34bf102596d7a5722b10e3f3172da1687f2839fb97b1692a46be0143a668f2"
+  },
+  "tasks.taskcontextmenu.makeSubtasksOf": {
+    "message": "サブタスクにする",
+    "sourceHash": "70e1c8626ebefcb89eaa8ff0f7615b038f4812a7de961b52714b16abcda015fb"
+  },
+  "tasks.taskcontextmenu.markAsDone": {
+    "message": "完了にする",
+    "sourceHash": "8b8d1a9a3f88d62e6aa183ef550d414aba44e9a5a0a0d627d493d06619eb1811"
+  },
+  "tasks.taskcontextmenu.nextWeek": {
+    "message": "来週",
+    "sourceHash": "73f1f60a160b146eb25eaccd408aed79a2807d68df5d24d3a76fb5ecc257258e"
+  },
+  "tasks.taskcontextmenu.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "46e0089329085ae3bdd7405b8e3af0ff183dc757ea1455624cee972feec811fd"
+  },
+  "tasks.taskcontextmenu.noCycle": {
+    "message": "サイクルなし",
+    "sourceHash": "98e3fd57eef20b9203402923107cbd8cd82ae9a1e7f2cf7f969c39f500d3bad4"
+  },
+  "tasks.taskcontextmenu.noMatchingTasks": {
+    "message": "一致するタスクはありません。",
+    "sourceHash": "4a570aa751ea0e7f6b62f1b45ae1e3e2c17ced61af9a504ce78253c943dd9843"
+  },
+  "tasks.taskcontextmenu.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "9fec7ba7ba5d3a6d71507880bae8f73ac48c1526b65adc507f1a835cdab05f48"
+  },
+  "tasks.taskcontextmenu.noType": {
+    "message": "タイプなし",
+    "sourceHash": "10dcd4ed46246f141cdbb2f12045d1ae4922755b754fe302bbbcd0c754fcc0b9"
+  },
+  "tasks.taskcontextmenu.openInNewTab": {
+    "message": "新しいタブで開く",
+    "sourceHash": "6236ec4e6f73b92ac3435502491ea58dbbd7e51283d2fb315124a0512c2fe3e8"
+  },
+  "tasks.taskcontextmenu.pickADate": {
+    "message": "日付を選択...",
+    "sourceHash": "619ae7d8b688ede13d764cd672504e111c03bf08314073adc507cc234394cebb"
+  },
+  "tasks.taskcontextmenu.priority": {
+    "message": "優先度",
+    "sourceHash": "b497b012afa61605df00869b0ed20fc141629c77947daf6d4d1a8ee7e92edb0f"
+  },
+  "tasks.taskcontextmenu.project": {
+    "message": "プロジェクト",
+    "sourceHash": "24390326658ed30aa8ee3a7fae5bcec18ce41189a2e46d038007ef86afc97495"
+  },
+  "tasks.taskcontextmenu.removeDueDate": {
+    "message": "期日を削除",
+    "sourceHash": "8ca02c249db93393d2f5df903ea6c220dd529b38b725ba53a98ab1f3e957b3b8"
+  },
+  "tasks.taskcontextmenu.reopen": {
+    "message": "再開",
+    "sourceHash": "86024603de10f76f745e9f863bce84b9598935fe72c9b8af045f90b9d8dcb890"
+  },
+  "tasks.taskcontextmenu.restoreTargetscountTasks": {
+    "message": {
+      "other": "{count} 件のタスクを復元"
+    },
+    "sourceHash": "38f5b414aa171b70c7199add3f87481121730eeb50dedca7378ecc114c7fc3f0"
+  },
+  "tasks.taskcontextmenu.restoreTask": {
+    "message": "タスクを復元",
+    "sourceHash": "9f9cded568225ba1879c2861175c5dc01273931c89e93c31228d5260beb5ae9e"
+  },
+  "tasks.taskcontextmenu.saveAsTemplate": {
+    "message": "テンプレートとして保存",
+    "sourceHash": "5cb42a57311b9b3a6e431f15bc8730d976bb305af4a52b4012f3840885d7be95"
+  },
+  "tasks.taskcontextmenu.searchTasks": {
+    "message": "タスクを検索...",
+    "sourceHash": "3163f9252d9da89fad1da5a88e47ff674ae0d6a3ba8be198a7ee4e20acbb0118"
+  },
+  "tasks.taskcontextmenu.status": {
+    "message": "ステータス",
+    "sourceHash": "fa4f55a018ab865b6579f126657291ff40b09e73670f6a9fba655385cb08184d"
+  },
+  "tasks.taskcontextmenu.today": {
+    "message": "今日",
+    "sourceHash": "c2f03d5bb1b5b7d59f022d674fc778fe453fac5f688fa797d01b2c94515eaf7b"
+  },
+  "tasks.taskcontextmenu.tomorrow": {
+    "message": "明日",
+    "sourceHash": "df4ad7df616f6266a96eb89e95a425fc3c993168109037f58e6b43d4ed409359"
+  },
+  "tasks.taskcontextmenu.type": {
+    "message": "タイプ",
+    "sourceHash": "0b6c251634fb4e278d89ec1fb1f5a05b432dff8ddcb65046e207732e874a0171"
+  },
+  "tasks.taskcreatedialog.clearDueDate": {
+    "message": "期日をクリア",
+    "sourceHash": "0dc58c5444d9572bb7dcf66150d6cce44bfc6353c58bafa2f2533b53f191b446"
+  },
+  "tasks.taskcreatedialog.close": {
+    "message": "閉じる",
+    "sourceHash": "5ed0034f4c809fa8b76c46ecaa28454270349f6f143679f5fe60e77f82d2f918"
+  },
+  "tasks.taskcreatedialog.createTask": {
+    "message": "タスクを作成",
+    "sourceHash": "2bcbc2eb864cd226308df2659dbafcc05391d95dcb61442d86b611dbee47b4f3"
+  },
+  "tasks.taskcreatedialog.creating": {
+    "message": "作成中…",
+    "sourceHash": "84c0ac7e2388d2bbd41f7b5bed5743564e702c6d5e4f7396b16c712823cf3b0a"
+  },
+  "tasks.taskcreatedialog.discardDraft": {
+    "message": "下書きを破棄",
+    "sourceHash": "c399e630df7acd8eba1568aaea0127013af8f37072a73e23a8e998d22c711706"
+  },
+  "tasks.taskcreatedialog.donTAddSubtask": {
+    "message": "{subtask} を追加しない",
+    "sourceHash": "e0e246a071596e90dabd2d8fa8fb7d9643b1444f83a6f85d4dca707d9c11f9c6"
+  },
+  "tasks.taskcreatedialog.dueDate": {
+    "message": "期日",
+    "sourceHash": "e40a21f9375e9213d396d02ad7adade91e64420fa021dc4b53d178b336289644"
+  },
+  "tasks.taskcreatedialog.fri": {
+    "message": "fri",
+    "sourceHash": "24e2fafd45d29f3cd4fa6f33826a438d182ba29d30c2cf072684afa969a02462"
+  },
+  "tasks.taskcreatedialog.high": {
+    "message": "!high",
+    "sourceHash": "8fe65cf82d55f1f4c680c501193d9d2fa5c0b0a6dba4757c7c750d0f862ca612"
+  },
+  "tasks.taskcreatedialog.label": {
+    "message": "#label",
+    "sourceHash": "f087ac9c03f0efdf7cc034c85370a319c2edff48a3cb36e8ac6c5c294279c758"
+  },
+  "tasks.taskcreatedialog.newTask": {
+    "message": "新しいタスク",
+    "sourceHash": "a965a42d36331061c88b7cd8e450da60abc57ebc2eb7db1c19ffaef1689871f0"
+  },
+  "tasks.taskcreatedialog.noCycle": {
+    "message": "サイクルなし",
+    "sourceHash": "d3962333910244fbe4bd0dea9150833720f366844044ef305e2727132ce34916"
+  },
+  "tasks.taskcreatedialog.retrySubtasks": {
+    "message": "サブタスクを再試行",
+    "sourceHash": "3b8e9f425fb1cb7dba9008c10f6707d7ccc4f0f2315f6998febb8d7f180e21ed"
+  },
+  "tasks.taskcreatedialog.subtasks": {
+    "message": "サブタスク",
+    "sourceHash": "df64fd62bd64e2f5617ebd8d3fe3c205ec450a7d3c961bedab46b11b967bcc83"
+  },
+  "tasks.taskcreatedialog.taskCycle": {
+    "message": "タスクのサイクル",
+    "sourceHash": "07f5be01329059954f86caef479bc2638ee558bc4ba8df1d08a080f1d93084ea"
+  },
+  "tasks.taskcreatedialog.taskTemplate": {
+    "message": "タスクのテンプレート",
+    "sourceHash": "eff0d5c28a5532a2e72d46664b5dfd500fcdbf311346e87c46db14b26aa5f25c"
+  },
+  "tasks.taskcreatedialog.taskTitle": {
+    "message": "タスク名",
+    "sourceHash": "841930ed594d5859639007d98e9510f47806df55b655058e0b2fc76050866c60"
+  },
+  "tasks.taskcreatedialog.template": {
+    "message": "テンプレート",
+    "sourceHash": "c6f9c4f969846373b1f2d2479e81793b9b64e6fbfdde9d56bc3564546e25e895"
+  },
+  "tasks.taskcreatedialog.typeTokensHint": {
+    "message": "{date}、{label}、{priority} のいずれかを入力",
+    "sourceHash": "0b69d6b4257c678b75fc40f00e2f891ec134c025fda619860c211c2f09b667a1"
+  },
+  "tasks.taskcreatedialog.whatNeedsToBeDone": {
+    "message": "やるべきことは何ですか？",
+    "sourceHash": "671295c9e2fcf4a790f54851d192a8a66a5fc50bc5b29dc15eb50d71b56c6ce5"
+  },
+  "tasks.taskcycleclosedialog.backlog": {
+    "message": "バックログ",
+    "sourceHash": "0ff20dfd60cadec4c20cff6d36fbbb444e1909d78bc212d58cea4885e5645aee"
+  },
+  "tasks.taskcycleclosedialog.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "87fc434ac4574dfa5f8bb785feaae885785a18055409bfef84da58e49de1c7e9"
+  },
+  "tasks.taskcycleclosedialog.completeCycle": {
+    "message": "サイクルを完了",
+    "sourceHash": "6bef2367a190a0e8bd21685b0d87e4e5a524027e19b5c5ca49d0949adc1dc24a"
+  },
+  "tasks.taskcycleclosedialog.completeCyclenamecycle": {
+    "message": "{cyclenameCycle} を完了",
+    "sourceHash": "e5f10c7a0be458b273acddb4b3971f336b0b8e717cfe4911ff6511c1470df576"
+  },
+  "tasks.taskcycleclosedialog.completed": {
+    "message": "完了済み",
+    "sourceHash": "0ffa83a77a6571c4a613d9454d2f3cda5d529038acf3abc5ee4754cf0b70a28a"
+  },
+  "tasks.taskcycleclosedialog.completing": {
+    "message": "完了しています…",
+    "sourceHash": "10f392437907d7e5b81b0cb182b2ec85382862ba278749c3be20119011026c1a"
+  },
+  "tasks.taskcycleclosedialog.createAnUpcomingCycleFirstIfYouWantToCarryWorkForwardOtherwiseTasksReturnToTheBacklog": {
+    "message": "作業を繰り越す場合は、先に次のサイクルを作成してください。そうしない場合、タスクはバックログに戻ります。",
+    "sourceHash": "9049538c6462a9a425cccd5428af3c8148ba10ba18ea90fa1309e60e331cb140"
+  },
+  "tasks.taskcycleclosedialog.decideWhereUnfinishedWorkGoes": {
+    "message": "未完了の作業の移動先を決めてください",
+    "sourceHash": "60fe7867b47929dd5266f477b35d3de4b256219cdbf4b0f9cb1893956157a3e0"
+  },
+  "tasks.taskcycleclosedialog.everythingIsClosedNiceWork": {
+    "message": "すべて完了しました。お疲れさまでした。",
+    "sourceHash": "590619fa7be084a1af6aa86875de82d088027dba9b7e90995c4bfd79dc37146d"
+  },
+  "tasks.taskcycleclosedialog.planned": {
+    "message": "計画済み",
+    "sourceHash": "3f82084486fb4ce74f1df9b56b3f84504a8edbd7be4234f44984a9eeeeaaeeab"
+  },
+  "tasks.taskcycleclosedialog.unfinished": {
+    "message": "未完了",
+    "sourceHash": "6596e5c4455acf77aeacc22385d501445c76401259ebbabadf07d35408487d05"
+  },
+  "tasks.taskcyclesummary.added": {
+    "message": "追加",
+    "sourceHash": "8b65f316d7bebfd4b564c6aa54a275907c2986e8c2ef5095564381c724da60b2"
+  },
+  "tasks.taskcyclesummary.cancelled": {
+    "message": "キャンセル済み",
+    "sourceHash": "a7f598dbf71af839d09037b0a76d7c61440f9140e06a82cbc61903e953016ff9"
+  },
+  "tasks.taskcyclesummary.carried": {
+    "message": "繰り越し",
+    "sourceHash": "2a5c9546ceb550533d58dcd8c7d9d7d1066b6d505f29079ac6dc96192b0b7a11"
+  },
+  "tasks.taskcyclesummary.completed": {
+    "message": "完了",
+    "sourceHash": "9821b2fcb67627872d291a4a43afe078b74a6c444f09164cbdf6c3d94716dfa7"
+  },
+  "tasks.taskcyclesummary.cycleSummary": {
+    "message": "サイクルの概要",
+    "sourceHash": "ca6e1b7a2039bd6eda574aac516262969245d99aa09f4c7da11328b7bd73c0cf"
+  },
+  "tasks.taskcyclesummary.planCompleted": {
+    "message": "計画完了",
+    "sourceHash": "047eadc1523cda583331b394c146261cf0333322fa916d878f685df8d29c26c0"
+  },
+  "tasks.taskcyclesummary.planned": {
+    "message": "計画済み",
+    "sourceHash": "fae4e47040a40e8346fa65350c0876e8434e48024b7d9610de7cdb76fef2482b"
+  },
+  "tasks.taskdeletedialog.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "e82da2339f186b1af95f000d9d5a71afdfae0ec2462678e57fc74ef50642f92b"
+  },
+  "tasks.taskdeletedialog.deleteRootscountTasks": {
+    "message": {
+      "other": "{count} 件のタスクを削除"
+    },
+    "sourceHash": "10114ab427a646c41e6136c822d819721183c2b92576f4c657d7ab72cb9eb81e"
+  },
+  "tasks.taskdeletedialog.deleteTask": {
+    "message": "タスクを削除",
+    "sourceHash": "3847a08c9a0995a7bbfa6401dc91f50ce62d4e5f5442b50bc9c733a1b0e70486"
+  },
+  "tasks.taskdeletedialog.deleteTaskTaskidentifierroots0": {
+    "message": "タスク {taskidentifierRoots0} を削除",
+    "sourceHash": "d51cf856684a9571d083380dbfd4b5f2b1d8ac10e1cb99dcf7de2a1edbbcd14a"
+  },
+  "tasks.taskdeletedialog.deleteTasks": {
+    "message": "タスクを削除",
+    "sourceHash": "837cad2e8101f939850312d0a6b59f5000b1698fbc26b18a99492562d8863d22"
+  },
+  "tasks.taskdescriptioneditor.addADescription": {
+    "message": "説明を追加…",
+    "sourceHash": "036bd424ff0720b1ea122157425bacc6960581c8a856d57d123335be4fd5063a"
+  },
+  "tasks.taskdetails.activity": {
+    "message": "アクティビティ",
+    "sourceHash": "4e41a8eafa81e250ec01096716fa95612583c1df5e1f8677c91c537a5480798e"
+  },
+  "tasks.taskdetails.addComment": {
+    "message": "コメントを追加",
+    "sourceHash": "590e5670fb403fb8b497883df9b066c6b4f4a3db3d94cf74cd7599c874e420fa"
+  },
+  "tasks.taskdetails.archiveTask": {
+    "message": "タスクをアーカイブ",
+    "sourceHash": "d21cd9c3137807ce7430f4f9a964783b0c9248ec86bfa289cbea496da22dd2c0"
+  },
+  "tasks.taskdetails.back": {
+    "message": "戻る",
+    "sourceHash": "2a9ad42a9627eedc93be714de48b4d4737a097b0b315f6793ac0e5f6aaeeaf1f"
+  },
+  "tasks.taskdetails.backToBacklabel": {
+    "message": "{backLabel} に戻る",
+    "sourceHash": "c80476c620b9727d2f620223faa0becf8564ec567a224ab7caf1171e752c1276"
+  },
+  "tasks.taskdetails.breadcrumb": {
+    "message": "パンくずリスト",
+    "sourceHash": "c876c76140db51c98df3b97976ceafb2640d6b3a43609e7c167d2e34bb750b26"
+  },
+  "tasks.taskdetails.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "6c7090c350990e7b769e9468d54ad3877c8df70c1dd34c9cc6a592723e3836cd"
+  },
+  "tasks.taskdetails.changesAndCommentsWillAppearHere": {
+    "message": "変更とコメントがここに表示されます。",
+    "sourceHash": "425745c018127823576112aabb82a8043e3de6890bbfae338eb160d9ed9699ef"
+  },
+  "tasks.taskdetails.changesWillAppearHere": {
+    "message": "変更がここに表示されます。",
+    "sourceHash": "a171083bfcdfc91b7adbe06f94311a6065cff26348e74a6dd070db972c5ee403"
+  },
+  "tasks.taskdetails.close": {
+    "message": "閉じる",
+    "sourceHash": "8353a2f2f574c8be0ede0947f6ffb8292f04c17c6f0e2e2f9588c762da6dff7c"
+  },
+  "tasks.taskdetails.comment": {
+    "message": "コメント",
+    "sourceHash": "d45bd45a346ee0b4c8a236d029b5cd25234019902580180e22aa9ca6fff98a65"
+  },
+  "tasks.taskdetails.copiedWikilink": {
+    "message": "ウィキリンクをコピーしました",
+    "sourceHash": "f99acdeeb761d9828da982574a5f624916b4a9bc560a1b094865f1f09bb48f51"
+  },
+  "tasks.taskdetails.copyId": {
+    "message": "ID をコピー",
+    "sourceHash": "3bf22765efd676dd8cd925b141cf5851d0fb34936e91153d1f6abaf799fba982"
+  },
+  "tasks.taskdetails.copyLink": {
+    "message": "リンクをコピー",
+    "sourceHash": "6889f04559db06fada1c3869c0543b5aff8dcc7b4aaf82df3ce2004f58e1af01"
+  },
+  "tasks.taskdetails.copyWikilink": {
+    "message": "ウィキリンクをコピー",
+    "sourceHash": "730992a6b9dea43734206ac2fb48d9a2f03b06141c6cdef9f0f9ebba8c38aa0e"
+  },
+  "tasks.taskdetails.deleteComment": {
+    "message": "コメントを削除",
+    "sourceHash": "fa3ad65fb8a19132faa8f6348804da2a7107e47919780ee25201cdfbc8f16634"
+  },
+  "tasks.taskdetails.deleteComment2": {
+    "message": "コメントを削除しますか？",
+    "sourceHash": "7fe5daa3e047edb0c4ad9187a36599a3b566d2613257614edeb9468f2027d056"
+  },
+  "tasks.taskdetails.deleteTask": {
+    "message": "タスクを削除",
+    "sourceHash": "35f2a38e56665e6b70fe971ff97cb184c68190dab0473a728d6d9200713f4128"
+  },
+  "tasks.taskdetails.discardMine": {
+    "message": "自分の変更を破棄",
+    "sourceHash": "6e714feab8bfc2dd8ec3ba86201bb262bfc3ef730b1b514adf578aaab39dc540"
+  },
+  "tasks.taskdetails.editComment": {
+    "message": "コメントを編集",
+    "sourceHash": "4bf54db0193075d5f42d9579a632eea0738bf9572c02b01e43e0b46c13fe9459"
+  },
+  "tasks.taskdetails.editComment2": {
+    "message": "コメントを編集…",
+    "sourceHash": "6ff5162b72490a185e1a7329c64724c363742f5a8d5a17883f7e5064bfbcb7b8"
+  },
+  "tasks.taskdetails.edited": {
+    "message": "（編集済み）",
+    "sourceHash": "3c3cbdd78bbc0480d51c1f3cc12c84246817d2dc3410704a7fe7feb3c576ac7f"
+  },
+  "tasks.taskdetails.editedNewdateeditedattolocalestring": {
+    "message": "{newDateEditedatTolocalestring} に編集",
+    "sourceHash": "740b6567b42a12a96f9de3cd4d8f67fcc7ba8c1138d7441fc4006be996574e92"
+  },
+  "tasks.taskdetails.keepMine": {
+    "message": "自分の変更を保持",
+    "sourceHash": "24684fb7a3974f5d0fc16f232c6af018ff0c5f1bd27a578cba7872509c1aa10b"
+  },
+  "tasks.taskdetails.leaveAComment": {
+    "message": "コメントを残す…",
+    "sourceHash": "072737faa1b524a1fe126bb90848c306b7f5b1717e9eaba593a4b304643d8b15"
+  },
+  "tasks.taskdetails.makeARegularTask": {
+    "message": "通常のタスクに変換",
+    "sourceHash": "29bce1ea151773f70b5f456ac1fb9a053b085d1816f52b03adf3322911b7e86f"
+  },
+  "tasks.taskdetails.makeSubtaskOf": {
+    "message": "サブタスクにする…",
+    "sourceHash": "9b30021b04ed0abc54d460f9a750c64edef836f3c714623bd94e409ba0536ee8"
+  },
+  "tasks.taskdetails.next": {
+    "message": "次へ",
+    "sourceHash": "4f88c865acb572a08e9c9d401808bf92987bb78246e27787a1bb21c63bbdbbc2"
+  },
+  "tasks.taskdetails.nextTask": {
+    "message": "次のタスク",
+    "sourceHash": "335e207d01b97640fd7e8afbe90414b76f5ef95139cad46b8a0b0b72c52df639"
+  },
+  "tasks.taskdetails.openPage": {
+    "message": "ページを開く",
+    "sourceHash": "78174f69ff27c0b42f399d80d2de47fbbdac987b37e9d268b4d66f696158b1ff"
+  },
+  "tasks.taskdetails.parent": {
+    "message": "親: {taskTitle}",
+    "sourceHash": "e61d6e48045222354871b22b64dcec0b7c4efb2937746598481ec2731bf23698"
+  },
+  "tasks.taskdetails.previous": {
+    "message": "前へ",
+    "sourceHash": "aed3724e603938a7e5543b5a380bc97427ae5954a7fc9508c893c009570cb884"
+  },
+  "tasks.taskdetails.previousTask": {
+    "message": "前のタスク",
+    "sourceHash": "5f6b64cc65f06738021189d811a10b5c2e62e3f6d4782dcbb343fc17754448b0"
+  },
+  "tasks.taskdetails.properties": {
+    "message": "プロパティ",
+    "sourceHash": "2aa69fead601313f1c55b071529c65f0df434d7833dbfca17fab2086b06d5ee9"
+  },
+  "tasks.taskdetails.restoreTask": {
+    "message": "タスクを復元",
+    "sourceHash": "e0a480e640c229bdd042e1aef2d2b507e4dac13259a09d09c4a74b6551ad65ae"
+  },
+  "tasks.taskdetails.save": {
+    "message": "保存",
+    "sourceHash": "24970cc2cdabd52918b929318c9c999067f858a246ca1c161fe5a2504d22b8d7"
+  },
+  "tasks.taskdetails.saving": {
+    "message": "保存中…",
+    "sourceHash": "9f2763de18224a1da73f0f2d468177051775d0701ff665b98ac216923c0af0eb"
+  },
+  "tasks.taskdetails.send": {
+    "message": "送信",
+    "sourceHash": "7117349c28c8abb6798baf2dfe07356bbea5747803dc5d4d52e1cdca189128b9"
+  },
+  "tasks.taskdetails.subtaskOf": {
+    "message": "親タスク",
+    "sourceHash": "503049c06d6b28cbec4105f0cd27911149f1cac52a77d9d67a4e7480f5c46730"
+  },
+  "tasks.taskdetails.taskActions": {
+    "message": "タスクの操作",
+    "sourceHash": "20b0c50d6e021b6c006170481fd6914f79def4789e8802bd2fd33da3a7f0f3a9"
+  },
+  "tasks.taskdetails.taskArchived": {
+    "message": "タスクをアーカイブしました",
+    "sourceHash": "0f2782c166afff0a90684691969cadf94a362d53ad162f34781cc14cc93c83c4"
+  },
+  "tasks.taskdetails.taskCreated": {
+    "message": "タスクを作成しました",
+    "sourceHash": "4483fac5c1ed2e52df04d89409907453beceef6eeb81bec14d2b9836e15ffa55"
+  },
+  "tasks.taskdetails.taskDetails": {
+    "message": "タスクの詳細",
+    "sourceHash": "5ae0418909e0c56b89c75171475d52b4a43be29a28089bac67bea93b4d69759b"
+  },
+  "tasks.taskdetails.taskNavigation": {
+    "message": "タスクのナビゲーション",
+    "sourceHash": "2ffebbe2ad7e354bf5eff831b89d55df9ac0032e19a50097c2e550484f65ac1e"
+  },
+  "tasks.taskdetails.taskOf": {
+    "message": "タスク {position} / {total}",
+    "sourceHash": "6c4e391223afa43c34da7cfc0e0fd79724ec5d9d15cb87414170a94a9ce7aeed"
+  },
+  "tasks.taskdetails.taskRestored": {
+    "message": "タスクを復元しました",
+    "sourceHash": "ccec7808c199c11610d9ca7d66c5059894b1944e28f9a4dd94edc14e92e19cd1"
+  },
+  "tasks.taskdetails.taskTitle": {
+    "message": "タスクのタイトル",
+    "sourceHash": "58bd2f560317e0d8fac3b9f0a80a74dd5943eb07afea21811457e2f51e319949"
+  },
+  "tasks.taskdetails.theCommentIsRemovedFromThisTaskSActivityThisCanTBeUndone": {
+    "message": "このコメントはタスクのアクティビティから削除されます。元に戻すことはできません。",
+    "sourceHash": "d394444cee960a7f307376c8328f42d05955e0e7c205f88110176bb0244dde61"
+  },
+  "tasks.taskfieldchips.appliedcountLabels": {
+    "message": {
+      "other": "{count} 件のラベル"
+    },
+    "sourceHash": "511c58038135bee6edb6fab62864fdb91f92db9633ae4822219033b01ac1461e"
+  },
+  "tasks.taskfieldchips.bucket2": {
+    "message": "レーン",
+    "sourceHash": "981362d77787fcf6eb92e11b8fcde245fe70d43470928b78bf2966986c1bec6b"
+  },
+  "tasks.taskfieldchips.labels2": {
+    "message": "ラベル",
+    "sourceHash": "81e5340a810d7edc13fa01fbde4293ad651afc2a2e6f55f420d7f41c5328c7d2"
+  },
+  "tasks.taskfieldchips.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "30a729d76ac8b6170d5ce1b1d801ca5aa475c9b0ae71a8ac19a9d4ff37d9e247"
+  },
+  "tasks.taskfieldchips.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "726b0b974424fecba1bed2a830c2dbcf890494c470b804d9b59c9826b8c392aa"
+  },
+  "tasks.taskfieldchips.noType": {
+    "message": "タイプなし",
+    "sourceHash": "45b1c3619356406bb706906cbd0ae55c167335103809927cf4abf381de662e1a"
+  },
+  "tasks.taskfieldchips.priority2": {
+    "message": "優先度",
+    "sourceHash": "5592208db27f0679e5a01eaab225e34a55e687e2a99ec1813724affd838d68d4"
+  },
+  "tasks.taskfieldchips.taskBucket": {
+    "message": "タスクのレーン",
+    "sourceHash": "9847328def2374c926694f23de5093bab426c87de32887b20413f855959cafdd"
+  },
+  "tasks.taskfieldchips.taskLabels": {
+    "message": "タスクのラベル",
+    "sourceHash": "b8a03873e6804e24e0dced88d2c2c1f5ab88ad4bb3dbd415341c7a11059460d2"
+  },
+  "tasks.taskfieldchips.taskPriority": {
+    "message": "タスクの優先度",
+    "sourceHash": "d17ffe926d75d29b23b2df39f1ebc39be8c05c547f6602096e58d4c592aaa2ea"
+  },
+  "tasks.taskfieldchips.taskProject": {
+    "message": "タスクのプロジェクト",
+    "sourceHash": "4aaf3a8d11d2f2ce2995247a34726febbe78049a99aa6a965f873a52f5374f89"
+  },
+  "tasks.taskfieldchips.taskState": {
+    "message": "タスクのステータス",
+    "sourceHash": "fc11dec990659ff1940415c576e3b07eca8ecaf05cfb44c1be0319a4ee961f80"
+  },
+  "tasks.taskfieldchips.taskType": {
+    "message": "タスクのタイプ",
+    "sourceHash": "fbdd0632093ec6dfc673d663462ef2d4e32fd866316d949703dce7fda0f3aeb2"
+  },
+  "tasks.taskfieldchips.type2": {
+    "message": "タイプ",
+    "sourceHash": "b3771d87769464e75ec72d02f5695a5ff55148b91a0cbf51645ae8f63605ce9a"
+  },
+  "tasks.tasklabeldialog.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "f2583d5843e37dee6f096ce65ea3cfbba03af3e54599375214c53e3e793f2b88"
+  },
+  "tasks.tasklabeldialog.changeLabelColour": {
+    "message": "ラベルの色を変更",
+    "sourceHash": "5a1ed1519dd49b6bc1df7e9302b9382333557dcc69a9c8f763ebca97a6ad690b"
+  },
+  "tasks.tasklabeldialog.createLabel": {
+    "message": "ラベルを作成",
+    "sourceHash": "88593bfcd05c8c3c7ab25e271fb43198a2486e70099cd0e2aaad81c51ceab5f4"
+  },
+  "tasks.tasklabeldialog.eGBugDesignWaiting": {
+    "message": "例: バグ, デザイン, 待機中",
+    "sourceHash": "f65365eba7740e0e35583b68606d2790b41939f64faf232089d4ee6cfe90fe88"
+  },
+  "tasks.tasklabeldialog.editLabel": {
+    "message": "ラベルを編集",
+    "sourceHash": "8c07ec0c7d15fde329fe027299442286cdc5c6ee82d5cf20e7a4755c93ea1f16"
+  },
+  "tasks.tasklabeldialog.labelName": {
+    "message": "ラベル名",
+    "sourceHash": "3a307dcbda716bc6fb330338e20ece60f1592dc2fd7d6b2fb25d4e4eb0ca358d"
+  },
+  "tasks.tasklabeldialog.newLabel": {
+    "message": "新しいラベル",
+    "sourceHash": "df1c93a52910e80a9ffb6b9cd61d88e4056dfffaad4c2730c90afc4881ec3f30"
+  },
+  "tasks.tasklabeldialog.save": {
+    "message": "保存",
+    "sourceHash": "10aa3b92e9533b94dce36503ffd3f832f39e4f9cf9ff4ee4916a4066c0beb443"
+  },
+  "tasks.tasklabeldialog.saving": {
+    "message": "保存中…",
+    "sourceHash": "d631e2795ac3c93fbeeadaf03b457f522608cf4dab2bef6d21087211580c9d29"
+  },
+  "tasks.tasklabelpicker.addLabels": {
+    "message": "ラベルを追加…",
+    "sourceHash": "b6f7d87276f6c78b7deed8b818f08e5775fa6ffba34f88c99ac90cae20eaacb1"
+  },
+  "tasks.tasklabelpicker.labels": {
+    "message": "ラベル",
+    "sourceHash": "78d84f594741a86099885df018243d08cd916d704f41482643eff88504dc7548"
+  },
+  "tasks.tasklabelpicker.searchLabels": {
+    "message": "ラベルを検索",
+    "sourceHash": "91b54d345ab9c9e1e911b995fdee5cb4f89cb53e1ed050549d76c957f9268b53"
+  },
+  "tasks.tasklabelpicker.typeANameToCreateALabel": {
+    "message": "名前を入力すると、ラベルを作成できます。",
+    "sourceHash": "81a37b0275daa395a62e2c599d8da3116ec30fc05586ee7d5bd52072c7c44a1b"
+  },
+  "tasks.taskmeta.noPriority": {
+    "message": "優先度なし",
+    "sourceHash": "1442d7a46052524c4d399448777fb474b2d758b892058e679761ce6c4a59ec24"
+  },
+  "tasks.taskmeta.prioritynamespriorityPriority": {
+    "message": "{prioritynamesPriority}の優先度",
+    "sourceHash": "97158acec08525d1ef5328eee187bfe11f5cad1c9436475da23e92e6d79fd62a"
+  },
+  "tasks.taskparentpicker.makeARegularTask": {
+    "message": "通常のタスクにする",
+    "sourceHash": "35f93608939daa4fa34553c0196e1960e5950299f77b0e94e0f8d670cbe784db"
+  },
+  "tasks.taskparentpicker.makeASubtaskOf2": {
+    "message": "親タスクを選択…",
+    "sourceHash": "ffdf19a6bc31543a18ec2aa86091eec49d2cb105c714b905bee95cf6fb882de9"
+  },
+  "tasks.taskparentpicker.noMatchingTasks": {
+    "message": "一致するタスクはありません。",
+    "sourceHash": "56e715c87c282040e8e93899fd89f729f4fc449e6d257db35ac56c859afea6a0"
+  },
+  "tasks.taskparentpicker.noTasksToPick": {
+    "message": "選択できるタスクがありません。",
+    "sourceHash": "2809edc3fa8b42c38156eeb1231f684975951aa42f4d48ada82726de73fdcbd2"
+  },
+  "tasks.taskparentpicker.parentTask": {
+    "message": "親タスク",
+    "sourceHash": "f81ec5ca09998729d581ea06c2efca3e4b2432bfd95d35cc850258dc80ed362c"
+  },
+  "tasks.taskparentpicker.searchTasks": {
+    "message": "タスクを検索",
+    "sourceHash": "7cdf8a09a6772bf6bfa72b16b049c44222fbe715c7b6cb68f94150cf8783d8d7"
+  },
+  "tasks.taskpeeksheet.resizePreview": {
+    "message": "プレビューのサイズを変更",
+    "sourceHash": "b09cc99c244d7bf2d7cf4a02909727fbede6f191b65e2a4e2cd8cff163d0ed25"
+  },
+  "tasks.taskpeeksheet.taskPreview": {
+    "message": "タスクのプレビュー",
+    "sourceHash": "94bd599c8ce3b1fa30cffdc870ed6214b21ec63e9a8937fc362a31c2b3c82da4"
+  },
+  "tasks.taskpickershortcuts.alt": {
+    "message": "Alt",
+    "sourceHash": "5952e609cbcee87f9e4ebcc538dd0fe14a920bf97948ce2cf3b383e1d71fc979"
+  },
+  "tasks.taskpickershortcuts.bucket": {
+    "message": "レーン",
+    "sourceHash": "c042724ee1392c20cadb10a2352e907ef6a077eb38ff5d7ccc97891a75823c04"
+  },
+  "tasks.taskpickershortcuts.cycle": {
+    "message": "サイクル",
+    "sourceHash": "460c06a0c8a47c6c63e6c684c8b54df4ad530e2323c291cd512c41f9965d470f"
+  },
+  "tasks.taskpickershortcuts.dueDate": {
+    "message": "期日",
+    "sourceHash": "39d1accb75b736b07131f96d6f6b5a7084dc23ec3c02befa221f5780b9937a5d"
+  },
+  "tasks.taskpickershortcuts.labels": {
+    "message": "ラベル",
+    "sourceHash": "ab6c1ec9b4f081e92575b5eaab589b0607c51ab4c50966ad26f6e3d9b2850a05"
+  },
+  "tasks.taskpickershortcuts.priority": {
+    "message": "優先度",
+    "sourceHash": "f4245fa65884c71b392da813be289351a76b54b60ddcfaff98120cd764c08530"
+  },
+  "tasks.taskpickershortcuts.project": {
+    "message": "プロジェクト",
+    "sourceHash": "ff66e30b5c6d1142fe41a896b7022ba038170328e2a59747f15d9590d0893896"
+  },
+  "tasks.taskpickershortcuts.status": {
+    "message": "ステータス",
+    "sourceHash": "d007bc18d1fea626a5b157f134cc752cc2608a01ab2c62a9396d51d511ea05e5"
+  },
+  "tasks.taskpickershortcuts.typeLabel": {
+    "message": "タイプ",
+    "sourceHash": "4c0ae59b22964567fd81bcf865aae1eeb187969a9fc9994afa0d70a287e2a9c6"
+  },
+  "tasks.taskprojectdialog.aKeyIs2To5LettersOrDigitsStartingWithALetter": {
+    "message": "キーは英字で始まる 2〜5 文字の英数字です。",
+    "sourceHash": "713339324682a100a5f9f3e31334bbc2ed6a34e8bfa99b2b1e54df6fdf1284f0"
+  },
+  "tasks.taskprojectdialog.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "56730071afc9e968b99aa3b0db34911bad34412f8e841e2c9425a97319d56cb6"
+  },
+  "tasks.taskprojectdialog.changeIconAndColour": {
+    "message": "アイコンと色を変更",
+    "sourceHash": "d7b23057a386559edca4a04084141b8baeeaeeeae8a533ff9d91f722feb14ef0"
+  },
+  "tasks.taskprojectdialog.changeProjectIcon": {
+    "message": "プロジェクトのアイコンを変更",
+    "sourceHash": "8df89d6ae37e050f662900bd095e669f78b6cbb7c2b3275a2970aeec36115fc0"
+  },
+  "tasks.taskprojectdialog.countTasksMoveToTheNearestStatusThisProjectKeeps": {
+    "message": {
+      "other": "{count} 件のタスクが、このプロジェクトで保持されるステータスのうち最も近いものに移動します。"
+    },
+    "sourceHash": "455e39c6f8158d2a9c4452ec6c277e6f00f7a50daebd8a3963713530b718c384"
+  },
+  "tasks.taskprojectdialog.createProject": {
+    "message": "プロジェクトを作成",
+    "sourceHash": "257cf8d6dfe18975a7f66634cf433b408b91a5d0f7ca799acfd5142d9e26e5b0"
+  },
+  "tasks.taskprojectdialog.editProject": {
+    "message": "プロジェクトを編集",
+    "sourceHash": "8df3e82187e59d3bbac11f5ccb8138bdb6ef9640e4a37e5d5936f3592355e3ca"
+  },
+  "tasks.taskprojectdialog.key": {
+    "message": "キー",
+    "sourceHash": "c0ebe1cd310a8b9413a4985bb2d9b909f5368233b803e6618f30bc12a09b68b7"
+  },
+  "tasks.taskprojectdialog.newProject": {
+    "message": "新規プロジェクト",
+    "sourceHash": "d64512c466eecb9aadb8c3b3433373a5630a4bd5d5ff75f69086070ba325cce5"
+  },
+  "tasks.taskprojectdialog.noSpace": {
+    "message": "スペースなし",
+    "sourceHash": "b10bb784722e1f1b8bca0ba2e9fa09cc8113d08f464469f77b31c6c1cee3b2ab"
+  },
+  "tasks.taskprojectdialog.nothingToPickYet": {
+    "message": "選択できる項目がまだありません。",
+    "sourceHash": "7d251e9527e08225c2125191aaf524c2b4c17085b7e8d3463c8b404c60537264"
+  },
+  "tasks.taskprojectdialog.pickAtLeastOneCompletedStatus": {
+    "message": "完了ステータスを 1 つ以上選択してください。",
+    "sourceHash": "655eb6a6ac3e450249911506a5c28f7fa5bf75b160e93ff1cd48c8d86d9046e6"
+  },
+  "tasks.taskprojectdialog.pickAtLeastOneOpenStatus": {
+    "message": "未完了ステータスを 1 つ以上選択してください。",
+    "sourceHash": "5d375df7be588412aced7e81f3e762570d94f0f5818b4121548253d6e8ed4a73"
+  },
+  "tasks.taskprojectdialog.priority": {
+    "message": "優先度",
+    "sourceHash": "e2607db304e376116c510bba2d9ac8beb2095b955373db6fbe390ff1845d108c"
+  },
+  "tasks.taskprojectdialog.projectKeyKeynone": {
+    "message": "プロジェクトキー、{keyNone}",
+    "sourceHash": "d57cab3df28aa12938e853198359667a31c8c5e123ef3696485766ba9786ae09"
+  },
+  "tasks.taskprojectdialog.projectName": {
+    "message": "プロジェクト名",
+    "sourceHash": "859547f8c293f5208aec4f6eb9ea47efc7282770680f309f9e0a767e47b87221"
+  },
+  "tasks.taskprojectdialog.projectPriorityPrioritynamespriority": {
+    "message": "プロジェクトの優先度、{prioritynamesPriority}",
+    "sourceHash": "9b19c4c90981712d5b070d2643514e55a48a5ae16f09b42bdac71f8156299305"
+  },
+  "tasks.taskprojectdialog.projectSpace": {
+    "message": "プロジェクトのスペース",
+    "sourceHash": "7023ff169454fc926c09a790002361982c93e9ea6c5017cfe6ea280d47b17070"
+  },
+  "tasks.taskprojectdialog.projectStatusProjectstatusnamestatus": {
+    "message": "プロジェクトのステータス、{projectstatusnameStatus}",
+    "sourceHash": "8aedf767e2649adf41261309e6ece43ddcfadcd7b818e7dc3704ce4c33a5a32d"
+  },
+  "tasks.taskprojectdialog.save": {
+    "message": "保存",
+    "sourceHash": "581aebdcdf95112fca0700d24239fc2162c01c26474d15bf38a6aafef92bb250"
+  },
+  "tasks.taskprojectdialog.saving": {
+    "message": "保存中…",
+    "sourceHash": "46bba7420b2a5e2d6a8b568fb0892f2bfe2668bf2f5f0edeaed5df431f468ed9"
+  },
+  "tasks.taskprojectdialog.start": {
+    "message": "開始",
+    "sourceHash": "04d52c91546834b39749c40be4a7a7595d05c131ffd66f47ee5e2159de10b34c"
+  },
+  "tasks.taskprojectdialog.startDate": {
+    "message": "開始日",
+    "sourceHash": "66f8fb863d78801f2c0d7a43f66a3e6374e7c8298ca86de262a184af68e3ee38"
+  },
+  "tasks.taskprojectdialog.startsFormatprojectdateasdatestartdate": {
+    "message": "{formatprojectdateAsdateStartdate} に開始",
+    "sourceHash": "d03f15e1b343c71892882077b2a6b588e481c4a1d06a91e81af74139781a4a04"
+  },
+  "tasks.taskprojectdialog.target": {
+    "message": "目標",
+    "sourceHash": "9ff5de43f94ca163a4960866f877a254f4d590f10c4b6a85be6f31402c4f723d"
+  },
+  "tasks.taskprojectdialog.targetDate": {
+    "message": "目標日",
+    "sourceHash": "ca4093fb8b10fb54079ea02a613c223efc1da2097df4fa9415eec1fa879bef81"
+  },
+  "tasks.taskprojectdialog.targetFormatprojectdateasdatetargetdate": {
+    "message": "目標 {formatprojectdateAsdateTargetdate}",
+    "sourceHash": "3a84be2c1e544aa8b550b866faad5c8fde5403a37b1798e31d6c74396e135a3f"
+  },
+  "tasks.taskprojectdialog.tasksAreKey1Key2": {
+    "message": "タスクは {key}-1、{key}-2…",
+    "sourceHash": "4862bf05791d23394275d086e34b1b20d8be1fed20149b60ba65649b29acbdb3"
+  },
+  "tasks.taskprojectdialog.tasksBecomeKey1Key2SavedkeyIdsStillFindThem": {
+    "message": "タスクは {key}-1、{key}-2… になります。保存済みの {savedKey} ID でも引き続き検索できます。",
+    "sourceHash": "571b35eeb960402db513195f4cf61d29f7d396d806e8086c189fa44177a3f81f"
+  },
+  "tasks.taskprojectdialog.theTargetDateIsBeforeTheStartDate": {
+    "message": "目標日が開始日より前になっています。",
+    "sourceHash": "6e100e7ac0927be7c73743b71c868a621fa7a90861b9730687fe7e9551882360"
+  },
+  "tasks.taskprojects.couldNotLoadTasksQueryerror": {
+    "message": "タスクを読み込めませんでした: {queryError}",
+    "sourceHash": "9296d843c9e9847084b6cdf47e40aeddec58230207ee7e0ff80c65fad55c08b5"
+  },
+  "tasks.taskprojects.loadingTasks": {
+    "message": "タスクを読み込んでいます…",
+    "sourceHash": "ca6e24cbbea09952565dd65ae8d4f51d4ffeff0562f800bdc7569f67be14cb6c"
+  },
+  "tasks.taskprojects.thisFilterWasDeleted": {
+    "message": "このフィルタは削除されました。",
+    "sourceHash": "5828d59f6c276948f379fffd6031b90866daecff827863555ba878b3928b4c9c"
+  },
+  "tasks.taskproperties.addLabel": {
+    "message": "ラベルを追加",
+    "sourceHash": "e062002718fa63b517b83bc39efb49d334f88ce05291c77811b1ec70b19475f7"
+  },
+  "tasks.taskproperties.addResource": {
+    "message": "リソースを追加",
+    "sourceHash": "313bf4b5dc634b4b6be6184182a49ec5e6c375046c654a44f355da3c200f2d1f"
+  },
+  "tasks.taskproperties.archivedTask": {
+    "message": "アーカイブ済みタスク",
+    "sourceHash": "336dc1d335a809c612c13350208e2d6a1fde2564e0cf13e111e0ae5250436d6e"
+  },
+  "tasks.taskproperties.bucket": {
+    "message": "レーン",
+    "sourceHash": "bb5d9a153750a59480245a0190719f7814010d423c7dc0171669be1339c49e07"
+  },
+  "tasks.taskproperties.changeBucket": {
+    "message": "レーンを変更",
+    "sourceHash": "8ab57777fc31b9a34db5de9571f5d9d6b646b79661d1b92745f5c9dba21b49a7"
+  },
+  "tasks.taskproperties.changeDueDate": {
+    "message": "期日を変更",
+    "sourceHash": "94ccbb5cfe017ad904f0242eb3c62f35f658ade657aa45c1c9fcb452893ed3eb"
+  },
+  "tasks.taskproperties.changePriority": {
+    "message": "優先度を変更",
+    "sourceHash": "ac114d9469157f4c61ed3a217e0378a3aeb930aad1a3a831a1504c5c6643c14b"
+  },
+  "tasks.taskproperties.changeProject": {
+    "message": "プロジェクトを変更",
+    "sourceHash": "4c1011e73ce613aab1d672fabfe793bea15249bb2a2f1b19580936c9713009d5"
+  },
+  "tasks.taskproperties.changeSpace": {
+    "message": "スペースを変更",
+    "sourceHash": "14698993b3efc36608611c3311641e244ba04eaac03d7036c43d20f0244b4842"
+  },
+  "tasks.taskproperties.changeStatus": {
+    "message": "ステータスを変更",
+    "sourceHash": "25935b3ce19d79f27b1f8bbe5cb55cd0b6732ece124923a35419241a720a45bf"
+  },
+  "tasks.taskproperties.changeType": {
+    "message": "タイプを変更",
+    "sourceHash": "4d0352b7fca31bef4d3db6d1f28ecf72fcc537fd4a6a20774a6d5805a79fb8b8"
+  },
+  "tasks.taskproperties.clear": {
+    "message": "クリア",
+    "sourceHash": "3dba998c1cb724a8979e9ed14b56bbc906983115d80b2bc99cf4f7d08212ee8f"
+  },
+  "tasks.taskproperties.cycle": {
+    "message": "サイクル",
+    "sourceHash": "b5148700ebe2f57caa6d3cf4ff1d8c36f1afddf0d322836b78c2e2b37889f388"
+  },
+  "tasks.taskproperties.dropToAddToResources": {
+    "message": "ドロップしてリソースに追加",
+    "sourceHash": "ee5593526e001295246e7a4e9823d83e236e86ce164c046019e1851d3ba78171"
+  },
+  "tasks.taskproperties.dueDate": {
+    "message": "期日",
+    "sourceHash": "24d481ff54762f40d424cc473e0953f451ff1377876623058553ecde56e235ee"
+  },
+  "tasks.taskproperties.inheritedFromParent": {
+    "message": "親から継承",
+    "sourceHash": "7c9f24ef741feb171ce866031bcfbcec2fe4eb2293872733d24f77cf363e6108"
+  },
+  "tasks.taskproperties.labels": {
+    "message": "ラベル",
+    "sourceHash": "14ee8ccaab595fa8252b9afbfc07666a416fc1c4b7b32b3bce3141c00e566a3a"
+  },
+  "tasks.taskproperties.linksTo": {
+    "message": "リンク先",
+    "sourceHash": "9e6ab7241d29ba9c65c4b556efbd4bd15a459b98acf560d051bb76173b38c475"
+  },
+  "tasks.taskproperties.mentionedIn": {
+    "message": "言及元",
+    "sourceHash": "350154d6f9907ac4a267de71184ad880e19023cda7d5fdf4456febace91caaab"
+  },
+  "tasks.taskproperties.nextWeek": {
+    "message": "来週",
+    "sourceHash": "9aa1dbe01c8e8ac716b229bf8a142bd4ec819e3c906da99edaffa6983d7c9c85"
+  },
+  "tasks.taskproperties.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "1a82d481d561786b7905deb81ec0e5fbb7c4cc57657cf58e04091a6f27576a0e"
+  },
+  "tasks.taskproperties.noCycle": {
+    "message": "サイクルなし",
+    "sourceHash": "4dedb6e2dc038d9f20f1df4d2a0d679707f48ba432addc83650187f1eef21403"
+  },
+  "tasks.taskproperties.noDueDate": {
+    "message": "期日なし",
+    "sourceHash": "29acd7d467476a823acb0b44158a990f72299e0e5c1f7f35bcf10a3770563e9f"
+  },
+  "tasks.taskproperties.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "cedd48bb2ccd9296b0a35177f6b4e96167486076921d6bbe67f61d5336ed3ff8"
+  },
+  "tasks.taskproperties.noSpace": {
+    "message": "スペースなし",
+    "sourceHash": "4d884e62125ae3a7a1887e26e46cb3b316ddde4dad805786431abc4f902dc211"
+  },
+  "tasks.taskproperties.noType": {
+    "message": "タイプなし",
+    "sourceHash": "10c279396cc82b8c2e2eb0241f7ec145f4a0ab385ca2fa31bf7c0e900ed21270"
+  },
+  "tasks.taskproperties.none": {
+    "message": "なし",
+    "sourceHash": "41de01ab96641b754cc9663bf5ef536d4f2ce7b357900cd8d67c392047fabacd"
+  },
+  "tasks.taskproperties.notesFilesAndLinksForThisTaskDropFilesHereToAddThem": {
+    "message": "このタスクのノート、ファイル、リンク。ここにファイルをドロップして追加します。",
+    "sourceHash": "84c6bb22b07e9e88daa6c410c46b230be8dbed20a86d5ef9d1a2734756304667"
+  },
+  "tasks.taskproperties.overdue": {
+    "message": "· 期限超過",
+    "sourceHash": "fa8946d33efdce432bd8a0a07aaae523c6ca04565ac99af89a0f74bf0bbfe7d1"
+  },
+  "tasks.taskproperties.parent": {
+    "message": "親",
+    "sourceHash": "dfc6627fd5d3a17ddc62ff8633fcbeab03bb8ef8e6795905a37336afbf8ef511"
+  },
+  "tasks.taskproperties.parentTask": {
+    "message": "親タスク",
+    "sourceHash": "19859414b79cf63a33ab3fc33c86d470268572ed976ccbf4fa2756927f8e44d1"
+  },
+  "tasks.taskproperties.priority": {
+    "message": "優先度",
+    "sourceHash": "dbf3adfcb62d1b326e0335af43e655fe569a17b343de2ee7438d037b5930c99e"
+  },
+  "tasks.taskproperties.project": {
+    "message": "プロジェクト",
+    "sourceHash": "1a4d9bedb143b2599d0edb14975663b33d29e15bcc7dac05ce8e574f27fc315b"
+  },
+  "tasks.taskproperties.removeLabelLabel": {
+    "message": "ラベル {label} を削除",
+    "sourceHash": "86648f75353306a2ff5a7ae2a66a04145bbb8bf0df98c680652a245b76f40a06"
+  },
+  "tasks.taskproperties.resources": {
+    "message": "リソース",
+    "sourceHash": "241cf5869a556c15c99c890add9d525022af2649c87a5bd0bcd00e9003197aac"
+  },
+  "tasks.taskproperties.showProperties": {
+    "message": "プロパティを表示",
+    "sourceHash": "a929444239fb6826d080321e18bc1e19e853b20c17887a9d9b659d03f7df3243"
+  },
+  "tasks.taskproperties.space": {
+    "message": "スペース",
+    "sourceHash": "7a795a024be10f9908bb8c116b8904eb412894d05aa4966ca7aaf98067f7dba8"
+  },
+  "tasks.taskproperties.status": {
+    "message": "ステータス",
+    "sourceHash": "8ee82a5e52f8a3926667d5b21e765f8c766bc1febc59dc907300a64da11f5952"
+  },
+  "tasks.taskproperties.taskBucket": {
+    "message": "タスクのレーン",
+    "sourceHash": "5f5d966281182ee725c9ab95f4be76f35871270a1de1b6d4990e36b340fb32e6"
+  },
+  "tasks.taskproperties.taskCycle": {
+    "message": "タスクのサイクル",
+    "sourceHash": "e872b5738de97e275d5a960dfab5d6a75544d77a65daa051b4ce6ef580dcf080"
+  },
+  "tasks.taskproperties.taskPriority": {
+    "message": "タスクの優先度",
+    "sourceHash": "9127dfbd86a2e392d51623ba72c0bbba256821ca753d8cd41cc9ea8b1df4e9e7"
+  },
+  "tasks.taskproperties.taskProject": {
+    "message": "タスクのプロジェクト",
+    "sourceHash": "f57e83ef3d5c7807331a838f84ce33aeff3edadada7a81721d5bcef770ec6674"
+  },
+  "tasks.taskproperties.taskSpace": {
+    "message": "タスクのスペース",
+    "sourceHash": "8f5aa94587d430c66620ad5cb0538216c31bd813f4a920459e8b8941c2f3716b"
+  },
+  "tasks.taskproperties.taskState": {
+    "message": "タスクの状態",
+    "sourceHash": "dec69dbab115c38013e8015ece123b80d9fa40da7e61c6de586d7e1b4ea4565b"
+  },
+  "tasks.taskproperties.taskType": {
+    "message": "タスクのタイプ",
+    "sourceHash": "9e806cc6700108765ff2ab9c63f88a6e21d13dde462309f5def5bcd16a67433f"
+  },
+  "tasks.taskproperties.today": {
+    "message": "今日",
+    "sourceHash": "41f43b591e8fe0555ff360bf5ca471e329f3a3d33d8e54b41071d8be4701765a"
+  },
+  "tasks.taskproperties.tomorrow": {
+    "message": "明日",
+    "sourceHash": "65b71a0e3cb9d79e8c58826bcdb0558b309f8994c3f7ce0209930956df88b5b9"
+  },
+  "tasks.taskproperties.type": {
+    "message": "タイプ",
+    "sourceHash": "4043fb903dc4f1d9623086ed591c1bb83c60d2e778695a849392120f82dd511a"
+  },
+  "tasks.tasksDashboard.options.later": {
+    "message": "後で",
+    "sourceHash": "26714c097ac4bbef71c0f2eb15d05522323075bb8868e43c24274b47616947ba"
+  },
+  "tasks.tasksDashboard.options.noDueDate": {
+    "message": "期日なし",
+    "sourceHash": "8efb358445ee559eafe9f3d390f31c34f54aef32264b4bb127eecc32e71e62d8"
+  },
+  "tasks.tasksDashboard.options.overdue": {
+    "message": "期限超過",
+    "sourceHash": "b96a033247c4f224ab9ba6900fa7977744af5c0ec8eb113d83a8dcd584616251"
+  },
+  "tasks.tasksDashboard.options.past": {
+    "message": "過去",
+    "sourceHash": "cacb597904d36c4d3b84de00b46305b48e41d1ef652d749c39404d620edd86da"
+  },
+  "tasks.tasksDashboard.options.thisWeek": {
+    "message": "今週",
+    "sourceHash": "24d06a153499d95749b3501c5dad0e499aae95245c3dc4075fc7ce6cc7082af5"
+  },
+  "tasks.tasksDashboard.options.today": {
+    "message": "今日",
+    "sourceHash": "87869e2d50be3eaa6e95de3094df91c226ac3e16d381cb7deda22c892a71580f"
+  },
+  "tasks.tasksDashboard.rich.newTask": {
+    "message": "新規タスク {shortcut}",
+    "sourceHash": "3a7a1ed005c8c0bd70aaa665eae3c431391842508c5454029832bb8b2200557e"
+  },
+  "tasks.tasksKanban.rich.addTask": {
+    "message": "{icon} タスクを追加",
+    "sourceHash": "f11eaf67db091ba720db0d036cead2fbc85b2010a3227bbe2f9b2f38e53ce1da"
+  },
+  "tasks.tasksList.rich.closed": {
+    "message": {
+      "other": "{count} 件が完了"
+    },
+    "sourceHash": "c5a064b71e414230a3b61b55baccfa3731a6c82cb21b3cc078edbf1a98996783"
+  },
+  "tasks.tasksdashboard.aLittleRoomToThink": {
+    "message": "考えるためのちょっとした余白",
+    "sourceHash": "df85c0ae5fd7d35183e0987388471eb5c367468cf2a108d64f7c01da3bfa156a"
+  },
+  "tasks.tasksdashboard.addATask": {
+    "message": "タスクを追加",
+    "sourceHash": "8bbe779c065a1192fc274cb6e15b7dfa281808807f154749000b3ff376e3caa4"
+  },
+  "tasks.tasksdashboard.allTasks": {
+    "message": "すべてのタスク",
+    "sourceHash": "cceb6d6c2933fb30aeb99a387aa5ed85cff0a1a1de119fac697c523b2b145914"
+  },
+  "tasks.tasksdashboard.archived": {
+    "message": "アーカイブ済み",
+    "sourceHash": "f22b37281c88deccbf23143be55f17d90db326271c1edee5b5cdf47225af71a2"
+  },
+  "tasks.tasksdashboard.archivedProjects": {
+    "message": "アーカイブ済みプロジェクト",
+    "sourceHash": "b3844d7a5cb80d43bd77b004fdfccd1919f760f6c28340b533930457d46dc1e1"
+  },
+  "tasks.tasksdashboard.archivedSpaces": {
+    "message": "アーカイブ済みスペース",
+    "sourceHash": "03191b48da782e06461ecd45a0bc554ec664fde4618adbc158d50c528460fa55"
+  },
+  "tasks.tasksdashboard.backToArchivedProjects": {
+    "message": "アーカイブ済みプロジェクトに戻る",
+    "sourceHash": "17221cc450be1c8cd0b15d3927c145f740b72cc308fc050da60ba1d3f0cf35e9"
+  },
+  "tasks.tasksdashboard.backToProjectnameproject": {
+    "message": "{projectnameProject} に戻る",
+    "sourceHash": "4e023d4412a17c0534a11485b273b3dc815e149ec046c5d29862469ca458279c"
+  },
+  "tasks.tasksdashboard.backToTaskviewnameinitialview": {
+    "message": "{taskviewnameInitialview} に戻る",
+    "sourceHash": "232bef4aa39a5a4c6c87be7b98948c65c2daacca3b29c15f76be6ed98e8b01e8"
+  },
+  "tasks.tasksdashboard.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "1b8a40f91bceac113eab9be527d8565e6c5df9f8944c0e64bcdcd53ecb30a654"
+  },
+  "tasks.tasksdashboard.changeProjectIcon": {
+    "message": "プロジェクトアイコンを変更",
+    "sourceHash": "c825c954658687761945a4926fcf1dfc58766031c6678eaf6ffa8cf904c7a848"
+  },
+  "tasks.tasksdashboard.clearFilters": {
+    "message": "フィルタをクリア",
+    "sourceHash": "b024bf650539ad2bcd559a495b8c40adc78c89abd70d2c0c4d81ec6c45c75af3"
+  },
+  "tasks.tasksdashboard.completeCycle": {
+    "message": "サイクルを完了",
+    "sourceHash": "4521aa8bd4c3f44432768e5435f30b4e1c104e4c823a41a45d80ea7bd91da2b1"
+  },
+  "tasks.tasksdashboard.completed": {
+    "message": "完了済み",
+    "sourceHash": "b323befcc6d94cce6d10f8b1937bcabb27557df9a80679d22688614fec1cdc00"
+  },
+  "tasks.tasksdashboard.copiedWikilink": {
+    "message": "Wikilink をコピーしました",
+    "sourceHash": "ea75906c4d81b5262a9bd516c4ef723398077287d8c18ca7acffb6242ef3d6a0"
+  },
+  "tasks.tasksdashboard.copyID": {
+    "message": "ID をコピー",
+    "sourceHash": "54002c8399f4e4512e95c86cd09699bae335848b3e002653f7fc673964e94de7"
+  },
+  "tasks.tasksdashboard.copyWikilink": {
+    "message": "Wikilink をコピー",
+    "sourceHash": "56e0faf8f0380f899bdb1907771a64b461b563efc13738724742f1119d910d54"
+  },
+  "tasks.tasksdashboard.countTasksCouldnTBeUpdatedTheyMayHaveChangedElsewhere": {
+    "message": {
+      "other": "{count} 件のタスクを更新できませんでした。他の場所で変更された可能性があります。"
+    },
+    "sourceHash": "c9773a8c231171c067107f0bbc787f9863f55cdcafaec41c35fd9043e1609b35"
+  },
+  "tasks.tasksdashboard.createYourFirstProject": {
+    "message": "最初のプロジェクトを作成",
+    "sourceHash": "429e41dc8fe2fff4d628f4c13794c821035dacf36e71051ba5a4286d3161151a"
+  },
+  "tasks.tasksdashboard.created": {
+    "message": "{taskIdentifier} を作成しました",
+    "sourceHash": "4f97020c462cd089b611a01b0241b877a7946fc85e4f148af8ed620c7bad6177"
+  },
+  "tasks.tasksdashboard.deleteFilter": {
+    "message": "フィルタを削除",
+    "sourceHash": "7bd99cb78d861c750cc2974b18370a486bb7dff3e76a985d42d4fce7cfeb914d"
+  },
+  "tasks.tasksdashboard.deleteFilter2": {
+    "message": "フィルタを削除しますか？",
+    "sourceHash": "cd56d67c173cbb1ba49d565776a27148537a05c4c590328e4f9042bdb4edaf13"
+  },
+  "tasks.tasksdashboard.deleteLabel": {
+    "message": "ラベルを削除",
+    "sourceHash": "f9559ec32de52d4aae1352ff7a6796d9a12d887680c26bb6d06793378b7ed44b"
+  },
+  "tasks.tasksdashboard.deleteLabel2": {
+    "message": "ラベルを削除しますか？",
+    "sourceHash": "9b20567157811a8bd1654962c86f0cc82089b7874f57c2f4fcee7db7c922d440"
+  },
+  "tasks.tasksdashboard.deletedDonecountTasks": {
+    "message": {
+      "other": "{count} 件のタスクを削除しました"
+    },
+    "sourceHash": "c57f62bad3100d66cca53a07fb34e648efe1a25fac3528e1fb6a437fb30a83ca"
+  },
+  "tasks.tasksdashboard.edit": {
+    "message": "編集",
+    "sourceHash": "02d47a62adec1d8f7aec953dfd1aacc0d4523254b9476d852180bc72928c38f3"
+  },
+  "tasks.tasksdashboard.editFilter": {
+    "message": "フィルタを編集",
+    "sourceHash": "1c47f52eb6e789ba47aaf3941d5dea89e73e8d93666109d284dab45c6513b76b"
+  },
+  "tasks.tasksdashboard.editLabel": {
+    "message": "ラベルを編集",
+    "sourceHash": "bb92d7e1756fefec68d306602c28c48b41fea72a4cca310036973c0bd3f41646"
+  },
+  "tasks.tasksdashboard.ended": {
+    "message": "終了済み",
+    "sourceHash": "b6ade8d567f14b077a5a93ec2e64666d66bae06aeeb57b7de9cdbb0876d0883e"
+  },
+  "tasks.tasksdashboard.enjoyTheQuiet": {
+    "message": "静けさをお楽しみください。",
+    "sourceHash": "5320c96bf408de3d309b2476d9c5cc44c1c1368c2ca76ccdb93485490374c19f"
+  },
+  "tasks.tasksdashboard.filterActions": {
+    "message": "フィルタの操作",
+    "sourceHash": "498e9f49ef93751ab4b3014b7e3253e6fc10a2a24897414e90af2d7127517bc8"
+  },
+  "tasks.tasksdashboard.moreSaveOptions": {
+    "message": "その他の保存オプション",
+    "sourceHash": "6ef4911b36daca04ec0686562c6f4157da876a7edab15cf62b1a78f3481afaa2"
+  },
+  "tasks.tasksdashboard.newProject": {
+    "message": "新しいプロジェクト",
+    "sourceHash": "e86748eb560380bb3ee51e2d861de1be21ad11b116ef986f0337acddb44acf9a"
+  },
+  "tasks.tasksdashboard.newSpace": {
+    "message": "新しいスペース",
+    "sourceHash": "d3db5d0edc04d8831f3f1278026082ab575df81456bb8213018b70731501736f"
+  },
+  "tasks.tasksdashboard.newTask": {
+    "message": "新しいタスク",
+    "sourceHash": "b3bc685c6f8719912b2b59f154253f34ba17628270a65a5c5b5fc8ac685ad331"
+  },
+  "tasks.tasksdashboard.noArchivedProjects": {
+    "message": "アーカイブ済みのプロジェクトはありません。",
+    "sourceHash": "d8ffd174abfc6118127454108c6484461b78291bbb31c352865dffc911cce9f7"
+  },
+  "tasks.tasksdashboard.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "138f5a84199967f87e59b6bd2b7ec2b77c7b73b7667fbc8f97c504174e2ee3a6"
+  },
+  "tasks.tasksdashboard.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "3ab126520ba475dbd9b84f9684d241a53884c4daf31601d6c86980850d5ab14b"
+  },
+  "tasks.tasksdashboard.noType": {
+    "message": "タイプなし",
+    "sourceHash": "d5b684cad42b3b855a015ec00078aeb3df5835f411d1d47e2f3894cd6b3258e6"
+  },
+  "tasks.tasksdashboard.nothingInThisFilter": {
+    "message": "このフィルタに該当するものはありません",
+    "sourceHash": "3a36597ae2e9c71c09e6ce2c9ef888f05fc5d334eb759c5a644cd1b61724e47c"
+  },
+  "tasks.tasksdashboard.nothingMatches": {
+    "message": "一致するものはありません",
+    "sourceHash": "63789407a7a3699e50c1edf8d2551f8217670b9bab71059f8e98061d0155a5d8"
+  },
+  "tasks.tasksdashboard.nothingOpenWithThisLabel": {
+    "message": "このラベルの未完了項目はありません",
+    "sourceHash": "bcf107cdc255d44365cb6f062604fe4cb41acdf61aa3b1552c2df1988069aa1b"
+  },
+  "tasks.tasksdashboard.open": {
+    "message": {
+      "other": "{count} 件が未完了"
+    },
+    "sourceHash": "507549927cbea3106dc228a217aa7c80610655f8cc90a940cb97327ad30d3856"
+  },
+  "tasks.tasksdashboard.openInNewTab": {
+    "message": "新しいタブで開く",
+    "sourceHash": "5548917318527edc4aeab3b4772c5a17e99119694698df469a694a42da6dd63e"
+  },
+  "tasks.tasksdashboard.pastWorkKeptForReferenceRestoreAProjectToBringItBackToTheSidebar": {
+    "message": "過去の作業を参考用に保存しています。プロジェクトを復元すると、サイドバーに戻ります。",
+    "sourceHash": "0f22624ff2afd069ef010a022c8d9cd7bb679a86fbc636137fa27c6a970fef36"
+  },
+  "tasks.tasksdashboard.project": {
+    "message": "プロジェクト",
+    "sourceHash": "e44e837377c1703be5a4a0814833388d9c484f72e057ec2c5e65f4b1c2257bd8"
+  },
+  "tasks.tasksdashboard.projectActions": {
+    "message": "プロジェクトの操作",
+    "sourceHash": "87abc91e2f37bc0a352a8533c11b47abeec8f9724c6ca6fc74a86f29cbfc8cf6"
+  },
+  "tasks.tasksdashboard.projectNotFound": {
+    "message": "プロジェクトが見つかりません",
+    "sourceHash": "50b10e3317d133605773ebe0f2651cb341fabb877ccaae6c00e31319a6b8f980"
+  },
+  "tasks.tasksdashboard.projectSettings": {
+    "message": "プロジェクトの設定",
+    "sourceHash": "a5df598fb7d46b3e09023e7bf48fede578f2d0995f533c25198fdbab135b30c8"
+  },
+  "tasks.tasksdashboard.projectsGiveYourTasksAHomePlanInAListOrOnABoardAndSeeWhatSLeftAtAGlance": {
+    "message": "プロジェクトはタスクの居場所になります。リストやボードで計画を立て、残りの作業をひと目で確認できます。",
+    "sourceHash": "6b6e5527c4eaf668e1f12ef202786884624da7ad24800a38d6f0aed4c12940a1"
+  },
+  "tasks.tasksdashboard.readyToClose": {
+    "message": "クローズ可能",
+    "sourceHash": "03e197f57d68e0c1c3ac85fa3695d78d31ea0bb5fae9d1eb45d8e546e3afadbe"
+  },
+  "tasks.tasksdashboard.resetToSavedSearch": {
+    "message": "保存済みの検索に戻す",
+    "sourceHash": "0e778e453d16470f06e37eccb56628191d80d32d56121de32adc34beab0d0dce"
+  },
+  "tasks.tasksdashboard.restore": {
+    "message": "復元",
+    "sourceHash": "f99f51f1f7ab27708e5a1179b6c23884a8697641646b5ea77e658852b989b8d6"
+  },
+  "tasks.tasksdashboard.save": {
+    "message": "保存",
+    "sourceHash": "b6cc56e5f894add870578c972852d8801901de2d38ac973278b7b59605cbc2c8"
+  },
+  "tasks.tasksdashboard.saveAsFilter": {
+    "message": "フィルタとして保存",
+    "sourceHash": "72b1f68b1a5c6ac608f60bd303bbeb8596885b5fc668a295a51bf9ec31ad2491"
+  },
+  "tasks.tasksdashboard.saveAsNewFilter": {
+    "message": "新しいフィルタとして保存",
+    "sourceHash": "bd6eeeb00d09c5d5cb93b53971eb5da1d9bfc22c1c838ed4426051ebfff019c0"
+  },
+  "tasks.tasksdashboard.saveAsView": {
+    "message": "ビューとして保存",
+    "sourceHash": "895146c1618c1297e2e5a220b66b5de726f08874dfc9a2b0f999548ccb7346d7"
+  },
+  "tasks.tasksdashboard.saveSearchAsFilter": {
+    "message": "検索をフィルタとして保存",
+    "sourceHash": "34374c20e85b1f8069ca820596f7a878c5fda68b5f960c15df96acc0baba2b83"
+  },
+  "tasks.tasksdashboard.savedTemplateName": {
+    "message": "テンプレート「{name}」を保存しました",
+    "sourceHash": "15a52af7c56bd031efcdac3afeea23a79ab3db9cf4b2ad609290615ad1f3aa38"
+  },
+  "tasks.tasksdashboard.sharedViewWillBeRemovedFromOwner": {
+    "message": "「{name}」は {owner} から削除されます。他のプロジェクトとスペースには残ります。",
+    "sourceHash": "4c37d283814649ad94a6f5d3dbac87851a10c64baaf4945cd5a02864968585c8"
+  },
+  "tasks.tasksdashboard.someFilesCouldNotBeReadSnapshoterrorsjoin": {
+    "message": "一部のファイルを読み込めませんでした: {snapshotErrorsJoin}",
+    "sourceHash": "e0f545193cc6d7ffc5e150c8ceb1cb0528bec2dc2e37fd39363a420db14cd8c0"
+  },
+  "tasks.tasksdashboard.spaceActions": {
+    "message": "スペースの操作",
+    "sourceHash": "57e9ba996e720f4761961eb111c619739c43470fa4c7b547459cd9f4e134c7bf"
+  },
+  "tasks.tasksdashboard.spaceTabs": {
+    "message": "スペースタブ",
+    "sourceHash": "e19c4f13addd5d4a8a8ec5b0ac47e0be136b7725658b1223bc55160bb16fbf9a"
+  },
+  "tasks.tasksdashboard.startWithOneTaskTheRestCanFollow": {
+    "message": "まずはタスクを 1 つ追加しましょう。残りはあとから続けられます。",
+    "sourceHash": "67c12dbf2632cb9cbe850ad27e47cc0034240dd5d699752c78e08d649e2fae63"
+  },
+  "tasks.tasksdashboard.taskCreated": {
+    "message": "タスクを作成しました",
+    "sourceHash": "6a2cd362b07ecf56aedf3659707ce25ec925157c5ddba487e4d370346bf859f9"
+  },
+  "tasks.tasksdashboard.tasks": {
+    "message": "タスク",
+    "sourceHash": "7305de93a457a5b2f24d233a168a87c0d496f5c9fb67e402f6bdea2dda0047da"
+  },
+  "tasks.tasksdashboard.taskviewnameviewWillBeRemovedItsTasksAreNotAffected": {
+    "message": "「{taskviewnameView}」は削除されます。そのタスクには影響しません。",
+    "sourceHash": "e0e27e032915346c89d06234af2f8e2a9e8d122ff0eedad0242ef85d3870eb75"
+  },
+  "tasks.tasksdashboard.thisProjectMayHaveBeenRemovedChooseAnotherProjectFromTheSidebar": {
+    "message": "このプロジェクトは削除された可能性があります。サイドバーから別のプロジェクトを選択してください。",
+    "sourceHash": "4e84060a3df5307cb178801341d2ee1a64a14ff0b8ce7d9204008fcd38379c8d"
+  },
+  "tasks.tasksdashboard.thisSpaceWasDeletedItsProjectsAreUnderProjectsInTheSidebar": {
+    "message": "このスペースは削除されました。そのプロジェクトはサイドバーの「プロジェクト」にあります。",
+    "sourceHash": "1676980d43170977fb9e4f9e6de28722d61d42762e20c874a1cc12d3602a72e8"
+  },
+  "tasks.tasksdashboard.tryADifferentSearchOrFilter": {
+    "message": "別の検索語またはフィルタをお試しください。",
+    "sourceHash": "37869482f092eeed5bfd1c73cab22aae1d82bfdc06c394bad5af3516237b93df"
+  },
+  "tasks.tasksdashboard.undo": {
+    "message": "元に戻す",
+    "sourceHash": "89516d8c3ca3a150ab443cb1ffb0d1ccfed222fbc99b08290725f5ecca9968b9"
+  },
+  "tasks.tasksdashboard.updatedBeforesizeTasks": {
+    "message": {
+      "other": "{count} 件のタスクを更新しました"
+    },
+    "sourceHash": "f19dc0297644b55970d7bd7df0c1acfb526c49bc82236c8e66a29e385728b1c4"
+  },
+  "tasks.tasksdisplaypopover.board": {
+    "message": "ボード",
+    "sourceHash": "a9f204dd828e35c945e2369336e60358e2c344462ba498fc4ea0f8c0f3f3dba0"
+  },
+  "tasks.tasksdisplaypopover.bucket": {
+    "message": "レーン",
+    "sourceHash": "894806daa000e76b2ec433bea160abd32c883ea19cbc345702891ac461b039f8"
+  },
+  "tasks.tasksdisplaypopover.columns": {
+    "message": "列",
+    "sourceHash": "899b05e112702f4ffa9ef6445b40129c85949370a33fdea9233fc17da17becdb"
+  },
+  "tasks.tasksdisplaypopover.created": {
+    "message": "作成日",
+    "sourceHash": "03a99c4dfd8ea3a879fc2b482f9186e64a7040d3bf665d4bab74ed4352a47c55"
+  },
+  "tasks.tasksdisplaypopover.direction": {
+    "message": "方向",
+    "sourceHash": "4095c31dbb6d5c775b709ba41e97b2813c1ac7c592a5a8489e3fb225944e5efe"
+  },
+  "tasks.tasksdisplaypopover.display": {
+    "message": "表示",
+    "sourceHash": "363bff46738f0f40a1e6d7fab6afc268c924e0430cbda4048280ecafb4cebf32"
+  },
+  "tasks.tasksdisplaypopover.displayOptions": {
+    "message": "表示オプション",
+    "sourceHash": "1bb3570aad4b53fb5b27c8333c2aa8bcf6e206e459bd31b745aef2a1cdda9050"
+  },
+  "tasks.tasksdisplaypopover.dueDate": {
+    "message": "期日",
+    "sourceHash": "f8488c2aa1cc084038d4c1c626a554f44c0081c200ac8fc6b7ace0a26699ed14"
+  },
+  "tasks.tasksdisplaypopover.groupByType": {
+    "message": "タイプ",
+    "sourceHash": "19b9cee6f9790c5408eb0a73635487d7460c92519db7a4f108b991eff1ceb8e6"
+  },
+  "tasks.tasksdisplaypopover.grouping": {
+    "message": "グループ化",
+    "sourceHash": "4d1a8beb180f85ce191f423a17d2d2f75478ed4624fb9ebf534d5a848857758c"
+  },
+  "tasks.tasksdisplaypopover.highestFirst": {
+    "message": "高い順",
+    "sourceHash": "0712b08b60126066fd60a792d22237060df2def3c75a9a7f939cdd3ac86a09a7"
+  },
+  "tasks.tasksdisplaypopover.lanes": {
+    "message": "レーン",
+    "sourceHash": "4e34fa9f99201ad84e9e37f8dc23a0474efb9d68e25e2a4fe39553faa51b3508"
+  },
+  "tasks.tasksdisplaypopover.latestFirst": {
+    "message": "新しい順",
+    "sourceHash": "73ebc3c7d50002e67bf61eaceff611da9994817a3c24a83cb0ae466a8c7eeca7"
+  },
+  "tasks.tasksdisplaypopover.list": {
+    "message": "リスト",
+    "sourceHash": "4d2fb5533922798d3f2fbd5778828a5bba4a3c2a39ff521fdc52c9abfd6ca01a"
+  },
+  "tasks.tasksdisplaypopover.lowestFirst": {
+    "message": "低い順",
+    "sourceHash": "6c6ecfa949d69b4accaade2b33a2713c358ca40191d14b604099827bc5055c9e"
+  },
+  "tasks.tasksdisplaypopover.manual": {
+    "message": "手動",
+    "sourceHash": "57e98367bfe8b70cc4eeb128a7dccb8e640ecc8d8b774c32ac2268b06aae9238"
+  },
+  "tasks.tasksdisplaypopover.newestFirst": {
+    "message": "新しい順",
+    "sourceHash": "49273c3da2be652231e6952f0947a4592e4717d75190e3bc8adf6cb1b9681489"
+  },
+  "tasks.tasksdisplaypopover.noGrouping": {
+    "message": "グループ化なし",
+    "sourceHash": "eb0bf551a0cadac5ed2bbe0f8285794ce33db675feb810c0b510cb14f14e5191"
+  },
+  "tasks.tasksdisplaypopover.oldestFirst": {
+    "message": "古い順",
+    "sourceHash": "e398a8f9409651d2abde1c775f91c9d20b3031c3e87bb7c6875b708a4391ca94"
+  },
+  "tasks.tasksdisplaypopover.ordering": {
+    "message": "並び順",
+    "sourceHash": "ba0901791074e28457df95fcab3942e22facc479508d41bd1928ff03c76e83cb"
+  },
+  "tasks.tasksdisplaypopover.priority": {
+    "message": "優先度",
+    "sourceHash": "396ebf9fc4f9f3234b89d5e44a0d0d60288106237e126c1039a59a5f1e9c6b4b"
+  },
+  "tasks.tasksdisplaypopover.project": {
+    "message": "プロジェクト",
+    "sourceHash": "723d2e1735360588a9dd4675dc5d52e5ea46601e1885a8b8c9c4f15237c7d9fb"
+  },
+  "tasks.tasksdisplaypopover.reverseOrder": {
+    "message": "逆順",
+    "sourceHash": "8e7dc7ed2270076a881636ad034c8f5d99ad982b055dec27001ccf87ebb4e798"
+  },
+  "tasks.tasksdisplaypopover.scrollSideways": {
+    "message": "横方向にスクロール",
+    "sourceHash": "827b6e4379f51edabdf387e2e101fa237e5a12f5ddb4c0eea95b1866c52c363c"
+  },
+  "tasks.tasksdisplaypopover.settingsOrder": {
+    "message": "設定の順序",
+    "sourceHash": "d0a89d0728ac293a90d6d1238feeb2d78824fba5d893619d97e636db79ff55f7"
+  },
+  "tasks.tasksdisplaypopover.soonestFirst": {
+    "message": "期日が近い順",
+    "sourceHash": "7f16db1484f64bdde2b7127e09f50a359b9e199966d4a82f0e1dfa4fa46edfaa"
+  },
+  "tasks.tasksdisplaypopover.sortByType": {
+    "message": "タイプ",
+    "sourceHash": "0a0385fcf80d07afe2b84fd7480cffec5a6dd9d7ce4fd21395cfa884a9e06da7"
+  },
+  "tasks.tasksdisplaypopover.status": {
+    "message": "ステータス",
+    "sourceHash": "35762d8d72edcd927bdfc6a3923b68de63a243e82f3b9a721cfd4d1fa1e326c9"
+  },
+  "tasks.tasksdisplaypopover.taskLayout": {
+    "message": "タスクのレイアウト",
+    "sourceHash": "aebb46f0775fae8a0c38de6e4a32d22882079bab3052f23c430087d0da091b76"
+  },
+  "tasks.tasksdisplaypopover.updated": {
+    "message": "更新日",
+    "sourceHash": "f83b88aa0a8ef61f732626b81bd14be661bffba40198ecbac07f8285c2a38206"
+  },
+  "tasks.tasksdisplaypopover.wrapOntoRows": {
+    "message": "行で折り返す",
+    "sourceHash": "5363718d127f810e83d6c52ab14f271f0004b2b6a8d1175b784e7a64533fd047"
+  },
+  "tasks.taskskanban.dropTaskHere": {
+    "message": "ここにタスクをドロップ",
+    "sourceHash": "fcbc05720cac2fa8dce328b3ff542082256f6f7212a78268be5f1c39ce8d1c1f"
+  },
+  "tasks.taskskanban.newNameTask": {
+    "message": "新しい {name} タスク",
+    "sourceHash": "712789199342dc7d6f5538cd05f11a58bada75ab1c76029cd9280316db439d8e"
+  },
+  "tasks.taskskanban.noTasks": {
+    "message": "タスクはありません",
+    "sourceHash": "85565fe31ac3a0fc155d7f034bd7e78838960f8bed19d57a4001a3d0e3f55e2a"
+  },
+  "tasks.taskslist.newGrouplabelTask": {
+    "message": "新しい {groupLabel} タスク",
+    "sourceHash": "f5c66d98e607244f51b1685189e3a24d6ba0d3ea2e8aa24b755a506d24400526"
+  },
+  "tasks.taskslist.newTask": {
+    "message": "新しいタスク",
+    "sourceHash": "d97f43df1f680d45bbfcfcf89c5bb95bf3d7d06faa15e83f665624b2bc4cc5ab"
+  },
+  "tasks.tasksprolocked.tasksIsAProFeature": {
+    "message": "タスクは Pro の機能です",
+    "sourceHash": "f2365162cc01dc20797a25148f2bab9e96c058028e36cc99d30f3f60d725c0c7"
+  },
+  "tasks.tasksprolocked.trackTasksAndProjectsAlongsideYourNotesWithOctarinePro": {
+    "message": "Octarine Pro で、ノートと一緒にタスクやプロジェクトを管理できます。",
+    "sourceHash": "e017277d02428dae7825ae63e92e3ab4567907fd3ed96035e04c84b2d3960acb"
+  },
+  "tasks.tasksprolocked.upgradeToPro": {
+    "message": "Pro にアップグレード",
+    "sourceHash": "b4cddca1fca091a26875dd7218589e3d85c90b3064b53f808c1fc99c0e64ef21"
+  },
+  "tasks.taskssearch.aBEither": {
+    "message": "a,b のいずれか",
+    "sourceHash": "f7051249675d0bb27d0a424c586b8af888a8bbf3a8ad884b67e68c858f682a02"
+  },
+  "tasks.taskssearch.choose": {
+    "message": "↑↓ 選択",
+    "sourceHash": "65a3feb8f7573d0f4b922e8704acce6378e8f1d048498ca5eb8fbd6092e9bfa8"
+  },
+  "tasks.taskssearch.clearSearch": {
+    "message": "検索をクリア",
+    "sourceHash": "9470476d1217628b067831b4a07ee2b844316996b0842badb42406b6eabc43a6"
+  },
+  "tasks.taskssearch.complete": {
+    "message": "⇥ 完了",
+    "sourceHash": "e00b4f6da0a81b506ec8b404b09dca583ebe6a2494ab6ffd9880c2af625ceca7"
+  },
+  "tasks.taskssearch.excludeMatches": {
+    "message": "一致を除外",
+    "sourceHash": "d251011c3b8bb357dd026e7315024fb390a401d52331a23f2931960afa8e22be"
+  },
+  "tasks.taskssearch.includeMatches": {
+    "message": "一致を含める",
+    "sourceHash": "f32d2e3fd6546f9e85214a364179b9f78db1b81fccd7c6a1b76f214d4a6d8043"
+  },
+  "tasks.taskssearch.keyExclude": {
+    "message": "-key: 除外",
+    "sourceHash": "7aaaa2716a1d8afde50786c4654b21231dc790f107fadb1b7186750841fa0303"
+  },
+  "tasks.taskssearch.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "f20791479b95946f9046a1c93918f06a0913c5b7a014954feb1235a783cfcf2c"
+  },
+  "tasks.taskssearch.noSpace": {
+    "message": "スペースなし",
+    "sourceHash": "a0a318d8b38459a3a8927ec61a0fa859e7721886265f825f02dad9e0698efb84"
+  },
+  "tasks.taskssearch.noType": {
+    "message": "タイプなし",
+    "sourceHash": "11ae29a1f0f26f9ccd7ac94d80c882f8d88bccd147b712f1c8468fe3eeb33100"
+  },
+  "tasks.taskssearch.not": {
+    "message": "ではない",
+    "sourceHash": "2955a02fc74165a419518fc128e4ff656b8d4c4f26ad1a1450d0fedfe0307f6a"
+  },
+  "tasks.taskssearch.removeSerializetaskfilterfilter": {
+    "message": "{serializetaskfilterFilter} を削除",
+    "sourceHash": "04c6a298cb56ee99d1c6782ef2f237cfd00778983d12c82bee675707aa869d47"
+  },
+  "tasks.taskssearch.searchOrFilterTryStatusTodoPriorityUrgentLabelUi": {
+    "message": "検索またはフィルタ…  例: status:todo priority:urgent label:ui",
+    "sourceHash": "1867aca7f8a3add2188fcb41cb08858b629aa7f6b32d1b22fd38e2de6e1991da"
+  },
+  "tasks.taskssearch.searchSuggestions": {
+    "message": "検索候補",
+    "sourceHash": "701f439be33bf461611eec79f59c06f4e3a990ba44781af68064f360e4c01fd3"
+  },
+  "tasks.taskssearch.searchTasks": {
+    "message": "タスクを検索",
+    "sourceHash": "94c6e929635126fef0a3fb2160372001bed331d5666d35983fdce8aeb2bce050"
+  },
+  "tasks.taskstoolbar.allLabels": {
+    "message": "すべてのラベル",
+    "sourceHash": "af33bb3e900067d3ff4af7cf4ff2d2132e1b2f796dfc6a91beab8ad6739661cc"
+  },
+  "tasks.taskstoolbar.allStatuses": {
+    "message": "すべてのステータス",
+    "sourceHash": "c57938b953e0a0af716c899137537c7d72d88f0bedc20fafff1b394bd62892d3"
+  },
+  "tasks.taskstoolbar.board": {
+    "message": "ボード",
+    "sourceHash": "2d6bcbed2bd9aaa6237d2211c7eb34159844d7d7efb72c89db5f4dc64dd7b4bc"
+  },
+  "tasks.taskstoolbar.clearFilters": {
+    "message": "フィルタをクリア",
+    "sourceHash": "4df407dc72096a6ceae164bb2480f176f3ff5ca5f9c7e233bf369f12de3464d9"
+  },
+  "tasks.taskstoolbar.clearSearch": {
+    "message": "検索をクリア",
+    "sourceHash": "c03788182211a60daa0faaa06792e1a82a59049fd0d0dcb1b7e966731da26048"
+  },
+  "tasks.taskstoolbar.dueDate": {
+    "message": "期日",
+    "sourceHash": "8bfcee6e843eccc6e21963e49f4115bf5500411f609789faf83adda984e15c5f"
+  },
+  "tasks.taskstoolbar.filter": {
+    "message": "フィルタ",
+    "sourceHash": "67b8a19813582de19e1046f3b8aa87c99ccab4a44160808bf52b3cc2d9f4acea"
+  },
+  "tasks.taskstoolbar.filtersActive": {
+    "message": "フィルタ適用中",
+    "sourceHash": "85cd6eb1599b6d2a7ce2514b5d9a1bdc2306baadaada7864c1286bf53d022e91"
+  },
+  "tasks.taskstoolbar.includeArchivedTasks": {
+    "message": "アーカイブ済みのタスクを含める",
+    "sourceHash": "45b2e2b1a6cd07a3f1ba3a0b0a1b76a4cef3d51377f2e3cd8b1d2d88d727a435"
+  },
+  "tasks.taskstoolbar.labels": {
+    "message": "ラベル",
+    "sourceHash": "ee5d3a0201c7a79afc792f621e969e30c072cf1fa2ba94bf5737088e6541b194"
+  },
+  "tasks.taskstoolbar.list": {
+    "message": "リスト",
+    "sourceHash": "1ba9ce3b3b59ee6ef9412284891eb0674d1d30720f2f79e2baba9fa94220370e"
+  },
+  "tasks.taskstoolbar.manual": {
+    "message": "手動",
+    "sourceHash": "85833725a1ae41e814c07fd040958fc2894f5a3d41ffbcdaff6a308f2ae8d316"
+  },
+  "tasks.taskstoolbar.newTask": {
+    "message": "新規タスク",
+    "sourceHash": "b503430744c1803f6b3fdb903b0c2b7bb39cada578d41365cb7129abca4b4b9b"
+  },
+  "tasks.taskstoolbar.priority": {
+    "message": "優先度",
+    "sourceHash": "c9930f0f4ce104e1b6a57513b16eed039708514ff1769e35c8b06d07575a8489"
+  },
+  "tasks.taskstoolbar.searchTasks": {
+    "message": "タスクを検索",
+    "sourceHash": "8048c216e25a866b5acfe35d26abe9fddf9d4cb583f91138cca8f674dfb41e35"
+  },
+  "tasks.taskstoolbar.searchTasks2": {
+    "message": "タスクを検索…",
+    "sourceHash": "fb9640c7e59adbecce14c9de10331aafb91b7ea1d3f5ed9327f187d201d8b83e"
+  },
+  "tasks.taskstoolbar.sortTasks": {
+    "message": "タスクを並べ替え",
+    "sourceHash": "95085024caa1a3e3d54296a04a45281ed8b3f641a759839e2396c30f204ce983"
+  },
+  "tasks.taskstoolbar.status": {
+    "message": "ステータス",
+    "sourceHash": "e6888b9ca0aebbb1f3ec7121108f99073281509fff736ff5eceb43cebcf28cf9"
+  },
+  "tasks.taskstoolbar.taskLayout": {
+    "message": "タスクのレイアウト",
+    "sourceHash": "2d7758dfe38d81ddc3ec30760b4d3c103fb125eb028eb6726df9dbb4029db775"
+  },
+  "tasks.tasksubtasks.addSubtask": {
+    "message": "サブタスクを追加",
+    "sourceHash": "7aae910ed45193f6f85cf990e33ff18e72981c36e98a5b6aef529d3a1b394712"
+  },
+  "tasks.tasksubtasks.completeTasktitletask": {
+    "message": "{tasktitleTask} を完了",
+    "sourceHash": "464bbcc3fd60d55a47ee30f3062c5da2b849e2b54728bdba3195c23de577245f"
+  },
+  "tasks.tasksubtasks.cycle": {
+    "message": "サイクル",
+    "sourceHash": "3ca2f7ee0ff29b3dd059f0a2c650cb9397f0730d016aada2f17ef1bc1f818bcf"
+  },
+  "tasks.tasksubtasks.goToTask": {
+    "message": "タスクに移動",
+    "sourceHash": "b6ffd76c9db3dc4790eabe706566a53f3a1494728659aeb1a5eabf23bb98d553"
+  },
+  "tasks.tasksubtasks.makeAParentTask": {
+    "message": "親タスクに設定",
+    "sourceHash": "25fe8975b36abed7440ffd8c89171d7e39e783e25d0d306224e5a2f60389bb65"
+  },
+  "tasks.tasksubtasks.noCycle": {
+    "message": "サイクルなし",
+    "sourceHash": "bed6cde6b2563324d0268c481b0c6975f911adf79028338af63bc9b84192ed8e"
+  },
+  "tasks.tasksubtasks.priority": {
+    "message": "優先度",
+    "sourceHash": "79a2973ea1ee65ae46bdd07cdcecd79d6cc923a0e44960c0ee9e21484fac0115"
+  },
+  "tasks.tasksubtasks.status": {
+    "message": "ステータス",
+    "sourceHash": "c88ddf6cbdd1906f6e5a7d74c9b2a645778aff498ac6cae4278f80821834c920"
+  },
+  "tasks.tasksubtasks.subtaskTitle": {
+    "message": "サブタスクのタイトル",
+    "sourceHash": "f5c4d72a67206f16c4a3648cc648f0b956b37f6f6573e1fa703f664fc6ba24ad"
+  },
+  "tasks.tasksubtasks.subtasks": {
+    "message": "サブタスク",
+    "sourceHash": "33559d42103d21d7a673d97a28ad4a51ad65c788540351032869d942cc265d14"
+  },
+  "tasks.tasksubtasks.taskidentifiertaskIsNowAParentTask": {
+    "message": "{taskidentifierTask} は親タスクになりました",
+    "sourceHash": "2c817593fb33305760ef71fef89fdd3cfd8180cbea80f41b63a6d11d55357cbc"
+  },
+  "tasks.taskviewdialog.alreadyOnThis": {
+    "message": "この{noun}には既に含まれています",
+    "sourceHash": "6b3654c2083adc542121e457935c244e9e916cf5129df145fbde7751b6d1fbde"
+  },
+  "tasks.taskviewdialog.anyProjectOrSpaceThatAddsIt": {
+    "message": "これを追加したプロジェクトまたはスペース",
+    "sourceHash": "72e838375ea26823455b4dd841fc26dd11f57748bd307983025fb7c4a44f753b"
+  },
+  "tasks.taskviewdialog.belongsToScopelabel": {
+    "message": "所属先: {scopeLabel}",
+    "sourceHash": "f50f847e98068b9e4dfca87c99a2e96abcc261eb04d46e2de9648165098e4ffc"
+  },
+  "tasks.taskviewdialog.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "b46ffbf161658413ffd2c492893a49355da179a1a64416336aca09f82694c206"
+  },
+  "tasks.taskviewdialog.changeFilterIcon": {
+    "message": "フィルタのアイコンを変更",
+    "sourceHash": "25e5a2c46ed73d752e05e04a3df194b429d8bdfae34a0205d27997fd9d9a33a4"
+  },
+  "tasks.taskviewdialog.changeIconAndColour": {
+    "message": "アイコンと色を変更",
+    "sourceHash": "0aca15bb38f86c3e3642b008cf6150b8f59ad5b2e9f353c5f4944ea551d0acc4"
+  },
+  "tasks.taskviewdialog.createFilter": {
+    "message": "フィルタを作成",
+    "sourceHash": "69aa5b9f27a734feb8a44af6626ce27d91d4cb8febfac05579ad5ae6fae56afc"
+  },
+  "tasks.taskviewdialog.editFilter": {
+    "message": "フィルタを編集",
+    "sourceHash": "875b9cb881b1726d786426ae8855067f6fadbb3b841d627b70f6f78f080bb690"
+  },
+  "tasks.taskviewdialog.everyTask": {
+    "message": "すべてのタスク",
+    "sourceHash": "8406a19339c7a32c441637c52bbd695d70ffd0b300a7a7e9787658f41017414f"
+  },
+  "tasks.taskviewdialog.filterName": {
+    "message": "フィルタ名",
+    "sourceHash": "3ac3307064aedbecee2d01ac58dbe7cdaa49ffdf7ece728c1f8d24f08d4b1e6b"
+  },
+  "tasks.taskviewdialog.newFilter": {
+    "message": "新規フィルタ",
+    "sourceHash": "a2ddcf065eda12997cbd3ac319d0f443767a2989fd4fab5628f1db48d23b3e15"
+  },
+  "tasks.taskviewdialog.onlyIn": {
+    "message": "{ownerName} のみ",
+    "sourceHash": "58a69ebd9782213cc4c1a546412ca80bbbc6384b0b5472fa5db3242967272bf8"
+  },
+  "tasks.taskviewdialog.onlyInOne": {
+    "message": "1 つの{noun}のみ",
+    "sourceHash": "083f5e81222a6782902779e07e5458e82a1c6291318386e14be25e44f2735b58"
+  },
+  "tasks.taskviewdialog.orAddASharedOne": {
+    "message": "または共有のものを追加",
+    "sourceHash": "40e9d9579dd7746e004c80d64be78fbbe41f2bbc9b29bb81380edd36fd3fc918"
+  },
+  "tasks.taskviewdialog.save": {
+    "message": "保存",
+    "sourceHash": "39a8f96669843d50756f6c2a5ea3b290829ad55824b2669ef0873c7b60ae55c4"
+  },
+  "tasks.taskviewdialog.saving": {
+    "message": "保存中…",
+    "sourceHash": "fafaacd4217e8d51e59cbe757105963e182cdbd9182bdfc650707a430da79316"
+  },
+  "tasks.template.untitled": {
+    "message": "無題のテンプレート",
+    "sourceHash": "b01e4e856027f7d36b40dcc67c4060761686a14486746717e490ee3ed09baed8"
+  },
+  "tasks.tree.addProjectsToName": {
+    "message": "{name} にプロジェクトを追加",
+    "sourceHash": "6fe3f601779bb12ee4a759a5b78540796a8af60946669035bd6d995cccd68e2b"
+  },
+  "tasks.tree.archived": {
+    "message": "アーカイブ済み",
+    "sourceHash": "62dd01783ef3c2ecb35f8e9dcfed5cf6a17e9fe2e6c04d29a8eb1e3ac33426f1"
+  },
+  "tasks.tree.archivedProjects": {
+    "message": {
+      "other": "アーカイブ済みのプロジェクト {count} 件"
+    },
+    "sourceHash": "a105dc2e55ea73bdec22c006fa7143620a8d41402071e2b22d48ae3fdede2a40"
+  },
+  "tasks.tree.archivedProjectsAndSpaces": {
+    "message": {
+      "other": "アーカイブ済みのプロジェクトとスペース {count} 件"
+    },
+    "sourceHash": "323bdb0f957b2ebd3a4199cbeb5efe41a4909bdceef51e3b881546bf045ea416"
+  },
+  "tasks.tree.besideEachProject": {
+    "message": "各プロジェクトの横",
+    "sourceHash": "49e794f18bf1c044dcf644ccb4de2e56a63183993b73179208e64ed27ac307d2"
+  },
+  "tasks.tree.cancel": {
+    "message": "キャンセル",
+    "sourceHash": "1c1f1251f7d0940d41cae494f4f0fd62720f6db78d75ddff48ae040171c82734"
+  },
+  "tasks.tree.countOpenTasks": {
+    "message": {
+      "other": "未完了のタスク {count} 件"
+    },
+    "sourceHash": "bfae497dfa6dc0077f3fe001b543cbdc0a2cca73456b5e35cdfbaf115863282a"
+  },
+  "tasks.tree.countOpenTasksInNameOutsideAnyProject": {
+    "message": {
+      "other": "どのプロジェクトにも属さない {name} 内の未完了タスク {count} 件"
+    },
+    "sourceHash": "324b33fcdcdf01e3aa39509248a5cd3942267ff45a45e1d9779e6ce8080cb2d9"
+  },
+  "tasks.tree.cycles": {
+    "message": "サイクル",
+    "sourceHash": "182813f0dd035f9dd4a16f5e6fdf711dae79459794f2a2b29fa16398da28c697"
+  },
+  "tasks.tree.deleteFilter": {
+    "message": "フィルタを削除しますか？",
+    "sourceHash": "f6ff10a9843c95d0351b7f7c889535968b89002d6516e5b7b6663e45df4edbd7"
+  },
+  "tasks.tree.deleteFilter2": {
+    "message": "フィルタを削除",
+    "sourceHash": "1cdeec788114684955dc8f790e2b9a57b470afc4de0cf865e8507a53c1f52435"
+  },
+  "tasks.tree.editFilter": {
+    "message": "フィルタを編集",
+    "sourceHash": "1e082d1f56ba7ec3dd821499c37f6d2824ee5a787e04dad1ee11a9326c176db5"
+  },
+  "tasks.tree.filterCount": {
+    "message": {
+      "other": "タスク {count} 件"
+    },
+    "sourceHash": "30cbcfe6fe41c4c86c589cbd28c9467cf55f6338b893e6ffa6f52356202018b7"
+  },
+  "tasks.tree.filters": {
+    "message": "フィルタ",
+    "sourceHash": "4bca0a616fd81d16f14bc6514c7dc75bad032445abfba4299fa72f63a610d0e2"
+  },
+  "tasks.tree.foldName": {
+    "message": "{name} を折りたたむ",
+    "sourceHash": "c505731ac0eedd5bdaf01e8d8e4157890012a92b78bf97299848a10b9b4eab6e"
+  },
+  "tasks.tree.groupProjectsIntoOngoingAreas": {
+    "message": "プロジェクトをスペースにまとめる",
+    "sourceHash": "a9fcbd3e171cc1f1fb5b75d268c87a6af3375918cd1c9cd04a148d46d5313f1e"
+  },
+  "tasks.tree.loadingFilters": {
+    "message": "フィルタを読み込み中…",
+    "sourceHash": "adab99c69a0ea27dd31fa8bde21b3d2018bc331d862c3210cfaf56a3fac6cc12"
+  },
+  "tasks.tree.loadingProjects": {
+    "message": "プロジェクトを読み込み中…",
+    "sourceHash": "70a00125d2e1a069cd8d6ca26f60ad58664d2afa5741546e69685b340e220593"
+  },
+  "tasks.tree.loadingSpaces": {
+    "message": "スペースを読み込み中…",
+    "sourceHash": "7c3ea8efc8728f00fd9bbbb5e6209ff75e291251d0746c6a2588d68bdb655635"
+  },
+  "tasks.tree.newFilter": {
+    "message": "新規フィルタ",
+    "sourceHash": "f56eded2a26f51b0fe93ebc0b7fab660329040d0dc08ee92288a48cd031f9066"
+  },
+  "tasks.tree.newProject": {
+    "message": "新規プロジェクト",
+    "sourceHash": "112527b362296d4717df3dfde28514d4ff0bef94e14fb6bdfaa494bd431f7aae"
+  },
+  "tasks.tree.newSpace": {
+    "message": "新規スペース",
+    "sourceHash": "ccb46ec0169286afd598e5224985238e2dc83a5be30c6f4a778d4c507f1d923a"
+  },
+  "tasks.tree.noCyclesYet": {
+    "message": "サイクルはまだありません",
+    "sourceHash": "7339a8a257b5fccf708d70714190e32a55408379ddbb1d7abcdf630e88caa692"
+  },
+  "tasks.tree.noFiltersYet": {
+    "message": "フィルタはまだありません",
+    "sourceHash": "5179cf3d30406ddd95606811ca67f9e4c74c4b823fae60b3975a372f9d263732"
+  },
+  "tasks.tree.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "5780cd3cd9a06565ad970413471c74b2af00dbdab29ad57ed3c470c3909be3a4"
+  },
+  "tasks.tree.noProjectsYet": {
+    "message": "プロジェクトはまだありません",
+    "sourceHash": "718e0327ba7c74c544f1ac0df7ca5fb2c4b10d837bc2419193d96f96c83c47dd"
+  },
+  "tasks.tree.openInNewTab": {
+    "message": "新しいタブで開く",
+    "sourceHash": "a5ba40996c86177943c6204345ba7bf22ce24df72f92eaf602487cdf1d519b14"
+  },
+  "tasks.tree.openTaskCount": {
+    "message": "未完了タスク数",
+    "sourceHash": "923154ffe25a581afaf57f00ec37810a5c54d417d0097117a5a3a252b58baeae"
+  },
+  "tasks.tree.progressPie": {
+    "message": "進捗円グラフ",
+    "sourceHash": "1b32770db4f1e4e8dbbd39399852a03e6fa8b091a775dff748ef83b9fd8d122a"
+  },
+  "tasks.tree.projectOptions": {
+    "message": "プロジェクトのオプション",
+    "sourceHash": "081ebd6afea4fd46b41eff39e17d57113c0272da1e086303c3c77c4d209792d3"
+  },
+  "tasks.tree.projectSettings": {
+    "message": "プロジェクトの設定",
+    "sourceHash": "33aa74bb0f4607f8e5b2bc27dfe5eabf81e13cdad0e94558b21ab5ebae2ef574"
+  },
+  "tasks.tree.projects": {
+    "message": "プロジェクト",
+    "sourceHash": "8a538e2a2120681b79b40898ed29bf665421622e074856b5eb2197972b781993"
+  },
+  "tasks.tree.savedviewnamedeletingfilterWillBeRemovedFromTheSidebarAndEveryProjectThatAddedItItsTa": {
+    "message": "「{savedviewnameDeletingfilter}」はサイドバーと、これを追加したすべてのプロジェクトから削除されます。タスクには影響しません。",
+    "sourceHash": "31ad777c4b5326f223b263ad338e880b52e41a4b3888e41aacbb69eb67e15b42"
+  },
+  "tasks.tree.showProgressCardOnHover": {
+    "message": "ホバー時に進捗カードを表示",
+    "sourceHash": "bfa74acc8454b8cfe5b848f8890b078cc45afd9155e4eb6e854fa8c0a06e8dd8"
+  },
+  "tasks.tree.spaces": {
+    "message": "スペース",
+    "sourceHash": "26d6dd7c84a38716856697a5f20917664500c8d5540d43ce9a9e33cc49bc1068"
+  },
+  "tasks.tree.unfoldName": {
+    "message": "{name} を展開",
+    "sourceHash": "0f05032d3a0355445403156ce853fefaefa3104b1bf5d65a3ddedf900fab041c"
+  },
+  "tasks.useplacecommandbar.markProjectCompleted": {
+    "message": "プロジェクトを完了にする",
+    "sourceHash": "9c6ec2c7ea58c09541c0a93539274c93f2701b32774c26bfb596972e8de53793"
+  },
+  "tasks.useplacecommandbar.moveProjectToSpace": {
+    "message": "プロジェクトをスペースに移動",
+    "sourceHash": "9a8e92f44b9bc01590ca4b5e51b3615ce6268d2e8fc47d4785c7e6c67ba35778"
+  },
+  "tasks.useplacecommandbar.newProjectInName": {
+    "message": "{name} に新規プロジェクト",
+    "sourceHash": "564ef0d676cf45bcfc2191eaf4d659f62ae0658cdf43c2d6b86b133c5e730692"
+  },
+  "tasks.useplacecommandbar.newTaskInName": {
+    "message": "{name} に新規タスク",
+    "sourceHash": "4eefc7a4fbeb1382b992d5ddeb37dabc6b99c4d399a5d4f5c1c3c2bbcc30578b"
+  },
+  "tasks.useplacecommandbar.noSpace": {
+    "message": "スペースなし",
+    "sourceHash": "e5bbbddf16f71e169179d52e352c4dbbd42b817b517b0f0dd02bdcc30efd1904"
+  },
+  "tasks.useplacecommandbar.pinProject": {
+    "message": "プロジェクトをピン留め",
+    "sourceHash": "43e4bdfa25eee67899508486277b388fded5cc94e661ed3233ab65f573e6d11e"
+  },
+  "tasks.useplacecommandbar.projectCompleteDoneFinishReopen": {
+    "message": "完了, 終わり, 済, 仕上げ, 再開, 再オープン, 未完了に戻す",
+    "sourceHash": "e3559df82baa746c490967171bfcfb7f327d650a88e40b7ac3f0aec0efdd0201"
+  },
+  "tasks.useplacecommandbar.projectPinSidebarFavouriteFavorite": {
+    "message": "ピン, ピン留め, 固定, サイドバー, お気に入り, 星, ブックマーク",
+    "sourceHash": "c83f44c2b3b1b18538e659994126c2563f2ab9e005bca1e308d178af59e8fc84"
+  },
+  "tasks.useplacecommandbar.projectSpaceMoveArea": {
+    "message": "スペース, 移動, 領域, エリア, 移す",
+    "sourceHash": "cab45b20bcd2fac97cf73c229fbe59cfa398dc2d4245a0f7933c43074d292c9d"
+  },
+  "tasks.useplacecommandbar.projectSpaceNoneRemove": {
+    "message": "スペース, なし, 解除, 削除, 外す",
+    "sourceHash": "ceea285eecf9079fe0b0e488c80c5175a2f4594f99394ab803b6276a5a9222d9"
+  },
+  "tasks.useplacecommandbar.projectSpaceSpacenamespace": {
+    "message": "スペース, {spacenameSpace}, 移動, 所属",
+    "sourceHash": "7e2e361857d8fd5fb8b8fe4d59968b44d7450b37f065d5f0e5505a03c0a6d3ef"
+  },
+  "tasks.useplacecommandbar.reopenProject": {
+    "message": "プロジェクトを再開",
+    "sourceHash": "e5348292bcfe4d12ccf93910fa6976d59ef2911570f55f9165dc0165b27c6ec0"
+  },
+  "tasks.useplacecommandbar.unpinProject": {
+    "message": "プロジェクトのピン留めを解除",
+    "sourceHash": "c7bd7c2cfa5731a00522197343672938169420d80d956cd05803a9166c68ea22"
+  },
+  "tasks.usetaskcommandbar.archiveTask": {
+    "message": "タスクをアーカイブ",
+    "sourceHash": "083f7898a2a36a701d29cc3d24b6f4b2cff73450a5fe3e04e08742134e1562f6"
+  },
+  "tasks.usetaskcommandbar.changeStatus": {
+    "message": "ステータスを変更",
+    "sourceHash": "195592f1b56e4824a7c58634bd14a02ecdf73e41956bd2b8cf4fb9d93c1e6c50"
+  },
+  "tasks.usetaskcommandbar.comment": {
+    "message": "コメント",
+    "sourceHash": "50c399a153e01f225e5563d69e985bdad217f64cc2c593858c43387b62201b30"
+  },
+  "tasks.usetaskcommandbar.copyTaskId": {
+    "message": "タスク ID をコピー",
+    "sourceHash": "3fabf1f11b64067c5354d0e06389b0e9085a192573bea07d55c3f2f8baeaefca"
+  },
+  "tasks.usetaskcommandbar.copyTaskLink": {
+    "message": "タスクのリンクをコピー",
+    "sourceHash": "1b2417f8dc85b028f8e54b52067b10574e1c0a7d663e76caab6073a134ced6d9"
+  },
+  "tasks.usetaskcommandbar.copyTaskReference": {
+    "message": "タスクの参照をコピー",
+    "sourceHash": "459f882ea555d99d571957a76809e84ef3071905ac172a37830d889fa00a6a06"
+  },
+  "tasks.usetaskcommandbar.editLabels": {
+    "message": "ラベルを編集",
+    "sourceHash": "62113e29f73d9ec00a6a372860baec723c5671325a71d3a007e9415564cb046f"
+  },
+  "tasks.usetaskcommandbar.editTitle": {
+    "message": "タイトルを編集",
+    "sourceHash": "8ef8686d1e915fbcdad3f6ba4ff1d6bcfe8496981a2cbd3ed09751eb6c6723d8"
+  },
+  "tasks.usetaskcommandbar.markTaskDone": {
+    "message": "タスクを完了にする",
+    "sourceHash": "e17e35aa7874bad950e76e7779f31a85611f40f6bdbb06fa1bcf92212b4be350"
+  },
+  "tasks.usetaskcommandbar.moveToBucket": {
+    "message": "レーンに移動",
+    "sourceHash": "74c11dc446e2970d4a2dddfa296f00a48b2ab605faba6e3b6c73d73d2f59da95"
+  },
+  "tasks.usetaskcommandbar.moveToProject": {
+    "message": "プロジェクトに移動",
+    "sourceHash": "6958365d1956428e39451955741818b0bcd6737f2996db654c62edd3c5592824"
+  },
+  "tasks.usetaskcommandbar.nextWeek": {
+    "message": "来週",
+    "sourceHash": "2c8975ce939c15579cfae04f220fd9cca4d2e1ff336036e0489446223b5630f7"
+  },
+  "tasks.usetaskcommandbar.noBucket": {
+    "message": "レーンなし",
+    "sourceHash": "c9206c2f15d6e9dcf7dd045dc11cd9a4566188fcf62206fd939a17bbc2401b58"
+  },
+  "tasks.usetaskcommandbar.noProject": {
+    "message": "プロジェクトなし",
+    "sourceHash": "79eab7507888065ad4f08868eec7f55ce54b9a68675e49c5b6719d7b944fccc3"
+  },
+  "tasks.usetaskcommandbar.noType": {
+    "message": "タイプなし",
+    "sourceHash": "1c8cc4534dad38ec54bbe0d7a6f79d8a13d8c76a4d6aafb4462b38120c4ce635"
+  },
+  "tasks.usetaskcommandbar.openInNewTab": {
+    "message": "新しいタブで開く",
+    "sourceHash": "365ab3c35d7fffe09e49aae6e167cc1d183bfc0325d7e28c3c7f5ec422dd8ea2"
+  },
+  "tasks.usetaskcommandbar.openTaskidentifiertask": {
+    "message": "{taskidentifierTask} を開く",
+    "sourceHash": "543617a377b00cffa48558b77bf1a3e9bf8b9d8715656cd85a19533e8fa4cf95"
+  },
+  "tasks.usetaskcommandbar.pickADate": {
+    "message": "日付を選択…",
+    "sourceHash": "32dea60c2654e717a32673dd9883036b79dadb09f12fafd969f09c57b3ed2fe4"
+  },
+  "tasks.usetaskcommandbar.removeDueDate": {
+    "message": "期日を削除",
+    "sourceHash": "461cc92a8c5c2e89773f03c5a0a32692bc7874726af3d064a90a4b3c43391194"
+  },
+  "tasks.usetaskcommandbar.reopenTask": {
+    "message": "タスクを再開",
+    "sourceHash": "5df2d878ed2593c2162fdb08c97bc3d7a365fd0aef73c464065acfd7af2b80a3"
+  },
+  "tasks.usetaskcommandbar.saveAsTemplate": {
+    "message": "テンプレートとして保存",
+    "sourceHash": "50336beacd5dfa31dab2dea2675088d2132008b9b1998e215db216eff737ef31"
+  },
+  "tasks.usetaskcommandbar.setDueDate": {
+    "message": "期日を設定",
+    "sourceHash": "97f89c78d31ef621dfd7f9a23abcc38860923071fda83d9d1a50fdb75fc223e2"
+  },
+  "tasks.usetaskcommandbar.setPriority": {
+    "message": "優先度を設定",
+    "sourceHash": "0c334b582c550486798d3a42517cc0742b85faba55e8bc6339e5e7e5cf0ff4f2"
+  },
+  "tasks.usetaskcommandbar.setType": {
+    "message": "タイプを設定",
+    "sourceHash": "eb8863289c82467d52ad962d1398788ec7ec28cf883196a46a58dfbcb72d8ded"
+  },
+  "tasks.usetaskcommandbar.taskActions": {
+    "message": "タスクの操作",
+    "sourceHash": "4b48ff50ae90ae65f1ec00bc73a1f8c5d290074cb2f8ac32a21fb862dcf082b5"
+  },
+  "tasks.usetaskcommandbar.taskArchiveDeleteRemoveRestore": {
+    "message": "タスク, アーカイブ, 削除, 消去, 復元",
+    "sourceHash": "05410d8424b77701f64004e3c556c34aa9afa1d4cf6609dcf3d73456369b86d6"
+  },
+  "tasks.usetaskcommandbar.taskBucketLane": {
+    "message": "レーン, バケット, 分類",
+    "sourceHash": "536a36af4b7fe692887e537ef7f9f0b0de92486f536011f73988e1d90281b23f"
+  },
+  "tasks.usetaskcommandbar.taskBucketName": {
+    "message": "レーン {name}, バケット {name}",
+    "sourceHash": "a4bf4023a8037939bcb2bdae33d42fc0b8f45cc1305b3b1934e0dd1afa32197b"
+  },
+  "tasks.usetaskcommandbar.taskCommentReplyNote": {
+    "message": "コメント, 返信, 返答, メモ",
+    "sourceHash": "de3189966c8355f3822c954e442921f56bf64345e10bf9338328692ee1b83c87"
+  },
+  "tasks.usetaskcommandbar.taskCompleteDoneFinishCloseReopen": {
+    "message": "完了, 終了, 完成, 閉じる, 再開, 再オープン",
+    "sourceHash": "4cc222dc83011fa6c1305d431ef9c9c5b0115c7538f697c06e9c3df88d636846"
+  },
+  "tasks.usetaskcommandbar.taskCopyId": {
+    "message": "コピー, ID, 識別子",
+    "sourceHash": "9acf301e2eba5cc8a3ac781568b999b8b522ea74ebb070dc58c0dc0f0f73091d"
+  },
+  "tasks.usetaskcommandbar.taskCopyLinkUrlDeeplink": {
+    "message": "コピー, リンク, ディープリンク, URL",
+    "sourceHash": "810d7ec6e624fb89d71f97bc0bbc60bfa4ac3e011a0b1a9e18a6e377fccd1d8d"
+  },
+  "tasks.usetaskcommandbar.taskCopyReferenceWikilink": {
+    "message": "コピー, 参照, ウィキリンク, 参照リンク",
+    "sourceHash": "df6496c6624709a5da412304eae6448373976504be8b5435307abad7ed6e00e3"
+  },
+  "tasks.usetaskcommandbar.taskDueCalendar": {
+    "message": "期日, カレンダー, 予定, 締め切り",
+    "sourceHash": "4ed27d1c0e78ff1add245eab493f753fd3ff226c7d83527a122cf1eb06738e84"
+  },
+  "tasks.usetaskcommandbar.taskDueClearRemove": {
+    "message": "期日, クリア, 消去, 削除, 解除",
+    "sourceHash": "16df18f0b0b0d8afb5c513f4e15c67698c92ccbcd0321b3c059ba36021c3cbc4"
+  },
+  "tasks.usetaskcommandbar.taskDueDateDeadlineSchedule": {
+    "message": "期日, 締め切り, デッドライン, スケジュール, 予定日",
+    "sourceHash": "342103366d3aa4f65e00fb6474920111de9a6c87ad716efcbeb5695b65d4211d"
+  },
+  "tasks.usetaskcommandbar.taskDueName": {
+    "message": "期日 {name}, 締め切り {name}",
+    "sourceHash": "d61c130f735da68c2e3d89904d15397726b7346af6800e724845a04417f1835f"
+  },
+  "tasks.usetaskcommandbar.taskIdCopied": {
+    "message": "タスク ID をコピーしました",
+    "sourceHash": "e76dbc1be205b75acec1595a7d10dda311ea5c3879888c3cd76fae21b9de68dd"
+  },
+  "tasks.usetaskcommandbar.taskLabelsTags": {
+    "message": "ラベル, タグ, 分類",
+    "sourceHash": "966584557019db646860572edad06ab7dcbc01ef01c93d72d0d63eee26fc334f"
+  },
+  "tasks.usetaskcommandbar.taskLinkCopied": {
+    "message": "タスクのリンクをコピーしました",
+    "sourceHash": "f56fe9dcf5f6b14c1f769786556769dbeaafd5607c3beae830aa4997d3d7447f"
+  },
+  "tasks.usetaskcommandbar.taskOpenTab": {
+    "message": "タブ, 新しいタブ, 開く",
+    "sourceHash": "1db846d31d3f8d37173132d343d87b426ae5e466759bd38a9118eca44c9f2340"
+  },
+  "tasks.usetaskcommandbar.taskOpenView": {
+    "message": "ビュー, 開く, 表示",
+    "sourceHash": "71423b6b72174bd5eb6f690bd80bd0ba528ffb4d4d70f4dcce906f06250c685c"
+  },
+  "tasks.usetaskcommandbar.taskPriorityPrioritynamesvalue": {
+    "message": "優先度 {prioritynamesValue}",
+    "sourceHash": "a066a2bf112a0029da70e5d7567a4be1e9d5301b240ccf383b448962b9c66a7b"
+  },
+  "tasks.usetaskcommandbar.taskPriorityUrgentHighMediumLow": {
+    "message": "優先度, 緊急, 高, 中, 低, 重要度",
+    "sourceHash": "6078927a41bb28714615ae212ee6d9539b5bc1740976cb5c34c62d0d6fbca03e"
+  },
+  "tasks.usetaskcommandbar.taskProjectMove": {
+    "message": "プロジェクト, 移動, 移す",
+    "sourceHash": "17b787b8c4147ec58f082ff0ad781257ab32e17f590ddeb5ee2d8e82ed05f367"
+  },
+  "tasks.usetaskcommandbar.taskProjectNoneRemove": {
+    "message": "プロジェクト, なし, 解除, 削除",
+    "sourceHash": "2b87c3325a378abb038739bb39d03e14f53aa5cfebdac8fda7c9446f86b64b29"
+  },
+  "tasks.usetaskcommandbar.taskProjectProjectnamep": {
+    "message": "プロジェクト {projectnameP}",
+    "sourceHash": "c43ecd1e19479dc6985d86895f8a1b497267b45a8e8381d666358d31c569261f"
+  },
+  "tasks.usetaskcommandbar.taskReferenceCopied": {
+    "message": "タスクの参照をコピーしました",
+    "sourceHash": "532a2ac79e0158447d7f939c70a5f770816d6aa44c3912f43e3b1ba83856bbc1"
+  },
+  "tasks.usetaskcommandbar.taskStatusName": {
+    "message": "ステータス {name}",
+    "sourceHash": "36332b29247ceda35b0fb74ddba99e53b9760a820c9c89f4863e630d568dfb66"
+  },
+  "tasks.usetaskcommandbar.taskStatusState": {
+    "message": "ステータス, 状態, 進捗",
+    "sourceHash": "6b109808d090fce4cb03d8a357fce18ae807372f2755c8ccda1b8a8f21664bc6"
+  },
+  "tasks.usetaskcommandbar.taskTemplate": {
+    "message": "テンプレート, ひな形, 雛形",
+    "sourceHash": "2990e6fa3b769a5ad7f229d353654f5ef785b45115773f993d93fdb34db810ca"
+  },
+  "tasks.usetaskcommandbar.taskTitleRename": {
+    "message": "タイトル, 名前, 名前変更, 変更",
+    "sourceHash": "7041fc2169741168f040754b7d3751c533879d8102cbf05f88c06688ae1f4498"
+  },
+  "tasks.usetaskcommandbar.taskTypeKindBugFeatureImprovement": {
+    "message": "タイプ, 種類, バグ, 機能, 改善",
+    "sourceHash": "9dabfa4ba875632131209c6e6c54c2933171a218382f874fc3c8119072cb404d"
+  },
+  "tasks.usetaskcommandbar.taskTypeName": {
+    "message": "タイプ {name}, 種類 {name}",
+    "sourceHash": "870420624d9d0183b04f32ac3ffea432432142273bd0168c257db7060886b123"
+  },
+  "tasks.usetaskcommandbar.taskidentifiertaskTasktitletask": {
+    "message": "{taskidentifierTask} {tasktitleTask}",
+    "sourceHash": "66c464699eddade97ef9ae2ac468e34eaa929b04a0923d4effe46086b7a77f7b"
+  },
+  "tasks.usetaskcommandbar.today": {
+    "message": "今日",
+    "sourceHash": "41c43edc3996c1690e17027be009e17b3a5dd2f6b0264eef2f36663de890862e"
+  },
+  "tasks.usetaskcommandbar.tomorrow": {
+    "message": "明日",
+    "sourceHash": "367ce6722f4dccde7cc2d6a5459b57d0d466e6396e98ef9cbb9ee363a861694a"
+  },
+  "tasks.usetaskcommandbar.unarchiveTask": {
+    "message": "タスクのアーカイブを解除",
+    "sourceHash": "5cbd5c13e47c086aedc34ccc3b408a3c7c6a52c6475c4f02935fa688eca3fe45"
+  }
+}

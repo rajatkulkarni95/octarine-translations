@@ -1,0 +1,14 @@
+{
+  "fileTree.selectionCount": {
+    "message": {
+      "other": "已选择 {count} 项"
+    },
+    "sourceHash": "6999b1bbf5d1a8d1447b44cd042fde9e638abc68fb132a5173d0e950480633a2"
+  },
+  "fileTree.tags.occurrenceCount": {
+    "message": {
+      "other": "将修改 {count} 处标签"
+    },
+    "sourceHash": "bff45dd9d0a8a49b3a43f135d3cce854deec701ac13d3c15d20630e92764a0ec"
+  }
+}

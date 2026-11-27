@@ -1,0 +1,4057 @@
+{
+  "settings.about": {
+    "message": "About",
+    "description": "About the app page."
+  },
+  "settings.about.about": {
+    "message": "About",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.about.bugsOrRequests": {
+    "message": "Bugs or Requests",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.about.checkForUpdates": {
+    "message": "Check for Updates",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.about.currentVersion": {
+    "message": "Current Version",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.about.developerNotes": {
+    "message": "Developer Notes",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.about.heyThanksForUsingOctarineTheProjectIsVery": {
+    "message": "Hey, thanks for using Octarine!{value}{value1}The project is very much under active development, and there's tons to do, so if you have any thoughts, comments, queries, questions, feedback, criticism, praises, I'd love to hear it all.{value2} {value3}Feel free to reach out to me on the above mentioned Twitter or use the Send Feedback button above, and I'll do my best to respond.{value4}{value5}Till then, happy note taking!",
+    "description": "Settings about: visible UI message; named slots retain their inline content."
+  },
+  "settings.about.iKnowOctarineIsnTAnywhereNearPerfectIf": {
+    "message": "I know Octarine isn't anywhere near perfect! If you have any bugs to report, or any feature requests, reach out!",
+    "description": "Settings about: description or explanatory message."
+  },
+  "settings.about.madeWithLoveBy": {
+    "message": "Made with love by {link}",
+    "description": "Settings about: visible UI message; named slots retain their inline content."
+  },
+  "settings.about.sendFeedback": {
+    "message": "Send Feedback",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.about.viewAppInformationVersionDetailsAndAcknowledgements": {
+    "message": "View app information, version details, and acknowledgements.",
+    "description": "Settings about: visible label or message."
+  },
+  "settings.accounts": {
+    "message": "Accounts",
+    "description": "AI CLI account connections."
+  },
+  "settings.ai.accounts.accounts": {
+    "message": "Accounts",
+    "description": "Settings ai.accounts: visible label or message."
+  },
+  "settings.ai.accounts.connectProvidersManagedByTheOpenCodeCLIOnThis": {
+    "message": "Connect providers managed by the OpenCode CLI on this computer.",
+    "description": "Settings ai.accounts: visible label or message."
+  },
+  "settings.ai.accounts.connectTheClaudeCodeCLIAccountOnThisComputer": {
+    "message": "Connect the Claude Code CLI account on this computer.",
+    "description": "Settings ai.accounts: visible label or message."
+  },
+  "settings.ai.accounts.upgradeToPro": {
+    "message": "Upgrade to Pro",
+    "description": "Settings ai.accounts: visible label or message."
+  },
+  "settings.ai.accounts.useAssistantAccountsWithoutAddingAPIKeys": {
+    "message": "Use assistant accounts without adding API keys.",
+    "description": "Settings ai.accounts: visible label or message."
+  },
+  "settings.ai.accounts.useYourCodexCLIAccountForWritingAssistantAnd": {
+    "message": "Use your Codex CLI account for Writing Assistant and Ask Octarine.",
+    "description": "Settings ai.accounts: visible label or message."
+  },
+  "settings.ai.ignored.askOctarineExclusions": {
+    "message": "Ask Octarine exclusions",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.available": {
+    "message": "{value} available",
+    "description": "Settings ai.ignored: visible UI message; named slots retain their inline content."
+  },
+  "settings.ai.ignored.daily": {
+    "message": "Daily",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.everythingVisibleHereIsAlreadyIgnored": {
+    "message": "Everything visible here is already ignored.",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.excludedFoldersAndNotesAreNotIndexedByAsk": {
+    "message": "Excluded folders and notes are not indexed by Ask Octarine and will not show up as Ask context suggestions.",
+    "description": "Settings ai.ignored: description or explanatory message."
+  },
+  "settings.ai.ignored.foldersAndNotes": {
+    "message": "Folders and notes",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.ignored": {
+    "message": "{value} ignored",
+    "description": "Settings ai.ignored: visible UI message; named slots retain their inline content."
+  },
+  "settings.ai.ignored.ignoredByAskOctarine": {
+    "message": "Ignored by Ask Octarine",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.inbox": {
+    "message": "Inbox",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.noMatchingFoldersOrNotes": {
+    "message": "No matching folders or notes.",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.nothingIsIgnoredYet": {
+    "message": "Nothing is ignored yet.",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.remove": {
+    "message": "Remove {id}",
+    "description": "Settings ai.ignored: visible UI message; named slots retain their inline content."
+  },
+  "settings.ai.ignored.searchFoldersAndNotes": {
+    "message": "Search folders and notes",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.ignored.templates": {
+    "message": "Templates",
+    "description": "Settings ai.ignored: visible label or message."
+  },
+  "settings.ai.providers.aPIProviders": {
+    "message": "API Providers",
+    "description": "Settings ai.providers: visible label or message."
+  },
+  "settings.ai.providers.configureModelProvidersAPIKeysAndCustomEndpoints": {
+    "message": "Configure model providers, API keys, and custom endpoints.",
+    "description": "Settings ai.providers: visible label or message."
+  },
+  "settings.ai.providers.custom": {
+    "message": "Custom",
+    "description": "Settings ai.providers: visible label or message."
+  },
+  "settings.ai.providers.default": {
+    "message": "Default",
+    "description": "User-facing application copy."
+  },
+  "settings.ai.providers.newCustomProvider": {
+    "message": "New Custom Provider",
+    "description": "Settings ai.providers: visible label or message."
+  },
+  "settings.ai.providers.upgradeToPro": {
+    "message": "Upgrade to Pro",
+    "description": "Settings ai.providers: visible label or message."
+  },
+  "settings.ai.skills.backToSkills": {
+    "message": "Back to Skills",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.cancel": {
+    "message": "Cancel",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.createSkill": {
+    "message": "Create skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.createYourFirstSkill": {
+    "message": "Create your first skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.deleteSkill": {
+    "message": "Delete skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.description": {
+    "message": "description",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.discoveryError": {
+    "message": "Could not discover skills: {error}",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.ai.skills.edit": {
+    "message": "Edit",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.explainWhatThisSkillDoesAndWhenItShould": {
+    "message": "Explain what this skill does and when it should be used.",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.failedToCreateSkill": {
+    "message": "Failed to create skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.failedToDeleteSkill": {
+    "message": "Failed to delete skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.failedToSaveSkill": {
+    "message": "Failed to save skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.importIntoWorkspace": {
+    "message": "Import into workspace",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.inThisWorkspace": {
+    "message": "In this workspace",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.instructionsExample": {
+    "message": "# Workflow\n\nDescribe the steps, constraints, and output this skill should follow.",
+    "description": "User-facing application copy."
+  },
+  "settings.ai.skills.loadingSkills": {
+    "message": "Loading skills…",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.name": {
+    "message": "name",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.newSkill": {
+    "message": "New skill",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.noDescription": {
+    "message": "No description",
+    "description": "Settings UI: ai / skills. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.ai.skills.noSkillsFound": {
+    "message": "No skills found",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.noSkillsFoundInTheStandardDirectories": {
+    "message": "No skills found in the standard directories.",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.onThisDevice": {
+    "message": "On this device",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.refresh": {
+    "message": "Refresh",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.researchSynthesizer": {
+    "message": "research-synthesizer",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.reusableMarkdownInstructionsThatGuideYourAIWorkflows": {
+    "message": "Reusable Markdown instructions that guide your AI workflows.",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.saveChanges": {
+    "message": "Save changes",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.searchSkills": {
+    "message": "Search skills",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillCreatedSuccessfully": {
+    "message": "Skill created successfully",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillDeletedSuccessfully": {
+    "message": "Skill deleted successfully",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillInstructions": {
+    "message": "Skill instructions",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillSavedSuccessfully": {
+    "message": "Skill saved successfully",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillsArePortableMarkdownNotesWithReusableInstructionsFor": {
+    "message": "Skills are portable Markdown notes with reusable instructions for your AI workflows.",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillsCouldNotBeLoaded": {
+    "message": "Skills could not be loaded",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.skillsFromCursorOpenCodeClaudeCodexAndSharedAgents": {
+    "message": "Skills from Cursor, OpenCode, Claude, Codex, and shared .agents directories in your home and current workspace. Import copies Markdown instructions only; supporting files and tool-specific capabilities are not installed.{value}{value1}",
+    "description": "Settings ai.skills: visible UI message; named slots retain their inline content."
+  },
+  "settings.ai.skills.skillsTitle": {
+    "message": "AI Skills",
+    "description": "Settings UI: ai / skills. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.ai.skills.tryADifferentSearch": {
+    "message": "Try a different search.",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.upgradeToPro": {
+    "message": "Upgrade to Pro",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.skills.viewImport": {
+    "message": "View / import",
+    "description": "Settings ai.skills: visible label or message."
+  },
+  "settings.ai.slash-commands.atLeastOneCommandIsRequired": {
+    "message": "At least one command is required",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.backToCommands": {
+    "message": "Back to Commands",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.cancel": {
+    "message": "Cancel",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.commandsTurnRepeatableInstructionsIntoShortcutsInTheWriting": {
+    "message": "Commands turn repeatable instructions into shortcuts in the Writing Assistant.",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.createCommand": {
+    "message": "Create command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.createYourFirstCommand": {
+    "message": "Create your first command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.deleteCommand": {
+    "message": "Delete command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.failedToCreateSlashCommand": {
+    "message": "Failed to create slash command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.failedToDeleteSlashCommand": {
+    "message": "Failed to delete slash command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.failedToSaveSlashCommand": {
+    "message": "Failed to save slash command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.loadingCommands": {
+    "message": "Loading commands…",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.name": {
+    "message": "name",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.newCommand": {
+    "message": "New command",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.noCommandsFound": {
+    "message": "No commands found",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.prompt": {
+    "message": "prompt",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.reusablePromptsThatRunFromTheWritingAssistant": {
+    "message": "Reusable prompts that run from the Writing Assistant.",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.saveChanges": {
+    "message": "Save changes",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.searchCommands": {
+    "message": "Search commands",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.slashCommandCreatedSuccessfully": {
+    "message": "Slash command created successfully",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.slashCommandDeletedSuccessfully": {
+    "message": "Slash command deleted successfully",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.slashCommandSavedSuccessfully": {
+    "message": "Slash command saved successfully",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.slashCommandsCouldNotBeLoaded": {
+    "message": "Slash commands could not be loaded",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.slashCommandsTitle": {
+    "message": "Slash commands",
+    "description": "Settings UI: ai / slash-commands. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.ai.slash-commands.summarize": {
+    "message": "Summarize",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.tryADifferentSearch": {
+    "message": "Try a different search.",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.turnTheSelectedTextIntoAConciseSummaryWith": {
+    "message": "Turn the selected text into a concise summary with clear next steps.",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.ai.slash-commands.upgradeToPro": {
+    "message": "Upgrade to Pro",
+    "description": "Settings ai.slash-commands: visible label or message."
+  },
+  "settings.apiProviders": {
+    "message": "API Providers",
+    "description": "AI API provider configuration."
+  },
+  "settings.app.alwaysOnTop": {
+    "message": "Always on Top",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.controlAppLevelWindowBehavior": {
+    "message": "Control app-level window behavior.",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.donTShowSystemTray": {
+    "message": "Don’t show system tray",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.hideAppMenu": {
+    "message": "Hide app menu",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.hideTheInboxSystemTrayAndDisableQuickCapture": {
+    "message": "Hide the Inbox system tray and disable Quick Capture across all workspaces",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.hideTheWindowsAppMenuWhileKeepingWindowControls": {
+    "message": "Hide the Windows app menu while keeping window controls beside the sidebar button",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.keepTheWindowAlwaysOnTopOfOtherWindows": {
+    "message": "Keep the window always on top of other windows",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.app.window": {
+    "message": "Window",
+    "description": "Settings app: visible label or message."
+  },
+  "settings.assistant.cliAccount.authentication": {
+    "message": "Authentication: {value}",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.authenticationIsHandledByTheOfficialCLICredentialsNever": {
+    "message": "Authentication is handled by the official CLI; credentials never enter Octarine.",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.availableInTheModelSelectorForWritingAssistantAnd": {
+    "message": "Available in the model selector for Writing Assistant and Ask Octarine. Requests run through the local {name} CLI; credentials stay in the CLI.",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.cLIIsInstalledButNotSignedIn": {
+    "message": "{name} CLI is installed but not signed in.",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.cLIWasNotFoundInstallItThenRefreshStatus": {
+    "message": "{name} CLI was not found. Install it, then refresh status.",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.checkingTheCLI": {
+    "message": "Checking the {name} CLI...",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.completeLoginInTheTerminalThenRefreshStatus": {
+    "message": "Complete {name} login in the terminal, then refresh status.",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.connected": {
+    "message": "Connected",
+    "description": "Settings assistant.cliAccount: visible label or message."
+  },
+  "settings.assistant.cliAccount.connectedProviders": {
+    "message": "Connected providers: {value}",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.connection": {
+    "message": "Connection",
+    "description": "Settings assistant.cliAccount: visible label or message."
+  },
+  "settings.assistant.cliAccount.openLogin": {
+    "message": "Open {name} login",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.openingTerminal": {
+    "message": "Opening terminal...",
+    "description": "Settings assistant.cliAccount: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.cliAccount.refreshStatus": {
+    "message": "Refresh status",
+    "description": "Settings assistant.cliAccount: visible label or message."
+  },
+  "settings.assistant.cliAccount.setupDocs": {
+    "message": "Setup docs",
+    "description": "Settings assistant.cliAccount: visible label or message."
+  },
+  "settings.assistant.codex.codexCLIIsNotConnectedYet": {
+    "message": "Codex CLI is not connected yet.",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.codexCLINeedsAuthentication": {
+    "message": "Codex CLI needs authentication.",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.codexCLISetupDocs": {
+    "message": "Codex CLI setup docs",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.codexStatusRefreshed": {
+    "message": "Codex status refreshed.",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.completeCodexLoginInTheTerminalThenRefreshStatus": {
+    "message": "Complete Codex login in the terminal, then refresh status.",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.connected": {
+    "message": "Connected",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.connection": {
+    "message": "Connection",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.localCodexAppServerTokensStayInTheCodex": {
+    "message": "Local Codex app-server. Tokens stay in the Codex CLI.",
+    "description": "Settings assistant.codex: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.codex.octarineHasNotReachedTheCodexCLIYet": {
+    "message": "Octarine has not reached the Codex CLI yet.",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.openCodexLoginInTerminal": {
+    "message": "Open Codex login in terminal",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.plan": {
+    "message": "Plan: {value}",
+    "description": "Settings assistant.codex: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.codex.primaryUsage": {
+    "message": "Primary usage: {value}",
+    "description": "Settings assistant.codex: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.codex.refreshCodexStatus": {
+    "message": "Refresh Codex status",
+    "description": "Settings assistant.codex: visible label or message."
+  },
+  "settings.assistant.codex.refreshing": {
+    "message": "Refreshing...",
+    "description": "Settings assistant.codex: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.codex.signedInAs": {
+    "message": "Signed in as {value}",
+    "description": "Settings assistant.codex: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.customEndpoints.aPIKeyCopiedToClipboard": {
+    "message": "API Key copied to clipboard",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.aPIKeyIsRequiredForRemoteEndpoints": {
+    "message": "API Key is required for remote endpoints",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.aPIKeyOptional": {
+    "message": "API Key (optional)",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.apiKey": {
+    "message": "API Key",
+    "description": "Settings UI: assistant / customEndpoints. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.customEndpoints.baseURL": {
+    "message": "Base URL",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.baseUriRequired": {
+    "message": "Base URI is required",
+    "description": "Settings UI: assistant / customEndpoints. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.customEndpoints.baseUriTrailingSlash": {
+    "message": "Base URI should not end with a slash",
+    "description": "Settings UI: assistant / customEndpoints. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.customEndpoints.cancel": {
+    "message": "Cancel",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.chooseTheAPIFormatAndNameForThisProvider": {
+    "message": "Choose the API format and name for this provider.",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.copyAPIKey": {
+    "message": "Copy API key",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.customProvider": {
+    "message": "Custom Provider",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.deleteProvider": {
+    "message": "Delete Provider",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.editKey": {
+    "message": "Edit Key",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.endpointAdded": {
+    "message": "Endpoint added",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.endpointUpdated": {
+    "message": "Endpoint updated",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.failedToConnectToTheEndpoint": {
+    "message": "Failed to connect to the endpoint",
+    "description": "Settings assistant.customEndpoints: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.customEndpoints.hideAPIKey": {
+    "message": "Hide API key",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.nameRequired": {
+    "message": "Name is required",
+    "description": "Settings UI: assistant / customEndpoints. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.customEndpoints.optionalForLocalEndpoints": {
+    "message": "Optional for local endpoints.",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.optionalForLocalEndpoints2": {
+    "message": "Optional for local endpoints",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.provider": {
+    "message": "Provider",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.providerSettings": {
+    "message": "{name} Settings",
+    "description": "Settings UI: assistant / customEndpoints. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.customEndpoints.requiredForRemoteEndpoints": {
+    "message": "Required for remote endpoints.",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.save": {
+    "message": "Save",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.setupNewCustomProvider": {
+    "message": "Setup new custom provider",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.showAPIKey": {
+    "message": "Show API key",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.theBaseURLForTheAPIEndpoint": {
+    "message": "The base URL for the API endpoint.",
+    "description": "Settings assistant.customEndpoints: visible label or message."
+  },
+  "settings.assistant.customEndpoints.validating": {
+    "message": "Validating...",
+    "description": "Settings UI: assistant / customEndpoints. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.genericAPIKey.aPIKey": {
+    "message": "API Key",
+    "description": "Settings assistant.genericAPIKey: visible label or message."
+  },
+  "settings.assistant.genericAPIKey.activate": {
+    "message": "Activate",
+    "description": "Settings assistant.genericAPIKey: visible label or message."
+  },
+  "settings.assistant.genericAPIKey.baseURL": {
+    "message": "Base URL",
+    "description": "Settings assistant.genericAPIKey: visible label or message."
+  },
+  "settings.assistant.genericAPIKey.console": {
+    "message": "{provider} Console",
+    "description": "Provider API-key documentation link; provider is the untranslated provider name."
+  },
+  "settings.assistant.genericAPIKey.deactivateIntegration": {
+    "message": "Deactivate Integration",
+    "description": "Settings assistant.genericAPIKey: visible label or message."
+  },
+  "settings.assistant.genericAPIKey.deactivateIntegration2": {
+    "message": "Deactivate {name} Integration?",
+    "description": "Settings assistant.genericAPIKey: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.genericAPIKey.enterYourAPIKey": {
+    "message": "Enter your API key",
+    "description": "Settings assistant.genericAPIKey: visible label or message."
+  },
+  "settings.assistant.genericAPIKey.failedToValidateAPIKey": {
+    "message": "Failed to validate API key",
+    "description": "Settings assistant.genericAPIKey: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.genericAPIKey.getYourAPIKeyFromTheEnsureYourAccount": {
+    "message": "Get your API key from the {link}. Ensure your account has credits.",
+    "description": "Settings assistant.genericAPIKey: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.genericAPIKey.thisWillRemoveTheAPIKeyYouWillLose": {
+    "message": "This will remove the API key. You will lose access to {value} models in Writing Assistant & Ask Octarine.",
+    "description": "Settings assistant.genericAPIKey: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.genericAPIKey.yesIMSure": {
+    "message": "Yes, I'm sure",
+    "description": "Settings assistant.genericAPIKey: visible label or message."
+  },
+  "settings.assistant.lMStudio.baseURIIsRequired": {
+    "message": "Base URI is required",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.baseURIShouldNotEndWithASlash": {
+    "message": "Base URI should not end with a slash",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.baseURIUpdatedSuccessfully": {
+    "message": "Base URI updated successfully",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.connect": {
+    "message": "Connect",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.connectedToLMStudioNoAPIKeyRequiredYou": {
+    "message": "Connected to LM Studio (no API key required). You can update the server URL below.",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.disconnect": {
+    "message": "Disconnect",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.disconnectLMStudio": {
+    "message": "Disconnect LM Studio?",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.httpLocalhost1234V1": {
+    "message": "http://localhost:1234/v1",
+    "description": "Settings assistant.lMStudio: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.lMStudio.pleaseEnterABaseURI": {
+    "message": "Please enter a base URI",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.save": {
+    "message": "Save",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.serverURL": {
+    "message": "Server URL",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.lMStudio.serverUrlHint": {
+    "message": "Enter your LM Studio server URL to connect.",
+    "description": "Settings UI: assistant / lMStudio. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.lMStudio.thisWillRemoveTheServerURLYouWillLose": {
+    "message": "This will remove the server URL. You will lose access to LM Studio in Writing Assistant & Ask Octarine.",
+    "description": "Settings assistant.lMStudio: description or explanatory message."
+  },
+  "settings.assistant.lMStudio.yesIMSure": {
+    "message": "Yes, I'm sure",
+    "description": "Settings assistant.lMStudio: visible label or message."
+  },
+  "settings.assistant.ollama.baseURIShouldNotEndWithASlash": {
+    "message": "Base URI should not end with a slash",
+    "description": "Settings assistant.ollama: visible label or message."
+  },
+  "settings.assistant.ollama.baseURIUpdatedSuccessfully": {
+    "message": "Base URI updated successfully",
+    "description": "Settings assistant.ollama: visible label or message."
+  },
+  "settings.assistant.ollama.onlyChangeThisIfYouHaveOllamaRunningOn": {
+    "message": "Only change this if you have Ollama running on a different port. Download Ollama from {link}. Remember to pull your models before using them in Octarine.",
+    "description": "Settings assistant.ollama: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.ollama.save": {
+    "message": "Save",
+    "description": "Settings assistant.ollama: visible label or message."
+  },
+  "settings.assistant.ollama.serverURL": {
+    "message": "Server URL",
+    "description": "Settings assistant.ollama: visible label or message."
+  },
+  "settings.assistant.openAI.aPIKey": {
+    "message": "API Key",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.openAI.activate": {
+    "message": "Activate",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.openAI.baseURL": {
+    "message": "Base URL",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.openAI.dashboard": {
+    "message": "OpenAI Dashboard",
+    "description": "API-key documentation link label; keep the provider name OpenAI unchanged."
+  },
+  "settings.assistant.openAI.deactivateIntegration": {
+    "message": "Deactivate Integration",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.openAI.deactivateOpenAIIntegration": {
+    "message": "Deactivate OpenAI Integration?",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.openAI.getYourAPIKeyFromTheEnsureYourAccount": {
+    "message": "Get your API key from the {link}. Ensure your account has credits.",
+    "description": "Settings assistant.openAI: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.openAI.openAIOfficialEndpointUseCustomProviderForCustomEndpoints": {
+    "message": "OpenAI official endpoint — use 'Custom Provider' for custom endpoints.",
+    "description": "Settings assistant.openAI: visible UI message; named slots retain their inline content."
+  },
+  "settings.assistant.openAI.sk000000000000000000000000": {
+    "message": "sk-000000000000000000000000",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.openAI.thisWillRemoveTheAPIKeyYouWillLose": {
+    "message": "This will remove the API key. You will lose access to OpenAI models in Writing Assistant & Ask Octarine.",
+    "description": "Settings assistant.openAI: description or explanatory message."
+  },
+  "settings.assistant.openAI.yesIMSure": {
+    "message": "Yes, I'm sure",
+    "description": "Settings assistant.openAI: visible label or message."
+  },
+  "settings.assistant.providerSettingsCard.aPIKeyCopiedToClipboard": {
+    "message": "API Key copied to clipboard",
+    "description": "Settings assistant.providerSettingsCard: visible label or message."
+  },
+  "settings.assistant.providerSettingsCard.activateLabel": {
+    "message": "Activate",
+    "description": "Settings UI: assistant / providerSettingsCard. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.providerSettingsCard.activateSubmittingLabel": {
+    "message": "Validating...",
+    "description": "Settings UI: assistant / providerSettingsCard. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.providerSettingsCard.apiKeyLabel": {
+    "message": "API Key",
+    "description": "Settings UI: assistant / providerSettingsCard. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.providerSettingsCard.apiKeyPlaceholder": {
+    "message": "Enter your API key",
+    "description": "Settings UI: assistant / providerSettingsCard. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.providerSettingsCard.baseUrlLabel": {
+    "message": "Base URL",
+    "description": "Settings UI: assistant / providerSettingsCard. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.providerSettingsCard.copyAPIKey": {
+    "message": "Copy API key",
+    "description": "Settings assistant.providerSettingsCard: visible label or message."
+  },
+  "settings.assistant.providerSettingsCard.deactivateLabel": {
+    "message": "Deactivate Integration",
+    "description": "Settings UI: assistant / providerSettingsCard. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.assistant.providerSettingsCard.hideAPIKey": {
+    "message": "Hide API key",
+    "description": "Settings assistant.providerSettingsCard: visible label or message."
+  },
+  "settings.assistant.providerSettingsCard.showAPIKey": {
+    "message": "Show API key",
+    "description": "Settings assistant.providerSettingsCard: visible label or message."
+  },
+  "settings.cycles": {
+    "message": "Cycles",
+    "description": "Task planning cycles configuration."
+  },
+  "settings.danger": {
+    "message": "Danger",
+    "description": "Destructive workspace actions page."
+  },
+  "settings.danger.beSureOfThis": {
+    "message": "Be sure of this",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.couldNotRemoveWorkspaceDataPleaseTryAgain": {
+    "message": "Could not remove workspace data. Please try again.",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.dangerZone": {
+    "message": "Danger Zone",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.deleteWorkspace": {
+    "message": "Delete Workspace",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.iUnderstandTheConsequencesDeleteThisWorkspace": {
+    "message": "I understand the consequences, delete this workspace",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.removeThisWorkspaceFromOctarineWithoutDeletingYourNotes": {
+    "message": "Remove this workspace from Octarine without deleting your notes.",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.thisWillDeleteTheSettingsCreatedByOctarineYour": {
+    "message": "This will delete the settings created by Octarine. Your notes and folders will remain intact.",
+    "description": "Settings danger: visible label or message."
+  },
+  "settings.danger.typeToConfirm": {
+    "message": "Type {emphasis} to confirm.",
+    "description": "Settings danger: visible UI message; named slots retain their inline content."
+  },
+  "settings.editor": {
+    "message": "Editor",
+    "description": "Note editor settings page."
+  },
+  "settings.editor.addSpaceBelowTheEndOfANoteWhile": {
+    "message": "Add space below the end of a note while writing.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.addsALineThroughCompletedTasks": {
+    "message": "Adds a line through completed tasks.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.addsMathSupportToTheEditor": {
+    "message": "Adds math support to the editor.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.alignConstrainedEditorContentToTheCenterOrLeft": {
+    "message": "Align constrained editor content to the center or left.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.autocorrect": {
+    "message": "Autocorrect",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.blue": {
+    "message": "Blue",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.brown": {
+    "message": "Brown",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.centered": {
+    "message": "Centered",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.chooseIfYouWantToDisplayTheFullPath": {
+    "message": "Choose if you want to display the full path or just the shortest name of the linked note.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.chooseTheDefaultColorForTextHighlighting": {
+    "message": "Choose the default color for text highlighting",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.chooseWhatToHighlightInFocusMode": {
+    "message": "Choose what to highlight in Focus Mode",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.contentAlignment": {
+    "message": "Content Alignment",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.copyWithFormatting": {
+    "message": "Copy with Formatting",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.copyWithoutFormatting": {
+    "message": "Copy without Formatting",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.customWidth": {
+    "message": "Custom Width",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.defaultHighlightColor": {
+    "message": "Default Highlight Color",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.displayCompletedAndTotalTaskCountsBesideThe": {
+    "message": "Display completed and total task counts beside the task progress indicator",
+    "description": "editor (pages/workspace/[uuid]/settings/editor.tsx): description."
+  },
+  "settings.editor.displayImageCaptionsBelowImagesInTheEditor": {
+    "message": "Display image captions below images in the editor",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.displayWordCountCharacterCountLinesAndReadingTime": {
+    "message": "Display word count, character count, lines, and reading time at the bottom of the editor.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.editor": {
+    "message": "Editor",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.editorWidth": {
+    "message": "Editor Width",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.focusMode": {
+    "message": "Focus Mode",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.focusModeDimming": {
+    "message": "Focus Mode Dimming",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.font": {
+    "message": "Font",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.fontWeight": {
+    "message": "Font Weight",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.fonts": {
+    "message": "Fonts",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.frontmatter.editANoteSYAMLPropertiesDirectlyAtThe": {
+    "message": "Edit a note's YAML properties directly at the top of the editor. Invalid YAML is kept as a draft until corrected.",
+    "description": "Settings editor.frontmatter: description or explanatory message."
+  },
+  "settings.editor.frontmatter.showRawFrontmatterInEditor": {
+    "message": "Show Raw Frontmatter in editor{value}",
+    "description": "Settings editor.frontmatter: visible UI message; named slots retain their inline content."
+  },
+  "settings.editor.fullPath": {
+    "message": "Full Path",
+    "description": "Settings UI: editor. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.editor.green": {
+    "message": "Green",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.invertCopyShortcuts": {
+    "message": "Invert Copy Shortcuts",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.keepTheActiveLineCenteredWhileWritingInFocus": {
+    "message": "Keep the active line centered while writing in Focus Mode.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.large": {
+    "message": "Large",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.layout": {
+    "message": "Layout",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.leftAligned": {
+    "message": "Left aligned",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.linkedNotesDisplay": {
+    "message": "Linked Notes Display",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.linksReferences": {
+    "message": "Links & References",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.medium": {
+    "message": "Medium",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.none": {
+    "message": "None",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.onlyNoteName": {
+    "message": "Only Note name",
+    "description": "Settings UI: editor. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.editor.orange": {
+    "message": "Orange",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.overscroll": {
+    "message": "Overscroll",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.paperType": {
+    "message": "Paper Type",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.pink": {
+    "message": "Pink",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.purple": {
+    "message": "Purple",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.red": {
+    "message": "Red",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.renderMathEquations": {
+    "message": "Render Math Equations",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.rendering": {
+    "message": "Rendering",
+    "description": "editor (pages/workspace/[uuid]/settings/editor.tsx): title/tooltip."
+  },
+  "settings.editor.selectFontForYourEditor": {
+    "message": "Select font for your editor.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.selectThePaperTypeForYourEditor": {
+    "message": "Select the paper type for your editor.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.selectTheWeightForYourEditorFont": {
+    "message": "Select the weight for your editor font.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.sentence": {
+    "message": "Sentence",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.setTheMaximumWidthOfTheEditorInEach": {
+    "message": "Set the maximum width of the editor in each pane.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.setsAReadableMaximumWidthAndShrinksToFit": {
+    "message": "Sets a readable maximum width and shrinks to fit smaller panes.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.shapeTheWritingSurfaceTypographyAndEditorHelpers": {
+    "message": "Shape the writing surface, typography, and editor helpers.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.shortestName": {
+    "message": "Shortest Name",
+    "description": "Settings UI: editor. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.editor.showEditorStatsBar": {
+    "message": "Show Editor Stats Bar",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.showHeadingGuides": {
+    "message": "Show heading guides",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.showImageCaptions": {
+    "message": "Show Image Captions",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.showOutline": {
+    "message": "Show Outline",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.showTaskCompletionCount": {
+    "message": "Show Task Completion Count",
+    "description": "editor (pages/workspace/[uuid]/settings/editor.tsx): label."
+  },
+  "settings.editor.showTheInEditorOutlineControlsForNotesWith": {
+    "message": "Show the in-editor outline controls for notes with headings.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.showTheNoteSFolderHierarchyBesideWikilinkSuggestions": {
+    "message": "Show the note’s folder hierarchy beside wikilink suggestions.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.showsH1H2H3LabelsBesideHeaders": {
+    "message": "Shows H1, H2, H3 labels beside headers.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.sizeSpacing": {
+    "message": "Size & Spacing",
+    "description": "editor (pages/workspace/[uuid]/settings/editor.tsx): title/tooltip."
+  },
+  "settings.editor.small": {
+    "message": "Small",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.spellcheck": {
+    "message": "Spellcheck",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.strikeCompletedTasks": {
+    "message": "Strike completed tasks",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.structure": {
+    "message": "Structure",
+    "description": "editor (pages/workspace/[uuid]/settings/editor.tsx): title/tooltip."
+  },
+  "settings.editor.suggestionFromTheEditorForCorrections": {
+    "message": "Suggestion from the editor for corrections.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.typewriterInFocusMode": {
+    "message": "Typewriter in Focus Mode",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.typography.adjustTheFontSizeOfTheEditorText": {
+    "message": "Adjust the font size of the editor text",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.adjustTheLineHeightSpacingBetweenLines": {
+    "message": "Adjust the line height (spacing between lines)",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.adjustTheSpacingBetweenCharacters": {
+    "message": "Adjust the spacing between characters",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.adjustTheSpacingBetweenListItems": {
+    "message": "Adjust the spacing between list items",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.adjustTheSpacingBetweenParagraphs": {
+    "message": "Adjust the spacing between paragraphs",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.autoReplaceStraightQuotesDashesAndOtherCharactersWith": {
+    "message": "Auto-replace straight quotes, dashes, and other characters with typographic equivalents.",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.checkOutTheFullListOfRules": {
+    "message": "Check out the full list of rules",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.fontSize": {
+    "message": "Font Size",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.letterSpacing": {
+    "message": "Letter Spacing",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.lineHeight": {
+    "message": "Line Height",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.listSpacing": {
+    "message": "List Spacing",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.paragraphSpacing": {
+    "message": "Paragraph Spacing",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.refresh": {
+    "message": "Refresh",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.resetToDefault": {
+    "message": "Reset to default",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.typography.smartTypography": {
+    "message": "Smart Typography",
+    "description": "Settings editor.typography: visible label or message."
+  },
+  "settings.editor.underlineMisspelledWordsMayImpactPerformanceOnLargeNotes": {
+    "message": "Underline misspelled words. May impact performance on large notes.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.whenTextIsSelectedTypingQuotesOrBracketsWraps": {
+    "message": "When text is selected, typing quotes or brackets wraps the selection instead of replacing it.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.wikilinkFolderTooltips": {
+    "message": "Wikilink Folder Tooltips",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.wrapLongLines": {
+    "message": "Wrap Long Lines",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.wrapLongLinesOfTextAndCodeBlocksInstead": {
+    "message": "Wrap long lines of text and code blocks instead of scrolling horizontally.",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.wrapSelectionWithPairs": {
+    "message": "Wrap Selection with Pairs",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.writing": {
+    "message": "Writing",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.editor.yellow": {
+    "message": "Yellow",
+    "description": "Settings editor: visible label or message."
+  },
+  "settings.fields.buckets": {
+    "message": "Buckets",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): label text."
+  },
+  "settings.fields.fields": {
+    "message": "Fields",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): title/tooltip."
+  },
+  "settings.fields.labels": {
+    "message": "Labels",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): label text."
+  },
+  "settings.fields.lanesYouSortTasksIntoByHandLike": {
+    "message": "Lanes you sort tasks into by hand, like Now, Next and Later.",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): description text."
+  },
+  "settings.fields.renamingOrDeletingALabelUpdatesEveryTask": {
+    "message": "Renaming or deleting a label updates every task that uses it.",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): description text."
+  },
+  "settings.fields.statuses": {
+    "message": "Statuses",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): label text."
+  },
+  "settings.fields.taskFields": {
+    "message": "Task fields",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): accessible name."
+  },
+  "settings.fields.theCategoryDecidesWhetherAStatusCountsAs": {
+    "message": "The category decides whether a status counts as open, done or cancelled.",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): description text."
+  },
+  "settings.fields.theKindOfWorkATaskIsA": {
+    "message": "The kind of work a task is. A type can add labels and set a priority for you.",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): description text."
+  },
+  "settings.fields.theStatusesLabelsTypesAndBucketsYourTasks": {
+    "message": "The statuses, labels, types and buckets your tasks use.",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): description."
+  },
+  "settings.fields.types": {
+    "message": "Types",
+    "description": "fields (pages/workspace/[uuid]/settings/tasks/fields.tsx): label text."
+  },
+  "settings.files": {
+    "message": "Files",
+    "description": "File browser settings page."
+  },
+  "settings.files.add": {
+    "message": "Add",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.addCustomFileExtensionsToImportIntoTheWorkspace": {
+    "message": "Add custom file extensions to import into the workspace.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.addNewExtension": {
+    "message": "Add new extension",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.asksForConfirmationBeforeDeletingAFileOrFolder": {
+    "message": "Asks for confirmation before deleting a file or folder.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.availableAfterIndexing": {
+    "message": "Available after indexing",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.cannotAddReservedExtensions": {
+    "message": "Cannot add reserved extensions - {join}",
+    "description": "Settings files: visible UI message; named slots retain their inline content."
+  },
+  "settings.files.controlFileBrowserBehaviorNoteNamingAndImports": {
+    "message": "Control file browser behavior, note naming, and imports.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.defaultExtensions": {
+    "message": "Default Extensions",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.defaultFolderSettings.clear": {
+    "message": "Clear",
+    "description": "Settings files.defaultFolderSettings: visible label or message."
+  },
+  "settings.files.defaultFolderSettings.defaultFolderForNewNotes": {
+    "message": "Default folder for new notes",
+    "description": "Settings files.defaultFolderSettings: visible label or message."
+  },
+  "settings.files.defaultFolderSettings.learnMore": {
+    "message": "Learn more",
+    "description": "Settings files.defaultFolderSettings: visible label or message."
+  },
+  "settings.files.defaultFolderSettings.noFoldersAvailable": {
+    "message": "No folders available",
+    "description": "Settings files.defaultFolderSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.files.defaultFolderSettings.noMatchesLabel": {
+    "message": "No matching folders found",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.files.defaultFolderSettings.rootFolder": {
+    "message": "/ (Root)",
+    "description": "Settings UI: files / defaultFolderSettings. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.files.defaultFolderSettings.searchFolders": {
+    "message": "Search folders...",
+    "description": "Settings files.defaultFolderSettings: visible label or message."
+  },
+  "settings.files.defaultFolderSettings.selectDefaultFolder": {
+    "message": "Select Default Folder",
+    "description": "Settings files.defaultFolderSettings: visible label or message."
+  },
+  "settings.files.defaultFolderSettings.whereNewNotesAreCreated": {
+    "message": "Where new notes are created. {link}",
+    "description": "Settings files.defaultFolderSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.files.displayCreatedAndModifiedTimestampsWhenHoveringOverFiles": {
+    "message": "Display created and modified timestamps when hovering over files and folders.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.displayNonMarkdownFilesInTheFileTreeWithout": {
+    "message": "Display non-markdown files in the file tree without making them interactive notes.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.displayRelativeTimeEG4m2d1mo1y": {
+    "message": "Display relative time (e.g., 4m, 2d, 1mo, 1y) when the note was last modified.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.displayTheNumberOfItemsInEachDirectoryNext": {
+    "message": "Display the number of items in each directory next to its name.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.extensionAlreadyExists": {
+    "message": "Extension already exists",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.extensionCannotContainAPeriod": {
+    "message": "Extension cannot contain a period",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.externalFiles": {
+    "message": "External Files",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.fileBrowser": {
+    "message": "File Browser",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.files": {
+    "message": "Files",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.maintenance": {
+    "message": "Maintenance",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.mediaAttachments": {
+    "message": "Media Attachments",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.noCustomExtensionsAdded": {
+    "message": "No custom extensions added",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.noteCreation": {
+    "message": "Note Creation",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.noteNaming.addUntitledToTheEndOfGeneratedNoteNames": {
+    "message": "Add 'Untitled' to the end of generated note names.",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.appendUntitled": {
+    "message": "Append Untitled?",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.automaticallyGenerateUniqueNamesForNewNotesBasedOn": {
+    "message": "Automatically generate unique names for new notes based on date format.",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.createUniqueNoteNames": {
+    "message": "Create unique note names?",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.dateFormatForNewNotes": {
+    "message": "Date Format for New Notes",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.formatUsedToGenerateUniqueNoteNames": {
+    "message": "Format used to generate unique note names.",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.invalidDateFormat": {
+    "message": "Invalid date format",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.noteNaming.invalidFilenameFormat": {
+    "message": "Format cannot contain: / \\ : * ? \" < > |",
+    "description": "Settings UI: files / noteNaming. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.files.noteNaming.save": {
+    "message": "Save",
+    "description": "Settings files.noteNaming: visible label or message."
+  },
+  "settings.files.rebuildTagsAndPropertyDefinitionsFromTheMarkdownFiles": {
+    "message": "Rebuild tags and property definitions from the Markdown files currently in your workspace.",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.refresh": {
+    "message": "Refresh",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.refreshTagsAndProperties": {
+    "message": "Refresh tags and properties?",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.refreshing": {
+    "message": "Refreshing…",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.removeCustomExtension": {
+    "message": "Remove custom extension",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showAllFileTypesInTree": {
+    "message": "Show all file types in tree",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showConfirmationWhenDeleting": {
+    "message": "Show confirmation when deleting",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showDirectoryChildrenCount": {
+    "message": "Show directory children count",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showDotFolders": {
+    "message": "Show dot-folders",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showFileTimestampsOnHover": {
+    "message": "Show file timestamps on hover",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showFoldersThatStartWithAPeriodEG": {
+    "message": "Show folders that start with a period (e.g. .data)",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.showLastModifiedTime": {
+    "message": "Show last modified time",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.supportedExtensions": {
+    "message": "Supported extensions",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.tagsAndProperties": {
+    "message": "Tags and properties",
+    "description": "Settings files: visible label or message."
+  },
+  "settings.files.thisClearsTheIndexedBodyAndFrontmatterTagsAnd": {
+    "message": "This clears the indexed body and frontmatter tags and property definitions, then recreates them from the Markdown files currently in your workspace. Definitions that are not used by a note will be removed. Your files will not be modified.",
+    "description": "Settings files: description or explanatory message."
+  },
+  "settings.fonts.headingFontSelector.failedToLoadSystemFonts": {
+    "message": "Failed to load system fonts",
+    "description": "Settings fonts.headingFontSelector: visible label or message."
+  },
+  "settings.fonts.headingFontSelector.headingFont": {
+    "message": "Heading font",
+    "description": "Settings fonts.headingFontSelector: visible label or message."
+  },
+  "settings.fonts.headingFontSelector.loadingSystemFonts": {
+    "message": "Loading system fonts...",
+    "description": "Settings fonts.headingFontSelector: visible label or message."
+  },
+  "settings.fonts.headingFontSelector.sameAsEditorFont": {
+    "message": "Same as editor font",
+    "description": "Settings fonts.headingFontSelector: visible label or message."
+  },
+  "settings.fonts.headingFontSelector.selectFontForYourHeadings": {
+    "message": "Select font for your headings.",
+    "description": "Settings fonts.headingFontSelector: visible label or message."
+  },
+  "settings.fonts.headingFontSelector.systemFonts": {
+    "message": "--- System Fonts ---",
+    "description": "Settings fonts.headingFontSelector: visible label or message."
+  },
+  "settings.fonts.systemFontSelector.failedToLoadSystemFonts": {
+    "message": "Failed to load system fonts",
+    "description": "Settings fonts.systemFontSelector: visible label or message."
+  },
+  "settings.fonts.systemFontSelector.loadingSystemFonts": {
+    "message": "Loading system fonts...",
+    "description": "Settings fonts.systemFontSelector: visible label or message."
+  },
+  "settings.fonts.systemFontSelector.systemFonts": {
+    "message": "--- System Fonts ---",
+    "description": "Settings fonts.systemFontSelector: visible label or message."
+  },
+  "settings.general": {
+    "message": "General",
+    "description": "General settings page label, within workspace/tasks/sharing group."
+  },
+  "settings.general.assistant": {
+    "message": "Assistant",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): title/tooltip."
+  },
+  "settings.general.backgroundAIIndexing": {
+    "message": "Background AI Indexing",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): visible text."
+  },
+  "settings.general.changeWorkspaceColor": {
+    "message": "Change workspace color",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.chooseWhereAIShowsUpAndHowAsk": {
+    "message": "Choose where AI shows up and how Ask Octarine behaves.",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): description."
+  },
+  "settings.general.chooseWhetherAIRecapsShouldAnalyzeThePast": {
+    "message": "Choose whether AI recaps should analyze the past week or current week",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): visible text."
+  },
+  "settings.general.copyPath": {
+    "message": "Copy Path",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.currentWeek": {
+    "message": "Current Week",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): label text."
+  },
+  "settings.general.general": {
+    "message": "General",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.hideAIButtonsMenusAndShortcutsAcrossThe": {
+    "message": "Hide AI buttons, menus, and shortcuts across the app",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): description."
+  },
+  "settings.general.hideAllAI": {
+    "message": "Hide all AI",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): label."
+  },
+  "settings.general.keepThisWorkspaceSLocalAIIndexUp": {
+    "message": "Keep this workspace's local AI index up to date while Ask Octarine is closed, even when the app is minimized. Uses additional CPU. Off by default.",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): description."
+  },
+  "settings.general.manageThisWorkspaceSIdentityAndLocation": {
+    "message": "Manage this workspace's identity and location.",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.pastWeek": {
+    "message": "Past Week",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): label text."
+  },
+  "settings.general.path": {
+    "message": "Path",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.pathCopiedToClipboard": {
+    "message": "Path copied to clipboard",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.requireEnterToSendAIRequests": {
+    "message": "Require {modifierKey} + Enter to Send AI Requests",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): text. Placeholders {modifierKey} are display values."
+  },
+  "settings.general.reset": {
+    "message": "Reset",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.saveChanges": {
+    "message": "Save changes",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.weeklyRecapPeriod": {
+    "message": "Weekly Recap Period",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): visible text."
+  },
+  "settings.general.weeklyRecapPeriodAi": {
+    "message": "weekly,recap,period,ai",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): settings search keywords.",
+    "kind": "keywords"
+  },
+  "settings.general.whenEnabledUseEnterToSendAIRequests": {
+    "message": "When enabled, use {modifierKey} + Enter to send AI requests. When disabled, press Enter to send.",
+    "description": "general (pages/workspace/[uuid]/settings/ai/general.tsx): description. Placeholders {modifierKey} are display values."
+  },
+  "settings.general.workspace": {
+    "message": "Workspace",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.general.workspaceName": {
+    "message": "Workspace Name",
+    "description": "Settings general: visible label or message."
+  },
+  "settings.gitSync": {
+    "message": "Git Sync",
+    "description": "Git synchronization settings; keep Git unchanged."
+  },
+  "settings.gitSync.ignoredFiles.attachments": {
+    "message": "Attachments",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.available": {
+    "message": "{value} available",
+    "description": "Settings gitSync.ignoredFiles: visible UI message; named slots retain their inline content."
+  },
+  "settings.gitSync.ignoredFiles.directories": {
+    "message": "Directories",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.everyDirectoryListedHereIsAlreadyIgnored": {
+    "message": "Every directory listed here is already ignored.",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.files": {
+    "message": "Files",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.ignored": {
+    "message": "{value} ignored",
+    "description": "Settings gitSync.ignoredFiles: visible UI message; named slots retain their inline content."
+  },
+  "settings.gitSync.ignoredFiles.ignoredByGitSync": {
+    "message": "Ignored by Git Sync",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.noDirectoriesAreIgnoredYet": {
+    "message": "No directories are ignored yet.",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.noMatchingDirectories": {
+    "message": "No matching directories.",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.remove": {
+    "message": "Remove {id}",
+    "description": "Settings gitSync.ignoredFiles: visible UI message; named slots retain their inline content."
+  },
+  "settings.gitSync.ignoredFiles.searchDirectories": {
+    "message": "Search directories",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.ignoredFiles.templates": {
+    "message": "Templates",
+    "description": "Settings gitSync.ignoredFiles: visible label or message."
+  },
+  "settings.gitSync.preferences.10Minutes": {
+    "message": "10 minutes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.15Minutes": {
+    "message": "15 minutes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.1Hour": {
+    "message": "1 hour",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.1Minute": {
+    "message": "1 minute",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.2Minutes": {
+    "message": "2 minutes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.30Minutes": {
+    "message": "30 minutes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.3Minutes": {
+    "message": "3 minutes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.5Minutes": {
+    "message": "5 minutes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.autoSync": {
+    "message": "Auto Sync",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.automaticallySyncYourWorkspaceWithGit": {
+    "message": "Automatically sync your workspace with git",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.backupInterval": {
+    "message": "Backup Interval",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.chooseWhichVersionToKeepWhenConflictsOccur": {
+    "message": "Choose which version to keep when conflicts occur",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.conflictResolution": {
+    "message": "Conflict Resolution",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.howOftenToBackupYourWorkspaceInMinutes": {
+    "message": "How often to backup your workspace (in minutes)",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.immediatelySyncChangesToTheRepository": {
+    "message": "Immediately sync changes to the repository.",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.keepLocalChanges": {
+    "message": "Keep Local Changes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.lastSynced": {
+    "message": "Last synced",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.never": {
+    "message": "Never",
+    "description": "Settings UI: gitSync / preferences. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitSync.preferences.noChanges": {
+    "message": "No changes to sync",
+    "description": "Settings UI: gitSync / preferences. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitSync.preferences.noChangesToSync": {
+    "message": "No changes to sync.",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.pullChanges": {
+    "message": "Pull Changes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.pullFromOriginMainWithoutCommittingOrPushing": {
+    "message": "Pull from origin/main without committing or pushing.",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.pulling": {
+    "message": "Pulling...",
+    "description": "Settings UI: gitSync / preferences. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitSync.preferences.remoteURL": {
+    "message": "Remote URL",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.repository": {
+    "message": "Repository",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.syncError": {
+    "message": "Sync error: {error}",
+    "description": "Settings UI: gitSync / preferences. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitSync.preferences.syncNow": {
+    "message": "Sync now",
+    "description": "Settings UI: gitSync / preferences. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitSync.preferences.syncPreferences": {
+    "message": "Sync Preferences",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.syncedAt": {
+    "message": "{date} at {time}",
+    "description": "Exact Git synchronization timestamp tooltip; date and time preserve the configured date-fns formatting."
+  },
+  "settings.gitSync.preferences.syncing": {
+    "message": "Syncing...",
+    "description": "Settings UI: gitSync / preferences. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitSync.preferences.useRemoteChanges": {
+    "message": "Use Remote Changes",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitSync.preferences.view": {
+    "message": "View",
+    "description": "Settings gitSync.preferences: visible label or message."
+  },
+  "settings.gitsync.backUpAndSyncThisWorkspaceThroughAGit": {
+    "message": "Back up and sync this workspace through a Git repository.",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.dangerZoneRemoveIntegration": {
+    "message": "Danger Zone - Remove Integration",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.finishSetup": {
+    "message": "Finish Setup",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.gitGithubComUsernameRepoGit": {
+    "message": "git@github.com:username/repo.git",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.gitSync": {
+    "message": "Git Sync",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.ignored.gitSyncIgnoredDirectories": {
+    "message": "Git Sync ignored directories",
+    "description": "Settings gitsync.ignored: visible label or message."
+  },
+  "settings.gitsync.ignored.ignoredDirectoriesAreWrittenToThisWorkspaceSGitignore": {
+    "message": "Ignored directories are written to this workspace's .gitignore and will not be included in Git Sync commits.",
+    "description": "Settings gitsync.ignored: description or explanatory message."
+  },
+  "settings.gitsync.ignored.setUpGitSync": {
+    "message": "Set up Git Sync",
+    "description": "Settings gitsync.ignored: visible label or message."
+  },
+  "settings.gitsync.manageGitInOctarine": {
+    "message": "Manage Git in Octarine",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.message": {
+    "message": "Git stays untouched in this workspace, but Octarine will stop showing Git Sync controls and won't manage commits, pulls, or pushes until you turn this back on.",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.gitsync.needOctarineToStopManagingGitWithoutTouchingYour": {
+    "message": "Need Octarine to stop managing Git without touching your repository? Turn off \"Manage Git in Octarine\" above. Removing the integration here deletes the local Git metadata inside this workspace and you will have to set Git Sync up again.",
+    "description": "Settings gitsync: description or explanatory message."
+  },
+  "settings.gitsync.octarineManagement": {
+    "message": "Octarine Management",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.pleaseRecheckYourSshUrl": {
+    "message": "Please recheck your ssh url.",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.readTheDocs": {
+    "message": "Read the docs",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.remoteSSHURL": {
+    "message": "Remote SSH URL",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.removeGitSyncIntegration": {
+    "message": "Remove GitSync Integration",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.removeGitSyncIntegration2": {
+    "message": "Remove GitSync Integration?",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.resetSetup": {
+    "message": "Reset Setup?",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.setup": {
+    "message": "Setup",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.showGitSyncControlsAndLetOctarineCommitPull": {
+    "message": "Show Git Sync controls and let Octarine commit, pull, and push changes for this workspace.",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.gitsync.syncError": {
+    "message": "Sync error: {error}",
+    "description": "Settings UI: gitsync. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.gitsync.thisWillDeleteTheLocalGitMetadataInsideThis": {
+    "message": "This will delete the local Git metadata inside this workspace, disable auto sync, and require Git Sync to be set up again.",
+    "description": "Settings gitsync: description or explanatory message."
+  },
+  "settings.gitsync.yesRemove": {
+    "message": "Yes, Remove",
+    "description": "Settings gitsync: visible label or message."
+  },
+  "settings.group.ai": {
+    "message": "AI Assistant",
+    "description": "Settings navigation group heading."
+  },
+  "settings.group.appearance": {
+    "message": "Appearance",
+    "description": "Settings navigation group heading."
+  },
+  "settings.group.capture": {
+    "message": "Capture & Files",
+    "description": "Settings navigation group heading."
+  },
+  "settings.group.danger": {
+    "message": "Danger Zone",
+    "description": "Destructive settings group heading."
+  },
+  "settings.group.sharing": {
+    "message": "Sharing",
+    "description": "Settings navigation group heading."
+  },
+  "settings.group.sync": {
+    "message": "Sync & Safety",
+    "description": "Settings navigation group heading."
+  },
+  "settings.group.tasks": {
+    "message": "Tasks",
+    "description": "Managed tasks settings group heading."
+  },
+  "settings.group.workspace": {
+    "message": "Workspace",
+    "description": "Settings navigation group heading."
+  },
+  "settings.group.writing": {
+    "message": "Writing",
+    "description": "Settings navigation group heading."
+  },
+  "settings.ignored": {
+    "message": "Ignored",
+    "description": "Excluded paths page, within Git or AI group."
+  },
+  "settings.inbox.anythingDueBetween10PMAnd8AM": {
+    "message": "Anything due between 10 PM and 8 AM waits until 8 AM.",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): description."
+  },
+  "settings.inbox.holdNotificationsUntilMorning": {
+    "message": "Hold notifications until morning",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): label."
+  },
+  "settings.inbox.howCapturesAreTriagedAndWhenTheyCome": {
+    "message": "How captures are triaged and when they come back.",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): description."
+  },
+  "settings.inbox.inbox": {
+    "message": "Inbox",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): title/tooltip."
+  },
+  "settings.inbox.notifyWhenASnoozedCaptureIsBack": {
+    "message": "Notify when a snoozed capture is back",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): label."
+  },
+  "settings.inbox.sendsASystemNotificationAtTheSnoozeTime": {
+    "message": "Sends a system notification at the snooze time. Captures that come back together arrive as one.",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): description."
+  },
+  "settings.inbox.snooze": {
+    "message": "Snooze",
+    "description": "inbox (pages/workspace/[uuid]/settings/inbox.tsx): title/tooltip."
+  },
+  "settings.integrations": {
+    "message": "Integrations",
+    "description": "Remote MCP integrations page."
+  },
+  "settings.integrations.activatePro": {
+    "message": "Activate Pro",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.add": {
+    "message": "Add",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.integrations.addAnIntegration": {
+    "message": "Add an integration",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.addNamed": {
+    "message": "Add {name}",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.integrations.backToIntegrations": {
+    "message": "Back to Integrations",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.browseIntegrations": {
+    "message": "Browse integrations",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.connectAnyStreamableHTTPMCPURL": {
+    "message": "Connect any Streamable HTTP MCP URL",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.connectMCPServicesOnceOnThisDeviceThenChoose": {
+    "message": "Connect MCP services once on this device, then choose sources for each Ask conversation.",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.connectServicesLikeLinearGitHubAndNotionThenChoose": {
+    "message": "Connect services like Linear, GitHub, and Notion, then choose which ones each Ask conversation can use.",
+    "description": "Settings integrations: description or explanatory message."
+  },
+  "settings.integrations.connectYourFirstIntegration": {
+    "message": "Connect your first integration",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.couldNotLoadIntegrations": {
+    "message": "Could not load integrations.",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.createToken": {
+    "message": "Create token",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.customServer": {
+    "message": "Custom MCP server",
+    "description": "Generic user-facing default name for a custom integration; keep MCP unchanged."
+  },
+  "settings.integrations.docs": {
+    "message": "Docs",
+    "description": "Settings integrations: visible UI message; named slots retain their inline content."
+  },
+  "settings.integrations.edit": {
+    "message": "Edit",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.integrations.editNamed": {
+    "message": "Edit {name}",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.integrations.index.connected": {
+    "message": "Connected",
+    "description": "Settings UI: integrations / index. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.integrations.index.needsAttention": {
+    "message": "Needs attention",
+    "description": "Settings UI: integrations / index. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.integrations.integrationForm.authentication": {
+    "message": "Authentication",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.availableTools": {
+    "message": "Available tools ({value})",
+    "description": "Settings integrations.integrationForm: visible UI message; named slots retain their inline content."
+  },
+  "settings.integrations.integrationForm.bearerToken": {
+    "message": "Bearer token",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.blankPreservesStoredToken": {
+    "message": "Blank preserves stored token",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.browserOAuth": {
+    "message": "Browser OAuth",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.cancel": {
+    "message": "Cancel",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.connectOpensYourBrowserForSecureSignInCustom": {
+    "message": "Connect opens your browser for secure sign-in. Custom OAuth servers must support dynamic client registration.",
+    "description": "Settings integrations.integrationForm: description or explanatory message."
+  },
+  "settings.integrations.integrationForm.connectedLoadingTools": {
+    "message": "Connected · Loading tools…",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.connectedToolsAvailable": {
+    "message": {
+      "one": "Connected · {count} tools available",
+      "other": "Connected · {count} tools available"
+    },
+    "description": "Connection tool count. Preserve historical English tools for singular."
+  },
+  "settings.integrations.integrationForm.connecting": {
+    "message": "Connecting…",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.connection": {
+    "message": "{nameCustomMCPserver} connection",
+    "description": "Settings integrations.integrationForm: visible UI message; named slots retain their inline content."
+  },
+  "settings.integrations.integrationForm.customHeaders": {
+    "message": "Custom headers",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.enterEachHeaderAsNameValue": {
+    "message": "Enter each header as Name: Value.",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.httpsExampleComMcp": {
+    "message": "https://example.com/mcp",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.name": {
+    "message": "Name",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.nameValue": {
+    "message": "Name: Value",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.noAuthentication": {
+    "message": "No authentication",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.oneNameValuePerLineBlankPreservesSavedHeaders": {
+    "message": "One Name: Value per line. Blank preserves saved headers; entered headers replace them. Changing URL or authentication clears old credentials.",
+    "description": "Settings integrations.integrationForm: description or explanatory message."
+  },
+  "settings.integrations.integrationForm.reconnect": {
+    "message": "Reconnect",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.remove": {
+    "message": "Remove",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.removeIntegration": {
+    "message": "Remove integration",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.removeIntegration2": {
+    "message": "Remove integration?",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.saveConnect": {
+    "message": "Save & connect",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.savedSettingsAreRetainedRetryConnectsTheSameIntegration": {
+    "message": " Saved settings are retained; retry connects the same integration.",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.serverURL": {
+    "message": "Server URL",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.storedSecretsAreNeverDisplayedLeaveBlankToPreserve": {
+    "message": "Stored secrets are never displayed. Leave blank to preserve the current token.",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.thisIntegration": {
+    "message": "This integration",
+    "description": "Settings UI: integrations / integrationForm. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.integrations.integrationForm.token": {
+    "message": "Token",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.useAGitHubPersonalAccessTokenWithReadAccess": {
+    "message": "Use a GitHub personal access token with read access to Contents, Issues, and Pull requests. Leave blank to preserve the current token.",
+    "description": "Settings integrations.integrationForm: description or explanatory message."
+  },
+  "settings.integrations.integrationForm.waitingForSignIn": {
+    "message": "Waiting for sign-in…",
+    "description": "Settings integrations.integrationForm: visible label or message."
+  },
+  "settings.integrations.integrationForm.willBeDisconnectedAndItsStoredCredentialsDeletedAsk": {
+    "message": "{nameThisintegration} will be disconnected and its stored credentials deleted. Ask Octarine will no longer be able to use it.",
+    "description": "Settings integrations.integrationForm: visible UI message; named slots retain their inline content."
+  },
+  "settings.integrations.integrations": {
+    "message": "Integrations",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.loadingIntegrations": {
+    "message": "Loading integrations…",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.noIntegrationsFound": {
+    "message": "No integrations found",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.octarineProRequired": {
+    "message": "Octarine Pro required",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.readOnlyIssuesProjectsAndCycles": {
+    "message": "Read-only issues, projects, and cycles",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.readOnlyRepositoriesIssuesAndPullRequests": {
+    "message": "Read-only repositories, issues, and pull requests",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.searchAndReadPagesAndDatabases": {
+    "message": "Search and read pages and databases",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.searchIntegrations": {
+    "message": "Search integrations",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.integrations.tryADifferentSearch": {
+    "message": "Try a different search.",
+    "description": "Settings integrations: visible UI message; named slots retain their inline content."
+  },
+  "settings.integrations.yourConnections": {
+    "message": "Your connections",
+    "description": "Settings integrations: visible label or message."
+  },
+  "settings.noteTypes": {
+    "message": "Note types",
+    "description": "Note type configuration page."
+  },
+  "settings.preferences": {
+    "message": "Preferences",
+    "description": "Appearance preferences page."
+  },
+  "settings.preferences.24HourTimeFormat": {
+    "message": "24-hour Time Format",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.adjustTheSizeOfBaseInterfaceText": {
+    "message": "Adjust the size of base interface text",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.appLanguage": {
+    "message": "App language",
+    "description": "Preferences: label of the app language picker."
+  },
+  "settings.preferences.appLanguageDescription": {
+    "message": "Menus, settings and messages. Your notes aren't translated.",
+    "description": "Preferences: explains what the app language changes; notes and other user content stay as written."
+  },
+  "settings.preferences.applyARandomColorThemeEachTimeYouOpen": {
+    "message": "Apply a random color theme each time you open the app. Why? Cause it's fun!",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.bottom": {
+    "message": "Bottom",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.calendar": {
+    "message": "Calendar",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.calendarPosition": {
+    "message": "Calendar Position",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.chooseWhatToShowForThisWorkspaceWhenThe": {
+    "message": "Choose what to show for this workspace when the app launches",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.darkThemeDescription": {
+    "message": "Specifies the color theme when system color mode is dark",
+    "description": "Appearance settings: description of the preferred dark theme picker."
+  },
+  "settings.preferences.dateFormat": {
+    "message": "Date Format",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.dateTime": {
+    "message": "Date & Time",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.dimInactivePanes": {
+    "message": "Dim Inactive Panes",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.displayTheCalendarInTheSidebar": {
+    "message": "Display the calendar in the sidebar",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.displayTimeIn24HourFormatEG14": {
+    "message": "Display time in 24-hour format (e.g., 14:30 instead of 2:30 PM)",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.fontSize": {
+    "message": "Font Size",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.fonts": {
+    "message": "Fonts",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.friday": {
+    "message": "Friday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.interfaceFont": {
+    "message": "Interface Font",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.invalidDateFormat": {
+    "message": "Invalid date format",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.keepTheShareButtonVisibleInTheNoteBreadcrumb": {
+    "message": "Keep the Share button visible in the note breadcrumb. Sharing remains available from the breadcrumb options.",
+    "description": "Settings preferences: description or explanatory message."
+  },
+  "settings.preferences.language": {
+    "message": "Language",
+    "description": "Preferences: section title for the app language setting."
+  },
+  "settings.preferences.languageKeywords": {
+    "message": "language, locale, translation, chinese, english",
+    "description": "Settings search keywords for the app language setting.",
+    "kind": "keywords"
+  },
+  "settings.preferences.languageRestartHint": {
+    "message": "Restart Octarine to switch to {language}.",
+    "description": "Preferences: shown after picking another language; {language} is that language's own name, e.g. 简体中文."
+  },
+  "settings.preferences.lastViewedTab": {
+    "message": "Last viewed tab",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.layout": {
+    "message": "Layout",
+    "description": "preferences (pages/workspace/[uuid]/settings/preferences.tsx): title/tooltip."
+  },
+  "settings.preferences.lightThemeDescription": {
+    "message": "Specifies the color theme when system color mode is light",
+    "description": "Appearance settings: description of the preferred light theme picker."
+  },
+  "settings.preferences.monday": {
+    "message": "Monday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.monospaceFont": {
+    "message": "Monospace Font",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.onAppStart": {
+    "message": "On App Start",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.oneOfTheFollowingTokensMustBeIncluded": {
+    "message": "One of the following tokens must be included {join}",
+    "description": "Settings preferences: visible UI message; named slots retain their inline content."
+  },
+  "settings.preferences.openAskOctarine": {
+    "message": "Open Ask Octarine",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.openDailyNote": {
+    "message": "Open Daily Note",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.openNewTab": {
+    "message": "Open new tab",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.openViews": {
+    "message": "Open Views",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.positionTheCalendarAboveOrBelowTheSidebar": {
+    "message": "Position the calendar above or below the sidebar",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.preferences": {
+    "message": "Preferences",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.preferredDarkColorTheme": {
+    "message": "Preferred Dark Color Theme",
+    "description": "preferences (pages/workspace/[uuid]/settings/preferences.tsx): visible text."
+  },
+  "settings.preferences.preferredLightColorTheme": {
+    "message": "Preferred Light Color Theme",
+    "description": "preferences (pages/workspace/[uuid]/settings/preferences.tsx): visible text."
+  },
+  "settings.preferences.removeBordersFromPaneTabsForACleanerLook": {
+    "message": "Remove borders from pane tabs for a cleaner look",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.restartNow": {
+    "message": "Restart now",
+    "description": "Preferences: button that relaunches Octarine to apply the new language."
+  },
+  "settings.preferences.saturday": {
+    "message": "Saturday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.saveFormat": {
+    "message": "Save format",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.selectFontForAllOfOctarineApartFromEditor": {
+    "message": "Select font for all of Octarine (apart from Editor)",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.selectFontForCodeKeysAndMonospaceText": {
+    "message": "Select font for code, keys, and monospace text",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.selectWhichDayOfTheWeekYourCalendarShould": {
+    "message": "Select which day of the week your calendar should start on",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.setRandomThemeOnStartup": {
+    "message": "Set Random Theme on Startup",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.showCalendar": {
+    "message": "Show Calendar",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.showPersistedShareButton": {
+    "message": "Show Persisted Share Button",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.startup": {
+    "message": "Startup",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.storageWillRemainToBeYyyyMMDd": {
+    "message": "Storage will remain to be yyyy-MM-dd.",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.subtleTabs": {
+    "message": "Subtle Tabs",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.sunday": {
+    "message": "Sunday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.supportedFormatsCanBeFoundHere": {
+    "message": "Supported formats can be found here",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.theme": {
+    "message": "Theme",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.themeDarkColorAppearance": {
+    "message": "theme,dark,color,appearance",
+    "description": "preferences (pages/workspace/[uuid]/settings/preferences.tsx): settings search keywords.",
+    "kind": "keywords"
+  },
+  "settings.preferences.themeLightColorAppearance": {
+    "message": "theme,light,color,appearance",
+    "description": "preferences (pages/workspace/[uuid]/settings/preferences.tsx): settings search keywords.",
+    "kind": "keywords"
+  },
+  "settings.preferences.thursday": {
+    "message": "Thursday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.top": {
+    "message": "Top",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.tuesday": {
+    "message": "Tuesday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.tuneHowOctarineLooksOpensAndBehavesDayTo": {
+    "message": "Tune how Octarine looks, opens, and behaves day to day.",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.typeInYourPreferredDateFormatWillBeUsed": {
+    "message": "Type in your preferred date format. Will be used for display purposes",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.wednesday": {
+    "message": "Wednesday",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.preferences.weekStartsOn": {
+    "message": "Week starts on",
+    "description": "preferences (pages/workspace/[uuid]/settings/preferences.tsx): visible text."
+  },
+  "settings.preferences.whenUsingSplitPanesLowerTheOpacityOfInactive": {
+    "message": "When using split panes, lower the opacity of inactive panes to highlight the focused one",
+    "description": "Settings preferences: visible label or message."
+  },
+  "settings.pro": {
+    "message": "Pro",
+    "description": "Paid license page; keep product tier Pro unchanged."
+  },
+  "settings.pro.activateLicense": {
+    "message": "Activate License",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.activateOctarineProAndCheckYourTrialStatus": {
+    "message": "Activate Octarine Pro and check your trial status.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.activationMethod": {
+    "message": "Activation method",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.buyProSeatsForYourCompanyInOneGo": {
+    "message": "Buy Pro seats for your company in one go and reassign them as people come and go.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.copyDeviceActivationID": {
+    "message": "Copy Device Activation ID",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.copyEmail": {
+    "message": "Copy Email",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.copyLicenseKey": {
+    "message": "Copy License Key",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.deactivateLicense": {
+    "message": "Deactivate License",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.deactivateLicense2": {
+    "message": "Deactivate License?",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.deviceActivationID": {
+    "message": "Device Activation ID",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.deviceActivationIDCopiedToClipboard": {
+    "message": "Device activation ID copied to clipboard",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.email": {
+    "message": "Email",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.emailCopiedToClipboard": {
+    "message": "Email copied to clipboard",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.failedToDeactivateLicense": {
+    "message": "Failed to deactivate license",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.failedToDeactivateLicense2": {
+    "message": "Failed to deactivate license: {messageUnknownerror}",
+    "description": "Settings pro: visible UI message; named slots retain their inline content."
+  },
+  "settings.pro.invalidLicenseRemoved": {
+    "message": "License was already invalid and has been removed from this device",
+    "description": "Settings UI: pro. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.pro.learnMore": {
+    "message": "Learn more",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.license": {
+    "message": "License",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.licenseDeactivated": {
+    "message": "License deactivated successfully",
+    "description": "Settings UI: pro. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.pro.licenseDetails": {
+    "message": "License Details",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.licenseKey": {
+    "message": "License Key",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.licenseKeyCopiedToClipboard": {
+    "message": "License key copied to clipboard",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.manageDevices": {
+    "message": "Manage Devices",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.manageTheProLicenseActiveOnThisDevice": {
+    "message": "Manage the Pro license active on this device.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.octarineForTeams": {
+    "message": "Octarine for Teams",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.proLicense": {
+    "message": "Pro License",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.proTrialAvailable": {
+    "message": "Pro trial available",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.purchaseALifetimeLicenseToKeepAllProFeatures": {
+    "message": "Purchase a lifetime license to keep all Pro features unlocked — no subscriptions, no renewals.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.startProTrial": {
+    "message": "Start Pro Trial",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.teamSeat": {
+    "message": "Team seat",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.thisWillDeactivateYourLicenseForThisDeviceYou": {
+    "message": "This will deactivate your license for this device. You will lose access of all Pro Features.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.trialActive": {
+    "message": "Trial active",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.trialCount": {
+    "message": "{count}",
+    "description": "Numeric trial-days count in a styled slot."
+  },
+  "settings.pro.trialDataWasInvalidOrModified": {
+    "message": "Trial data was invalid or modified.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.trialEnded": {
+    "message": "Trial ended",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.trialRemaining": {
+    "message": {
+      "one": "{days} days remaining",
+      "other": "{days} days remaining"
+    },
+    "description": "Pro settings trial status. days is a styled count slot; count selects the plural form. English historically says days even for one."
+  },
+  "settings.pro.trialRemainingWithEnd": {
+    "message": {
+      "one": "{days} days remaining · Ends {date}",
+      "other": "{days} days remaining · Ends {date}"
+    },
+    "description": "Pro trial status with a styled count slot days and formatted expiration date. count selects plural form."
+  },
+  "settings.pro.tryEveryProFeatureFreeFor7Days": {
+    "message": "Try every Pro feature free for 7 days.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.unknownError": {
+    "message": "Unknown error",
+    "description": "Settings UI: pro. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.pro.yesIMSure": {
+    "message": "Yes, I'm sure",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.youCanReactivateItLaterByEnteringTheLicense": {
+    "message": "You can reactivate it later by entering the license key again.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.yourTeamSeatUnlocksProFeaturesOnThisDevice": {
+    "message": "Your team seat unlocks Pro features on this device.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.pro.yourTrialIsNoLongerActive": {
+    "message": "Your trial is no longer active.",
+    "description": "Settings pro: visible label or message."
+  },
+  "settings.quick-capture.addEachCaptureAsAParagraphBulletOrTask": {
+    "message": "Add each capture as a paragraph, bullet, or task item.",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.appendToDailyNote": {
+    "message": "Append to Daily Note",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.appendToLastInboxEntry": {
+    "message": "Append to Last Inbox Entry",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.appendingToNotes": {
+    "message": "Appending to notes",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.checkingWhetherThisShortcutIsAvailableInTheCurrent": {
+    "message": "Checking whether this shortcut is available in the current desktop session.",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.chooseWhereClipboardCapturesAreStored": {
+    "message": "Choose where clipboard captures are stored.",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.clipboard": {
+    "message": "Clipboard",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.createNewInboxEntry": {
+    "message": "Create new Inbox entry",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.includeCaptureTimestamp": {
+    "message": "Include capture timestamp",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.insertAs": {
+    "message": "Insert as",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.quickCapture": {
+    "message": "Quick capture",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.quickCaptureReady": {
+    "message": "Quick Capture is ready",
+    "description": "Settings UI: quick-capture. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.quick-capture.saveTo": {
+    "message": "Save to",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quick-capture.whenAppendingToTodaySDailyNoteOrA": {
+    "message": "When appending to today's daily note or a chosen note, add the capture time.",
+    "description": "Settings quick-capture: visible label or message."
+  },
+  "settings.quickCapture": {
+    "message": "Quick capture",
+    "description": "Capture settings page; preserve English capitalization."
+  },
+  "settings.quickCapture.accessibilityPermissionSelectionSelectedText": {
+    "message": "accessibility,permission,selection,selected text",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): settings search keywords.",
+    "kind": "keywords"
+  },
+  "settings.quickCapture.addsTheWebPageOrDocumentThatWas": {
+    "message": "Adds the web page or document that was in front as a link.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.quickCapture.allow": {
+    "message": "Allow",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): label."
+  },
+  "settings.quickCapture.attachWhereYouCameFrom": {
+    "message": "Attach where you came from",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): label."
+  },
+  "settings.quickCapture.bringSelectedTextAsAQuote": {
+    "message": "Bring selected text as a quote",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): label."
+  },
+  "settings.quickCapture.doubleTapAModifierToCaptureFromClipboard": {
+    "message": "Double-tap a modifier to capture from clipboard",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): visible text."
+  },
+  "settings.quickCapture.getAThoughtTaskOrLinkIntoOctarine": {
+    "message": "Get a thought, task or link into Octarine from anywhere.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.quickCapture.holdTheKeysTogetherAndLetGoPick": {
+    "message": "Hold the keys together and let go. Pick others if a different app already uses these.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.quickCapture.keepsAOneLineConfirmationUpForA": {
+    "message": "Keeps a one-line confirmation up for a moment, with Open and Undo.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.quickCapture.keys": {
+    "message": "Keys",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): label."
+  },
+  "settings.quickCapture.macOSNeedsToAllowOctarineUnderAccessibilityBefore": {
+    "message": "macOS needs to allow Octarine under Accessibility before it can read the selection or the page you were on.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): visible text."
+  },
+  "settings.quickCapture.openQuickCapture": {
+    "message": "Open Quick Capture",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): visible text."
+  },
+  "settings.quickCapture.pointsOutACaptureYouMayHaveWritten": {
+    "message": "Points out a capture you may have written before, and a project or note it might belong in. Matched on this device.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.quickCapture.shortcut": {
+    "message": "Shortcut",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): title/tooltip."
+  },
+  "settings.quickCapture.shortcutOffWhileMenuBarIconHidden": {
+    "message": "The shortcut is off while the menu bar icon is hidden.",
+    "description": "Quick Capture settings on macOS: why the global shortcut is disabled."
+  },
+  "settings.quickCapture.shortcutOffWhileTrayIconHidden": {
+    "message": "The shortcut is off while the system tray icon is hidden.",
+    "description": "Quick Capture settings on Windows/Linux: why the global shortcut is disabled."
+  },
+  "settings.quickCapture.showAReceiptAfterCapturing": {
+    "message": "Show a receipt after capturing",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): label."
+  },
+  "settings.quickCapture.showIcon": {
+    "message": "Show icon",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): visible text."
+  },
+  "settings.quickCapture.suggestWhereItBelongs": {
+    "message": "Suggest where it belongs",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): label."
+  },
+  "settings.quickCapture.textSelectedInTheAppInFrontArrives": {
+    "message": "Text selected in the app in front arrives as a quote, linked back to the exact spot.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.quickCapture.whileCapturing": {
+    "message": "While capturing",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): title/tooltip."
+  },
+  "settings.quickCapture.worksFromAnyAppEvenWithEveryOctarine": {
+    "message": "Works from any app, even with every Octarine window closed.",
+    "description": "quick-capture (pages/workspace/[uuid]/settings/quick-capture.tsx): description."
+  },
+  "settings.search": {
+    "message": "Search settings...",
+    "description": "Desktop settings search placeholder."
+  },
+  "settings.searchAll": {
+    "message": "Search all settings",
+    "description": "Narrow settings search placeholder."
+  },
+  "settings.sharing.aPaidLicenseIsRequiredToPublishNotes": {
+    "message": "A paid license is required to publish notes",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.aPaidOctarineLicenseIsRequired": {
+    "message": "A paid Octarine license is required",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.aThoughtfullySharedNote": {
+    "message": "A thoughtfully shared note",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.appearance": {
+    "message": "Appearance",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.appliedToNewLinksExistingLinksKeepTheirExpiration": {
+    "message": "Applied to new links. Existing links keep their expiration.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.commentEmailNotifications": {
+    "message": "Comment email notifications",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.couldnTOpenTheSharingDashboard": {
+    "message": "Couldn't open the sharing dashboard",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.dark": {
+    "message": "Dark",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.darkTheme": {
+    "message": "Dark theme",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.defaults": {
+    "message": "Defaults",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.displayName": {
+    "message": "Display name",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.displayYourPublicNameAtTheTopOfShared": {
+    "message": "Display your public name at the top of shared notes.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.emailMeWhenReadersLeaveNewCommentsOrReply": {
+    "message": "Email me when readers leave new comments or reply to me on shared notes.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.expiration": {
+    "message": "Expiration",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.failedToLoadSharingSettings": {
+    "message": "Failed to load sharing settings",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.failedToSaveSharingSettings": {
+    "message": "Failed to save sharing settings",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.font": {
+    "message": "Font",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.headingFont": {
+    "message": "Heading font",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.identity": {
+    "message": "Identity",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.includeVisibleNotePropertiesOnNewPublicLinks": {
+    "message": "Include visible note properties on new public links.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.light": {
+    "message": "Light",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.lightTheme": {
+    "message": "Light theme",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.loadingSharingSettings": {
+    "message": "Loading sharing settings...",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.manageYourPublicIdentitySharingDefaultsNotificationsAndAppearance": {
+    "message": "Manage your public identity, sharing defaults, notifications, and appearance.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.notifications": {
+    "message": "Notifications",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.publishingStoresNoteContentOnOctarineAposS": {
+    "message": "Publishing stores note content on Octarine&apos;s sharing service.",
+    "description": "sharing (pages/workspace/[uuid]/settings/sharing.tsx): visible text."
+  },
+  "settings.sharing.readerDarkMode": {
+    "message": "Reader dark mode",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.readerLightMode": {
+    "message": "Reader light mode",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.readersSeeYourNotesWithTheThemeAndTypography": {
+    "message": "Readers see your notes with the theme and typography you choose here.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.saveChanges": {
+    "message": "Save Changes",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.sharing": {
+    "message": "Sharing",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.sharingSettingsSaved": {
+    "message": "Sharing settings saved",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.showAuthor": {
+    "message": "Show author",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.showPropertiesByDefault": {
+    "message": "Show properties by default",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.signedInAs": {
+    "message": "Signed in as {value}",
+    "description": "Settings sharing: visible UI message; named slots retain their inline content."
+  },
+  "settings.sharing.unsavedChanges": {
+    "message": "Unsaved Changes",
+    "description": "Settings UI: sharing. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.sharing.usedAsTheAuthorNameWhenAuthorAttributionIs": {
+    "message": "Used as the author name when author attribution is enabled.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.usedForHeadingsInSharedNotes": {
+    "message": "Used for headings in shared notes.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.usedForSharedNoteContent": {
+    "message": "Used for shared-note content.",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.viewDashboard": {
+    "message": "View Dashboard",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.viewProOptions": {
+    "message": "View Pro options",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.sharing.yourName": {
+    "message": "Your name",
+    "description": "Settings sharing: visible label or message."
+  },
+  "settings.skills": {
+    "message": "Skills",
+    "description": "AI instruction skills configuration."
+  },
+  "settings.slashCommands": {
+    "message": "Slash Commands",
+    "description": "AI slash command configuration."
+  },
+  "settings.tasks.cycles.chooseWhetherThisWorkspaceUsesCyclesAndSetTheir": {
+    "message": "Choose whether this workspace uses cycles and set their repeating schedule.",
+    "description": "Settings tasks.cycles: visible label or message."
+  },
+  "settings.tasks.cycles.cycles": {
+    "message": "Cycles",
+    "description": "Settings tasks.cycles: visible label or message."
+  },
+  "settings.tasks.cycles.day.friday": {
+    "message": "Friday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.cycles.day.monday": {
+    "message": "Monday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.cycles.day.saturday": {
+    "message": "Saturday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.cycles.day.sunday": {
+    "message": "Sunday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.cycles.day.thursday": {
+    "message": "Thursday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.cycles.day.tuesday": {
+    "message": "Tuesday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.cycles.day.wednesday": {
+    "message": "Wednesday",
+    "description": "Settings UI: tasks / cycles / day. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.general.general": {
+    "message": "General",
+    "description": "Settings tasks.general: visible label or message."
+  },
+  "settings.tasks.general.howTasksBehaveAcrossThisWorkspace": {
+    "message": "How tasks behave across this workspace.",
+    "description": "Settings tasks.general: visible label or message."
+  },
+  "settings.tasks.inlineEditRow.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.inlineEditRow: visible label or message."
+  },
+  "settings.tasks.inlineEditRow.name": {
+    "message": "Name",
+    "description": "Settings tasks.inlineEditRow: visible label or message."
+  },
+  "settings.tasks.inlineEditRow.saving": {
+    "message": "Saving…",
+    "description": "Settings tasks.inlineEditRow: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.addBucket": {
+    "message": "Add bucket",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.bucketName": {
+    "message": "Bucket name",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.colorLabel": {
+    "message": "Change bucket colour",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.tasks.taskBucketsSettings.delete": {
+    "message": "Delete",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.delete2": {
+    "message": "Delete {name}",
+    "description": "Settings tasks.taskBucketsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskBucketsSettings.delete3": {
+    "message": "Delete “{name}”?",
+    "description": "Settings tasks.taskBucketsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskBucketsSettings.deleteBucket": {
+    "message": "Delete bucket",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.edit": {
+    "message": "Edit",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.edit2": {
+    "message": "Edit {name}",
+    "description": "Settings tasks.taskBucketsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskBucketsSettings.itsTasksMoveToNoBucket": {
+    "message": {
+      "one": "Its {count} task moves to No bucket.",
+      "other": "Its {count} tasks move to No bucket."
+    },
+    "description": "Settings tasks.taskBucketsSettings: plural message; count is the number shown."
+  },
+  "settings.tasks.taskBucketsSettings.moveDown": {
+    "message": "Move down",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.moveDown2": {
+    "message": "Move {name} down",
+    "description": "Settings tasks.taskBucketsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskBucketsSettings.moveUp": {
+    "message": "Move up",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.moveUp2": {
+    "message": "Move {name} up",
+    "description": "Settings tasks.taskBucketsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskBucketsSettings.newBucket": {
+    "message": "New bucket",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.noBucketsYet": {
+    "message": "No buckets yet",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.noTasksAreInIt": {
+    "message": "No tasks are in it.",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskBucketsSettings.save": {
+    "message": "Save",
+    "description": "Settings tasks.taskBucketsSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.cycleLength": {
+    "message": "Cycle length",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.cyclePlanning": {
+    "message": "Cycle planning",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.cycleStartDay": {
+    "message": "Cycle start day",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.planWorkInRepeatingTimeBoxesEnablingThisCreates": {
+    "message": "Plan work in repeating time boxes. Enabling this creates a numbered active cycle and an Upcoming cycle; tasks are not added automatically.",
+    "description": "Settings tasks.taskCyclesSettings: description or explanatory message."
+  },
+  "settings.tasks.taskCyclesSettings.schedule": {
+    "message": "Schedule",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.scheduleChangesRealignTheActiveAndUpcomingCyclesExisting": {
+    "message": "Schedule changes realign the active and upcoming cycles. Existing task assignments stay unchanged.",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.startsOn": {
+    "message": "Starts on",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.useCycles": {
+    "message": "Use cycles",
+    "description": "Settings tasks.taskCyclesSettings: visible label or message."
+  },
+  "settings.tasks.taskCyclesSettings.weeks": {
+    "message": {
+      "one": "{count} week",
+      "other": "{count} weeks"
+    },
+    "description": "Settings tasks.taskCyclesSettings: plural message; count is the number shown."
+  },
+  "settings.tasks.taskGeneralSettings.comments": {
+    "message": "Comments",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.followUpOn": {
+    "message": "Follow up on",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.howTasksLinkedInNotesAppear": {
+    "message": "How tasks linked in notes appear.",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.large": {
+    "message": "Large",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.leaveCommentsOnTasksTurningThisOffHidesExisting": {
+    "message": "Leave comments on tasks. Turning this off hides existing comments without deleting them.",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.previewTitle": {
+    "message": "Draft the launch announcement",
+    "description": "Settings UI: tasks / taskGeneralSettings. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.taskGeneralSettings.short": {
+    "message": "Short",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.taskLinks": {
+    "message": "Task links",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.taskLinksDisplay": {
+    "message": "Task Links Display",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.taskLinksDisplay2": {
+    "message": "Task links display",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.theTaskSID": {
+    "message": "The task's ID",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskGeneralSettings.theTaskSTitle": {
+    "message": "The task's title",
+    "description": "Settings tasks.taskGeneralSettings: visible label or message."
+  },
+  "settings.tasks.taskIdsSettings.aKeyIs2To5LettersOrDigits": {
+    "message": "A key is 2 to 5 letters or digits, starting with a letter.",
+    "description": "Settings tasks.taskIdsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskIdsSettings.keyForTasksWithoutAProject": {
+    "message": "Key for tasks without a project",
+    "description": "Settings tasks.taskIdsSettings: visible label or message."
+  },
+  "settings.tasks.taskIdsSettings.save": {
+    "message": "Save",
+    "description": "Settings tasks.taskIdsSettings: visible label or message."
+  },
+  "settings.tasks.taskIdsSettings.saving": {
+    "message": "Saving…",
+    "description": "Settings tasks.taskIdsSettings: visible label or message."
+  },
+  "settings.tasks.taskIdsSettings.tasksWithoutAProject": {
+    "message": "Tasks without a project",
+    "description": "Settings tasks.taskIdsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.addLabel": {
+    "message": "Add label",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.colorLabel": {
+    "message": "Change label colour",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.tasks.taskLabelsSettings.delete": {
+    "message": "Delete",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.delete3": {
+    "message": "Delete “{deleting}”?",
+    "description": "Settings tasks.taskLabelsSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskLabelsSettings.deleteLabel": {
+    "message": "Delete label",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.itComesOffTasks": {
+    "message": {
+      "one": "It comes off {count} task.",
+      "other": "It comes off {count} tasks."
+    },
+    "description": "Settings tasks.taskLabelsSettings: plural message; count is the number shown."
+  },
+  "settings.tasks.taskLabelsSettings.labelName": {
+    "message": "Label name",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.newLabel": {
+    "message": "New label",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.noLabelsYet": {
+    "message": "No labels yet",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.noTasksUseIt": {
+    "message": "No tasks use it.",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskLabelsSettings.save": {
+    "message": "Save",
+    "description": "Settings tasks.taskLabelsSettings: visible label or message."
+  },
+  "settings.tasks.taskSettingsPage.couldNotLoadTasks": {
+    "message": "Could not load tasks: {error}",
+    "description": "Settings tasks.taskSettingsPage: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskSettingsPage.loading": {
+    "message": "Loading…",
+    "description": "Settings tasks.taskSettingsPage: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.addStatus": {
+    "message": "Add status",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.builtIn": {
+    "message": "Built in",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.builtInStatusesCanTBeRenamedOrDeleted": {
+    "message": "Built-in statuses can’t be renamed or deleted",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.changeColour": {
+    "message": "Change {name} colour",
+    "description": "Settings tasks.taskStatusesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskStatusesSettings.colorLabel": {
+    "message": "Change status colour",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.tasks.taskStatusesSettings.delete": {
+    "message": "Delete",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.delete2": {
+    "message": "Delete {name}",
+    "description": "Settings tasks.taskStatusesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskStatusesSettings.delete3": {
+    "message": "Delete “{name}”?",
+    "description": "Settings tasks.taskStatusesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskStatusesSettings.deleteStatus": {
+    "message": "Delete status",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.edit": {
+    "message": "Edit",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.edit2": {
+    "message": "Edit {name}",
+    "description": "Settings tasks.taskStatusesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskStatusesSettings.itsTasksMoveToOrTheNearestStatusTheir": {
+    "message": {
+      "one": "Its {count} task moves to “{name}”, or the nearest status their project uses.",
+      "other": "Its {count} tasks move to “{name}”, or the nearest status their project uses."
+    },
+    "description": "Settings tasks.taskStatusesSettings: plural message; count is the number shown."
+  },
+  "settings.tasks.taskStatusesSettings.moveDown": {
+    "message": "Move down",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.moveDown2": {
+    "message": "Move {name} down",
+    "description": "Settings tasks.taskStatusesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskStatusesSettings.moveUp": {
+    "message": "Move up",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.moveUp2": {
+    "message": "Move {name} up",
+    "description": "Settings tasks.taskStatusesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskStatusesSettings.newStatus": {
+    "message": "New status",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.noTasksUseIt": {
+    "message": "No tasks use it.",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.resetColour": {
+    "message": "Reset colour",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.save": {
+    "message": "Save",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskStatusesSettings.statusName": {
+    "message": "Status name",
+    "description": "Settings tasks.taskStatusesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.addSubtask": {
+    "message": "Add subtask",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.bugReport": {
+    "message": "Bug report",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.createTemplate": {
+    "message": "Create template",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.deleteTemplate": {
+    "message": "Delete template",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.description": {
+    "message": "Description",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.descriptionNewTasksStartWithInMarkdown": {
+    "message": "Description new tasks start with, in Markdown",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.fields": {
+    "message": "fields",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.name": {
+    "message": "name",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.noProjectLabel": {
+    "message": "Current project",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.tasks.taskTemplateEditor.remove": {
+    "message": "Remove {value}",
+    "description": "Settings tasks.taskTemplateEditor: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTemplateEditor.saveChanges": {
+    "message": "Save changes",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.saving": {
+    "message": "Saving…",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.subtasks": {
+    "message": "subtasks",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.title": {
+    "message": "title",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplateEditor.whatNewTasksStartWithEGBug": {
+    "message": "What new tasks start with, e.g. Bug: ",
+    "description": "Settings tasks.taskTemplateEditor: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.anyProject": {
+    "message": "Any project",
+    "description": "Settings UI: tasks / taskTemplatesSettings. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.taskTemplatesSettings.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.createYourFirstTemplate": {
+    "message": "Create your first template",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.delete": {
+    "message": "Delete “{templateNamedeleting}”?",
+    "description": "Settings tasks.taskTemplatesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTemplatesSettings.deleteTemplate": {
+    "message": "Delete template",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.edit": {
+    "message": "Edit",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.newTemplate": {
+    "message": "New template",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.orSaveOneFromAnyTaskRightClickIt": {
+    "message": "Or save one from any task: right-click it and choose Save as template.",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTemplatesSettings.subtasks": {
+    "message": {
+      "one": "{count} subtask",
+      "other": "{count} subtasks"
+    },
+    "description": "Settings UI: tasks / taskTemplatesSettings. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.taskTemplatesSettings.tasksAlreadyMadeFromItStayAsTheyAre": {
+    "message": "Tasks already made from it stay as they are.",
+    "description": "Settings tasks.taskTemplatesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.addLabels": {
+    "message": "Add labels",
+    "description": "Settings UI: tasks / taskTypesSettings. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.taskTypesSettings.addType": {
+    "message": "Add type",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.cancel": {
+    "message": "Cancel",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.colorLabel": {
+    "message": "Change type colour",
+    "description": "Settings UI message. Preserve named placeholders and technical tokens."
+  },
+  "settings.tasks.taskTypesSettings.delete": {
+    "message": "Delete",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.delete2": {
+    "message": "Delete {name}",
+    "description": "Settings tasks.taskTypesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTypesSettings.delete3": {
+    "message": "Delete “{name}”?",
+    "description": "Settings tasks.taskTypesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTypesSettings.deleteType": {
+    "message": "Delete type",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.edit": {
+    "message": "Edit",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.edit2": {
+    "message": "Edit {name}",
+    "description": "Settings tasks.taskTypesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTypesSettings.itsTasksLoseTheirTypeLabelsAndPrioritiesIts": {
+    "message": {
+      "one": "Its {count} task loses their type. Labels and priorities its rules set stay.",
+      "other": "Its {count} tasks lose their type. Labels and priorities its rules set stay."
+    },
+    "description": "Settings tasks.taskTypesSettings: plural message; count is the number shown."
+  },
+  "settings.tasks.taskTypesSettings.leavePriority": {
+    "message": "Leave priority",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.moveDown": {
+    "message": "Move down",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.moveDown2": {
+    "message": "Move {name} down",
+    "description": "Settings tasks.taskTypesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTypesSettings.moveUp": {
+    "message": "Move up",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.moveUp2": {
+    "message": "Move {name} up",
+    "description": "Settings tasks.taskTypesSettings: visible UI message; named slots retain their inline content."
+  },
+  "settings.tasks.taskTypesSettings.newType": {
+    "message": "New type",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.noTasksHaveIt": {
+    "message": "No tasks have it.",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.noTypesYet": {
+    "message": "No types yet",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.save": {
+    "message": "Save",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.taskTypesSettings.setPriority": {
+    "message": "Set priority",
+    "description": "Settings UI: tasks / taskTypesSettings. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.tasks.taskTypesSettings.typeName": {
+    "message": "Type name",
+    "description": "Settings tasks.taskTypesSettings: visible label or message."
+  },
+  "settings.tasks.templates.backToTemplates": {
+    "message": "Back to Templates",
+    "description": "Settings tasks.templates: visible label or message."
+  },
+  "settings.tasks.templates.newTemplate": {
+    "message": "New template",
+    "description": "Settings tasks.templates: visible label or message."
+  },
+  "settings.tasks.templates.templatesTitle": {
+    "message": "Templates",
+    "description": "Settings UI: tasks / templates. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.templates": {
+    "message": "Templates",
+    "description": "Managed task templates, not note templates."
+  },
+  "settings.templates.startNewTasksWithFieldsAlreadyFilledIn": {
+    "message": "Start new tasks with fields already filled in.",
+    "description": "templates (pages/workspace/[uuid]/settings/tasks/templates.tsx): description."
+  },
+  "settings.theme-creator.areYouSureYouWantToDeleteThisAction": {
+    "message": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+    "description": "Settings theme-creator: visible UI message; named slots retain their inline content."
+  },
+  "settings.theme-creator.createAndManageCustomColorThemesForOctarine": {
+    "message": "Create and manage custom color themes for Octarine.",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.createdAndAppliedTheme": {
+    "message": "Created and applied theme \"{name}\"",
+    "description": "Settings theme-creator: visible UI message; named slots retain their inline content."
+  },
+  "settings.theme-creator.delete": {
+    "message": "Delete",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.deleteTheme": {
+    "message": "Delete Theme",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.deletedTheme": {
+    "message": "Deleted theme \"{name}\"",
+    "description": "Settings theme-creator: visible UI message; named slots retain their inline content."
+  },
+  "settings.theme-creator.failedToCreate": {
+    "message": "Failed to create theme: {reason}",
+    "description": "Theme Creator creation error; reason is the original error detail."
+  },
+  "settings.theme-creator.failedToDeleteTheme": {
+    "message": "Failed to delete theme",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.failedToUpdate": {
+    "message": "Failed to update theme: {reason}",
+    "description": "Theme Creator update error; reason is the original error detail."
+  },
+  "settings.theme-creator.newTheme": {
+    "message": "New theme",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.themeCreator2": {
+    "message": "Theme creator",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.themeCreatorIsAProFeatureUpgradeToCreate": {
+    "message": "Theme Creator is a Pro feature. Upgrade to create your own custom color themes.",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.theme-creator.updatedTheme": {
+    "message": "Updated theme \"{name}\"",
+    "description": "Settings theme-creator: visible UI message; named slots retain their inline content."
+  },
+  "settings.theme-creator.upgradeToPro": {
+    "message": "Upgrade to Pro",
+    "description": "Settings theme-creator: visible label or message."
+  },
+  "settings.themeCreator": {
+    "message": "Theme Creator",
+    "description": "Custom theme editor page."
+  },
+  "settings.themeCreator.themeEditor.alternateName": {
+    "message": "{name} Alt",
+    "description": "Default collision-avoiding theme name, name is generated or user-entered."
+  },
+  "settings.themeCreator.themeEditor.askAI": {
+    "message": "Ask AI",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.baseTheme": {
+    "message": "Base Theme",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.baseThemeIsLockedAfterCreation": {
+    "message": "Base theme is locked after creation.",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.cancel": {
+    "message": "Cancel",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.chooseWhetherThisThemeIsADarkOrLight": {
+    "message": "Choose whether this theme is a dark or light palette. Affects folder icon colors, callouts, syntax highlighting, info banners, and toasts.",
+    "description": "Settings themeCreator.themeEditor: description or explanatory message."
+  },
+  "settings.themeCreator.themeEditor.closeAIPrompt": {
+    "message": "Close AI prompt",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.copiedCSSToClipboard": {
+    "message": "Copied CSS to clipboard",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.copyCSS": {
+    "message": "Copy CSS",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.create": {
+    "message": "Create",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.customFallback": {
+    "message": "Custom",
+    "description": "Fallback name shown in the generated-theme success toast, not an AI prompt."
+  },
+  "settings.themeCreator.themeEditor.dark": {
+    "message": "Dark",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.describeYourThemeEGCozyAutumnForestNeon": {
+    "message": "Describe your theme... (e.g., 'cozy autumn forest', 'neon cyberpunk')",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.failedToCopyToClipboard": {
+    "message": "Failed to copy to clipboard",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.failedToGenerateThemeTryAClearerDescription": {
+    "message": "Failed to generate theme. Try a clearer description.",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.failedToReadFromClipboard": {
+    "message": "Failed to read from clipboard",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.generate": {
+    "message": "Generate",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.generatedTheme": {
+    "message": "Generated theme \"{generatedNameCustom}\"",
+    "description": "Settings themeCreator.themeEditor: visible UI message; named slots retain their inline content."
+  },
+  "settings.themeCreator.themeEditor.importedVariables": {
+    "message": {
+      "one": "Imported {count} variables",
+      "other": "Imported {count} variables"
+    },
+    "description": "Number of imported CSS variables; preserve original English variables for singular."
+  },
+  "settings.themeCreator.themeEditor.light": {
+    "message": "Light",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.myCustomTheme": {
+    "message": "My Custom Theme",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.name": {
+    "message": "Name",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.noValidCSSVariablesFoundInClipboard": {
+    "message": "No valid CSS variables found in clipboard",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.palette": {
+    "message": "Palette",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.paletteInfo": {
+    "message": "Palette info",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.pasteFromClipboard": {
+    "message": "Paste from Clipboard",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.pick": {
+    "message": "Pick {key}",
+    "description": "Settings themeCreator.themeEditor: visible UI message; named slots retain their inline content."
+  },
+  "settings.themeCreator.themeEditor.pleaseDescribeTheThemeYouWant": {
+    "message": "Please describe the theme you want",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.preferDark": {
+    "message": "Switch to Dark as preference",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.themeCreator.themeEditor.preferLight": {
+    "message": "Switch to Light as preference",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.themeCreator.themeEditor.selectABaseThemeAboveToStartCustomizingColors": {
+    "message": "Select a base theme above to start customizing colors.",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.themeNameAlreadyExistsPleaseChooseAUniqueName": {
+    "message": "Theme name already exists. Please choose a unique name.",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.tipAskForTweaksLikeLighterBordersToAdjust": {
+    "message": "Tip: ask for tweaks like \"lighter borders\" to adjust the base theme, or describe a new identity to generate a fresh theme.",
+    "description": "Settings themeCreator.themeEditor: description or explanatory message."
+  },
+  "settings.themeCreator.themeEditor.undo": {
+    "message": "Undo",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeEditor.update": {
+    "message": "Update",
+    "description": "Settings themeCreator.themeEditor: visible label or message."
+  },
+  "settings.themeCreator.themeList.darkThemes": {
+    "message": "Dark themes",
+    "description": "Settings themeCreator.themeList: visible label or message."
+  },
+  "settings.themeCreator.themeList.delete": {
+    "message": "Delete {name}",
+    "description": "Settings themeCreator.themeList: visible UI message; named slots retain their inline content."
+  },
+  "settings.themeCreator.themeList.lightThemes": {
+    "message": "Light themes",
+    "description": "Settings themeCreator.themeList: visible label or message."
+  },
+  "settings.themeCreator.themeList.noCustomThemesYet": {
+    "message": "No custom themes yet",
+    "description": "Settings themeCreator.themeList: visible label or message."
+  },
+  "settings.themeCreator.themeList.noDarkThemes": {
+    "message": "No dark themes yet.",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.themeCreator.themeList.noLightThemes": {
+    "message": "No light themes yet.",
+    "description": "Settings UI: complete message, with named slots for user content where present."
+  },
+  "settings.themePreview.pro": {
+    "message": " (Pro)",
+    "description": "Settings themePreview: visible label or message."
+  },
+  "settings.title": {
+    "message": "Settings",
+    "description": "Fallback settings dropdown label."
+  },
+  "settings.types.areYouSureYouWantToDeleteThisRemoves": {
+    "message": "Are you sure you want to delete {emphasis}? This removes the type definition from your workspace. Existing notes are not modified.{value}This cannot be undone.",
+    "description": "Settings types: visible UI message; named slots retain their inline content."
+  },
+  "settings.types.cancel": {
+    "message": "Cancel",
+    "description": "Settings types: visible label or message."
+  },
+  "settings.types.delete": {
+    "message": "Delete",
+    "description": "Settings types: visible label or message."
+  },
+  "settings.types.deleteNoteType": {
+    "message": "Delete note type?",
+    "description": "Settings types: visible label or message."
+  },
+  "settings.types.index.newType": {
+    "message": "New Type",
+    "description": "Settings UI: types / index. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.types.noteTypeEditor.addProperty": {
+    "message": "Add Property",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.backToNoteTypes": {
+    "message": "Back to note types",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.backToTypes": {
+    "message": "Back to types",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.delete": {
+    "message": "Delete",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.description": {
+    "message": "Description",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.eachPropertyNameMustBeUniqueWithinThisType": {
+    "message": "Each property name must be unique within this type.",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.movePropertyDown": {
+    "message": "Move property down",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.movePropertyUp": {
+    "message": "Move property up",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.name": {
+    "message": "Name",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.noPropertiesYetAddAPropertyToDefineWhat": {
+    "message": "No properties yet. Add a property to define what this type should collect.",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.oneLineDescriptionForAI": {
+    "message": "One-line description for AI",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.properties": {
+    "message": "Properties",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.releaseBlogTask": {
+    "message": "Release, Blog, Task...",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.removeProperty": {
+    "message": "Remove property",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypeEditor.theseFieldsAreAddedToNotesOfThisType": {
+    "message": "These fields are added to notes of this type. Add brief descriptions to help AI generate useful values.",
+    "description": "Settings types.noteTypeEditor: description or explanatory message."
+  },
+  "settings.types.noteTypeEditor.type": {
+    "message": "Type",
+    "description": "Settings types.noteTypeEditor: visible label or message."
+  },
+  "settings.types.noteTypesList.created": {
+    "message": "Created",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.delete": {
+    "message": "Delete",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.deleteNoteType": {
+    "message": "Delete note type",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.name": {
+    "message": "Name",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.newType": {
+    "message": "New type",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.noNoteTypesCreatedYet": {
+    "message": "No note types created yet",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.noProperties": {
+    "message": "No properties",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.noteTypes": {
+    "message": "Note types",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.properties": {
+    "message": "Properties",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.typesAddStructuredPropertiesToYourNotes": {
+    "message": "Types add structured properties to your notes.",
+    "description": "Settings types.noteTypesList: visible label or message."
+  },
+  "settings.types.noteTypesList.unknown": {
+    "message": "Unknown",
+    "description": "Settings UI: types / noteTypesList. Named placeholders preserve user or inline content; count selects plural form."
+  },
+  "settings.types.noteTypesProLocked.noteTypes": {
+    "message": "Note types",
+    "description": "Settings types.noteTypesProLocked: visible label or message."
+  },
+  "settings.types.noteTypesProLocked.typesAddStructuredPropertiesToYourNotesTheAI": {
+    "message": "Types add structured properties to your notes. The AI uses them to fill in values automatically.",
+    "description": "Settings types.noteTypesProLocked: visible label or message."
+  },
+  "settings.types.noteTypesProLocked.upgradeToPro": {
+    "message": "Upgrade to Pro",
+    "description": "Settings types.noteTypesProLocked: visible label or message."
+  },
+  "settings.window": {
+    "message": "Window",
+    "description": "Application window settings page."
+  }
+}

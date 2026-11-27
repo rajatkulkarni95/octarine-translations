@@ -1,0 +1,6 @@
+{
+  "chat.history.defaultTitle": {
+    "message": "RAG Chat",
+    "description": "User-facing application copy."
+  }
+}

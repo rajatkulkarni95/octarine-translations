@@ -1,0 +1,30 @@
+[
+  {
+    "at": "2026-11-26T09:27:55.549Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "654b157ac49177f66d9f0951c678fed4fc6e794a",
+    "glossarySha256": "b58ad3947288d5c6ebf19d3e3c022068a7c3fc00ea8a2fb7c1a1a9dcc4e399aa",
+    "translated": 6993,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 615311,
+      "output_tokens": 590069,
+      "cache_read_input_tokens": 311777
+    }
+  },
+  {
+    "at": "2026-11-26T10:38:06.353Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "9ca19887fa6efb7df46322fb51d2d43b3b114759",
+    "glossarySha256": "b58ad3947288d5c6ebf19d3e3c022068a7c3fc00ea8a2fb7c1a1a9dcc4e399aa",
+    "translated": 2,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 199,
+      "output_tokens": 104,
+      "cache_read_input_tokens": 0
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "share.expired": {
+    "message": "Sharing expired",
+    "description": "User-facing application copy."
+  },
+  "share.loadingStatus": {
+    "message": "Loading share status",
+    "description": "User-facing application copy."
+  }
+}

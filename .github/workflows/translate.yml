@@ -1,0 +1,107 @@
+name: Draft translations
+
+# Drafts translations with Claude for new or changed English and keeps one
+# rolling pull request ("Update translations") open for language reviewers.
+# Only languages whose glossary has "status": "active" run automatically;
+# pilot languages run by hand (workflow_dispatch) until a reviewer signs off.
+# Runs only on pushes to main, never on pull requests, so the API key is
+# never exposed to contributed code.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/i18n/locales/en/**"
+      - "src/i18n/glossary/**"
+  workflow_dispatch:
+    inputs:
+      locale:
+        description: "Locale to translate (default: every active glossary)"
+        required: false
+      only:
+        description: "Comma-separated key prefixes, e.g. menu,tasks.taskcontextmenu"
+        required: false
+      limit:
+        description: "Maximum entries to translate"
+        required: false
+
+concurrency:
+  group: translate
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Translate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INPUT_LOCALE: ${{ inputs.locale }}
+          INPUT_ONLY: ${{ inputs.only }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -n "${INPUT_LOCALE:-}" ]; then
+            locales="$INPUT_LOCALE"
+          else
+            locales=$(node -e '
+              const fs = require("fs");
+              const dir = "src/i18n/glossary";
+              for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".json"))) {
+                const g = JSON.parse(fs.readFileSync(`${dir}/${f}`, "utf8"));
+                if (g.status === "active") console.log(g.locale);
+              }')
+          fi
+          status=0
+          for locale in $locales; do
+            args=("$locale")
+            [ -n "${INPUT_ONLY:-}" ] && args+=(--only "$INPUT_ONLY")
+            [ -n "${INPUT_LIMIT:-}" ] && args+=(--limit "$INPUT_LIMIT")
+            # Failed entries stay untranslated and are listed in the log; the
+            # rest is still worth a pull request.
+            node scripts/i18n-translate.mjs "${args[@]}" || status=1
+          done
+          echo "TRANSLATE_STATUS=$status" >> "$GITHUB_ENV"
+
+      - name: Validate
+        run: node scripts/i18n.mjs check
+
+      - name: Open or update the drafts pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: drafts/update-translations
+          commit-message: Draft translations
+          title: Update translations
+          body: |
+            Drafted by Claude (`scripts/i18n-translate.mjs`) for new or changed English.
+            Language reviewers: read the diff for your language and suggest or push fixes.
+            Anything you edit is kept; later drafts never overwrite it.
+            Run details (model, glossary, token use) are in `src/i18n/provenance/`.
+            ${{ env.TRANSLATE_STATUS == '1' && 'Some entries failed validation and were left untranslated; see the workflow log.' || '' }}
+          add-paths: |
+            src/i18n/locales/**
+            src/i18n/provenance/**
+          delete-branch: true

@@ -1,0 +1,98 @@
+{
+  "copy.components.AskOctarine.ChatMessage.QuickActions.index.savedResponseToNote": {
+    "message": "Antwort in Notiz gespeichert",
+    "sourceHash": "ae42b48d3b9df2ad021b1eacd8f432aaa247b552083bb4e5d61d468c36102806"
+  },
+  "copy.components.AskOctarine.ChatTitle.emptyChat": {
+    "message": "Leerer Chat",
+    "sourceHash": "3cc8b0fe952ac1d04d39e2af50e6bdf593fb03ef6a405e6b953cd4731e6a6f37"
+  },
+  "copy.components.AskOctarine.SkillSelector.skills": {
+    "message": "Skills",
+    "sourceHash": "d50fd634a831dc21e6d6e14b7758d767b0baf31a2e11d540c13cd5129a7dfda6"
+  },
+  "copy.components.Breadcrumb.NoteAppearancePopover.searchFonts": {
+    "message": "Schriftarten suchen…",
+    "sourceHash": "d4274210dc33dab9594b7922d146ffa85df5e34c308d1f5836446757c23244b6"
+  },
+  "copy.components.Calendar.index.deleteDailyNote": {
+    "message": "Tagesnotiz löschen",
+    "sourceHash": "8dbf87bb111a9954046dd66a0d322e4964af9401c7615e2f60c1c3e37a2f52a0"
+  },
+  "copy.components.Calendar.index.deleteWeeklyNote": {
+    "message": "Wochennotiz löschen",
+    "sourceHash": "c399e591161c75a5ba4d8e37091ea16787a200db2e40f5346e90547a6d17b0d6"
+  },
+  "copy.components.Common.NoteDestinationPicker.noMatchingNotesFound": {
+    "message": "Keine passenden Notizen gefunden",
+    "sourceHash": "32dbd02f4f2172c3ec8468fbecebec49305d057ee12ab27d971e66b3555cef3a"
+  },
+  "copy.components.Common.NoteDestinationPicker.noNotesAvailable": {
+    "message": "Keine Notizen verfügbar",
+    "sourceHash": "9ef059762af14aab3db94a2915dcfcddd631875f091ce6011aa2a854221b5b9b"
+  },
+  "copy.components.Common.NoteFolderDestinationPicker.noFoldersAvailable": {
+    "message": "Keine Ordner verfügbar",
+    "sourceHash": "d9410c695a7d89a4c42259ee7a25b023d327371cd1d0c2bd7e273ac0a9fc7282"
+  },
+  "copy.components.Common.NoteFolderDestinationPicker.noMatchingFoldersFound": {
+    "message": "Keine passenden Ordner gefunden",
+    "sourceHash": "51214a816c9077c58c212f429093263c27da0330ec9d4728779e744562189048"
+  },
+  "copy.components.Common.QuickSaveNotePopover.noFoldersAvailable": {
+    "message": "Keine Ordner verfügbar",
+    "sourceHash": "408893b9d06c194d8ae75c4c0cd53f3c288200df59937e76f569ab8e72c936c1"
+  },
+  "copy.components.Common.QuickSaveNotePopover.noMatchingFoldersFound": {
+    "message": "Keine passenden Ordner gefunden",
+    "sourceHash": "8ccb5b26bb3b1aadc54f8f0e0747cc351e59e072592828b21beea84bd3f11129"
+  },
+  "copy.components.Feedback.Dialog.couldntSendYourFeedbackPleaseTryAgain": {
+    "message": "Feedback konnte nicht gesendet werden. Bitte versuch es erneut.",
+    "sourceHash": "368639e88968d3b87d2b5aee423be37598eac3820203add2e6cad97bb4314dea"
+  },
+  "copy.components.Notes.BacklinksSheet.noLinkedReferences": {
+    "message": "Keine verknüpften Rückverweise",
+    "sourceHash": "4eeeb812a9ca70befd9ba324dfa17c8b469d571055c1c5991950bcaa420d24c2"
+  },
+  "copy.components.Notes.BacklinksSheet.noMentions": {
+    "message": "Keine Erwähnungen",
+    "sourceHash": "a2809def07249a2e322e1fa53d5b7867591fdbe90b39623ce53257e449a0f25d"
+  },
+  "copy.components.Sidebar.AskAssistant.PromptBox.ModelSelector.reasoning": {
+    "message": "Denkprozess",
+    "sourceHash": "b15ff5c2db1c0496aff6b23295f981c5f7fc71b378f477f7854c670ed950b827"
+  },
+  "copy.components.Workspace.Form.index.weveDetectedAnExistingGitConfigurationInYourWorkspaceFolderSoWeve": {
+    "message": "Wir haben eine vorhandene Git-Konfiguration in deinem Arbeitsbereich-Ordner erkannt und Git-Sync für dich eingerichtet.",
+    "sourceHash": "2165020d0fcd29245f787e3b6841434a39a69f3f0b787075d016d3d53ad68ed6"
+  },
+  "copy.helpers.feedback.couldntSendYourFeedbackPleaseTryAgain": {
+    "message": "Feedback konnte nicht gesendet werden. Bitte versuch es erneut.",
+    "sourceHash": "d1b241bcad0c4826682cb050af25ea1732f56b19fbc900b1dc760d1801a53a91"
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.appendedToDailyNote": {
+    "message": "An Tagesnotiz angehängt",
+    "sourceHash": "afd643e5e5f8749c8e4b196230e4e5a748e419df2f28018b2c1db7937d5146f3"
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.appendedToLastInboxEntry": {
+    "message": "An letzten Eintrag im Eingang angehängt",
+    "sourceHash": "2f10043741228567fb8d607d57183c68d172f9072c025d9bf8e263edae3232ed"
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.couldntSaveClipboardCapture": {
+    "message": "Eintrag aus der Zwischenablage konnte nicht gespeichert werden",
+    "sourceHash": "c11f9ad9d5e015e8d86b1a3e7235433672ec2f5146d29c97d2b36c816b4072d1"
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.nothingToCaptureFromClipboard": {
+    "message": "Nichts in der Zwischenablage zum Erfassen",
+    "sourceHash": "35be3f909b6cdb4e6ed466d1aff2522dbbeeb77ee70fd38e0be7812666b124ab"
+  },
+  "copy.hooks.app.useDoubleModifierClipboardCapture.savedToInbox": {
+    "message": "Im Eingang gespeichert",
+    "sourceHash": "d16236403e44f2fd4b2d33895c74e6f0594d0a188bd54218182a287aaf293783"
+  },
+  "copy.pages.workspace.uuid.chat.savedEntireThreadToNote": {
+    "message": "Gesamten Thread in Notiz gespeichert",
+    "sourceHash": "1a942d3f1548212960ba20ca771f733bef1bd703faab2c821fdf05c2961d836a"
+  }
+}

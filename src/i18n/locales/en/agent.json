@@ -1,0 +1,408 @@
+{
+  "agent.cli.cycle_complete": {
+    "message": "Complete cycle",
+    "description": "Complete activity-trace label for CLI command cycle complete; translate as a whole phrase."
+  },
+  "agent.cli.cycle_list": {
+    "message": "Cycles",
+    "description": "Complete activity-trace label for CLI command cycle list; translate as a whole phrase."
+  },
+  "agent.cli.cycle_settings": {
+    "message": "Cycle settings",
+    "description": "Complete activity-trace label for CLI command cycle settings; translate as a whole phrase."
+  },
+  "agent.cli.cycle_show": {
+    "message": "Read cycle",
+    "description": "Complete activity-trace label for CLI command cycle show; translate as a whole phrase."
+  },
+  "agent.cli.cycle_update": {
+    "message": "Update cycle",
+    "description": "Complete activity-trace label for CLI command cycle update; translate as a whole phrase."
+  },
+  "agent.cli.inbox_append_to_daily": {
+    "message": "Inbox append-to-daily",
+    "description": "Complete activity-trace label for CLI command inbox append-to-daily; translate as a whole phrase."
+  },
+  "agent.cli.inbox_append_to_note": {
+    "message": "Inbox append-to-note",
+    "description": "Complete activity-trace label for CLI command inbox append-to-note; translate as a whole phrase."
+  },
+  "agent.cli.inbox_capture": {
+    "message": "Capture inbox",
+    "description": "Complete activity-trace label for CLI command inbox capture; translate as a whole phrase."
+  },
+  "agent.cli.inbox_doctor": {
+    "message": "Inbox doctor",
+    "description": "Complete activity-trace label for CLI command inbox doctor; translate as a whole phrase."
+  },
+  "agent.cli.inbox_list": {
+    "message": "Inbox items",
+    "description": "Complete activity-trace label for CLI command inbox list; translate as a whole phrase."
+  },
+  "agent.cli.inbox_priority": {
+    "message": "Inbox priority",
+    "description": "Complete activity-trace label for CLI command inbox priority; translate as a whole phrase."
+  },
+  "agent.cli.inbox_promote": {
+    "message": "Promote inbox",
+    "description": "Complete activity-trace label for CLI command inbox promote; translate as a whole phrase."
+  },
+  "agent.cli.inbox_snooze": {
+    "message": "Snooze inbox",
+    "description": "Complete activity-trace label for CLI command inbox snooze; translate as a whole phrase."
+  },
+  "agent.cli.inbox_status": {
+    "message": "Inbox status",
+    "description": "Complete activity-trace label for CLI command inbox status; translate as a whole phrase."
+  },
+  "agent.cli.inbox_tag_add": {
+    "message": "Add inbox tag",
+    "description": "Complete activity-trace label for CLI command inbox tag add; translate as a whole phrase."
+  },
+  "agent.cli.inbox_tag_list": {
+    "message": "Inbox tags",
+    "description": "Complete activity-trace label for CLI command inbox tag list; translate as a whole phrase."
+  },
+  "agent.cli.inbox_tag_remove": {
+    "message": "Remove inbox tag",
+    "description": "Complete activity-trace label for CLI command inbox tag remove; translate as a whole phrase."
+  },
+  "agent.cli.inbox_trash": {
+    "message": "Trash inbox",
+    "description": "Complete activity-trace label for CLI command inbox trash; translate as a whole phrase."
+  },
+  "agent.cli.inbox_unsnooze": {
+    "message": "Unsnooze inbox",
+    "description": "Complete activity-trace label for CLI command inbox unsnooze; translate as a whole phrase."
+  },
+  "agent.cli.project_archive": {
+    "message": "Archive project",
+    "description": "Complete activity-trace label for CLI command project archive; translate as a whole phrase."
+  },
+  "agent.cli.project_create": {
+    "message": "Create project",
+    "description": "Complete activity-trace label for CLI command project create; translate as a whole phrase."
+  },
+  "agent.cli.project_list": {
+    "message": "Projects",
+    "description": "Complete activity-trace label for CLI command project list; translate as a whole phrase."
+  },
+  "agent.cli.project_resource_add": {
+    "message": "Add project resource",
+    "description": "Complete activity-trace label for CLI command project resource add; translate as a whole phrase."
+  },
+  "agent.cli.project_resource_list": {
+    "message": "Project resources",
+    "description": "Complete activity-trace label for CLI command project resource list; translate as a whole phrase."
+  },
+  "agent.cli.project_resource_remove": {
+    "message": "Remove project resource",
+    "description": "Complete activity-trace label for CLI command project resource remove; translate as a whole phrase."
+  },
+  "agent.cli.project_restore": {
+    "message": "Restore project",
+    "description": "Complete activity-trace label for CLI command project restore; translate as a whole phrase."
+  },
+  "agent.cli.project_show": {
+    "message": "Read project",
+    "description": "Complete activity-trace label for CLI command project show; translate as a whole phrase."
+  },
+  "agent.cli.project_update": {
+    "message": "Update project",
+    "description": "Complete activity-trace label for CLI command project update; translate as a whole phrase."
+  },
+  "agent.cli.property_definitions_define": {
+    "message": "Property definitions define",
+    "description": "Complete activity-trace label for CLI command property definitions define; translate as a whole phrase."
+  },
+  "agent.cli.property_definitions_delete": {
+    "message": "Delete property definitions",
+    "description": "Complete activity-trace label for CLI command property definitions delete; translate as a whole phrase."
+  },
+  "agent.cli.property_definitions_list": {
+    "message": "Property definitionss",
+    "description": "Complete activity-trace label for CLI command property definitions list; translate as a whole phrase."
+  },
+  "agent.cli.property_definitions_put": {
+    "message": "Property definitions put",
+    "description": "Complete activity-trace label for CLI command property definitions put; translate as a whole phrase."
+  },
+  "agent.cli.property_definitions_show": {
+    "message": "Read property definitions",
+    "description": "Complete activity-trace label for CLI command property definitions show; translate as a whole phrase."
+  },
+  "agent.cli.property_definitions_validate": {
+    "message": "Property definitions validate",
+    "description": "Complete activity-trace label for CLI command property definitions validate; translate as a whole phrase."
+  },
+  "agent.cli.property_get": {
+    "message": "Read property",
+    "description": "Complete activity-trace label for CLI command property get; translate as a whole phrase."
+  },
+  "agent.cli.property_list": {
+    "message": "Propertys",
+    "description": "Complete activity-trace label for CLI command property list; translate as a whole phrase."
+  },
+  "agent.cli.property_set": {
+    "message": "Set property",
+    "description": "Complete activity-trace label for CLI command property set; translate as a whole phrase."
+  },
+  "agent.cli.property_unset": {
+    "message": "Clear property",
+    "description": "Complete activity-trace label for CLI command property unset; translate as a whole phrase."
+  },
+  "agent.cli.space_archive": {
+    "message": "Archive space",
+    "description": "Complete activity-trace label for CLI command space archive; translate as a whole phrase."
+  },
+  "agent.cli.space_create": {
+    "message": "Create space",
+    "description": "Complete activity-trace label for CLI command space create; translate as a whole phrase."
+  },
+  "agent.cli.space_delete": {
+    "message": "Delete space",
+    "description": "Complete activity-trace label for CLI command space delete; translate as a whole phrase."
+  },
+  "agent.cli.space_list": {
+    "message": "Spaces",
+    "description": "Complete activity-trace label for CLI command space list; translate as a whole phrase."
+  },
+  "agent.cli.space_resource_add": {
+    "message": "Add space resource",
+    "description": "Complete activity-trace label for CLI command space resource add; translate as a whole phrase."
+  },
+  "agent.cli.space_resource_list": {
+    "message": "Space resources",
+    "description": "Complete activity-trace label for CLI command space resource list; translate as a whole phrase."
+  },
+  "agent.cli.space_resource_remove": {
+    "message": "Remove space resource",
+    "description": "Complete activity-trace label for CLI command space resource remove; translate as a whole phrase."
+  },
+  "agent.cli.space_restore": {
+    "message": "Restore space",
+    "description": "Complete activity-trace label for CLI command space restore; translate as a whole phrase."
+  },
+  "agent.cli.space_show": {
+    "message": "Read space",
+    "description": "Complete activity-trace label for CLI command space show; translate as a whole phrase."
+  },
+  "agent.cli.space_update": {
+    "message": "Update space",
+    "description": "Complete activity-trace label for CLI command space update; translate as a whole phrase."
+  },
+  "agent.cli.task_activity": {
+    "message": "Activity of task",
+    "description": "Complete activity-trace label for CLI command task activity; translate as a whole phrase."
+  },
+  "agent.cli.task_archive": {
+    "message": "Archive task",
+    "description": "Complete activity-trace label for CLI command task archive; translate as a whole phrase."
+  },
+  "agent.cli.task_bucket_create": {
+    "message": "Create task bucket",
+    "description": "Complete activity-trace label for CLI command task bucket create; translate as a whole phrase."
+  },
+  "agent.cli.task_bucket_delete": {
+    "message": "Delete task bucket",
+    "description": "Complete activity-trace label for CLI command task bucket delete; translate as a whole phrase."
+  },
+  "agent.cli.task_bucket_update": {
+    "message": "Update task bucket",
+    "description": "Complete activity-trace label for CLI command task bucket update; translate as a whole phrase."
+  },
+  "agent.cli.task_buckets": {
+    "message": "Task buckets",
+    "description": "Complete activity-trace label for CLI command task buckets; translate as a whole phrase."
+  },
+  "agent.cli.task_comment": {
+    "message": "Comment on task",
+    "description": "Complete activity-trace label for CLI command task comment; translate as a whole phrase."
+  },
+  "agent.cli.task_create": {
+    "message": "Create task",
+    "description": "Complete activity-trace label for CLI command task create; translate as a whole phrase."
+  },
+  "agent.cli.task_filter_create": {
+    "message": "Create task filter",
+    "description": "Complete activity-trace label for CLI command task filter create; translate as a whole phrase."
+  },
+  "agent.cli.task_filter_delete": {
+    "message": "Delete task filter",
+    "description": "Complete activity-trace label for CLI command task filter delete; translate as a whole phrase."
+  },
+  "agent.cli.task_filter_list": {
+    "message": "Task filters",
+    "description": "Complete activity-trace label for CLI command task filter list; translate as a whole phrase."
+  },
+  "agent.cli.task_filter_update": {
+    "message": "Update task filter",
+    "description": "Complete activity-trace label for CLI command task filter update; translate as a whole phrase."
+  },
+  "agent.cli.task_label_create": {
+    "message": "Create task label",
+    "description": "Complete activity-trace label for CLI command task label create; translate as a whole phrase."
+  },
+  "agent.cli.task_label_delete": {
+    "message": "Delete task label",
+    "description": "Complete activity-trace label for CLI command task label delete; translate as a whole phrase."
+  },
+  "agent.cli.task_label_update": {
+    "message": "Update task label",
+    "description": "Complete activity-trace label for CLI command task label update; translate as a whole phrase."
+  },
+  "agent.cli.task_labels": {
+    "message": "Task labels",
+    "description": "Complete activity-trace label for CLI command task labels; translate as a whole phrase."
+  },
+  "agent.cli.task_list": {
+    "message": "Tasks",
+    "description": "Complete activity-trace label for CLI command task list; translate as a whole phrase."
+  },
+  "agent.cli.task_resource_add": {
+    "message": "Add task resource",
+    "description": "Complete activity-trace label for CLI command task resource add; translate as a whole phrase."
+  },
+  "agent.cli.task_resource_list": {
+    "message": "Task resources",
+    "description": "Complete activity-trace label for CLI command task resource list; translate as a whole phrase."
+  },
+  "agent.cli.task_resource_remove": {
+    "message": "Remove task resource",
+    "description": "Complete activity-trace label for CLI command task resource remove; translate as a whole phrase."
+  },
+  "agent.cli.task_restore": {
+    "message": "Restore task",
+    "description": "Complete activity-trace label for CLI command task restore; translate as a whole phrase."
+  },
+  "agent.cli.task_settings": {
+    "message": "Task settings",
+    "description": "Complete activity-trace label for CLI command task settings; translate as a whole phrase."
+  },
+  "agent.cli.task_show": {
+    "message": "Read task",
+    "description": "Complete activity-trace label for CLI command task show; translate as a whole phrase."
+  },
+  "agent.cli.task_status_create": {
+    "message": "Create task status",
+    "description": "Complete activity-trace label for CLI command task status create; translate as a whole phrase."
+  },
+  "agent.cli.task_status_delete": {
+    "message": "Delete task status",
+    "description": "Complete activity-trace label for CLI command task status delete; translate as a whole phrase."
+  },
+  "agent.cli.task_status_update": {
+    "message": "Update task status",
+    "description": "Complete activity-trace label for CLI command task status update; translate as a whole phrase."
+  },
+  "agent.cli.task_statuses": {
+    "message": "Task statuses",
+    "description": "Complete activity-trace label for CLI command task statuses; translate as a whole phrase."
+  },
+  "agent.cli.task_template_create": {
+    "message": "Create task template",
+    "description": "Complete activity-trace label for CLI command task template create; translate as a whole phrase."
+  },
+  "agent.cli.task_template_delete": {
+    "message": "Delete task template",
+    "description": "Complete activity-trace label for CLI command task template delete; translate as a whole phrase."
+  },
+  "agent.cli.task_template_show": {
+    "message": "Read task template",
+    "description": "Complete activity-trace label for CLI command task template show; translate as a whole phrase."
+  },
+  "agent.cli.task_template_update": {
+    "message": "Update task template",
+    "description": "Complete activity-trace label for CLI command task template update; translate as a whole phrase."
+  },
+  "agent.cli.task_templates": {
+    "message": "Task templates",
+    "description": "Complete activity-trace label for CLI command task templates; translate as a whole phrase."
+  },
+  "agent.cli.task_type_create": {
+    "message": "Create task type",
+    "description": "Complete activity-trace label for CLI command task type create; translate as a whole phrase."
+  },
+  "agent.cli.task_type_delete": {
+    "message": "Delete task type",
+    "description": "Complete activity-trace label for CLI command task type delete; translate as a whole phrase."
+  },
+  "agent.cli.task_type_update": {
+    "message": "Update task type",
+    "description": "Complete activity-trace label for CLI command task type update; translate as a whole phrase."
+  },
+  "agent.cli.task_types": {
+    "message": "Task types",
+    "description": "Complete activity-trace label for CLI command task types; translate as a whole phrase."
+  },
+  "agent.cli.task_update": {
+    "message": "Update task",
+    "description": "Complete activity-trace label for CLI command task update; translate as a whole phrase."
+  },
+  "agent.notion.databaseCount": {
+    "message": {
+      "one": "{number} database",
+      "other": "{number} databases"
+    },
+    "description": "Number of Notion results. count selects the plural; number is a styled numeric slot."
+  },
+  "agent.notion.pageCount": {
+    "message": {
+      "one": "{number} page",
+      "other": "{number} pages"
+    },
+    "description": "Number of Notion results. count selects the plural; number is a styled numeric slot."
+  },
+  "agent.trace.fallback.all": {
+    "message": "all",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "agent.trace.fallback.nospace": {
+    "message": "no space",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "agent.trace.fallback.note": {
+    "message": "note",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "agent.trace.fallback.open": {
+    "message": "open",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "agent.trace.fallback.range": {
+    "message": "range",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "agent.trace.fallback.workspaceroot": {
+    "message": "workspace root",
+    "description": "Application-owned display text; never a persisted identifier."
+  },
+  "agent.undoSummary.create-folder": {
+    "message": {
+      "one": "{count} folder created",
+      "other": "{count} folders created"
+    },
+    "description": "A count of reversible workspace operations of this kind."
+  },
+  "agent.undoSummary.create-note": {
+    "message": {
+      "one": "{count} note created",
+      "other": "{count} notes created"
+    },
+    "description": "A count of reversible workspace operations of this kind."
+  },
+  "agent.undoSummary.move-path": {
+    "message": {
+      "one": "{count} path moved",
+      "other": "{count} paths moved"
+    },
+    "description": "A count of reversible workspace operations of this kind."
+  },
+  "agent.undoSummary.update-note": {
+    "message": {
+      "one": "{count} note updated",
+      "other": "{count} notes updated"
+    },
+    "description": "A count of reversible workspace operations of this kind."
+  }
+}

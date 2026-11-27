@@ -1,0 +1,110 @@
+[
+  {
+    "at": "2026-11-26T08:11:40.659Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "33e8827d1b508ef9faf39a7867158f06a0d567be",
+    "glossarySha256": "53c154a8332b0cd433181e5a6f77293f84cc0c192da1173374664fd757c4d715",
+    "only": [
+      "menu",
+      "native.windows",
+      "tasks.taskcontextmenu",
+      "tasks.taskdeletedialog",
+      "app.inbox.inboxDecideBar",
+      "editor.bubblemenu",
+      "editor.slash"
+    ],
+    "translated": 300,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 22106,
+      "output_tokens": 15427,
+      "cache_read_input_tokens": 4568
+    }
+  },
+  {
+    "at": "2026-11-26T08:21:27.008Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "34b85db4e408d316903d0821cdd6c61fc863a66d",
+    "glossarySha256": "e04540cc8067ada3f8034b7d4847163d08680b586505974da279f1cf19050cde",
+    "only": [
+      "menu",
+      "native.windows",
+      "tasks.taskcontextmenu",
+      "tasks.taskdeletedialog",
+      "app.inbox.inboxDecideBar",
+      "editor.bubblemenu",
+      "editor.slash"
+    ],
+    "translated": 133,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 12611,
+      "output_tokens": 9103,
+      "cache_read_input_tokens": 0
+    }
+  },
+  {
+    "at": "2026-11-26T08:21:41.168Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "34b85db4e408d316903d0821cdd6c61fc863a66d",
+    "glossarySha256": "e04540cc8067ada3f8034b7d4847163d08680b586505974da279f1cf19050cde",
+    "only": [
+      "menu.dailyDesk",
+      "app.inbox.inboxDecideBar",
+      "native.windows.tray.active",
+      "editor.slash.search.header"
+    ],
+    "translated": 16,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 1521,
+      "output_tokens": 996,
+      "cache_read_input_tokens": 2498
+    }
+  },
+  {
+    "at": "2026-11-26T09:01:49.734Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "654b157ac49177f66d9f0951c678fed4fc6e794a",
+    "glossarySha256": "e04540cc8067ada3f8034b7d4847163d08680b586505974da279f1cf19050cde",
+    "translated": 6658,
+    "failed": 15,
+    "usage": {
+      "input_tokens": 591762,
+      "output_tokens": 528903,
+      "cache_read_input_tokens": 329736
+    }
+  },
+  {
+    "at": "2026-11-26T10:22:50.307Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "83485e178a6ed0195fdc3a8a1ca3bf6cd4ce2e53",
+    "glossarySha256": "e04540cc8067ada3f8034b7d4847163d08680b586505974da279f1cf19050cde",
+    "translated": 15,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 3626,
+      "output_tokens": 3214,
+      "cache_read_input_tokens": 2498
+    }
+  },
+  {
+    "at": "2026-11-26T10:38:01.191Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "9ca19887fa6efb7df46322fb51d2d43b3b114759",
+    "glossarySha256": "e04540cc8067ada3f8034b7d4847163d08680b586505974da279f1cf19050cde",
+    "translated": 2,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 199,
+      "output_tokens": 101,
+      "cache_read_input_tokens": 0
+    }
+  }
+]

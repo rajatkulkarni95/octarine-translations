@@ -1,0 +1,2250 @@
+{
+  "editor.aliasLink.linkingTo": {
+    "message": "Linking to {target}",
+    "description": "Editor interface: aliasLink linkingTo"
+  },
+  "editor.bubblemenu.addToAskOctarine": {
+    "message": "Add to Ask Octarine",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Add to Ask Octarine"
+  },
+  "editor.bubblemenu.blue": {
+    "message": "Blue",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Blue"
+  },
+  "editor.bubblemenu.bold": {
+    "message": "Bold",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Bold"
+  },
+  "editor.bubblemenu.brown": {
+    "message": "Brown",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Brown"
+  },
+  "editor.bubblemenu.bulletList": {
+    "message": "Bullet List",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Bullet List"
+  },
+  "editor.bubblemenu.callout": {
+    "message": "Callout",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Callout"
+  },
+  "editor.bubblemenu.codeBlock": {
+    "message": "Code Block",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Code Block"
+  },
+  "editor.bubblemenu.error": {
+    "message": "Error",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Error"
+  },
+  "editor.bubblemenu.green": {
+    "message": "Green",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Green"
+  },
+  "editor.bubblemenu.heading1": {
+    "message": "Heading 1",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Heading 1"
+  },
+  "editor.bubblemenu.heading2": {
+    "message": "Heading 2",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Heading 2"
+  },
+  "editor.bubblemenu.heading3": {
+    "message": "Heading 3",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Heading 3"
+  },
+  "editor.bubblemenu.heading4": {
+    "message": "Heading 4",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Heading 4"
+  },
+  "editor.bubblemenu.heading5": {
+    "message": "Heading 5",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Heading 5"
+  },
+  "editor.bubblemenu.heading6": {
+    "message": "Heading 6",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Heading 6"
+  },
+  "editor.bubblemenu.highlight": {
+    "message": "Highlight",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Highlight"
+  },
+  "editor.bubblemenu.info": {
+    "message": "Info",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Info"
+  },
+  "editor.bubblemenu.inlineCode": {
+    "message": "Inline Code",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Inline Code"
+  },
+  "editor.bubblemenu.italic": {
+    "message": "Italic",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Italic"
+  },
+  "editor.bubblemenu.link": {
+    "message": "Link",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Link"
+  },
+  "editor.bubblemenu.none": {
+    "message": "None",
+    "description": "Editor components/Editor/BubbleMenu.tsx: None"
+  },
+  "editor.bubblemenu.numberedList": {
+    "message": "Numbered List",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Numbered List"
+  },
+  "editor.bubblemenu.orange": {
+    "message": "Orange",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Orange"
+  },
+  "editor.bubblemenu.pink": {
+    "message": "Pink",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Pink"
+  },
+  "editor.bubblemenu.purple": {
+    "message": "Purple",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Purple"
+  },
+  "editor.bubblemenu.quote": {
+    "message": "Quote",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Quote"
+  },
+  "editor.bubblemenu.red": {
+    "message": "Red",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Red"
+  },
+  "editor.bubblemenu.strike": {
+    "message": "Strike",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Strike"
+  },
+  "editor.bubblemenu.success": {
+    "message": "Success",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Success"
+  },
+  "editor.bubblemenu.text": {
+    "message": "Text",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Text"
+  },
+  "editor.bubblemenu.textColor": {
+    "message": "Text Color",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Text Color"
+  },
+  "editor.bubblemenu.textColorPro": {
+    "message": "Text Color (Pro)",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Text Color (Pro)"
+  },
+  "editor.bubblemenu.thatSelectionIsAlreadyAttachedOrExceedsTheContextLimit": {
+    "message": "That selection is already attached or exceeds the context limit",
+    "description": "Editor components/Editor/BubbleMenu.tsx: That selection is already attached or exceeds the context limit"
+  },
+  "editor.bubblemenu.tip": {
+    "message": "Tip",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Tip"
+  },
+  "editor.bubblemenu.toDoList": {
+    "message": "To-do List",
+    "description": "Editor components/Editor/BubbleMenu.tsx: To-do List"
+  },
+  "editor.bubblemenu.turnInto": {
+    "message": "Turn into",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Turn into"
+  },
+  "editor.bubblemenu.underline": {
+    "message": "Underline",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Underline"
+  },
+  "editor.bubblemenu.warning": {
+    "message": "Warning",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Warning"
+  },
+  "editor.bubblemenu.writingAssistant": {
+    "message": "Writing Assistant",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Writing Assistant"
+  },
+  "editor.bubblemenu.yellow": {
+    "message": "Yellow",
+    "description": "Editor components/Editor/BubbleMenu.tsx: Yellow"
+  },
+  "editor.callout.error": {
+    "message": "Error",
+    "description": "Callout type display label."
+  },
+  "editor.callout.info": {
+    "message": "Info",
+    "description": "Callout type display label."
+  },
+  "editor.callout.success": {
+    "message": "Success",
+    "description": "Callout type display label."
+  },
+  "editor.callout.tip": {
+    "message": "Tip",
+    "description": "Callout type display label."
+  },
+  "editor.codeblock.lineCount": {
+    "message": {
+      "one": "{count} lines",
+      "other": "{count} lines"
+    },
+    "description": "Editor interface: codeblock lineCount"
+  },
+  "editor.doclink.cannotCreate": {
+    "message": "Cannot create note: {reason}",
+    "description": "Editor doclink/index.tsx: cannotCreate"
+  },
+  "editor.doclink.headingMissing": {
+    "message": "Heading “{heading}” was not found",
+    "description": "Editor useDocLinkClickHandler.tsx: headingMissing"
+  },
+  "editor.doclink.invalidPath": {
+    "message": "Invalid characters in path segment: \"{segment}\"",
+    "description": "Editor doclink/index.tsx: invalidPath"
+  },
+  "editor.editorstatsbar.characters": {
+    "message": "Characters",
+    "description": "Editor components/Editor/EditorStatsBar.tsx: Characters"
+  },
+  "editor.editorstatsbar.lines": {
+    "message": "Lines",
+    "description": "Editor components/Editor/EditorStatsBar.tsx: Lines"
+  },
+  "editor.editorstatsbar.readingTime": {
+    "message": "Reading Time",
+    "description": "Editor components/Editor/EditorStatsBar.tsx: Reading Time"
+  },
+  "editor.editorstatsbar.words": {
+    "message": "Words",
+    "description": "Editor components/Editor/EditorStatsBar.tsx: Words"
+  },
+  "editor.exportdialog.a4": {
+    "message": "A4",
+    "description": "Editor components/Editor/ExportDialog.tsx: A4"
+  },
+  "editor.exportdialog.addNoteNameAsHeading": {
+    "message": "Add note name as heading",
+    "description": "Editor components/Editor/ExportDialog.tsx: Add note name as heading"
+  },
+  "editor.exportdialog.cancel": {
+    "message": "Cancel",
+    "description": "Editor components/Editor/ExportDialog.tsx: Cancel"
+  },
+  "editor.exportdialog.desktop": {
+    "message": "Desktop",
+    "description": "Editor components/Editor/ExportDialog.tsx: Desktop"
+  },
+  "editor.exportdialog.documents": {
+    "message": "Documents",
+    "description": "Editor components/Editor/ExportDialog.tsx: Documents"
+  },
+  "editor.exportdialog.docx": {
+    "message": "DOCX",
+    "description": "Editor components/Editor/ExportDialog.tsx: DOCX"
+  },
+  "editor.exportdialog.downloads": {
+    "message": "Downloads",
+    "description": "Editor components/Editor/ExportDialog.tsx: Downloads"
+  },
+  "editor.exportdialog.embed": {
+    "message": "Embed",
+    "description": "Editor components/Editor/ExportDialog.tsx: Embed"
+  },
+  "editor.exportdialog.embedAsBase64": {
+    "message": "Embed as Base64",
+    "description": "Editor components/Editor/ExportDialog.tsx: Embed as Base64"
+  },
+  "editor.exportdialog.exclude": {
+    "message": "Exclude",
+    "description": "Editor components/Editor/ExportDialog.tsx: Exclude"
+  },
+  "editor.exportdialog.export": {
+    "message": "Export",
+    "description": "Editor components/Editor/ExportDialog.tsx: Export"
+  },
+  "editor.exportdialog.exportNote": {
+    "message": "Export Note",
+    "description": "Editor components/Editor/ExportDialog.tsx: Export Note"
+  },
+  "editor.exportdialog.exportSuccess": {
+    "message": "Exported as {format}",
+    "description": "Editor ExportDialog.tsx: exportSuccess"
+  },
+  "editor.exportdialog.exporting": {
+    "message": "Exporting...",
+    "description": "Editor components/Editor/ExportDialog.tsx: Exporting..."
+  },
+  "editor.exportdialog.exportingHtml": {
+    "message": "Exporting HTML…",
+    "description": "Editor components/Editor/ExportDialog.tsx: Exporting HTML…"
+  },
+  "editor.exportdialog.exportingStatus": {
+    "message": "Exporting…",
+    "description": "Export in-progress notice."
+  },
+  "editor.exportdialog.exportingText": {
+    "message": "Exporting text…",
+    "description": "Editor components/Editor/ExportDialog.tsx: Exporting text…"
+  },
+  "editor.exportdialog.exportingWordDocument": {
+    "message": "Exporting Word document…",
+    "description": "Editor components/Editor/ExportDialog.tsx: Exporting Word document…"
+  },
+  "editor.exportdialog.failedToExportNote": {
+    "message": "Failed to export note",
+    "description": "Editor components/Editor/ExportDialog.tsx: Failed to export note"
+  },
+  "editor.exportdialog.fileName": {
+    "message": "File name",
+    "description": "Editor components/Editor/ExportDialog.tsx: File name"
+  },
+  "editor.exportdialog.format": {
+    "message": "Format",
+    "description": "Editor components/Editor/ExportDialog.tsx: Format"
+  },
+  "editor.exportdialog.html": {
+    "message": "HTML",
+    "description": "Editor components/Editor/ExportDialog.tsx: HTML"
+  },
+  "editor.exportdialog.imageHandling": {
+    "message": "Image handling",
+    "description": "Editor components/Editor/ExportDialog.tsx: Image handling"
+  },
+  "editor.exportdialog.images": {
+    "message": "Images",
+    "description": "Editor components/Editor/ExportDialog.tsx: Images"
+  },
+  "editor.exportdialog.include": {
+    "message": "Include",
+    "description": "Editor components/Editor/ExportDialog.tsx: Include"
+  },
+  "editor.exportdialog.includeProperties": {
+    "message": "Include properties",
+    "description": "Editor components/Editor/ExportDialog.tsx: Include properties"
+  },
+  "editor.exportdialog.invalidName": {
+    "message": "Invalid name",
+    "description": "Editor components/Editor/ExportDialog.tsx: Invalid name"
+  },
+  "editor.exportdialog.location": {
+    "message": "Location",
+    "description": "Editor components/Editor/ExportDialog.tsx: Location"
+  },
+  "editor.exportdialog.longRunningPage": {
+    "message": "Long Running Page",
+    "description": "Editor components/Editor/ExportDialog.tsx: Long Running Page"
+  },
+  "editor.exportdialog.name": {
+    "message": "Name",
+    "description": "Editor components/Editor/ExportDialog.tsx: Name"
+  },
+  "editor.exportdialog.openFile": {
+    "message": "Open File",
+    "description": "Editor components/Editor/ExportDialog.tsx: Open File"
+  },
+  "editor.exportdialog.page": {
+    "message": "Page",
+    "description": "Editor components/Editor/ExportDialog.tsx: Page"
+  },
+  "editor.exportdialog.pdf": {
+    "message": "PDF",
+    "description": "Editor components/Editor/ExportDialog.tsx: PDF"
+  },
+  "editor.exportdialog.properties": {
+    "message": "Properties",
+    "description": "Editor components/Editor/ExportDialog.tsx: Properties"
+  },
+  "editor.exportdialog.remove": {
+    "message": "Remove",
+    "description": "Editor components/Editor/ExportDialog.tsx: Remove"
+  },
+  "editor.exportdialog.revealInFinder": {
+    "message": "Reveal in Finder",
+    "description": "Editor components/Editor/ExportDialog.tsx: Reveal in Finder"
+  },
+  "editor.exportdialog.title": {
+    "message": "Title",
+    "description": "Editor components/Editor/ExportDialog.tsx: Title"
+  },
+  "editor.exportdialog.txt": {
+    "message": "TXT",
+    "description": "Editor components/Editor/ExportDialog.tsx: TXT"
+  },
+  "editor.exportdialog.untitled": {
+    "message": "Untitled",
+    "description": "Editor components/Editor/ExportDialog.tsx: Untitled"
+  },
+  "editor.exportdialog.usLegal": {
+    "message": "US Legal",
+    "description": "Editor components/Editor/ExportDialog.tsx: US Legal"
+  },
+  "editor.exportdialog.usLetter": {
+    "message": "US Letter",
+    "description": "Editor components/Editor/ExportDialog.tsx: US Letter"
+  },
+  "editor.exportdialog.workspaceFolder": {
+    "message": "Workspace Folder",
+    "description": "Editor components/Editor/ExportDialog.tsx: Workspace Folder"
+  },
+  "editor.extensions.aliaslinksuggestions.enterToInsert": {
+    "message": "Enter to insert",
+    "description": "Editor components/Editor/extensions/AliasLinkSuggestions.tsx: Enter to insert"
+  },
+  "editor.extensions.aliaslinksuggestions.typeAnAliasThenPressEnterToInsert": {
+    "message": "Type an alias, then press Enter to insert",
+    "description": "Editor components/Editor/extensions/AliasLinkSuggestions.tsx: Type an alias, then press Enter to insert"
+  },
+  "editor.extensions.base.pressForQuickActions": {
+    "message": "Press / for quick actions",
+    "description": "Editor components/Editor/extensions/base.tsx: Press / for quick actions"
+  },
+  "editor.extensions.callout.calloutnodeview.remove": {
+    "message": "Remove",
+    "description": "Editor components/Editor/extensions/callout/CalloutNodeView.tsx: Remove"
+  },
+  "editor.extensions.callout.calloutnodeview.warning": {
+    "message": "Warning",
+    "description": "Editor components/Editor/extensions/callout/CalloutNodeView.tsx: Warning"
+  },
+  "editor.extensions.codeblock.addMermaidCodeToPreviewTheDiagram": {
+    "message": "Add Mermaid code to preview the diagram.",
+    "description": "Editor components/Editor/extensions/codeblock/index.tsx: Add Mermaid code to preview the diagram."
+  },
+  "editor.extensions.codeblock.collapseCodeBlock": {
+    "message": "Collapse code block",
+    "description": "Editor components/Editor/extensions/codeblock/index.tsx: Collapse code block"
+  },
+  "editor.extensions.codeblock.copiedToClipboard": {
+    "message": "Copied to clipboard",
+    "description": "Editor components/Editor/extensions/codeblock/index.tsx: Copied to clipboard"
+  },
+  "editor.extensions.codeblock.copyToClipboard": {
+    "message": "Copy to clipboard",
+    "description": "Editor components/Editor/extensions/codeblock/index.tsx: Copy to clipboard"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.downloadAsPng": {
+    "message": "Download as PNG",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Download as PNG"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.downloadAsSvg": {
+    "message": "Download as SVG",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Download as SVG"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.downloadDiagram": {
+    "message": "Download diagram",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Download diagram"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.resetZoom": {
+    "message": "Reset zoom",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Reset zoom"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.syntaxErrorInMermaidDiagram": {
+    "message": "Syntax error in Mermaid diagram:",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Syntax error in Mermaid diagram:"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.viewFullscreen": {
+    "message": "View fullscreen",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: View fullscreen"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.zoomIn": {
+    "message": "Zoom in",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Zoom in"
+  },
+  "editor.extensions.codeblock.mermaidrenderer.zoomOut": {
+    "message": "Zoom out",
+    "description": "Editor components/Editor/extensions/codeblock/MermaidRenderer.tsx: Zoom out"
+  },
+  "editor.extensions.codeblock.selectLanguage": {
+    "message": "Select language",
+    "description": "Editor components/Editor/extensions/codeblock/index.tsx: Select language"
+  },
+  "editor.extensions.doclink.emptyPathSegmentDoubleSlashesOrLeadingTrailingSlashes": {
+    "message": "Empty path segment (double slashes or leading/trailing slashes)",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: Empty path segment (double slashes or leading/trailing slashes)"
+  },
+  "editor.extensions.doclink.heading": {
+    "message": "Heading",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: Heading"
+  },
+  "editor.extensions.doclink.linkDestination": {
+    "message": "Link destination",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: Link destination"
+  },
+  "editor.extensions.doclink.linkedNoteDoesNotExistClickToCreateIt": {
+    "message": "Linked Note does not exist. Click to create it.",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: Linked Note does not exist. Click to create it."
+  },
+  "editor.extensions.doclink.noText": {
+    "message": "No text",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: No text"
+  },
+  "editor.extensions.doclink.projectlink.project": {
+    "message": "Project",
+    "description": "Editor components/Editor/extensions/doclink/ProjectLink.tsx: Project"
+  },
+  "editor.extensions.doclink.titleSpansMultipleLines": {
+    "message": "Title spans multiple lines",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: Title spans multiple lines"
+  },
+  "editor.extensions.doclink.titleTooLongMax150Characters": {
+    "message": "Title too long (max 150 characters)",
+    "description": "Editor components/Editor/extensions/doclink/index.tsx: Title too long (max 150 characters)"
+  },
+  "editor.extensions.doclink.viewlink.linkedViewDoesNotExist": {
+    "message": "Linked view does not exist",
+    "description": "Editor components/Editor/extensions/doclink/ViewLink.tsx: Linked view does not exist"
+  },
+  "editor.extensions.doclink.viewlink.unknownView": {
+    "message": "Unknown view",
+    "description": "Editor components/Editor/extensions/doclink/ViewLink.tsx: Unknown view"
+  },
+  "editor.extensions.doclink.viewsheet.close": {
+    "message": "Close",
+    "description": "Editor components/Editor/extensions/doclink/ViewSheet.tsx: Close"
+  },
+  "editor.extensions.doclink.viewsheet.openInTab": {
+    "message": "Open in Tab",
+    "description": "Editor components/Editor/extensions/doclink/ViewSheet.tsx: Open in Tab"
+  },
+  "editor.extensions.filelink.fileDoesNotExistInWorkspace": {
+    "message": "File does not exist in workspace",
+    "description": "Editor components/Editor/extensions/filelink/index.tsx: File does not exist in workspace"
+  },
+  "editor.extensions.image.collapseImage": {
+    "message": "Collapse image",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Collapse image"
+  },
+  "editor.extensions.image.copyPath": {
+    "message": "Copy Path",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Copy Path"
+  },
+  "editor.extensions.image.createMediaStack": {
+    "message": "Create Media Stack",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Create Media Stack"
+  },
+  "editor.extensions.image.moreOptions": {
+    "message": "More Options",
+    "description": "Editor components/Editor/extensions/image/index.tsx: More Options"
+  },
+  "editor.extensions.image.openInBrowser": {
+    "message": "Open in Browser",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Open in Browser"
+  },
+  "editor.extensions.image.pathCopiedToClipboard": {
+    "message": "Path copied to clipboard",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Path copied to clipboard"
+  },
+  "editor.extensions.image.removeImage": {
+    "message": "Remove Image",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Remove Image"
+  },
+  "editor.extensions.image.resetToOriginalSize": {
+    "message": "Reset to Original Size",
+    "description": "Editor components/Editor/extensions/image/index.tsx: Reset to Original Size"
+  },
+  "editor.extensions.image.viewFullscreen": {
+    "message": "View Fullscreen",
+    "description": "Editor components/Editor/extensions/image/index.tsx: View Fullscreen"
+  },
+  "editor.extensions.inlinerewritepreview.accept": {
+    "message": "Accept",
+    "description": "Editor components/Editor/extensions/inlineRewritePreview.ts: Accept"
+  },
+  "editor.extensions.inlinerewritepreview.highlightChanges": {
+    "message": "Highlight changes",
+    "description": "Editor components/Editor/extensions/inlineRewritePreview.ts: Highlight changes"
+  },
+  "editor.extensions.inlinerewritepreview.undo": {
+    "message": "Undo",
+    "description": "Editor components/Editor/extensions/inlineRewritePreview.ts: Undo"
+  },
+  "editor.extensions.linkembed.convertToTextLink": {
+    "message": "Convert to text link",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: Convert to text link"
+  },
+  "editor.extensions.linkembed.copyLink": {
+    "message": "Copy link",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: Copy link"
+  },
+  "editor.extensions.linkembed.delete": {
+    "message": "Delete",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: Delete"
+  },
+  "editor.extensions.linkembed.linkCopiedToClipboard": {
+    "message": "Link copied to clipboard",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: Link copied to clipboard"
+  },
+  "editor.extensions.linkembed.moreOptions": {
+    "message": "More options",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: More options"
+  },
+  "editor.extensions.linkembed.openLink": {
+    "message": "Open link",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: Open link"
+  },
+  "editor.extensions.linkembed.youtubeVideo": {
+    "message": "YouTube video",
+    "description": "Editor components/Editor/extensions/linkEmbed.tsx: YouTube video"
+  },
+  "editor.extensions.mathblock.deleteMathBlock": {
+    "message": "Delete math block",
+    "description": "Editor components/Editor/extensions/mathBlock.tsx: Delete math block"
+  },
+  "editor.extensions.mathblock.doubleClickToAddMathEquation": {
+    "message": "Double-click to add math equation",
+    "description": "Editor components/Editor/extensions/mathBlock.tsx: Double-click to add math equation"
+  },
+  "editor.extensions.mathblock.enterEscToFinish": {
+    "message": "⇧ Enter / Esc to finish",
+    "description": "Editor components/Editor/extensions/mathBlock.tsx: ⇧ Enter / Esc to finish"
+  },
+  "editor.extensions.mathblock.failedToRenderMath": {
+    "message": "Failed to render math",
+    "description": "Editor components/Editor/extensions/mathBlock.tsx: Failed to render math"
+  },
+  "editor.extensions.mediaplaybackcontrols.addAnnotation": {
+    "message": "Add annotation...",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Add annotation..."
+  },
+  "editor.extensions.mediaplaybackcontrols.annotate": {
+    "message": "Annotate",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Annotate"
+  },
+  "editor.extensions.mediaplaybackcontrols.copyTimestamp": {
+    "message": "Copy timestamp",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Copy timestamp"
+  },
+  "editor.extensions.mediaplaybackcontrols.insert": {
+    "message": "Insert",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Insert"
+  },
+  "editor.extensions.mediaplaybackcontrols.insertTimestampMarker": {
+    "message": "Insert timestamp marker",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Insert timestamp marker"
+  },
+  "editor.extensions.mediaplaybackcontrols.mute": {
+    "message": "Mute",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Mute"
+  },
+  "editor.extensions.mediaplaybackcontrols.pause": {
+    "message": "Pause",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Pause"
+  },
+  "editor.extensions.mediaplaybackcontrols.play": {
+    "message": "Play",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Play"
+  },
+  "editor.extensions.mediaplaybackcontrols.playbackSpeed": {
+    "message": "Playback speed",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Playback speed"
+  },
+  "editor.extensions.mediaplaybackcontrols.unmute": {
+    "message": "Unmute",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Unmute"
+  },
+  "editor.extensions.mediaplaybackcontrols.volume": {
+    "message": "Volume",
+    "description": "Editor components/Editor/extensions/MediaPlaybackControls.tsx: Volume"
+  },
+  "editor.extensions.mediastack.plugin.image": {
+    "message": "Image",
+    "description": "Editor components/Editor/extensions/mediaStack/plugin.ts: Image"
+  },
+  "editor.extensions.mediastack.plugin.media": {
+    "message": "Media",
+    "description": "Editor components/Editor/extensions/mediaStack/plugin.ts: Media"
+  },
+  "editor.extensions.mediastack.plugin.theNoteChangedTryDroppingTheMediaAgain": {
+    "message": "The note changed. Try dropping the media again.",
+    "description": "Editor components/Editor/extensions/mediaStack/plugin.ts: The note changed. Try dropping the media again."
+  },
+  "editor.extensions.mediastack.plugin.video": {
+    "message": "Video",
+    "description": "Editor components/Editor/extensions/mediaStack/plugin.ts: Video"
+  },
+  "editor.extensions.mediastack.view.addMedia": {
+    "message": "Add media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Add media"
+  },
+  "editor.extensions.mediastack.view.addMediaToStack": {
+    "message": "Add media to stack",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Add media to stack"
+  },
+  "editor.extensions.mediastack.view.addOneOrMoreImagesOrVideos": {
+    "message": "Add one or more images or videos",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Add one or more images or videos"
+  },
+  "editor.extensions.mediastack.view.addSelected": {
+    "message": "Add selected",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Add selected"
+  },
+  "editor.extensions.mediastack.view.chooseExistingMedia": {
+    "message": "Choose existing media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Choose existing media"
+  },
+  "editor.extensions.mediastack.view.dragToReorder": {
+    "message": "Drag to reorder",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Drag to reorder"
+  },
+  "editor.extensions.mediastack.view.dropToAddToStack": {
+    "message": "Drop to add to stack",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Drop to add to stack"
+  },
+  "editor.extensions.mediastack.view.emptyMediaStack": {
+    "message": "Empty media stack",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Empty media stack"
+  },
+  "editor.extensions.mediastack.view.importFromDevice": {
+    "message": "Import from device",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Import from device"
+  },
+  "editor.extensions.mediastack.view.importingMedia": {
+    "message": "Importing media…",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Importing media…"
+  },
+  "editor.extensions.mediastack.view.mediaFiles": {
+    "message": "Media Files",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Media Files"
+  },
+  "editor.extensions.mediastack.view.mediaIsStillImportingDropTheNextFilesWhenItFinishes": {
+    "message": "Media is still importing. Drop the next files when it finishes.",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Media is still importing. Drop the next files when it finishes."
+  },
+  "editor.extensions.mediastack.view.mediaStackActions": {
+    "message": "Media stack actions",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Media stack actions"
+  },
+  "editor.extensions.mediastack.view.moreMediaStackActions": {
+    "message": "More media stack actions",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: More media stack actions"
+  },
+  "editor.extensions.mediastack.view.moreOptions": {
+    "message": "More options",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: More options"
+  },
+  "editor.extensions.mediastack.view.nextMedia": {
+    "message": "Next media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Next media"
+  },
+  "editor.extensions.mediastack.view.noImagesOrVideosFound": {
+    "message": "No images or videos found.",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: No images or videos found."
+  },
+  "editor.extensions.mediastack.view.previousMedia": {
+    "message": "Previous media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Previous media"
+  },
+  "editor.extensions.mediastack.view.removeMedia": {
+    "message": "Remove media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Remove media"
+  },
+  "editor.extensions.mediastack.view.removeStack": {
+    "message": "Remove Stack",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Remove Stack"
+  },
+  "editor.extensions.mediastack.view.removeThisMediaStackAndItsMedia": {
+    "message": "Remove this media stack and its media?",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Remove this media stack and its media?"
+  },
+  "editor.extensions.mediastack.view.reorderMedia": {
+    "message": "Reorder media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Reorder media"
+  },
+  "editor.extensions.mediastack.view.scrollableMediaStack": {
+    "message": "Scrollable media stack",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Scrollable media stack"
+  },
+  "editor.extensions.mediastack.view.searchExistingMedia": {
+    "message": "Search existing media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Search existing media"
+  },
+  "editor.extensions.mediastack.view.searchMedia": {
+    "message": "Search media",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Search media"
+  },
+  "editor.extensions.mediastack.view.someFilesCouldNotBeAddedDropImagesOrVideosUpTo25MbEach": {
+    "message": "Some files could not be added. Drop images or videos up to 25 MB each.",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Some files could not be added. Drop images or videos up to 25 MB each."
+  },
+  "editor.extensions.mediastack.view.someMediaCouldNotBeImportedIntoTheStack": {
+    "message": "Some media could not be imported into the stack.",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Some media could not be imported into the stack."
+  },
+  "editor.extensions.mediastack.view.stackSize": {
+    "message": "Stack size",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Stack size"
+  },
+  "editor.extensions.mediastack.view.unableToImportMediaIntoTheStack": {
+    "message": "Unable to import media into the stack.",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Unable to import media into the stack."
+  },
+  "editor.extensions.mediastack.view.unstack": {
+    "message": "Unstack",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Unstack"
+  },
+  "editor.extensions.mediastack.view.useMediaAlreadyInThisWorkspace": {
+    "message": "Use media already in this workspace",
+    "description": "Editor components/Editor/extensions/mediaStack/View.tsx: Use media already in this workspace"
+  },
+  "editor.extensions.outline.view.documentOutline": {
+    "message": "Document outline",
+    "description": "Editor components/Editor/extensions/outline/View.tsx: Document outline"
+  },
+  "editor.extensions.outline.view.showOutline": {
+    "message": "Show outline",
+    "description": "Editor components/Editor/extensions/outline/View.tsx: Show outline"
+  },
+  "editor.extensions.render.projectsuggestionitems.projects": {
+    "message": "Projects",
+    "description": "Editor components/Editor/extensions/Render/ProjectSuggestionItems.tsx: Projects"
+  },
+  "editor.extensions.render.tasksuggestionitems.tasks": {
+    "message": "Tasks",
+    "description": "Editor components/Editor/extensions/Render/TaskSuggestionItems.tsx: Tasks"
+  },
+  "editor.extensions.sectionlinksuggestions.chooseAnExistingNoteBefore": {
+    "message": "Choose an existing note before #",
+    "description": "Editor components/Editor/extensions/SectionLinkSuggestions.tsx: Choose an existing note before #"
+  },
+  "editor.extensions.sectionlinksuggestions.couldNotLoadHeadings": {
+    "message": "Could not load headings",
+    "description": "Editor components/Editor/extensions/SectionLinkSuggestions.tsx: Could not load headings"
+  },
+  "editor.extensions.sectionlinksuggestions.loadingHeadings": {
+    "message": "Loading headings…",
+    "description": "Editor components/Editor/extensions/SectionLinkSuggestions.tsx: Loading headings…"
+  },
+  "editor.extensions.sectionlinksuggestions.noHeadingsInThisNote": {
+    "message": "No headings in this note",
+    "description": "Editor components/Editor/extensions/SectionLinkSuggestions.tsx: No headings in this note"
+  },
+  "editor.extensions.sectionlinksuggestions.noMatchingHeadings": {
+    "message": "No matching headings",
+    "description": "Editor components/Editor/extensions/SectionLinkSuggestions.tsx: No matching headings"
+  },
+  "editor.extensions.sectionlinksuggestions.noteHeadings": {
+    "message": "Note headings",
+    "description": "Editor components/Editor/extensions/SectionLinkSuggestions.tsx: Note headings"
+  },
+  "editor.extensions.slashCommand.bulletList": {
+    "message": "Bullet List",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Bullet List"
+  },
+  "editor.extensions.slashCommand.codeblock": {
+    "message": "CodeBlock",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: CodeBlock"
+  },
+  "editor.extensions.slashCommand.currentTime": {
+    "message": "Current Time",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Current Time"
+  },
+  "editor.extensions.slashCommand.divider": {
+    "message": "Divider",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Divider"
+  },
+  "editor.extensions.slashCommand.documents": {
+    "message": "Documents",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Documents"
+  },
+  "editor.extensions.slashCommand.enableRenderMathEquationsUnderSettingsEditorContentDisplay": {
+    "message": "Enable 'Render Math Equations' under Settings → Editor → Content Display.",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Enable 'Render Math Equations' under Settings → Editor → Content Display."
+  },
+  "editor.extensions.slashCommand.errorCallout": {
+    "message": "Error Callout",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Error Callout"
+  },
+  "editor.extensions.slashCommand.heading1": {
+    "message": "Heading 1",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Heading 1"
+  },
+  "editor.extensions.slashCommand.heading2": {
+    "message": "Heading 2",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Heading 2"
+  },
+  "editor.extensions.slashCommand.heading3": {
+    "message": "Heading 3",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Heading 3"
+  },
+  "editor.extensions.slashCommand.heading4": {
+    "message": "Heading 4",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Heading 4"
+  },
+  "editor.extensions.slashCommand.heading5": {
+    "message": "Heading 5",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Heading 5"
+  },
+  "editor.extensions.slashCommand.heading6": {
+    "message": "Heading 6",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Heading 6"
+  },
+  "editor.extensions.slashCommand.infoCallout": {
+    "message": "Info Callout",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Info Callout"
+  },
+  "editor.extensions.slashCommand.linkNotesMediaFiles": {
+    "message": "Link Notes/Media/Files",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Link Notes/Media/Files"
+  },
+  "editor.extensions.slashCommand.linkTodaySDailyNote": {
+    "message": "Link Today's Daily Note",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Link Today's Daily Note"
+  },
+  "editor.extensions.slashCommand.linkTomorrowSDailyNote": {
+    "message": "Link Tomorrow's Daily Note",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Link Tomorrow's Daily Note"
+  },
+  "editor.extensions.slashCommand.linkYesterdaySDailyNote": {
+    "message": "Link Yesterday's Daily Note",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Link Yesterday's Daily Note"
+  },
+  "editor.extensions.slashCommand.mathBlock": {
+    "message": "Math Block",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Math Block"
+  },
+  "editor.extensions.slashCommand.mathEquationsAreDisabled": {
+    "message": "Math equations are disabled",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Math equations are disabled"
+  },
+  "editor.extensions.slashCommand.mediaFiles": {
+    "message": "Media Files",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Media Files"
+  },
+  "editor.extensions.slashCommand.mediaStack": {
+    "message": "Media Stack",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Media Stack"
+  },
+  "editor.extensions.slashCommand.mermaidDiagram": {
+    "message": "Mermaid Diagram",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Mermaid Diagram"
+  },
+  "editor.extensions.slashCommand.noResultsFound": {
+    "message": "No results found",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: No results found"
+  },
+  "editor.extensions.slashCommand.numberedList": {
+    "message": "Numbered List",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Numbered List"
+  },
+  "editor.extensions.slashCommand.openSettings": {
+    "message": "Open Settings",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Open Settings"
+  },
+  "editor.extensions.slashCommand.quote": {
+    "message": "Quote",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Quote"
+  },
+  "editor.extensions.slashCommand.successCallout": {
+    "message": "Success Callout",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Success Callout"
+  },
+  "editor.extensions.slashCommand.table": {
+    "message": "Table",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Table"
+  },
+  "editor.extensions.slashCommand.text": {
+    "message": "Text",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Text"
+  },
+  "editor.extensions.slashCommand.textColors": {
+    "message": "Text Colors",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Text Colors"
+  },
+  "editor.extensions.slashCommand.textHighlights": {
+    "message": "Text Highlights",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Text Highlights"
+  },
+  "editor.extensions.slashCommand.tipCallout": {
+    "message": "Tip Callout",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Tip Callout"
+  },
+  "editor.extensions.slashCommand.toDoList": {
+    "message": "To-do List",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: To-do List"
+  },
+  "editor.extensions.slashCommand.todaySDate": {
+    "message": "Today's Date",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Today's Date"
+  },
+  "editor.extensions.slashCommand.todaySDateTime": {
+    "message": "Today's Date & Time",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Today's Date & Time"
+  },
+  "editor.extensions.slashCommand.tomorrowSDate": {
+    "message": "Tomorrow's Date",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Tomorrow's Date"
+  },
+  "editor.extensions.slashCommand.warningCallout": {
+    "message": "Warning Callout",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Warning Callout"
+  },
+  "editor.extensions.slashCommand.yesterdaySDate": {
+    "message": "Yesterday's Date",
+    "description": "Editor components/Editor/extensions/slash-command.tsx: Yesterday's Date"
+  },
+  "editor.extensions.table.tableview.columnCopiedToClipboard": {
+    "message": "Column copied to clipboard",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Column copied to clipboard"
+  },
+  "editor.extensions.table.tableview.copyColumn": {
+    "message": "Copy Column",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Copy Column"
+  },
+  "editor.extensions.table.tableview.copyRow": {
+    "message": "Copy Row",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Copy Row"
+  },
+  "editor.extensions.table.tableview.copyTable": {
+    "message": "Copy Table",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Copy Table"
+  },
+  "editor.extensions.table.tableview.deleteColumn": {
+    "message": "Delete Column",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Delete Column"
+  },
+  "editor.extensions.table.tableview.deleteRow": {
+    "message": "Delete Row",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Delete Row"
+  },
+  "editor.extensions.table.tableview.deleteTable": {
+    "message": "Delete Table",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Delete Table"
+  },
+  "editor.extensions.table.tableview.editWithAi": {
+    "message": "Edit with AI",
+    "description": "Edit table with AI action."
+  },
+  "editor.extensions.table.tableview.insertColumnLeft": {
+    "message": "Insert Column Left",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Insert Column Left"
+  },
+  "editor.extensions.table.tableview.insertColumnRight": {
+    "message": "Insert Column Right",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Insert Column Right"
+  },
+  "editor.extensions.table.tableview.insertRowAbove": {
+    "message": "Insert Row Above",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Insert Row Above"
+  },
+  "editor.extensions.table.tableview.insertRowBelow": {
+    "message": "Insert Row Below",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Insert Row Below"
+  },
+  "editor.extensions.table.tableview.moveColumnLeft": {
+    "message": "Move Column Left",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Move Column Left"
+  },
+  "editor.extensions.table.tableview.moveColumnRight": {
+    "message": "Move Column Right",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Move Column Right"
+  },
+  "editor.extensions.table.tableview.moveRowDown": {
+    "message": "Move Row Down",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Move Row Down"
+  },
+  "editor.extensions.table.tableview.moveRowUp": {
+    "message": "Move Row Up",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Move Row Up"
+  },
+  "editor.extensions.table.tableview.rowCopiedToClipboard": {
+    "message": "Row copied to clipboard",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Row copied to clipboard"
+  },
+  "editor.extensions.table.tableview.tableCopiedToClipboard": {
+    "message": "Table copied to clipboard",
+    "description": "Editor components/Editor/extensions/table/TableView.ts: Table copied to clipboard"
+  },
+  "editor.extensions.taskreference.loadingTask": {
+    "message": "Loading task…",
+    "description": "Editor components/Editor/extensions/taskReference.tsx: Loading task…"
+  },
+  "editor.extensions.templateVariables.noVariablesFound": {
+    "message": "No variables found",
+    "description": "Editor components/Editor/extensions/template-variables.tsx: No variables found"
+  },
+  "editor.extensions.templateVariables.templateVariables": {
+    "message": "Template Variables",
+    "description": "Editor components/Editor/extensions/template-variables.tsx: Template Variables"
+  },
+  "editor.extensions.video.videoplayer.collapseVideo": {
+    "message": "Collapse video",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Collapse video"
+  },
+  "editor.extensions.video.videoplayer.copyPath": {
+    "message": "Copy Path",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Copy Path"
+  },
+  "editor.extensions.video.videoplayer.createMediaStack": {
+    "message": "Create Media Stack",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Create Media Stack"
+  },
+  "editor.extensions.video.videoplayer.exitFullscreen": {
+    "message": "Exit fullscreen",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Exit fullscreen"
+  },
+  "editor.extensions.video.videoplayer.moreOptions": {
+    "message": "More Options",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: More Options"
+  },
+  "editor.extensions.video.videoplayer.mute": {
+    "message": "Mute",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Mute"
+  },
+  "editor.extensions.video.videoplayer.pathCopiedToClipboard": {
+    "message": "Path copied to clipboard",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Path copied to clipboard"
+  },
+  "editor.extensions.video.videoplayer.pause": {
+    "message": "Pause",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Pause"
+  },
+  "editor.extensions.video.videoplayer.pauseVideo": {
+    "message": "Pause video",
+    "description": "Pause video control."
+  },
+  "editor.extensions.video.videoplayer.play": {
+    "message": "Play",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Play"
+  },
+  "editor.extensions.video.videoplayer.playVideo": {
+    "message": "Play video",
+    "description": "Play video control."
+  },
+  "editor.extensions.video.videoplayer.playbackSpeed": {
+    "message": "Playback speed",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Playback speed"
+  },
+  "editor.extensions.video.videoplayer.removeVideo": {
+    "message": "Remove Video",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Remove Video"
+  },
+  "editor.extensions.video.videoplayer.resetToOriginalSize": {
+    "message": "Reset to Original Size",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Reset to Original Size"
+  },
+  "editor.extensions.video.videoplayer.timestampCopied": {
+    "message": "Timestamp copied",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Timestamp copied"
+  },
+  "editor.extensions.video.videoplayer.unmute": {
+    "message": "Unmute",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Unmute"
+  },
+  "editor.extensions.video.videoplayer.video": {
+    "message": "Video",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Video"
+  },
+  "editor.extensions.video.videoplayer.videoProgress": {
+    "message": "Video progress",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Video progress"
+  },
+  "editor.extensions.video.videoplayer.volume": {
+    "message": "Volume",
+    "description": "Editor components/Editor/extensions/video/VideoPlayer.tsx: Volume"
+  },
+  "editor.extensions.wikilinkshortcutlegend.addAnAlias": {
+    "message": "Add an alias",
+    "description": "Editor components/Editor/extensions/WikilinkShortcutLegend.tsx: Add an alias"
+  },
+  "editor.extensions.wikilinkshortcutlegend.browseHeadings": {
+    "message": "Browse headings",
+    "description": "Editor components/Editor/extensions/WikilinkShortcutLegend.tsx: Browse headings"
+  },
+  "editor.extensions.youtubeembed.moreOptions": {
+    "message": "More options",
+    "description": "Editor components/Editor/extensions/youtubeEmbed.tsx: More options"
+  },
+  "editor.extensions.youtubeembed.pauseYoutubeVideo": {
+    "message": "Pause YouTube video",
+    "description": "Editor components/Editor/extensions/youtubeEmbed.tsx: Pause YouTube video"
+  },
+  "editor.extensions.youtubeembed.playYoutubeVideo": {
+    "message": "Play YouTube video",
+    "description": "Editor components/Editor/extensions/youtubeEmbed.tsx: Play YouTube video"
+  },
+  "editor.extensions.youtubeembed.timestampCopied": {
+    "message": "Timestamp copied",
+    "description": "Editor components/Editor/extensions/youtubeEmbed.tsx: Timestamp copied"
+  },
+  "editor.extensions.youtubeembed.youtubeVideo": {
+    "message": "YouTube video",
+    "description": "Editor components/Editor/extensions/youtubeEmbed.tsx: YouTube video"
+  },
+  "editor.extensions.youtubeembed.youtubeVideoProgress": {
+    "message": "YouTube video progress",
+    "description": "Editor components/Editor/extensions/youtubeEmbed.tsx: YouTube video progress"
+  },
+  "editor.inlinewritingassistantpopover.applyingChanges": {
+    "message": "Applying changes…",
+    "description": "Writing Assistant progress while applying a rewrite."
+  },
+  "editor.inlinewritingassistantpopover.cancel": {
+    "message": "Cancel",
+    "description": "Editor components/Editor/InlineWritingAssistantPopover.tsx: Cancel"
+  },
+  "editor.inlinewritingassistantpopover.rewritingSelection": {
+    "message": "Rewriting selection…",
+    "description": "Writing Assistant generation progress."
+  },
+  "editor.inlinewritingassistantpopover.send": {
+    "message": "Send",
+    "description": "Editor components/Editor/InlineWritingAssistantPopover.tsx: Send"
+  },
+  "editor.inlinewritingassistantpopover.stopGenerating": {
+    "message": "Stop Generating",
+    "description": "Editor components/Editor/InlineWritingAssistantPopover.tsx: Stop Generating"
+  },
+  "editor.inlinewritingassistantpopover.typeARequest": {
+    "message": "Type a request",
+    "description": "Editor components/Editor/InlineWritingAssistantPopover.tsx: Type a request"
+  },
+  "editor.linkcontainer.click": {
+    "message": "Click",
+    "description": "Editor interface: linkcontainer click"
+  },
+  "editor.linkcontainer.copyAsMarkdown": {
+    "message": "Copy as markdown",
+    "description": "Editor components/Editor/LinkContainer.tsx: Copy as markdown"
+  },
+  "editor.linkcontainer.copyLink": {
+    "message": "Copy link",
+    "description": "Editor components/Editor/LinkContainer.tsx: Copy link"
+  },
+  "editor.linkcontainer.embedHint": {
+    "message": "Embed link {shortcut}",
+    "description": "Editor interface: linkcontainer embedHint"
+  },
+  "editor.linkcontainer.enterLabel": {
+    "message": "Enter label",
+    "description": "Editor components/Editor/LinkContainer.tsx: Enter label"
+  },
+  "editor.linkcontainer.followHint": {
+    "message": "{link} {shortcut} + click",
+    "description": "Editor interface: linkcontainer followHint"
+  },
+  "editor.linkcontainer.followLink": {
+    "message": "Follow Link",
+    "description": "Editor components/Editor/LinkContainer.tsx: Follow Link"
+  },
+  "editor.linkcontainer.linkCopiedToClipboard": {
+    "message": "Link copied to clipboard",
+    "description": "Editor components/Editor/LinkContainer.tsx: Link copied to clipboard"
+  },
+  "editor.linkcontainer.markdownLinkCopiedToClipboard": {
+    "message": "Markdown link copied to clipboard",
+    "description": "Editor components/Editor/LinkContainer.tsx: Markdown link copied to clipboard"
+  },
+  "editor.linkcontainer.removeLink": {
+    "message": "Remove link",
+    "description": "Editor components/Editor/LinkContainer.tsx: Remove link"
+  },
+  "editor.linkcontainer.setAUrlToFollowLink": {
+    "message": "Set a URL to follow link",
+    "description": "Editor components/Editor/LinkContainer.tsx: Set a URL to follow link"
+  },
+  "editor.media.deleted": {
+    "message": "{name} seems to have been deleted.",
+    "description": "Editor interface: media deleted"
+  },
+  "editor.media.proAction": {
+    "message": "{action} requires Pro",
+    "description": "Editor MediaPlaybackControls.tsx: proAction"
+  },
+  "editor.media.readOnlyAction": {
+    "message": "{action} not available in read only mode",
+    "description": "Editor MediaPlaybackControls.tsx: readOnlyAction"
+  },
+  "editor.mediaStack.itemCount": {
+    "message": {
+      "one": "{count} item",
+      "other": "{count} items"
+    },
+    "description": "Editor mediaStack/View.tsx: itemCount"
+  },
+  "editor.mediaStack.itemDescription": {
+    "message": {
+      "one": "Media stack with {count} item",
+      "other": "Media stack with {count} items"
+    },
+    "description": "Editor mediaStack/View.tsx: itemDescription"
+  },
+  "editor.mediaStack.openFullscreen": {
+    "message": "Open {title} fullscreen",
+    "description": "Editor mediaStack/View.tsx: openFullscreen"
+  },
+  "editor.mediaStack.reorderItem": {
+    "message": "Reorder {title}",
+    "description": "Editor mediaStack/View.tsx: reorderItem"
+  },
+  "editor.mediaStack.selectedCount": {
+    "message": {
+      "one": "{count} selected",
+      "other": "{count} selected"
+    },
+    "description": "Editor interface: mediaStack selectedCount"
+  },
+  "editor.mediaStack.sizeLong": {
+    "message": "Long",
+    "description": "Editor interface: mediaStack sizeLong"
+  },
+  "editor.mediaStack.sizeMedium": {
+    "message": "Medium",
+    "description": "Editor interface: mediaStack sizeMedium"
+  },
+  "editor.mediaStack.sizeSmall": {
+    "message": "Small",
+    "description": "Editor interface: mediaStack sizeSmall"
+  },
+  "editor.mediaStack.viewItem": {
+    "message": "View {title}",
+    "description": "Editor mediaStack/View.tsx: viewItem"
+  },
+  "editor.mermaid.pngImage": {
+    "message": "PNG Image",
+    "description": "Mermaid download native save-dialog format filter. Keep PNG unchanged."
+  },
+  "editor.mermaid.renderFailed": {
+    "message": "Failed to render diagram",
+    "description": "Mermaid preview failure."
+  },
+  "editor.mermaid.svgImage": {
+    "message": "SVG Image",
+    "description": "Mermaid download native save-dialog format filter. Keep SVG unchanged."
+  },
+  "editor.rawfrontmattereditor.couldNotSaveFrontmatter": {
+    "message": "Could not save frontmatter.",
+    "description": "Editor components/Editor/RawFrontmatterEditor.tsx: Could not save frontmatter."
+  },
+  "editor.rawfrontmattereditor.frontmatterMustBeAYamlObject": {
+    "message": "Frontmatter must be a YAML object.",
+    "description": "Editor components/Editor/RawFrontmatterEditor.tsx: Frontmatter must be a YAML object."
+  },
+  "editor.rawfrontmattereditor.invalidYaml": {
+    "message": "Invalid YAML.",
+    "description": "Editor components/Editor/RawFrontmatterEditor.tsx: Invalid YAML."
+  },
+  "editor.rawfrontmattereditor.rawFrontmatter": {
+    "message": "Raw frontmatter",
+    "description": "Editor components/Editor/RawFrontmatterEditor.tsx: Raw frontmatter"
+  },
+  "editor.rawfrontmattereditor.yamlErrorLocation": {
+    "message": "{reason} (line {line}, column {column})",
+    "description": "YAML parse error with one-based line and column. reason is the parser's error text."
+  },
+  "editor.referencesrow.backlinks": {
+    "message": {
+      "one": "{count} backlink",
+      "other": "{count} backlinks"
+    },
+    "description": "Editor ReferencesRow.tsx: backlinks"
+  },
+  "editor.referencesrow.noBacklinks": {
+    "message": "No backlinks",
+    "description": "Editor components/Editor/ReferencesRow.tsx: No backlinks"
+  },
+  "editor.referencesrow.viewReferences": {
+    "message": "View references",
+    "description": "Editor components/Editor/ReferencesRow.tsx: View references"
+  },
+  "editor.selectiontonote.contentWasCopiedButTheSourceChangedBeforeReplacement": {
+    "message": "Content was copied, but the source changed before replacement",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Content was copied, but the source changed before replacement"
+  },
+  "editor.selectiontonote.extractSelectedTextIntoNewNote": {
+    "message": "Extract selected text into new note",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Extract selected text into new note"
+  },
+  "editor.selectiontonote.extractToNote": {
+    "message": "Extract to note",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Extract to note"
+  },
+  "editor.selectiontonote.extractedTextToNewNote": {
+    "message": "Extracted text to new note",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Extracted text to new note"
+  },
+  "editor.selectiontonote.moveToAnExistingNote": {
+    "message": "Move to an existing note",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Move to an existing note"
+  },
+  "editor.selectiontonote.movedSelectionToNote": {
+    "message": "Moved selection to note",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Moved selection to note"
+  },
+  "editor.selectiontonote.movingSelection": {
+    "message": "Moving selection…",
+    "description": "Editor components/Editor/SelectionToNote.tsx: Moving selection…"
+  },
+  "editor.selectiontonote.noTextSelected": {
+    "message": "No text selected",
+    "description": "Editor components/Editor/SelectionToNote.tsx: No text selected"
+  },
+  "editor.slash.colors.Blue": {
+    "message": "Blue",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Brown": {
+    "message": "Brown",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Green": {
+    "message": "Green",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.NoColor": {
+    "message": "No Color",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.NoHighlight": {
+    "message": "No Highlight",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Orange": {
+    "message": "Orange",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Pink": {
+    "message": "Pink",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Purple": {
+    "message": "Purple",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Red": {
+    "message": "Red",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.colors.Yellow": {
+    "message": "Yellow",
+    "description": "Slash command color display name; not the persisted color value."
+  },
+  "editor.slash.importFiles": {
+    "message": "Import Files from {fileSystem}",
+    "description": "Editor slash-command.tsx: importFiles"
+  },
+  "editor.slash.importMedia": {
+    "message": "Import Media from {fileSystem}",
+    "description": "Editor slash-command.tsx: importMedia"
+  },
+  "editor.slash.search.alert": {
+    "message": "alert",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.attach": {
+    "message": "attach",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.background": {
+    "message": "background",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.blockquote": {
+    "message": "blockquote",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.blue": {
+    "message": "blue",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.brown": {
+    "message": "brown",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.browse": {
+    "message": "browse",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.bullet": {
+    "message": "bullet",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.callout": {
+    "message": "callout",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.caution": {
+    "message": "caution",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.check": {
+    "message": "check",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.checkbox": {
+    "message": "checkbox",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.clearColor": {
+    "message": "clear color",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.clearHighlight": {
+    "message": "clear highlight",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.code": {
+    "message": "code",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.codeblock": {
+    "message": "codeblock",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.color": {
+    "message": "color",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.daily": {
+    "message": "daily",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.danger": {
+    "message": "danger",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.date": {
+    "message": "date",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.datetime": {
+    "message": "datetime",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.desk": {
+    "message": "desk",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.diagram": {
+    "message": "diagram",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.divider": {
+    "message": "divider",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.document": {
+    "message": "document",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.done": {
+    "message": "done",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.dot": {
+    "message": "dot",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.equation": {
+    "message": "equation",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.error": {
+    "message": "error",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.external": {
+    "message": "external",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.file": {
+    "message": "file",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.flowchart": {
+    "message": "flowchart",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.fontColor": {
+    "message": "font color",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.formula": {
+    "message": "formula",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.graph": {
+    "message": "graph",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.green": {
+    "message": "green",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.h1": {
+    "message": "h1",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.h2": {
+    "message": "h2",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.h3": {
+    "message": "h3",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.h4": {
+    "message": "h4",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.h5": {
+    "message": "h5",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.h6": {
+    "message": "h6",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.header1": {
+    "message": "header1",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.header2": {
+    "message": "header2",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.header3": {
+    "message": "header3",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.header4": {
+    "message": "header4",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.header5": {
+    "message": "header5",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.header6": {
+    "message": "header6",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.heading1": {
+    "message": "heading1",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.heading2": {
+    "message": "heading2",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.heading3": {
+    "message": "heading3",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.heading4": {
+    "message": "heading4",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.heading5": {
+    "message": "heading5",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.heading6": {
+    "message": "heading6",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.highlight": {
+    "message": "highlight",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.hint": {
+    "message": "hint",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.horizontal": {
+    "message": "horizontal",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.image": {
+    "message": "image",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.images": {
+    "message": "images",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.import": {
+    "message": "import",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.info": {
+    "message": "info",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.information": {
+    "message": "information",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.katex": {
+    "message": "katex",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.latex": {
+    "message": "latex",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.line": {
+    "message": "line",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.link": {
+    "message": "link",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.list": {
+    "message": "list",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.mark": {
+    "message": "mark",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.math": {
+    "message": "math",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.media": {
+    "message": "media",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.mermaid": {
+    "message": "mermaid",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.noColor": {
+    "message": "no color",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.noHighlight": {
+    "message": "no highlight",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.normal": {
+    "message": "normal",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.note": {
+    "message": "note",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.notes": {
+    "message": "notes",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.now": {
+    "message": "now",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.number": {
+    "message": "number",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.orange": {
+    "message": "orange",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.ordered": {
+    "message": "ordered",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.paragraph": {
+    "message": "paragraph",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.pdf": {
+    "message": "pdf",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.pink": {
+    "message": "pink",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.point": {
+    "message": "point",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.purple": {
+    "message": "purple",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.quote": {
+    "message": "quote",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.rect": {
+    "message": "rect",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.red": {
+    "message": "red",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.references": {
+    "message": "references",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.removeColor": {
+    "message": "remove color",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.removeHighlight": {
+    "message": "remove highlight",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.stack": {
+    "message": "stack",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.success": {
+    "message": "success",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.suggestion": {
+    "message": "suggestion",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.table": {
+    "message": "table",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.task": {
+    "message": "task",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.template": {
+    "message": "template",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.text": {
+    "message": "text",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.textColor": {
+    "message": "text color",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.time": {
+    "message": "time",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.tip": {
+    "message": "tip",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.today": {
+    "message": "today",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.todo": {
+    "message": "todo",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.tomorrow": {
+    "message": "tomorrow",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.unordered": {
+    "message": "unordered",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.upload": {
+    "message": "upload",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.video": {
+    "message": "video",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.videos": {
+    "message": "videos",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.warn": {
+    "message": "warn",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.warning": {
+    "message": "warning",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.wiki": {
+    "message": "wiki",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.yellow": {
+    "message": "yellow",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.slash.search.yesterday": {
+    "message": "yesterday",
+    "description": "Editor slash-command search synonym. Translated text remains searchable; not a node name or persisted value.",
+    "kind": "keywords"
+  },
+  "editor.sourceCitation.count": {
+    "message": {
+      "one": "{count} sources",
+      "other": "{count} sources"
+    },
+    "description": "Editor interface: sourceCitation count"
+  },
+  "editor.sourceCitation.source": {
+    "message": "source",
+    "description": "Editor interface: sourceCitation source"
+  },
+  "editor.surface.couldnTOpenThisNote": {
+    "message": "Couldn’t open this note.",
+    "description": "Editor components/Editor/index.tsx: Couldn’t open this note."
+  },
+  "editor.surface.reviewGeneratedRecap": {
+    "message": "Review generated recap",
+    "description": "Editor components/Editor/index.tsx: Review generated recap"
+  },
+  "editor.surface.tryAgain": {
+    "message": "Try again",
+    "description": "Editor components/Editor/index.tsx: Try again"
+  },
+  "editor.taskschedulepopover.chooseACustomDate": {
+    "message": "Choose a custom date",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Choose a custom date"
+  },
+  "editor.taskschedulepopover.couldNotMoveTasks": {
+    "message": "Could not move tasks",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Could not move tasks"
+  },
+  "editor.taskschedulepopover.couldNotUndoTheTaskMove": {
+    "message": "Could not undo the task move",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Could not undo the task move"
+  },
+  "editor.taskschedulepopover.customDate": {
+    "message": "Custom date…",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Custom date…"
+  },
+  "editor.taskschedulepopover.moveTo": {
+    "message": {
+      "one": "Move task to",
+      "other": "Move {count} tasks to"
+    },
+    "description": "Editor TaskSchedulePopover.tsx: moveTo"
+  },
+  "editor.taskschedulepopover.openNote": {
+    "message": "Open note",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Open note"
+  },
+  "editor.taskschedulepopover.tasksChangedBeforeTheyCouldBeMoved": {
+    "message": "Tasks changed before they could be moved",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Tasks changed before they could be moved"
+  },
+  "editor.taskschedulepopover.tasksWereCopiedButCouldNotBeSafelyRemoved": {
+    "message": "Tasks were copied, but could not be safely removed",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Tasks were copied, but could not be safely removed"
+  },
+  "editor.taskschedulepopover.tasksWereCopiedButTheirSourceChangedBeforeRemoval": {
+    "message": "Tasks were copied, but their source changed before removal",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Tasks were copied, but their source changed before removal"
+  },
+  "editor.taskschedulepopover.theSourceNoteChangedAfterMovingTasks": {
+    "message": "The source note changed after moving tasks",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: The source note changed after moving tasks"
+  },
+  "editor.taskschedulepopover.theTaskMoveCouldNotBeUndone": {
+    "message": "The task move could not be undone",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: The task move could not be undone"
+  },
+  "editor.taskschedulepopover.thisWeek": {
+    "message": "This week",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: This week"
+  },
+  "editor.taskschedulepopover.today": {
+    "message": "Today",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Today"
+  },
+  "editor.taskschedulepopover.tomorrow": {
+    "message": "Tomorrow",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Tomorrow"
+  },
+  "editor.taskschedulepopover.undo": {
+    "message": "Undo",
+    "description": "Editor components/Editor/TaskSchedulePopover.tsx: Undo"
+  },
+  "editor.taskscheduling.moveSuccess": {
+    "message": {
+      "one": "Task moved to {target}",
+      "other": "{count} tasks moved to {target}"
+    },
+    "description": "Editor taskScheduling.ts: moveSuccess"
+  },
+  "editor.taskscheduling.moveToDate": {
+    "message": {
+      "one": "Move task to date",
+      "other": "Move {count} tasks to date"
+    },
+    "description": "Editor taskScheduling.ts: moveToDate"
+  },
+  "editor.taskscheduling.theDestinationNoteChangedAfterMovingTasks": {
+    "message": "The destination note changed after moving tasks",
+    "description": "Editor components/Editor/taskScheduling.ts: The destination note changed after moving tasks"
+  },
+  "editor.taskscheduling.theSourceNoteChangedAfterMovingTasks": {
+    "message": "The source note changed after moving tasks",
+    "description": "Editor components/Editor/taskScheduling.ts: The source note changed after moving tasks"
+  },
+  "editor.taskscheduling.theSourceTasksCouldNotBeRestored": {
+    "message": "The source tasks could not be restored",
+    "description": "Editor components/Editor/taskScheduling.ts: The source tasks could not be restored"
+  },
+  "editor.templatesettingsbar.datedFolderHint": {
+    "message": "Type a path like {example} for dated folders.",
+    "description": "Editor interface: templatesettingsbar datedFolderHint"
+  },
+  "editor.templatesettingsbar.failedToSaveTemplateSettings": {
+    "message": "Failed to save template settings",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Failed to save template settings"
+  },
+  "editor.templatesettingsbar.fieldValue": {
+    "message": "{label}: {value}",
+    "description": "Editor TemplateSettingsBar.tsx: fieldValue"
+  },
+  "editor.templatesettingsbar.folderForNewNotes": {
+    "message": "Folder for new notes",
+    "description": "Template folder chip tooltip."
+  },
+  "editor.templatesettingsbar.folderValue": {
+    "message": "Folder for new notes: {value}",
+    "description": "Editor TemplateSettingsBar.tsx: folderValue"
+  },
+  "editor.templatesettingsbar.howToUseHint": {
+    "message": "Used when you press {shortcut} and choose Create Note from Template.",
+    "description": "Editor interface: templatesettingsbar howToUseHint"
+  },
+  "editor.templatesettingsbar.howToUseThisTemplate": {
+    "message": "How to use this template",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: How to use this template"
+  },
+  "editor.templatesettingsbar.nameForNewNotes": {
+    "message": "Name for new notes",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Name for new notes"
+  },
+  "editor.templatesettingsbar.newNotesDestination": {
+    "message": "New notes go to {folder} / {name}",
+    "description": "Template settings sentence. folder and name are interactive picker slots that may be reordered."
+  },
+  "editor.templatesettingsbar.preview": {
+    "message": "Preview",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Preview"
+  },
+  "editor.templatesettingsbar.resetTemplateNameAndFolder": {
+    "message": "Reset template name and folder",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Reset template name and folder"
+  },
+  "editor.templatesettingsbar.resetToDefaults": {
+    "message": "Reset to defaults",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Reset to defaults"
+  },
+  "editor.templatesettingsbar.save": {
+    "message": "Save",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Save"
+  },
+  "editor.templatesettingsbar.searchOrTypeAPath": {
+    "message": "Search or type a path...",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Search or type a path..."
+  },
+  "editor.templatesettingsbar.setName": {
+    "message": "Set name for new notes",
+    "description": "Editor TemplateSettingsBar.tsx: setName"
+  },
+  "editor.templatesettingsbar.theFolderMustStayInsideTheWorkspace": {
+    "message": "The folder must stay inside the workspace.",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: The folder must stay inside the workspace."
+  },
+  "editor.templatesettingsbar.thisFolderPathCanTBeUsed": {
+    "message": "This folder path can't be used.",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: This folder path can't be used."
+  },
+  "editor.templatesettingsbar.thisNameCanTBeUsedAsAFileName": {
+    "message": "This name can't be used as a file name.",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: This name can't be used as a file name."
+  },
+  "editor.templatesettingsbar.titleIsnTAvailableTheNameCreatesTheTitle": {
+    "message": "{titleVariable} isn't available: the name creates the title.",
+    "description": "Template name warning. titleVariable is the literal template token, not a translated value."
+  },
+  "editor.templatesettingsbar.todayValue": {
+    "message": "today: {value}",
+    "description": "Editor interface: templatesettingsbar todayValue"
+  },
+  "editor.templatesettingsbar.untitled": {
+    "message": "Untitled",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Untitled"
+  },
+  "editor.templatesettingsbar.useDefaultFolder": {
+    "message": "Use default folder",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Use default folder"
+  },
+  "editor.templatesettingsbar.usePath": {
+    "message": "Use {path}",
+    "description": "Editor interface: templatesettingsbar usePath"
+  },
+  "editor.templatesettingsbar.variables": {
+    "message": "Variables",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Variables"
+  },
+  "editor.templatesettingsbar.workspaceRoot": {
+    "message": "Workspace root",
+    "description": "Editor components/Editor/TemplateSettingsBar.tsx: Workspace root"
+  },
+  "editor.usedebouncededitorsave.thisNoteIsTemporarilyReadOnlyTryMovingItAgainWhenEditingIsAvailable": {
+    "message": "This note is temporarily read-only. Try moving it again when editing is available.",
+    "description": "Editor hooks/editor/useDebouncedEditorSave.ts: This note is temporarily read-only. Try moving it again when editing is available."
+  },
+  "editor.usedoclinkclickhandler.inbox": {
+    "message": "Inbox",
+    "description": "Editor hooks/editor/useDocLinkClickHandler.tsx: Inbox"
+  },
+  "editor.useeditor.enableRenderMathEquationsUnderSettingsEditorContentDisplay": {
+    "message": "Enable 'Render Math Equations' under Settings → Editor → Content Display.",
+    "description": "Editor hooks/editor/useEditor.tsx: Enable 'Render Math Equations' under Settings → Editor → Content Display."
+  },
+  "editor.useeditor.mathEquationsAreDisabled": {
+    "message": "Math equations are disabled",
+    "description": "Editor hooks/editor/useEditor.tsx: Math equations are disabled"
+  },
+  "editor.useeditor.openSettings": {
+    "message": "Open Settings",
+    "description": "Editor hooks/editor/useEditor.tsx: Open Settings"
+  },
+  "editor.useimagedrophandler.fileIsTooLargeForThisActionUseTheCommandImportMediaFromFinderInstead": {
+    "message": "File is too large for this action. Use the / command → Import Media from Finder instead.",
+    "description": "Editor hooks/editor/useImageDropHandler.tsx: File is too large for this action. Use the / command → Import Media from Finder instead."
+  },
+  "editor.video.exitFullscreen": {
+    "message": "Exit fullscreen",
+    "description": "Exit fullscreen video."
+  },
+  "editor.video.fullscreen": {
+    "message": "Fullscreen",
+    "description": "Fullscreen video."
+  },
+  "editor.video.viewFullscreen": {
+    "message": "View fullscreen",
+    "description": "Open video fullscreen."
+  },
+  "editor.wikilinks.createAtRoot": {
+    "message": "Create {name} note at root",
+    "description": "Editor interface: wikilinks createAtRoot"
+  },
+  "editor.wikilinks.createInFolder": {
+    "message": "Create {name} note in this folder",
+    "description": "Editor interface: wikilinks createInFolder"
+  },
+  "editor.wikilinks.weeklySuggestion": {
+    "message": "Week {week}, {year}.md",
+    "description": "Display label for a suggested weekly note. The actual filename is computed independently; retain .md."
+  }
+}

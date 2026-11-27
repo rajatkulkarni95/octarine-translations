@@ -1,0 +1,607 @@
+{
+  "views.addfilterpopover.addFilter": {
+    "message": "Add Filter",
+    "description": "Views AddFilterPopover: tooltip. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.addfilterpopover.filter": {
+    "message": "Filter",
+    "description": "Views AddFilterPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.attachments.LinkedFilesCell": {
+    "message": {
+      "one": "{count} File Attached",
+      "other": "{count} Files Attached"
+    },
+    "description": "Complete Tasks/Views presentation message. Named parameters are literal display values; leave stored identifiers and user content unchanged."
+  },
+  "views.attachments.LinkedMediaCell": {
+    "message": {
+      "one": "{count} Media Attachment",
+      "other": "{count} Media Attachments"
+    },
+    "description": "Complete Tasks/Views presentation message. Named parameters are literal display values; leave stored identifiers and user content unchanged."
+  },
+  "views.columnSelector.options.checkbox": {
+    "message": "Checkbox",
+    "description": "ColumnSelector option display label. Stored option values are not translated."
+  },
+  "views.columnSelector.options.date": {
+    "message": "Date",
+    "description": "ColumnSelector option display label. Stored option values are not translated."
+  },
+  "views.columnSelector.options.dateTime": {
+    "message": "Date & Time",
+    "description": "ColumnSelector option display label. Stored option values are not translated."
+  },
+  "views.columnSelector.options.list": {
+    "message": "List",
+    "description": "ColumnSelector option display label. Stored option values are not translated."
+  },
+  "views.columnSelector.options.number": {
+    "message": "Number",
+    "description": "ColumnSelector option display label. Stored option values are not translated."
+  },
+  "views.columnSelector.options.text": {
+    "message": "Text",
+    "description": "ColumnSelector option display label. Stored option values are not translated."
+  },
+  "views.columnSelector.rich.addProperty": {
+    "message": "Add \"{value}\" property",
+    "description": "ColumnSelector inline presentation sentence. Named slots preserve the existing React elements or literal display values and may be reordered; no HTML in translations."
+  },
+  "views.columnselector.alwaysVisible": {
+    "message": "Always visible",
+    "description": "Views ColumnSelector: tooltip. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.editProperty": {
+    "message": "Edit property",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.findOrCreate": {
+    "message": "Find or create...",
+    "description": "Views ColumnSelector: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.hidden": {
+    "message": "Hidden",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.hide": {
+    "message": "Hide",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.manageColumns": {
+    "message": "Manage Columns",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.noColumnsFound": {
+    "message": "No columns found",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.propertyType": {
+    "message": "Property type",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.show": {
+    "message": "Show",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.columnselector.text": {
+    "message": "Text",
+    "description": "Views ColumnSelector: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datatablewikilinktext.openNoteInNewTab": {
+    "message": "Open note in new tab",
+    "description": "Views DataTableWikilinkText: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datecell.empty": {
+    "message": "Empty",
+    "description": "Views DateCell: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datefilterinput.custom": {
+    "message": "Custom",
+    "description": "Views DateFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datefilterinput.customDate": {
+    "message": "Custom date",
+    "description": "Views DateFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datefilterinput.noMatchesFound": {
+    "message": "No matches found",
+    "description": "Views DateFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datefilterinput.searchDateRange": {
+    "message": "Search date range",
+    "description": "Views DateFilterInput: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.datefilterinput.selectDate": {
+    "message": "Select date",
+    "description": "Views DateFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.delete.action": {
+    "message": "Delete",
+    "description": "Destructive confirmation button for deleting a View."
+  },
+  "views.delete.confirm": {
+    "message": "Are you sure you want to delete the view {name}?{lineBreak}This action cannot be undone.",
+    "description": "Delete view confirmation. name is a bold quoted view name; lineBreak is a line break. Preserve both slots."
+  },
+  "views.editablearraycell.empty": {
+    "message": "Empty",
+    "description": "Views EditableArrayCell: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.filterCombinator.options.and": {
+    "message": "AND",
+    "description": "FilterCombinator option display label. Stored option values are not translated."
+  },
+  "views.filterCombinator.options.or": {
+    "message": "OR",
+    "description": "FilterCombinator option display label. Stored option values are not translated."
+  },
+  "views.filterOptions.location.Daily": {
+    "message": "Daily",
+    "description": "Display label for canonical LOCATION filter option Daily. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.location.Inbox": {
+    "message": "Inbox",
+    "description": "Display label for canonical LOCATION filter option Inbox. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.location.Notes": {
+    "message": "Notes",
+    "description": "Display label for canonical LOCATION filter option Notes. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.location.Templates": {
+    "message": "Templates",
+    "description": "Display label for canonical LOCATION filter option Templates. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.location.Weekly": {
+    "message": "Weekly",
+    "description": "Display label for canonical LOCATION filter option Weekly. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.task_status.Complete": {
+    "message": "Complete",
+    "description": "Display label for canonical TASK_STATUS filter option Complete. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.task_status.NoTasks": {
+    "message": "No Tasks",
+    "description": "Display label for canonical TASK_STATUS filter option No Tasks. Never change the underlying value or translate custom property values."
+  },
+  "views.filterOptions.task_status.Pending": {
+    "message": "Pending",
+    "description": "Display label for canonical TASK_STATUS filter option Pending. Never change the underlying value or translate custom property values."
+  },
+  "views.filterfield.noPropertiesAvailable": {
+    "message": "No properties available",
+    "description": "Views FilterField: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.filterfield.unknown": {
+    "message": "Unknown",
+    "description": "Views FilterField: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.filterrow.is": {
+    "message": "is",
+    "description": "Views FilterRow: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.filterrow.removeFilter": {
+    "message": "Remove filter",
+    "description": "Views FilterRow: tooltip. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.filtervalue.enterPath": {
+    "message": "Enter path...",
+    "description": "Views FilterValue: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.filtervalue.enterTag": {
+    "message": "Enter tag...",
+    "description": "Views FilterValue: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.folderfilterinput.enterFolder": {
+    "message": "Enter folder...",
+    "description": "Views FolderFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.folderfilterinput.noFoldersFound": {
+    "message": "No folders found",
+    "description": "Views FolderFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.index.kanbanViewRequiresAGroupByFieldSelectOneFromTheToolbarAbove": {
+    "message": "Kanban view requires a \"Group by\" field. Select one from the toolbar above.",
+    "description": "Views index: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.index.noResultsFoundTryAdjustingYourFilters": {
+    "message": "No results found - try adjusting your filters",
+    "description": "Views index: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.index.sort": {
+    "message": "Sort",
+    "description": "Views index: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.index.sortByAscending": {
+    "message": "Sort by Ascending",
+    "description": "Views index: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.index.sortByDescending": {
+    "message": "Sort by Descending",
+    "description": "Views index: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.kanban.moveUnavailable": {
+    "message": "Cards can't be moved while grouped by {field}. Group by a custom property, Tags, Is Pinned, or Is Locked to enable drag and drop.",
+    "description": "Views Kanban information banner. Field is a display label, never a drag/drop identity."
+  },
+  "views.kanbanlane.noItems": {
+    "message": "No items",
+    "description": "Views KanbanLane: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.linkednotescell.openNote": {
+    "message": "Open note",
+    "description": "Views LinkedNotesCell: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.multiselectfilterinput.localvaluecountSelected": {
+    "message": {
+      "one": "{count} selected",
+      "other": "{count} selected"
+    },
+    "description": "Views MultiSelectFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.multiselectfilterinput.noMatchingValuesFound": {
+    "message": "No matching values found",
+    "description": "Views MultiSelectFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.multiselectfilterinput.noValuesAvailable": {
+    "message": "No values available",
+    "description": "Views MultiSelectFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.multiselectfilterinput.search": {
+    "message": "Search...",
+    "description": "Views MultiSelectFilterInput: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.multiselectfilterinput.select": {
+    "message": "Select...",
+    "description": "Views MultiSelectFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notecell.inbox": {
+    "message": "Inbox",
+    "description": "Views NoteCell: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.addADescription": {
+    "message": "Add a description…",
+    "description": "Views NotesViewSidebar: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.created": {
+    "message": "Created",
+    "description": "Views NotesViewSidebar: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.description": {
+    "message": "Description",
+    "description": "Views NotesViewSidebar: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.details": {
+    "message": "Details",
+    "description": "Views NotesViewSidebar: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.filters": {
+    "message": "Filters",
+    "description": "Views NotesViewSidebar: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.groupBy": {
+    "message": "Group by",
+    "description": "Views NotesViewSidebar: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.kanban": {
+    "message": "Kanban",
+    "description": "Views NotesViewSidebar: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.layout": {
+    "message": "Layout",
+    "description": "Views NotesViewSidebar: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.loading": {
+    "message": "Loading…",
+    "description": "Views NotesViewSidebar: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.none": {
+    "message": "None",
+    "description": "Views NotesViewSidebar: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.recentlyUpdated": {
+    "message": "Recently updated",
+    "description": "Views NotesViewSidebar: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.setup": {
+    "message": "Setup",
+    "description": "Views NotesViewSidebar: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.sort": {
+    "message": "Sort",
+    "description": "Views NotesViewSidebar: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.summary": {
+    "message": "Summary",
+    "description": "Views NotesViewSidebar: aria-label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.table": {
+    "message": "Table",
+    "description": "Views NotesViewSidebar: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notesviewsidebar.updated": {
+    "message": "Updated",
+    "description": "Views NotesViewSidebar: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notetypedisplay.empty": {
+    "message": "Empty",
+    "description": "Views NoteTypeDisplay: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.notetypedisplay.unknownType": {
+    "message": "Unknown type",
+    "description": "Views NoteTypeDisplay: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.createCustomViewsToFilterAndOrganizeYourNotes": {
+    "message": "Create custom views to filter and organize your notes",
+    "description": "Views OnboardingDialog: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.sortFilterAndGroupNotesBasedOnYourCriteria": {
+    "message": "Sort, filter, and group notes based on your criteria",
+    "description": "Views OnboardingDialog: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.usePropertiesAndMetadataToBuildDynamicCollections": {
+    "message": "Use properties and metadata to build dynamic collections",
+    "description": "Views OnboardingDialog: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.viewYourNotesInAStructuredTableFormat": {
+    "message": "View your notes in a structured table format",
+    "description": "Views OnboardingDialog: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.viewsAreSavedAutomaticallyAndUpdateInRealTimeAsYourNotesChange": {
+    "message": "Views are saved automatically and update in real-time as your notes change.",
+    "description": "Views OnboardingDialog: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.viewsHelpYouOrganizeAndVisualizeYourNotesInPowerfulWaysHereSWhatYouCanDo": {
+    "message": "Views help you organize and visualize your notes in powerful ways. Here's what you can do:",
+    "description": "Views OnboardingDialog: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.onboardingdialog.welcomeToViews": {
+    "message": "Welcome to Views",
+    "description": "Views OnboardingDialog: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.propertyselectorpopover.noGrouping": {
+    "message": "No grouping",
+    "description": "Views PropertySelectorPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.propertyselectorpopover.noPropertiesAvailable": {
+    "message": "No properties available",
+    "description": "Views PropertySelectorPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.propertyselectorpopover.noPropertiesFound": {
+    "message": "No properties found",
+    "description": "Views PropertySelectorPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.propertyselectorpopover.properties": {
+    "message": "Properties",
+    "description": "Views PropertySelectorPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.propertyselectorpopover.searchProperties": {
+    "message": "Search properties...",
+    "description": "Views PropertySelectorPopover: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.storage.copyName": {
+    "message": "{name} (Copy)",
+    "description": "Views storage display fallback; callers pass a translator explicitly. name is literal user-created view text."
+  },
+  "views.storage.missingAfterUpdate": {
+    "message": "View not found after update",
+    "description": "Views storage display fallback; callers pass a translator explicitly. name is literal user-created view text."
+  },
+  "views.storage.missingBeforeUpdate": {
+    "message": "View not found before update",
+    "description": "Views storage display fallback; callers pass a translator explicitly. name is literal user-created view text."
+  },
+  "views.storage.missingView": {
+    "message": "View not found",
+    "description": "Views storage display fallback; callers pass a translator explicitly. name is literal user-created view text."
+  },
+  "views.stringfilterinput.enterValue": {
+    "message": "Enter value...",
+    "description": "Views StringFilterInput: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.summary.noteCount": {
+    "message": {
+      "one": "{count} note",
+      "other": "{count} notes"
+    },
+    "description": "Complete Tasks/Views presentation message. Named parameters are literal display values; leave stored identifiers and user content unchanged."
+  },
+  "views.textcell.empty": {
+    "message": "Empty",
+    "description": "Views TextCell: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.textcell.openLink": {
+    "message": "Open link",
+    "description": "Views TextCell: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.usepropertyoperations.noWorkspacePathProvided": {
+    "message": "No workspace path provided",
+    "description": "Views usePropertyOperations: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.useviewnavigation.views": {
+    "message": "Views",
+    "description": "Views useViewNavigation: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.useviewnavigation.workspace": {
+    "message": "Workspace",
+    "description": "Views useViewNavigation: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.useviewquery.cannotQueryAViewWithoutAWorkspaceAndView": {
+    "message": "Cannot query a view without a workspace and view",
+    "description": "Views useViewQuery: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.useviewquery.excelExportNotYetImplemented": {
+    "message": "Excel export not yet implemented",
+    "description": "Views useViewQuery: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.useviewquery.unsupportedFormatFormat": {
+    "message": "Unsupported format: {format}",
+    "description": "Views useViewQuery: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewHeader.rich.search": {
+    "message": "Search {shortcut}",
+    "description": "ViewHeader inline presentation sentence. Named slots preserve the existing React elements or literal display values and may be reordered; no HTML in translations."
+  },
+  "views.viewSettingsPopover.options.kanban": {
+    "message": "Kanban",
+    "description": "ViewSettingsPopover option display label. Stored option values are not translated."
+  },
+  "views.viewSettingsPopover.options.table": {
+    "message": "Table",
+    "description": "ViewSettingsPopover option display label. Stored option values are not translated."
+  },
+  "views.viewheader.aViewNamedNametrimAlreadyExists": {
+    "message": "A view named \"{nameTrim}\" already exists",
+    "description": "Views ViewHeader: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.cancel": {
+    "message": "Cancel",
+    "description": "Views ViewHeader: cancelText. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.changeIcon": {
+    "message": "Change icon",
+    "description": "Views ViewHeader: tooltip. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.countResults": {
+    "message": {
+      "other": "{count} results",
+      "one": "{count} result"
+    },
+    "description": "Views ViewHeader: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.deleteView": {
+    "message": "Delete View",
+    "description": "Views ViewHeader: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.discardChanges": {
+    "message": "Discard changes",
+    "description": "Views ViewHeader: tooltip. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.loading": {
+    "message": "Loading…",
+    "description": "Views ViewHeader: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.refreshQuery": {
+    "message": "Refresh Query",
+    "description": "Views ViewHeader: tooltip. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.save": {
+    "message": "Save",
+    "description": "Views ViewHeader: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.searchRows": {
+    "message": "Search rows...",
+    "description": "Views ViewHeader: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.showGraph": {
+    "message": "Show graph",
+    "description": "Views ViewHeader: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.showTable": {
+    "message": "Show table",
+    "description": "Views ViewHeader: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.viewActions": {
+    "message": "View actions",
+    "description": "Views ViewHeader: aria-label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.viewName": {
+    "message": "View name",
+    "description": "Views ViewHeader: placeholder. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewheader.viewNameCannotBeEmpty": {
+    "message": "View name cannot be empty",
+    "description": "Views ViewHeader: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.createCustomViewsToFilterAndOrganizeYourNotes": {
+    "message": "Create custom views to filter and organize your notes",
+    "description": "Views ViewsEmptyState: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.createNewView": {
+    "message": "Create new view",
+    "description": "Views ViewsEmptyState: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.documentation": {
+    "message": "Documentation",
+    "description": "Views ViewsEmptyState: label. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.sortFilterAndGroupNotesBasedOnYourCriteria": {
+    "message": "Sort, filter, and group notes based on your criteria",
+    "description": "Views ViewsEmptyState: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.usePropertiesAndMetadataToBuildDynamicCollections": {
+    "message": "Use properties and metadata to build dynamic collections",
+    "description": "Views ViewsEmptyState: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.viewYourNotesInAStructuredTableFormat": {
+    "message": "View your notes in a structured table format",
+    "description": "Views ViewsEmptyState: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsemptystate.viewsHelpYouOrganizeAndVisualizeYourNotesInPowerfulWays": {
+    "message": "Views help you organize and visualize your notes in powerful ways.",
+    "description": "Views ViewsEmptyState: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.ascending": {
+    "message": "Ascending",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.cardFields": {
+    "message": "Card fields",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.columns": {
+    "message": "Columns",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.countColumnsSelected": {
+    "message": {
+      "other": "{count} columns selected",
+      "one": "{count} column selected"
+    },
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.countFieldsSelected": {
+    "message": {
+      "other": "{count} fields selected",
+      "one": "{count} field selected"
+    },
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.descending": {
+    "message": "Descending",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.groupBy": {
+    "message": "Group by",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.groupByAFieldToEnableKanbanLayout": {
+    "message": "Group by a field to enable Kanban layout",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.layout": {
+    "message": "Layout",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.none": {
+    "message": "None",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.sortGroups": {
+    "message": "Sort groups",
+    "description": "Views ViewSettingsPopover: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewsettingspopover.viewSettings": {
+    "message": "View Settings",
+    "description": "Views ViewSettingsPopover: title. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewtab.loadingView": {
+    "message": "Loading view...",
+    "description": "Views ViewTab: presentation text. Placeholders are literal display values, not persisted identifiers."
+  },
+  "views.viewtab.noGraphNodesForThisView": {
+    "message": "No graph nodes for this view",
+    "description": "Views ViewTab: presentation text. Placeholders are literal display values, not persisted identifiers."
+  }
+}

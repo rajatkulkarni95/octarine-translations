@@ -1,0 +1,16 @@
+{
+  "fileTree.selectionCount": {
+    "message": {
+      "one": "{count} Element",
+      "other": "{count} Elemente"
+    },
+    "sourceHash": "6999b1bbf5d1a8d1447b44cd042fde9e638abc68fb132a5173d0e950480633a2"
+  },
+  "fileTree.tags.occurrenceCount": {
+    "message": {
+      "one": "{count} Tag-Vorkommen",
+      "other": "{count} Tag-Vorkommen"
+    },
+    "sourceHash": "bff45dd9d0a8a49b3a43f135d3cce854deec701ac13d3c15d20630e92764a0ec"
+  }
+}

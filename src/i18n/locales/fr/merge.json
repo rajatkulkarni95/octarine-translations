@@ -1,0 +1,14 @@
+{
+  "merge.destination": {
+    "message": "Fusionnée dans {title}. Les notes d’origine ont été conservées.",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "one": "{count} note fusionnée déplacée dans la Corbeille",
+      "many": "{count} notes fusionnées déplacées dans la Corbeille",
+      "other": "{count} notes fusionnées déplacées dans la Corbeille"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}

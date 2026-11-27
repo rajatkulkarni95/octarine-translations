@@ -1,0 +1,2706 @@
+{
+  "native.ai.accounts.codexStatusIsAvailableThroughTheCodexAccountIntegration": {
+    "message": "Der Codex-Status ist über die Codex-Kontointegration verfügbar",
+    "sourceHash": "ba96c553307cd23d525857204d6acda0ddcccadcbc83bc21fb223ffed2e20f3d"
+  },
+  "native.ai.accounts.failedToCheckClaudeCodeAuthentication": {
+    "message": "Claude-Code-Authentifizierung konnte nicht geprüft werden: {error}",
+    "sourceHash": "d5a91069b222891323cc301a14e0ad61734ba520ffb25b1d4547d2e20555d5dc"
+  },
+  "native.ai.accounts.failedToCheckOpenCodeAuthentication": {
+    "message": "OpenCode-Authentifizierung konnte nicht geprüft werden: {error}",
+    "sourceHash": "cafda7f0f5f55c1765a0fa11fb76f33e696a1f2ffda5c86a122a553e30f69c93"
+  },
+  "native.ai.accounts.failedToIsolate": {
+    "message": "{provider} konnte nicht isoliert werden: {error}",
+    "sourceHash": "8a666af48e7f16f8ab9670e8e5e7fcdb0de105b292965e18ff6839bb18e04e3d"
+  },
+  "native.ai.accounts.failedToOpen": {
+    "message": "{terminal} konnte nicht geöffnet werden: {error}",
+    "sourceHash": "49fa975f05a6f3e1dc371a4b96fdd42b86a9422fb97cc95aa4e1550dd690e963"
+  },
+  "native.ai.accounts.failedToOpenCommandPrompt": {
+    "message": "Eingabeaufforderung konnte nicht geöffnet werden: {error}",
+    "sourceHash": "cb8838170ec141da00627411b7dec472d82fea989747359dc6fbf30ca9ac153f"
+  },
+  "native.ai.accounts.failedToOpenTerminal": {
+    "message": "Terminal konnte nicht geöffnet werden: {error}",
+    "sourceHash": "55977ec74398c616a05f3a36d8f12e36c8bf9b25b7febef1517fdaf884c1e1a5"
+  },
+  "native.ai.accounts.failedToReadOpenCodeAuthenticationStatus": {
+    "message": "OpenCode-Authentifizierungsstatus konnte nicht gelesen werden: {error}",
+    "sourceHash": "7434c86927894c1908ca5ee897c6cebc587c1675e17b82b7c7ba7dadb42e5cfa"
+  },
+  "native.ai.accounts.noSupportedTerminalApplicationWasFound": {
+    "message": "Keine unterstützte Terminal-App gefunden",
+    "sourceHash": "7070ff668466d7339f7a352cde8ebe0288856460581406748dd3ca590d815b05"
+  },
+  "native.ai.accounts.opencodeAuthenticationStatusIsNotValidJSON": {
+    "message": "Der OpenCode-Authentifizierungsstatus ist kein gültiges JSON",
+    "sourceHash": "92f2306c19f92232f99e2cbef7aad6b330764915b45b8de3f653e616823dd737"
+  },
+  "native.ai.accounts.opencodeCouldNotListItsCredentials": {
+    "message": "OpenCode konnte seine Zugangsdaten nicht auflisten",
+    "sourceHash": "edf30eb28e1ce4ab29c5de7d2be8a99e6af3e2a2f72b44d5bbb3c39cfca9c602"
+  },
+  "native.ai.accounts.timedOutWhileCheckingClaudeCodeAuthentication": {
+    "message": "Zeitüberschreitung bei der Prüfung der Claude-Code-Authentifizierung",
+    "sourceHash": "bc86e040b074dd893e490f118ec9203bb4dce3a4d25b967c637a4d2f561397ee"
+  },
+  "native.ai.accounts.timedOutWhileCheckingOpenCodeAuthentication": {
+    "message": "Zeitüberschreitung bei der Prüfung der OpenCode-Authentifizierung",
+    "sourceHash": "73938be4814676a72a1b1a35f4f8707b7602e3d8c4b44c3be291a05832715b4e"
+  },
+  "native.ai.claude.claudeCodeCLIWasNotFound": {
+    "message": "Claude-Code-CLI wurde nicht gefunden",
+    "sourceHash": "e39c3be542356f283fc5263827a7d3d6288ea8cf24e390afd46dc6542842217a"
+  },
+  "native.ai.claude.claudeCodeExitedBeforeReturningAResult": {
+    "message": "Claude Code wurde beendet, bevor ein Ergebnis zurückgegeben wurde ({status})",
+    "sourceHash": "ca8c0c6101faa5b929b69cceb2d67a85e499318327e0d67e8437d7a7923d74af"
+  },
+  "native.ai.claude.claudeCodeExitedBeforeReturningItsModels": {
+    "message": "Claude Code wurde beendet, bevor seine Modelle zurückgegeben wurden",
+    "sourceHash": "7340bf5bedc982d4aa48ad1c40fd42ee54118c83cd46f3676a41696b8d722ed2"
+  },
+  "native.ai.claude.claudeCodeRequestFailed": {
+    "message": "Claude-Code-Anfrage fehlgeschlagen",
+    "sourceHash": "ed2914072bbb00ae020c35b42eb7c8096777d52a3207bcbad668f1dc8eb24c9a"
+  },
+  "native.ai.claude.claudeCodeReturnedNoSupportedModels": {
+    "message": "Claude Code hat keine unterstützten Modelle zurückgegeben",
+    "sourceHash": "7aea0ef72873668702a3c0d3cab49b2e1f18bb61524679ac974adac7823dfda7"
+  },
+  "native.ai.claude.failedToInitializeClaudeCode": {
+    "message": "Claude Code konnte nicht initialisiert werden: {error}",
+    "sourceHash": "70e772926380f8144f7392e5113732d4a75159bb090651b81a21cf5e057756b1"
+  },
+  "native.ai.claude.failedToOpenClaudeCodeInput": {
+    "message": "Eingabe für Claude Code konnte nicht geöffnet werden",
+    "sourceHash": "70c72760f4d5bea7ede145c9940382227af91a30d4d163f952e58c477eed9d52"
+  },
+  "native.ai.claude.failedToReadClaudeCodeOutput": {
+    "message": "Ausgabe von Claude Code konnte nicht gelesen werden: {error}",
+    "sourceHash": "7da4cd2f70ccbb57e5fd88a8e6a6a47aad3225f8ce368253d6f13a09882eef95"
+  },
+  "native.ai.claude.failedToReadClaudeCodeOutputWithoutDetails": {
+    "message": "Ausgabe von Claude Code konnte nicht gelesen werden",
+    "sourceHash": "efcde1b9153d877bf94ff7b1d3fd0cfa1b1b01f967feba41b2d9f102b2a21cc3"
+  },
+  "native.ai.claude.failedToStartClaudeCode": {
+    "message": "Claude Code konnte nicht gestartet werden: {error}",
+    "sourceHash": "b9d3e2191e46f2896064f4d946b3cf61f56c740669aa91e49e2bc759e5c820e2"
+  },
+  "native.ai.claude.failedToWaitForClaudeCode": {
+    "message": "Warten auf Claude Code fehlgeschlagen: {error}",
+    "sourceHash": "f2752f0d1fd26f8abef2c391b11a5a8a57ddef264da75c9a1e2937d9c53a314f"
+  },
+  "native.ai.claude.failedToWriteClaudeCodeInput": {
+    "message": "Eingabe für Claude Code konnte nicht geschrieben werden: {error}",
+    "sourceHash": "367d0d263bf28c340620e2c81a59c8f04e555d11f561ec7602396e5f266b1c9e"
+  },
+  "native.ai.claude.failedToWriteClaudeCodeMCPConfig": {
+    "message": "MCP-Konfiguration für Claude Code konnte nicht geschrieben werden: {error}",
+    "sourceHash": "2509b4a34f96322545f40306a815f9df9cf025a24835a74a86e4d4510c2491a5"
+  },
+  "native.ai.claude.failedToWriteClaudeCodeSystemPrompt": {
+    "message": "Systemprompt für Claude Code konnte nicht geschrieben werden: {error}",
+    "sourceHash": "3aa304b81de58152d746e5814117d4e3a03403f0dbe1d03369f43e44529058ef"
+  },
+  "native.ai.claude.timedOutListingClaudeCodeModels": {
+    "message": "Zeitüberschreitung beim Auflisten der Claude-Code-Modelle",
+    "sourceHash": "cbfd5ca6f075d7e12eec873875a153d2cafa04a0bb929d4ec0a8a99af4951f4e"
+  },
+  "native.ai.claude.timedOutWaitingForClaudeCode": {
+    "message": "Zeitüberschreitung beim Warten auf Claude Code",
+    "sourceHash": "3d3937e1f546d1b96d5fae247c5af7cc118ef4d1ecd0345fe690c8ce50cfc5a2"
+  },
+  "native.ai.codex.codexAppServerClosedBeforeResponding": {
+    "message": "Codex-App-Server wurde vor einer Antwort beendet",
+    "sourceHash": "610575f0a3483b558f2758e03e49333ed5ec3d071a8433133af89bfd40aa55b1"
+  },
+  "native.ai.codex.codexCLIWasNotFoundInstallTheOpenAICodexCLIOrMakeSureTheCodexCommandIsAvailableToOctarineThenRefreshCodexStatus": {
+    "message": "Codex-CLI wurde nicht gefunden. Installiere die OpenAI-Codex-CLI oder stelle sicher, dass der Befehl `codex` für Octarine verfügbar ist, und aktualisiere dann den Codex-Status.",
+    "sourceHash": "e4eb94ad2925b7cef98428798bb32b82b1f19cba280b4d5f9b35d5241d52e582"
+  },
+  "native.ai.codex.codexDidNotReturnAThreadId": {
+    "message": "Codex hat keine Thread-ID zurückgegeben",
+    "sourceHash": "61e7640012d8de8a62346e12a17d149319ad1a97bc196a2b3abc6e64ce5fa18d"
+  },
+  "native.ai.codex.codexResponseMissingResult": {
+    "message": "Codex-Antwort enthält kein Ergebnis: {value}",
+    "sourceHash": "9c83c95df86b7ce408ff05afee75564d1e4e79a20a760495f2234cb71e7c5e63"
+  },
+  "native.ai.codex.codexStreamError": {
+    "message": "Codex-Stream-Fehler",
+    "sourceHash": "05b2a00c06a87674f4d0c41b505426a596106d5dd9dfd5dd44776b6f2eeeebf9"
+  },
+  "native.ai.codex.codexToolCallIsNoLongerPending": {
+    "message": "Codex-Tool-Aufruf wartet nicht mehr auf eine Antwort",
+    "sourceHash": "d27bdc609df0b60909afb2b8e5b7eacbd98fa6e377c6c4d2f51234343032aa82"
+  },
+  "native.ai.codex.codexTurnFailed": {
+    "message": "Codex-Durchlauf fehlgeschlagen",
+    "sourceHash": "0b2da364166963cbbf8c309571ed64f12de314e70b598dbfe207b9379741af41"
+  },
+  "native.ai.codex.failedToDeliverCodexToolResult": {
+    "message": "Ergebnis des Codex-Tools konnte nicht übermittelt werden",
+    "sourceHash": "0b2c4a4db25260e053a5778999db0c530aeefc6ef242c290dd132c66a9a10bdf"
+  },
+  "native.ai.codex.failedToFlushCodexRequest": {
+    "message": "Codex-Anfrage konnte nicht geleert werden: {error}",
+    "sourceHash": "5897b355c06ddb3dd441a099993eb55db071e60a645811a8c717e10c301f0552"
+  },
+  "native.ai.codex.failedToFlushCodexResponse": {
+    "message": "Codex-Antwort konnte nicht geleert werden: {error}",
+    "sourceHash": "264e8c845cd8a01966c1d064c104c8be993b905aa7352d59f237d52947160393"
+  },
+  "native.ai.codex.failedToLockCodexCancellationState": {
+    "message": "Abbruchstatus von Codex konnte nicht gesperrt werden: {error}",
+    "sourceHash": "b6e953021e3e1ed0b7fd6c83b1e050cc9c2d20f14be935d3c3c04972148a5ab5"
+  },
+  "native.ai.codex.failedToLockCodexToolResultState": {
+    "message": "Status des Codex-Tool-Ergebnisses konnte nicht gesperrt werden: {error}",
+    "sourceHash": "e323742408af7a9f20394a07cb919843e20eefbba1fe1ac8108ef11396f1c6e7"
+  },
+  "native.ai.codex.failedToOpenCodexStdin": {
+    "message": "Codex-stdin konnte nicht geöffnet werden",
+    "sourceHash": "5dc1c87360319e4e84b529e6e0f125f342e59b9836af6d9e5f99fc343e57b9cf"
+  },
+  "native.ai.codex.failedToOpenCodexStdout": {
+    "message": "Codex-stdout konnte nicht geöffnet werden",
+    "sourceHash": "4a09afdf31359292e52e22b9dcfd49c0c50b094852030e5d91721e8a52d2cb87"
+  },
+  "native.ai.codex.failedToParseCodexResponse": {
+    "message": "Codex-Antwort konnte nicht verarbeitet werden: {error}",
+    "sourceHash": "433556778970ab9e4cca39ae35f8e2e7f778e991da1805b18de28c99b70ff4ef"
+  },
+  "native.ai.codex.failedToReadCodexResponse": {
+    "message": "Codex-Antwort konnte nicht gelesen werden: {error}",
+    "sourceHash": "2bc6d35dfe076cf47f930c90280aa56fdd9756077016cf1d35c9a9cf48e92afe"
+  },
+  "native.ai.codex.failedToStartCodexAppServer": {
+    "message": "Codex-App-Server konnte nicht gestartet werden: {error}",
+    "sourceHash": "43785bea7e7ae168f66aed97aadf3fe2661562b5ca878e328ddf5e07a4e93d19"
+  },
+  "native.ai.codex.failedToWriteCodexRequest": {
+    "message": "Codex-Anfrage konnte nicht geschrieben werden: {error}",
+    "sourceHash": "b3351aa3203aa56b60862b51b6b62f4a534278d02daf4674fbcaf16c32f479d2"
+  },
+  "native.ai.codex.failedToWriteCodexResponse": {
+    "message": "Codex-Antwort konnte nicht geschrieben werden: {error}",
+    "sourceHash": "7324c9afa1576c6fcd099301bbbf58c893c61dc43b6e3529796620778994f659"
+  },
+  "native.ai.codex.timedOutWaitingForCodexResponseToRequest": {
+    "message": "Zeitüberschreitung beim Warten auf Codex-Antwort auf Anfrage {value}",
+    "sourceHash": "73934a804a95531e45e7755f53f3b2e3e2e27eea555f2665ff2f2e0e96225caf"
+  },
+  "native.ai.codex.timedOutWaitingForCodexStream": {
+    "message": "Zeitüberschreitung beim Warten auf den Codex-Stream",
+    "sourceHash": "a99a1ece7af0862c23d23f926832d58681f1fc10c077e1dea10847cdeffd2983"
+  },
+  "native.ai.images.aUserMessageSupportsAtMost4Images": {
+    "message": "Eine Nutzernachricht unterstützt höchstens 4 Bilder",
+    "sourceHash": "c3b91a83789776de3534eb69de79a3af3baaecf8cd4352a07ad9b5deda0e2e23"
+  },
+  "native.ai.images.eachImageMustBeAtMost5MiB": {
+    "message": "Jedes Bild darf höchstens 5 MiB groß sein",
+    "sourceHash": "083c6dbfe8e1e778d3391e20bd28ffbdd90a2967ba21a4b55df7b65c531db59e"
+  },
+  "native.ai.images.expectedABase64PNGJPEGWebPOrGIFDataURL": {
+    "message": "Erwartet wurde eine Base64-Data-URL für PNG, JPEG, WebP oder GIF",
+    "sourceHash": "e28f497905a0ff3a2596e424cb79ab7e6987d0fd0a3d4fe00024c6d6d73360d3"
+  },
+  "native.ai.images.imageBytesDoNotMatchTheDeclaredMediaType": {
+    "message": "Bilddaten stimmen nicht mit dem angegebenen Medientyp überein",
+    "sourceHash": "11579ccb50d8da38aefca831f7a2c706978473c3f64e8edf2a07283d850fd7db"
+  },
+  "native.ai.images.imagesAreOnlySupportedInUserMessages": {
+    "message": "Bilder werden nur in Nutzernachrichten unterstützt",
+    "sourceHash": "ecd83521311377e2c875670cd412255c7b72d2e3386f8741bfc695310d750535"
+  },
+  "native.ai.mcp.cliToolCallIsNoLongerPending": {
+    "message": "CLI-Tool-Aufruf wartet nicht mehr auf eine Antwort",
+    "sourceHash": "2e954e3260b56cf181c7da441f4ae892f7316303e8276da702f08dbabd51de24"
+  },
+  "native.ai.mcp.failedToCloneOctarineMCPProxy": {
+    "message": "Octarine-MCP-Proxy konnte nicht geklont werden: {error}",
+    "sourceHash": "5ba83df6fbd837394eb8ab8873b638de56758d63b52a3f078dfb8025da3212a4"
+  },
+  "native.ai.mcp.failedToConnectOctarineMCPProxy": {
+    "message": "Verbindung zum Octarine-MCP-Proxy fehlgeschlagen: {error}",
+    "sourceHash": "073fbcc618e23de878b6779f5f266375b608d69950179aedd209c3919611f1bf"
+  },
+  "native.ai.mcp.failedToDeliverCLIToolResult": {
+    "message": "Ergebnis des CLI-Tools konnte nicht übermittelt werden",
+    "sourceHash": "24c2d079fabb4ce1c86bdca011981435ea4f09c254373542a8c713a74329bda2"
+  },
+  "native.ai.mcp.failedToFlushMCPResponse": {
+    "message": "MCP-Antwort konnte nicht geleert werden: {error}",
+    "sourceHash": "f6fb41c8a57f5d1db653a2516c8714d676f85e26e58bc3142f2c59951b2e2000"
+  },
+  "native.ai.mcp.failedToInitializeOctarineMCPProxy": {
+    "message": "Octarine-MCP-Proxy konnte nicht initialisiert werden: {error}",
+    "sourceHash": "34d29bda187dd68f5ac5c6f03c290af1ddcb0a3baf05fd8757a38442bc09f37f"
+  },
+  "native.ai.mcp.failedToLocateOctarineToolBridge": {
+    "message": "Octarine-Tool-Bridge konnte nicht gefunden werden: {error}",
+    "sourceHash": "aba346ed4dffef882646e37100d710c0a9823c29e488c90733f6faab48ef092d"
+  },
+  "native.ai.mcp.failedToLockCLIToolResultState": {
+    "message": "Zustand des CLI-Tool-Ergebnisses konnte nicht gesperrt werden",
+    "sourceHash": "4010ff0f14a0d4b7b23e808cd682618059089ca3d727e40349d0181affb761af"
+  },
+  "native.ai.mcp.failedToParseOctarineMCPTools": {
+    "message": "Octarine-MCP-Tools konnten nicht geparst werden: {error}",
+    "sourceHash": "f99c254048576b489f5eac4baa8883eadaf73b5133d9d72747ca5eec48f71cea"
+  },
+  "native.ai.mcp.failedToParseOctarineToolResult": {
+    "message": "Ergebnis des Octarine-Tools konnte nicht geparst werden: {error}",
+    "sourceHash": "4ddb94ab888912b0287142c44b2944fa399e69fcb3b1a8015ecaa86950a950ec"
+  },
+  "native.ai.mcp.failedToReadMCPRequest": {
+    "message": "MCP-Anfrage konnte nicht gelesen werden: {error}",
+    "sourceHash": "866a7e956001c061c938e152bf2e8b07e6b2cd5cd59f571211a18f39c85ba312"
+  },
+  "native.ai.mcp.failedToReadOctarineMCPTools": {
+    "message": "Octarine-MCP-Tools konnten nicht gelesen werden: {error}",
+    "sourceHash": "e9f7b87720721bc6324674993f2487f8ac4a087cf5ea165bd13c91946d7c1496"
+  },
+  "native.ai.mcp.failedToReadOctarineToolResult": {
+    "message": "Ergebnis des Octarine-Tools konnte nicht gelesen werden: {error}",
+    "sourceHash": "20ad649db33f0f954a819f2e03bde12452c352546f2b03b4024aa20232e889e5"
+  },
+  "native.ai.mcp.failedToResolveOctarineToolBridge": {
+    "message": "Octarine-Tool-Bridge konnte nicht aufgelöst werden: {error}",
+    "sourceHash": "967479c072f48bda1e0b0e846dc9be77ab59e329643d582644b793d41d0b74f3"
+  },
+  "native.ai.mcp.failedToSendOctarineToolCall": {
+    "message": "Octarine-Tool-Aufruf konnte nicht gesendet werden: {error}",
+    "sourceHash": "24ee33d018d40554266b59c8ef49efc689dd6c595cdb1456798b4816b2a881b0"
+  },
+  "native.ai.mcp.failedToStartOctarineToolBridge": {
+    "message": "Octarine-Tool-Bridge konnte nicht gestartet werden: {error}",
+    "sourceHash": "b3d7ef2d06744c4c3ad32d581b579e76cc4fc931f16432c0e44e3b1b1ba45946"
+  },
+  "native.ai.mcp.failedToWriteMCPResponse": {
+    "message": "MCP-Antwort konnte nicht geschrieben werden: {error}",
+    "sourceHash": "15e4e46f619786cac5b249c8177ed8a265715f7b42a2464bda4b7372674ea0ae"
+  },
+  "native.ai.mcp.invalidOctarineMCPProxyArguments": {
+    "message": "Ungültige Argumente für den Octarine-MCP-Proxy",
+    "sourceHash": "0897094c24fa5234a5e62a68a3ee4f714b9372419a8375c7083bd30b9136398d"
+  },
+  "native.ai.opencode.failedToConfigureOpenCode": {
+    "message": "OpenCode konnte nicht konfiguriert werden: {error}",
+    "sourceHash": "d84103ca9dcb6e68a25ddc823f05c20775691e13155bf01774270496e4ac5929"
+  },
+  "native.ai.opencode.failedToConfigureOpenCodeTools": {
+    "message": "OpenCode-Tools konnten nicht konfiguriert werden: {error}",
+    "sourceHash": "3d29b4cf62ed39cae10d0e479d5b0b0bff0665f86b7866eb8153574b255f0494"
+  },
+  "native.ai.opencode.failedToIsolateOpenCodeAuthentication": {
+    "message": "OpenCode-Authentifizierung konnte nicht isoliert werden: {error}",
+    "sourceHash": "4ed156714e29931cb19216ade4d19f664e4980b25e570d883a5db89c224b47ed"
+  },
+  "native.ai.opencode.failedToIsolateOpenCodeAuthenticationWithoutDetails": {
+    "message": "OpenCode-Authentifizierung konnte nicht isoliert werden",
+    "sourceHash": "1fded42928e9863fe478afcc15d524b091e386dd57ce8cd67d3932a098590a64"
+  },
+  "native.ai.opencode.failedToIsolateOpenCodeRuntime": {
+    "message": "OpenCode-Laufzeitumgebung konnte nicht isoliert werden: {error}",
+    "sourceHash": "37106d899a657fcc6b7b98500260d5c728970624b967fdc5aa35e7e313655e7f"
+  },
+  "native.ai.opencode.failedToListOpenCodeModels": {
+    "message": "OpenCode-Modelle konnten nicht aufgelistet werden: {error}",
+    "sourceHash": "2f5aa2f8c629cc1fe0d6e53c483c8d759046a7926c08e138fd1722353e60436f"
+  },
+  "native.ai.opencode.failedToOpenOpenCodeInput": {
+    "message": "OpenCode-Eingabe konnte nicht geöffnet werden",
+    "sourceHash": "d338e93053167f59117be9c2df60299b21925ba97885c3a35327201da37ecff1"
+  },
+  "native.ai.opencode.failedToPrepareOpenCodeImageAttachment": {
+    "message": "Bildanhang für OpenCode konnte nicht vorbereitet werden",
+    "sourceHash": "de7c63d17df37fc1e31cd745adeec7eaba5a0a45792b52f633f2ae71f6c98d76"
+  },
+  "native.ai.opencode.failedToReadOpenCodeAuthentication": {
+    "message": "OpenCode-Authentifizierung konnte nicht gelesen werden: {error}",
+    "sourceHash": "a361387558c8c85ecf44def2183d3f978e265a2aa4c76a2e35cf685b597a7116"
+  },
+  "native.ai.opencode.failedToReadOpenCodeOutput": {
+    "message": "OpenCode-Ausgabe konnte nicht gelesen werden: {error}",
+    "sourceHash": "0b6773e61d94c0d604b3ae65b85c160a2a5b6646bf95476268e5a0182ec759ad"
+  },
+  "native.ai.opencode.failedToReadOpenCodeOutputWithoutDetails": {
+    "message": "OpenCode-Ausgabe konnte nicht gelesen werden",
+    "sourceHash": "91a46d7d9c3286d63d6f0d52455933f38aaaa28d4bba2443b1745fde6de3d4bd"
+  },
+  "native.ai.opencode.failedToStartOpenCode": {
+    "message": "OpenCode konnte nicht gestartet werden: {error}",
+    "sourceHash": "bdd478e5bbc588a625c95ff2817ee9390d1bcf65314ef5291829229553a4d301"
+  },
+  "native.ai.opencode.failedToWaitForOpenCode": {
+    "message": "Warten auf OpenCode fehlgeschlagen: {error}",
+    "sourceHash": "946ad164c549ba0984297bfa4739c57251cb6b77cfe922b0903dacc946315f1a"
+  },
+  "native.ai.opencode.failedToWriteOpenCodeImageAttachment": {
+    "message": "Bildanhang für OpenCode konnte nicht geschrieben werden",
+    "sourceHash": "e3c49bfc19dac99ce0825a47b05c86fa9c75c83ae40774934c4b4411feca0bfd"
+  },
+  "native.ai.opencode.failedToWriteOpenCodeInput": {
+    "message": "OpenCode-Eingabe konnte nicht geschrieben werden: {error}",
+    "sourceHash": "9b07898492df388d22a681251e73d183a61d09a7e4ba6fe46a01a675cd2e4c1a"
+  },
+  "native.ai.opencode.opencodeCLIWasNotFound": {
+    "message": "OpenCode-CLI wurde nicht gefunden",
+    "sourceHash": "85059f91ff4986001c81adaf2bacb979255e52c77baee7c97a76fabb5e6fc365"
+  },
+  "native.ai.opencode.opencodeCouldNotImportItsAuthentication": {
+    "message": "OpenCode konnte seine Authentifizierung nicht importieren",
+    "sourceHash": "da43939e6cd6a9e19cba179755bc6ab4bbecd399b320c948c1de869bd3848481"
+  },
+  "native.ai.opencode.opencodeCouldNotListModels": {
+    "message": "OpenCode konnte keine Modelle auflisten",
+    "sourceHash": "0152647da762fbcd61fb0d6e2774391680a0451a6ad0ea5acd10038fb9c3deb1"
+  },
+  "native.ai.opencode.opencodeExitedWith": {
+    "message": "OpenCode wurde mit {status} beendet",
+    "sourceHash": "fa7cc01ccd150e8a9e6b98f6454002b40845c654ca18e2446e5c5dc81cea8101"
+  },
+  "native.ai.opencode.opencodeRequestFailed": {
+    "message": "OpenCode-Anfrage fehlgeschlagen",
+    "sourceHash": "889dbe754b97f52ccb1f0091fea21287f88553744fcf10700782a3e6f7ffa8c8"
+  },
+  "native.ai.opencode.timedOutIsolatingOpenCodeAuthentication": {
+    "message": "Zeitüberschreitung beim Isolieren der OpenCode-Authentifizierung",
+    "sourceHash": "a0d45c0fa1f62ffec7e583f0f6ff1b51411257ab832325e7c145cfcfd3ccda99"
+  },
+  "native.ai.opencode.timedOutListingOpenCodeModels": {
+    "message": "Zeitüberschreitung beim Auflisten der OpenCode-Modelle",
+    "sourceHash": "492d4e314e770541c9950a99905ff38a95d026b55d5cbfcf92410d60e3a66395"
+  },
+  "native.ai.opencode.timedOutReadingOpenCodeAuthentication": {
+    "message": "Zeitüberschreitung beim Lesen der OpenCode-Authentifizierung",
+    "sourceHash": "aa00e56b24488e5066c53000bc89bf2827762804a194b699852eaa8195f14d96"
+  },
+  "native.ai.opencode.timedOutWaitingForOpenCode": {
+    "message": "Zeitüberschreitung beim Warten auf OpenCode",
+    "sourceHash": "3d33f95985a5f6ad9987fa5ca7893f0a08a73665236364856ec31c8360855a7c"
+  },
+  "native.commands.fonts.failedToGetSystemFonts": {
+    "message": "Systemschriften konnten nicht abgerufen werden: {error}",
+    "sourceHash": "3d3544c28ef61773406c080f7664576aec927b60b205755d992e6ed77e293413"
+  },
+  "native.commands.note_types.failedToConvertNoteTypeToJSON": {
+    "message": "Notiztyp konnte nicht in JSON umgewandelt werden: {error}",
+    "sourceHash": "ca573a03173cbee99846b9ae22a109780b2c835aabee7a1101fba2ae8e297374"
+  },
+  "native.commands.note_types.failedToCreateOctarineDirectory": {
+    "message": "Verzeichnis .octarine konnte nicht erstellt werden: {error}",
+    "sourceHash": "ebe2e483cb416759962419d8f232a0e77906304b82964fa5045b2a5ced3cd4d3"
+  },
+  "native.commands.note_types.failedToParseNoteTypesFile": {
+    "message": "Datei mit Notiztypen konnte nicht analysiert werden: {error}",
+    "sourceHash": "2245c7470f237d5f786f894dde55b7ead32af1af9f4c1f6563c12553c54fd144"
+  },
+  "native.commands.note_types.failedToParseUpdatedNoteType": {
+    "message": "Aktualisierter Notiztyp konnte nicht analysiert werden: {error}",
+    "sourceHash": "525b4c145699b8579cd54240e3b6c328df47d750925da3011e740c2f82a67261"
+  },
+  "native.commands.note_types.failedToReadNoteTypesFile": {
+    "message": "Datei mit Notiztypen konnte nicht gelesen werden: {error}",
+    "sourceHash": "553a5abe1e9f5171d85519d850ef922a7d7401ba072f6cb899f85d854756392c"
+  },
+  "native.commands.note_types.failedToSerializeNoteTypes": {
+    "message": "Notiztypen konnten nicht serialisiert werden: {error}",
+    "sourceHash": "b2102566650696a02f9352ce4a0b5f16323dbee46c9621450df77dc8424301b8"
+  },
+  "native.commands.note_types.failedToWriteNoteTypesFile": {
+    "message": "Datei mit Notiztypen konnte nicht geschrieben werden: {error}",
+    "sourceHash": "2f5ac6295b97429c4750f74fac031721d8fd5f3c2bfc288059a92a56d6d642a9"
+  },
+  "native.commands.note_types.noteTypeAlreadyExists": {
+    "message": "Notiztyp „{value}“ existiert bereits",
+    "sourceHash": "cbb91cbb1f5a51fac59a5de9abfa0cf43538d42790f27b204e7f767d4cb5c567"
+  },
+  "native.commands.note_types.noteTypeNotFound": {
+    "message": "Notiztyp nicht gefunden",
+    "sourceHash": "67da346be069dcfc054ffbeb1a491aa9df8dcb4f27ba2a1dc23aee798b761997"
+  },
+  "native.commands.note_types.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "2eeeaba0f4825e27f167f801e209c09271691a0322d9e62a20b782dc9e11fa2c"
+  },
+  "native.commands.octarine_ignore.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "b021c74e8a8827d3dc4975d3b5bc5fc2855b69f2bae29f38ef6658d9533e864d"
+  },
+  "native.commands.pdf.failedToCreateDataProvider": {
+    "message": "Datenprovider konnte nicht erstellt werden",
+    "sourceHash": "5b98b57d8670573e3077956e8c956d749aafffa9774c3f041051d754e12273b5"
+  },
+  "native.commands.pdf.failedToCreateMergedPDFContext": {
+    "message": "Kontext für zusammengeführtes PDF konnte nicht erstellt werden",
+    "sourceHash": "a7c98a9861562b77b9465226af072be25ebf461703a943800ff90c482a113b82"
+  },
+  "native.commands.pdf.failedToCreatePDFContext": {
+    "message": "PDF-Kontext konnte nicht erstellt werden",
+    "sourceHash": "0e7386ca3e55f5544168d1ace5b3da39ed723218c968d0c72f906434fbe909d7"
+  },
+  "native.commands.pdf.failedToGetSourcePage": {
+    "message": "Quellseite konnte nicht abgerufen werden",
+    "sourceHash": "be4fbd864789ee28f98f680f2851e255bd22ddb6e5699c42b8f3daa637455e66"
+  },
+  "native.commands.pdf.failedToLoadFirstPDFChunk": {
+    "message": "Erster PDF-Abschnitt konnte nicht geladen werden",
+    "sourceHash": "9317a51907afd764edaa2be640cc40843a95f4f4b8c3570da169378fc48709e8"
+  },
+  "native.commands.pdf.failedToLoadSourcePDF": {
+    "message": "Quell-PDF konnte nicht geladen werden",
+    "sourceHash": "11c9fcb27fc6a9b3796104d2753f48fcb35486b4bd1161866bf6e56ab576dca3"
+  },
+  "native.commands.pdf.failedToParsePDFChunk": {
+    "message": "PDF-Abschnitt {value} konnte nicht analysiert werden",
+    "sourceHash": "61f3090775d42b639dfc7a855a4b7a470eca0042736f75d1f2611c523fb8d76b"
+  },
+  "native.commands.pdf.failedToReadFirstPDFChunk": {
+    "message": "Erster PDF-Abschnitt konnte nicht gelesen werden",
+    "sourceHash": "e3d1aa8791e9c7e01be8aad079f644dcc6f773bcd6377fd2f2e00d9694147f7e"
+  },
+  "native.commands.pdf.failedToReadPDFChunk": {
+    "message": "PDF-Abschnitt {value} konnte nicht gelesen werden",
+    "sourceHash": "57edab497cc683c4115ccbcb654b058f6bebef434adbfb16e957257e3e00df08"
+  },
+  "native.commands.pdf.firstPDFChunkHasNoPages": {
+    "message": "Erster PDF-Abschnitt enthält keine Seiten",
+    "sourceHash": "d4539055335a2cdebe27d44433bc4e4b1c4f521b463b8b3bd9dd5b231a3ab735"
+  },
+  "native.commands.pdf.mergePdfFilesIsOnlySupportedOnMacOS": {
+    "message": "merge_pdf_files wird nur unter macOS unterstützt",
+    "sourceHash": "62557728dfac039d57168afd766c0ba18350933f5cbca1a2d7f19c08bf6cf208"
+  },
+  "native.commands.pdf.nativePDFExportIsNotYetSupportedOnLinuxUsePrintDialogInstead": {
+    "message": "Nativer PDF-Export wird unter Linux noch nicht unterstützt. Nutze stattdessen den Druckdialog.",
+    "sourceHash": "41dccadc25415de03fbf5b7eef56cb34eb5b597297e23d2e0def4fcc11c1908a"
+  },
+  "native.commands.pdf.noPDFChunksToMerge": {
+    "message": "Keine PDF-Abschnitte zum Zusammenführen",
+    "sourceHash": "2fb504f2e46ed276fe3f0fad858af8f9b6a50fac57012e2dcbcf79dd81a13c3f"
+  },
+  "native.commands.pdf.pdfCreationFailed": {
+    "message": "PDF-Erstellung fehlgeschlagen",
+    "sourceHash": "77024b718bcc64f35c38a9099c971b4317ab03d4a601bc0f826b0a6eb6544cba"
+  },
+  "native.commands.pdf.pdfExportChannelError": {
+    "message": "Fehler im PDF-Exportkanal: {error}",
+    "sourceHash": "8ba5b953b44bc5e21fda732fa75b5195acf547250c0eedddfa879192553aa1bd"
+  },
+  "native.commands.pdf.printtopdfFailed": {
+    "message": "PrintToPdf fehlgeschlagen: {error}",
+    "sourceHash": "bde4b50891723756c6110f4f619fc77e4de632f9420c7bd81a9cccdb942fbee1"
+  },
+  "native.commands.properties.additionallyFailedToRollBackProperties": {
+    "message": "{value1}; zusätzlich konnten Eigenschaften nicht zurückgesetzt werden: {value2}",
+    "sourceHash": "d71de43aba889e93f23bac110b35befed0fea0eaa352537c4e58f7be332dc6e1"
+  },
+  "native.commands.properties.failedToCreateOctarineDirectory": {
+    "message": "Verzeichnis .octarine konnte nicht erstellt werden: {error}",
+    "sourceHash": "242a3ed16ca8115509c59c188e4977eb9488ae819dde0c7e94c0ec8bd465db11"
+  },
+  "native.commands.properties.failedToParsePropertiesFile": {
+    "message": "Datei mit Eigenschaften konnte nicht analysiert werden: {error}",
+    "sourceHash": "5d4c89c536e2770172f467567300b6ad22326b8a51fc735d5ed27c3a02909fc8"
+  },
+  "native.commands.properties.failedToReadPropertiesFile": {
+    "message": "Datei mit Eigenschaften konnte nicht gelesen werden: {error}",
+    "sourceHash": "0baa8f4e13b0cf282cd8ac4aed421193170953d5d8a7ec306e8b70cb233762c4"
+  },
+  "native.commands.properties.failedToSerializeProperties": {
+    "message": "Eigenschaften konnten nicht serialisiert werden: {error}",
+    "sourceHash": "f3564f177ad560d2ee386404e5fc326fd5c6e62a420187d984914243a43d7bad"
+  },
+  "native.commands.properties.failedToWritePropertiesFile": {
+    "message": "Datei mit Eigenschaften konnte nicht geschrieben werden: {error}",
+    "sourceHash": "50bfe8c9a187586a22a718b1d9209f20ca2c7bbc8b52e9bb0ea7edb15cb23ff8"
+  },
+  "native.commands.properties.propertyAlreadyExists": {
+    "message": "Eigenschaft „{value}“ existiert bereits",
+    "sourceHash": "8f699830604491c93a719d26c52ccb44e57e2de4e2098267c4f253d234164f67"
+  },
+  "native.commands.properties.propertyNotFound": {
+    "message": "Eigenschaft nicht gefunden",
+    "sourceHash": "6d0277211ae51abd76f212c5d65409b4599be0a3c61926f95892b17d9f8919d4"
+  },
+  "native.commands.properties.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "287bead2e324916a071dc5033e0fa38ca6c2f9b7c5461b7ca1bb52a13eb449b2"
+  },
+  "native.commands.skills.couldNotAccess": {
+    "message": "Zugriff auf {value1} nicht möglich: {error}",
+    "sourceHash": "c61e0f3f7f73ca8d5fedb98bf3e17a9e9010f93c2ad9b9d94dad9488445d7bb6"
+  },
+  "native.commands.skills.couldNotRead": {
+    "message": "{value1} konnte nicht gelesen werden: {error}",
+    "sourceHash": "06f07b5ef4fcc1c94ac00e99990f05722d2641141de73a225bbd98fd67b9cad2"
+  },
+  "native.commands.skills.couldNotReadAnEntryIn": {
+    "message": "Ein Eintrag in {value1} konnte nicht gelesen werden: {error}",
+    "sourceHash": "229f1059e0f99f94b5265452a2b39e98bf25b0bac4ea6583820303e1d2e5f4ec"
+  },
+  "native.commands.skills.invalidSkillId": {
+    "message": "Ungültige Skill-ID: {value}",
+    "sourceHash": "cd7fea62f7bbfe019b1e4550c90571e969c49245338884de213e1bc7b23b0389"
+  },
+  "native.commands.skills.targetWorkspacePathDoesNotExist": {
+    "message": "Pfad des Zielarbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "1af978e49db13d86d1685fd7de9d62d913e4216e4631c4c9e28cd04d90bee8ff"
+  },
+  "native.commands.skills.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "f8847bd32f847a10411146813726dc1d3dfe7d05e0c6460da2ad263d2bbd4488"
+  },
+  "native.commands.slash_commands.targetWorkspacePathDoesNotExist": {
+    "message": "Pfad des Zielarbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "edfd503a5a1483234c5b756931f3a31173d7374ef7d93d9da1dab737338a1158"
+  },
+  "native.commands.slash_commands.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "63522cafb0bc1de7aec69887cfcd4450e2bf90be8fcc5957df575c2e15bf2faa"
+  },
+  "native.commands.themes.aThemeNamedAlreadyExists": {
+    "message": "Ein Design namens „{value}“ existiert bereits",
+    "sourceHash": "72f2cf66fd6225e0c3f0e8ba0e6bb677c10808b7c8eb6604e68b252792d08e59"
+  },
+  "native.commands.themes.failedToCreateOctarineDirectory": {
+    "message": "Verzeichnis .octarine konnte nicht erstellt werden: {error}",
+    "sourceHash": "178462147e1ae652848fe689f550d9e82211114c89e259e13f711a1552361422"
+  },
+  "native.commands.themes.failedToParseThemesFile": {
+    "message": "Datei mit Designs konnte nicht analysiert werden: {error}",
+    "sourceHash": "95026b5ee3a9caf6beb75e5b72fb62db0bf3cb588664930ec904175bad9ca655"
+  },
+  "native.commands.themes.failedToReadThemesFile": {
+    "message": "Datei mit Designs konnte nicht gelesen werden: {error}",
+    "sourceHash": "5df9aba7fc251f9338e258146984a05785d7e6140cf6de4e6100abd3a569ee17"
+  },
+  "native.commands.themes.failedToSerializeThemes": {
+    "message": "Designs konnten nicht serialisiert werden: {error}",
+    "sourceHash": "c6fbd111b40bf6dbc8ddf9f084cd4ea12efbcc5110acf9a18d531a8670b83fb1"
+  },
+  "native.commands.themes.failedToWriteThemesFile": {
+    "message": "Datei mit Designs konnte nicht geschrieben werden: {error}",
+    "sourceHash": "c1df2f6306d5df314a3a0a4fff7614cdd49d1c4235f9f2a5a4f0b1dc802b66b5"
+  },
+  "native.commands.themes.invalidCharactersInColorValueForSemicolonsAndBracesAreNotAllowed": {
+    "message": "Ungültige Zeichen im Farbwert für {value1}: {value2}. Semikolons und geschweifte Klammern sind nicht erlaubt.",
+    "sourceHash": "cbab7692d491c3facee2a113f87848792ec90111a6ee0891fbb28d64a5e421f1"
+  },
+  "native.commands.themes.invalidColorValueForMustBeAHexColorRgbHslOrCSSVariable": {
+    "message": "Ungültiger Farbwert für {value1}: {value2}. Erlaubt sind eine Hex-Farbe (#), rgb(), hsl() oder eine CSS-Variable.",
+    "sourceHash": "1883571aceb5c54051b23b277c3ddf6e61e4eac03fb4501e73b17bdcf91bbe58"
+  },
+  "native.commands.themes.invalidVariableKeyAllThemeVariablesMustStartWithColor": {
+    "message": "Ungültiger Variablenschlüssel: {value}. Alle Design-Variablen müssen mit „--color-“ beginnen.",
+    "sourceHash": "87de42eb7ab45a4c0960bfc98991c47e6fefd63b4e7632be5462b6d51883e1d2"
+  },
+  "native.commands.themes.targetWorkspacePathDoesNotExist": {
+    "message": "Pfad des Zielarbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "fdd62168af7642c135ffd92774fee53abe106e026d7b31995a89159fb2fdc7a0"
+  },
+  "native.commands.themes.themeIDCannotBeEmpty": {
+    "message": "Design-ID darf nicht leer sein",
+    "sourceHash": "e7aaf9abb45b3f5a1f977887d5ede25f8507f092528c1937fc9a1c1ca7e9aacc"
+  },
+  "native.commands.themes.themeNameCannotBeEmpty": {
+    "message": "Designname darf nicht leer sein",
+    "sourceHash": "ec26707c78ecf40a62d4376f1d45bffa65a5f9eba5c32a4b510d47894ab869fd"
+  },
+  "native.commands.themes.themeNotFound": {
+    "message": "Design nicht gefunden",
+    "sourceHash": "6e75d895a8cde80dd85a42c82f76f481c020d16df2b680f97de1c3bf79a338d1"
+  },
+  "native.commands.themes.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "bd5e36898d00f362593b22cdc96ed3e1838d814b3a4483deee8010c11707e264"
+  },
+  "native.commands.url.urlMetadataResponseExceeded2MB": {
+    "message": "Die Antwort mit URL-Metadaten überschreitet 2 MB",
+    "sourceHash": "a686b96bd428ea06858cd28934e94ee9cd4b785f5482e658123f0da0c2808e1f"
+  },
+  "native.commands.views.failedToConvertViewToJSON": {
+    "message": "Ansicht konnte nicht in JSON umgewandelt werden: {error}",
+    "sourceHash": "b93fe58c8d6ae19f82a7c335df736999e5dae8008ecfc95d9a349bf40fef03a6"
+  },
+  "native.commands.views.failedToCreateOctarineDirectory": {
+    "message": "Verzeichnis .octarine konnte nicht erstellt werden: {error}",
+    "sourceHash": "c37c473fc6c801173041b9de67b66b94b5dd131ebfef92df64f4d28a1b85bcb1"
+  },
+  "native.commands.views.failedToParseUpdatedView": {
+    "message": "Aktualisierte Ansicht konnte nicht verarbeitet werden: {error}",
+    "sourceHash": "34446c25bf2808dd83dcc426d81940aba58157187a2f43c2c6325a9cd5410b4c"
+  },
+  "native.commands.views.failedToParseViewsFile": {
+    "message": "Ansichtsdatei konnte nicht verarbeitet werden: {error}",
+    "sourceHash": "d70b3fe48a2c10997e57f7a852544321d8a5f3f09e9c312202b142152225ca08"
+  },
+  "native.commands.views.failedToReadViewsFile": {
+    "message": "Ansichtsdatei konnte nicht gelesen werden: {error}",
+    "sourceHash": "55801a6e1590d23ac590879aa8f6bea3e4fe92c87acfa3cf6330020f2ee43d75"
+  },
+  "native.commands.views.failedToSerializeViews": {
+    "message": "Ansichten konnten nicht serialisiert werden: {error}",
+    "sourceHash": "1cf5f55a5bc8ab70f2d82669f4343661eeba3d7d2ed994b84b14c2cf8971b0ad"
+  },
+  "native.commands.views.failedToWriteViewsFile": {
+    "message": "Ansichtsdatei konnte nicht geschrieben werden: {error}",
+    "sourceHash": "61b8388fe38242ff73f414aef3e23cf1d80c1d1f7cd09fcef62f92336dd2cb22"
+  },
+  "native.commands.views.viewNotFound": {
+    "message": "Ansicht nicht gefunden",
+    "sourceHash": "e3cfdf75642d4cfe9b8ad257b468b4fce69503d10e771b8074c1f7c2e79f5132"
+  },
+  "native.commands.views.workspacePathDoesNotExist": {
+    "message": "Arbeitsbereichspfad existiert nicht: {value}",
+    "sourceHash": "e534a2a57e35558853d734b4f3bf3e8090b01d693c0e9a3333097d663cbbb124"
+  },
+  "native.commands.window.failedToClearWorkspaceMapping": {
+    "message": "Arbeitsbereichszuordnung konnte nicht zurückgesetzt werden: {error}",
+    "sourceHash": "dc414b0be47cc64a3d875053fd97ea87150a9deb91d2c225884bda1bd8696817"
+  },
+  "native.commands.window.failedToCreateNoteWindow": {
+    "message": "Notizfenster konnte nicht erstellt werden",
+    "sourceHash": "3971b8f73d82fd214bdfc0b0163b301b8014398bf00fa9355bd76a9aab465b1c"
+  },
+  "native.commands.window.failedToCreateQuickCaptureWindow": {
+    "message": "Schnellerfassungsfenster konnte nicht erstellt werden",
+    "sourceHash": "b28a43c0d514a69eb251767aaccce452e437c683e4d3d4bef75c11a965783995"
+  },
+  "native.commands.window.failedToCreateSettingsWindow": {
+    "message": "Einstellungsfenster konnte nicht erstellt werden",
+    "sourceHash": "8c8428e6324910e4c0f0fac2f63b53d6f541fa8b11994f33d39a0181d18868c2"
+  },
+  "native.commands.window.failedToCreateWindow": {
+    "message": "Fenster konnte nicht erstellt werden",
+    "sourceHash": "b0a4daa21fc062080de6d9ecca74709a0a7b9b654121498a08ad4f39285e0854"
+  },
+  "native.commands.window.failedToForwardDeepLink": {
+    "message": "Deep Link konnte nicht weitergeleitet werden: {error}",
+    "sourceHash": "c5eabcd7bc96418337ef8e454eab5969a05a5a701fd3c4eb9c722e48e95c0666"
+  },
+  "native.commands.window.failedToHideQuickCapture": {
+    "message": "Schnellerfassung konnte nicht ausgeblendet werden: {error}",
+    "sourceHash": "3eda0a2b45937559705f81d0de21557e46a457a97a9d31a46fa326accfdbab52"
+  },
+  "native.commands.window.failedToNavigateSettingsWindow": {
+    "message": "Navigation im Einstellungsfenster fehlgeschlagen: {error}",
+    "sourceHash": "3c4f2d5c5313bc8369545ea98ae6b4f87e3921dd1cb164dbe3f5dfbd94ead9dd"
+  },
+  "native.commands.window.failedToRegisterNoteWindowSatelliteMapping": {
+    "message": "Zuordnung des Notizfensters konnte nicht registriert werden: {error}",
+    "sourceHash": "a611fecc8285aa34ed63906aaee40af753aac9d80fe5383fc8b5c554859d5be8"
+  },
+  "native.commands.window.failedToRegisterQuickCaptureSatelliteMapping": {
+    "message": "Zuordnung der Schnellerfassung konnte nicht registriert werden: {error}",
+    "sourceHash": "eccbe07008a18ded6b5db8866866ddbd392f05bad72e39533451388ca271b45d"
+  },
+  "native.commands.window.failedToRegisterSatelliteMapping": {
+    "message": "Satellitenzuordnung konnte nicht registriert werden: {error}",
+    "sourceHash": "c0db955acbaf9abd07fdccabfef64e4051466f22cb2c4bef5a2fd428b1b63dca"
+  },
+  "native.commands.window.failedToRegisterSatelliteWorkspaceMapping": {
+    "message": "Arbeitsbereichszuordnung für Satellitenfenster konnte nicht registriert werden: {error}",
+    "sourceHash": "944a4f8dd69a9cb6bf4bfb70fd18c4455bff05cc2019daf4f27c94474b026552"
+  },
+  "native.commands.window.failedToRegisterSettingsWindowSatelliteMapping": {
+    "message": "Zuordnung des Einstellungsfensters konnte nicht registriert werden: {error}",
+    "sourceHash": "b0385926f128cd6ed2ce7c1cd5fe1f8305a7af93f73d60a833d1781876216510"
+  },
+  "native.commands.window.failedToRegisterWorkspaceMapping": {
+    "message": "Arbeitsbereichszuordnung konnte nicht registriert werden: {error}",
+    "sourceHash": "69801f2d2af68b31c3abafa3a47a0add310ea6cbc3acf18cfa7b89f196607b53"
+  },
+  "native.commands.window.failedToSetWindowTitle": {
+    "message": "Fenstertitel konnte nicht gesetzt werden: {error}",
+    "sourceHash": "adb3c71547e9331e7f8d0d64f77da5b72ee10ce0cd8c73fa18ba94901ca538fc"
+  },
+  "native.commands.window.missingWebviewToResolveQuickCaptureURL": {
+    "message": "Webview zum Auflösen der Schnellerfassungs-URL fehlt",
+    "sourceHash": "5e5db1d3e71a493ad8b77da40b9d6e1340719aa8ba8d0607b17dcd00a1513ee9"
+  },
+  "native.commands.window.noOctarineWindowAvailable": {
+    "message": "Kein Octarine-Fenster verfügbar",
+    "sourceHash": "34f710d43ab85c6782ecdbd7583792e701c93026ff7477abcf2cf225bc4dfee2"
+  },
+  "native.commands.window.octarine": {
+    "message": "Octarine",
+    "sourceHash": "ca075e401d87eadbfa7426fc4d0712ef81a7465bfb4ee147cb2c5a8d10824d91"
+  },
+  "native.commands.window.quickCapture": {
+    "message": "Schnellerfassung",
+    "sourceHash": "0c2c3a663beaa67fad0c7d0e7e89a7ed491a137a5036184a5aefe152259c9c59"
+  },
+  "native.commands.window.quickCaptureCurrentURL": {
+    "message": "Aktuelle URL der Schnellerfassung: {error}",
+    "sourceHash": "67b5021b49b06c4b3df9740952cc7fb8b85ce1230b73ef28698dece28df45259"
+  },
+  "native.commands.window.quickCaptureDismissDispatch": {
+    "message": "Verwerfen der Schnellerfassung fehlgeschlagen: {error}",
+    "sourceHash": "feb30a67ef87872f39b384970bcc19f698b2bdc962f9f7640887e51324820579"
+  },
+  "native.commands.window.quickCaptureNavigate": {
+    "message": "Navigation der Schnellerfassung fehlgeschlagen: {error}",
+    "sourceHash": "cc25175d5730d5c02046387d6c8b1e72a6b6a72b06927ac9188db70c21f5f7ac"
+  },
+  "native.commands.window.quickCaptureRequiresAnActiveWorkspace": {
+    "message": "Schnellerfassung erfordert einen aktiven Arbeitsbereich.",
+    "sourceHash": "71cb678f4ab9b3a1bef1028fac0ca029d7b8d46d131370a440fa7dffdbdee006"
+  },
+  "native.commands.window.quickCaptureURLBase": {
+    "message": "URL-Basis der Schnellerfassung: {error}",
+    "sourceHash": "47eafecec4a546f7fd14ac155f67a390b1e51fb9d3acae67e773c71881500a44"
+  },
+  "native.commands.window.settingsRouteDoesNotBelongToTheWorkspace": {
+    "message": "Einstellungsroute gehört nicht zum Arbeitsbereich",
+    "sourceHash": "920340a23cacee45c19d5109ca168ff8bd8159263199af32a025a3f2fe5ed802"
+  },
+  "native.core.app_store.invalidWorkspaceEntryIsMissing": {
+    "message": "ungültiger Arbeitsbereichseintrag {uuid}: {field} fehlt",
+    "sourceHash": "093bef4216cf550fe923187b81c5a87eef8307fb0212c51b305bfadf1ee584a4"
+  },
+  "native.core.app_store.octarineAppStoreIsMissingStoreWorkspace": {
+    "message": "Im Octarine-App-Store fehlt store.workspace",
+    "sourceHash": "5403641804ac4324784c0594c432dcd628d68e7a790e57f81605adc79546d506"
+  },
+  "native.core.app_store.octarineAppStoreNotFound": {
+    "message": "Octarine-App-Store nicht gefunden: {value}",
+    "sourceHash": "36ac019d388970171eb71d4a25eb8800d53b37f2192f28df4fc1f29c1bcfbcff"
+  },
+  "native.core.app_store.workspaceNameIsAmbiguousUseItsUUIDInstead": {
+    "message": "Arbeitsbereichsname ist nicht eindeutig; verwende stattdessen seine UUID: {value}",
+    "sourceHash": "f12a2e79dbb44a5f2df63986f9dc8be5ed06f044cb1af744a67006ec9eeaa6a5"
+  },
+  "native.core.app_store.workspaceNameOrUUIDNotFound": {
+    "message": "Arbeitsbereichsname oder UUID nicht gefunden: {value}",
+    "sourceHash": "31d7a45c5f129468867a3336873ccabe91cd9f0ce459f006153240a45951fc23"
+  },
+  "native.core.edit.hunkDoesNotMatchNearLine": {
+    "message": "Hunk {value1} passt nicht bei Zeile {value2}",
+    "sourceHash": "ffd045741d9469700a2f676dd779c55ea7bb633398caa1536e028c89b468a918"
+  },
+  "native.core.edit.lineIsPastTheEnd": {
+    "message": "Zeile {line} liegt hinter dem Ende",
+    "sourceHash": "5ab94eb3275207fa07b81aa73f11adbb2eaba49fae47f8deadfcec3038f94a7e"
+  },
+  "native.core.edit.lineNumbersStartAt1": {
+    "message": "Zeilennummern beginnen bei 1",
+    "sourceHash": "a312e9d97c208bd183daadd78247059c0bc37b0c0c449c4d600b3069e7e2211e"
+  },
+  "native.core.edit.malformedHunkHeader": {
+    "message": "fehlerhafter Hunk-Header: {line}",
+    "sourceHash": "b1ca36dfda14f4434d21f1705b6090236320b661cdea8154d0b3d199ce2827ea"
+  },
+  "native.core.edit.noHunksFound": {
+    "message": "keine Hunks gefunden",
+    "sourceHash": "fd704c3bae96146bb54bb1c3dce4f2adda8b52a7d4bb9d91600dacd1a5b66865"
+  },
+  "native.core.edit.searchText": {
+    "message": "Suchtext",
+    "sourceHash": "1dd5f88f37682315f526049f1798ead81dc90c62588fa383d6f9afaeffd9897c"
+  },
+  "native.core.edit.searchTextIsEmpty": {
+    "message": "Suchtext ist leer",
+    "sourceHash": "ee0c51e079f6b6b09c0c7a35a18f53d25073544ea284973933d6fc8b03edf70f"
+  },
+  "native.core.edit.section": {
+    "message": "Abschnitt {wanted}",
+    "sourceHash": "600300cab3e338f49fe7fc50c25ec5006159d1206039bdf699d6979b0ea2073d"
+  },
+  "native.core.edit.unexpectedLineInHunk": {
+    "message": "unerwartete Zeile im Hunk: {line}",
+    "sourceHash": "7c73a44e61b724749029fed18095de985da301a7cbdf21770c4be26ff35bc645"
+  },
+  "native.core.lib.ambiguousMatchOccurrencesPassAllOrIncludeMoreContext": {
+    "message": "mehrdeutige Übereinstimmung: {value} Vorkommen; verwende --all oder gib mehr Kontext an",
+    "sourceHash": "c8ae10e0aa16eebe0a7e511098a03d2db752f5454638cfd91dbb0ac28e875b7d"
+  },
+  "native.core.lib.destinationAlreadyExists": {
+    "message": "Ziel existiert bereits: {value}",
+    "sourceHash": "82b21735861f5063654a21fa11590f6b6f0c0d45f8d1f9610757aeff934d3ce8"
+  },
+  "native.core.lib.details": {
+    "message": "{name}: {e}",
+    "sourceHash": "e03a01ff69509ffd09523001090fcd1caadc6a44210d88e18f8a55b62903c412"
+  },
+  "native.core.lib.duplicateInboxNumberINB": {
+    "message": "doppelte Nummer im Eingang: INB-{number}",
+    "sourceHash": "670f4513b0a3368cd377ce27ae3d4c52d1d27d22e6fa270ac2366ac51fbc4aec"
+  },
+  "native.core.lib.failedToReadWorkspaceEntry": {
+    "message": "Arbeitsbereichseintrag konnte nicht gelesen werden",
+    "sourceHash": "a65b67db6c2fc5879b5c5f442fef3c66f2b59aa6d6dff36dea31e9be0c8ce747"
+  },
+  "native.core.lib.inboxStatus": {
+    "message": "Eingangsstatus",
+    "sourceHash": "27d2f03de8ac1a245008b14af9c63a47cc82c7248bcee188c984b6f8ba27e8ea"
+  },
+  "native.core.lib.invalidEdit": {
+    "message": "ungültige Bearbeitung: {value}",
+    "sourceHash": "cc7cacb1f6e6520d7bf650541f529fd1eb8e1131c5af4e8cbef7270b54b89ba2"
+  },
+  "native.core.lib.invalidPropertyValueFor": {
+    "message": "ungültiger Eigenschaftswert für {value}",
+    "sourceHash": "e1c63fdb9d453d0b021b97d1bb33e60a34d5c115caf2baeb655fc2ba88e0f325"
+  },
+  "native.core.lib.mustContainAJSONArray": {
+    "message": "{name} muss ein JSON-Array enthalten",
+    "sourceHash": "9997214e74c26ca82249a82f07b9ecc37756ac6bc023c177953df2bb11af89ad"
+  },
+  "native.core.lib.noteNotFound": {
+    "message": "Notiz nicht gefunden: {value}",
+    "sourceHash": "16e68459069d517f2a8b363be03ed60aab949ddbe9ba97415edaf9bb779e67ef"
+  },
+  "native.core.lib.patchDoesNotApply": {
+    "message": "Patch lässt sich nicht anwenden: {value}",
+    "sourceHash": "0d2ecf60dcad3dd97374b8d95aebcac3f3ea0bdf2350c4c4f1e3597b8d5e53c1"
+  },
+  "native.core.lib.pathEscapesWorkspace": {
+    "message": "Pfad liegt außerhalb des Arbeitsbereichs",
+    "sourceHash": "c8e1233ca855c219fa14f1b42b4cc23d3130cfbb74395f58ef321d37126cdee3"
+  },
+  "native.core.lib.protectedPathCannotBeTrashed": {
+    "message": "geschützter Pfad kann nicht in den Papierkorb verschoben werden",
+    "sourceHash": "f40bfef7f6bbf6fee7ba6708b211b2fc5c4713f649aea42583240bf639b453b0"
+  },
+  "native.core.lib.revisionConflictCurrentRevisionIs": {
+    "message": "Versionskonflikt: aktuelle Revision ist {value}",
+    "sourceHash": "ead38f921df9c8f0eeae36d7710293d1f83e8cd912b5773f7f5dba0307d27a2e"
+  },
+  "native.core.lib.schemaJson": {
+    "message": "schema.json: {e}",
+    "sourceHash": "12f60618e0b43ac58bb51655e95361365034bc2658156b7979f5712873bcb14f"
+  },
+  "native.core.lib.schemaJsonHasAnUnsupportedSchemaVersion": {
+    "message": "schema.json hat eine nicht unterstützte schemaVersion",
+    "sourceHash": "6a9a720d55ff29414b5de34b8e32a641f98f629d195c0c783a56cffb3fc7b4dc"
+  },
+  "native.core.lib.strandedTemporaryFileOctarine": {
+    "message": "verwaiste temporäre Datei: .octarine/{name}",
+    "sourceHash": "44c658e9073f040a5e6cd2f205258bd843ddaf518068664f5eb70caf17146de0"
+  },
+  "native.core.lib.task": {
+    "message": "Aufgabe {id}",
+    "sourceHash": "54ff7d870d0874149366015e302032f44b6f79293be7a8490392768c721bacfe"
+  },
+  "native.core.lib.workspace": {
+    "message": "Arbeitsbereich",
+    "sourceHash": "008a1988c7fe279b728f7536360d08bf68b7459f60e39364e6d42473c7968932"
+  },
+  "native.core.lib.workspaceDoesNotExist": {
+    "message": "Arbeitsbereich existiert nicht",
+    "sourceHash": "fa58e24d6d3e9340c7c4ab01c8a22f463a4dce2fafffa40ad63e683cd3d3386d"
+  },
+  "native.core.tasks.aBucketNamedAlreadyExists": {
+    "message": "eine Spalte mit dem Namen {name} existiert bereits",
+    "sourceHash": "4afcf9d64b480feef1cea074b275107cb9fe7839dede381e01963c54c29763fa"
+  },
+  "native.core.tasks.aLabelNamedAlreadyExists": {
+    "message": "ein Label mit dem Namen {name} existiert bereits",
+    "sourceHash": "27fcc24d2d4a5d22e14929183146114c7cea0ab6a9fc2fcd4ac07081aa2cf349"
+  },
+  "native.core.tasks.aProjectNeedsAtLeastOneCompletedStatus": {
+    "message": "ein Projekt braucht mindestens einen abgeschlossenen Status",
+    "sourceHash": "784806f8370b0dae33fc78cbd588e549f370219628deabeb0c24ace8abf61d14"
+  },
+  "native.core.tasks.aProjectNeedsAtLeastOneOpenStatus": {
+    "message": "ein Projekt braucht mindestens einen offenen Status",
+    "sourceHash": "12c9f9dda68bc731813a275c0db8d7b99b0e1d4e7435b65ae7332bee39593d7d"
+  },
+  "native.core.tasks.aSpaceHasNo": {
+    "message": "einem Bereich fehlt {key}",
+    "sourceHash": "026bc923db35d4b5897aec3dd02ad76eb7914a0c12b1b25a72c9400172871e52"
+  },
+  "native.core.tasks.aSpaceNamedAlreadyExists": {
+    "message": "ein Bereich mit dem Namen {name} existiert bereits",
+    "sourceHash": "d318f1eb922a0da52f7a32d4ef870da50e5ad60d7d88f76d2dfed59ed58401c8"
+  },
+  "native.core.tasks.aSpaceNamedAlreadyExistsRenameOneBeforeRestoring": {
+    "message": "ein Bereich mit dem Namen {value} existiert bereits; benenne einen vor dem Wiederherstellen um",
+    "sourceHash": "e55e265737e5cb4ebf2ce29ed1995133f468e7c3a7132fc413cc7257aa14160f"
+  },
+  "native.core.tasks.aStatusNamedAlreadyExists": {
+    "message": "ein Status mit dem Namen {name} existiert bereits",
+    "sourceHash": "fa044e14a09badc2c35d2bdbe028869913ec34c9a69d88eb2d39ad21294aebb3"
+  },
+  "native.core.tasks.aStatusSCategoryCannotChange": {
+    "message": "die Kategorie eines Status kann nicht geändert werden",
+    "sourceHash": "1187a62997c7f181c0f8695ca41683987d9e016ca49abb4e177b48e66da4cb7e"
+  },
+  "native.core.tasks.aSubtaskCannotHaveSubtasks": {
+    "message": "eine Unteraufgabe kann keine Unteraufgaben haben",
+    "sourceHash": "1361a3625accfa4669c970a117c2475d3a7eae8fa6707b3e393124e9c1be213a"
+  },
+  "native.core.tasks.aTaskCannotBeItsOwnParent": {
+    "message": "eine Aufgabe kann nicht ihre eigene übergeordnete Aufgabe sein",
+    "sourceHash": "6c3b570e9734c2f1a7f51da48eb48a467c0f9431ba07f5d9395197ccf36c6689"
+  },
+  "native.core.tasks.aTaskWithSubtasksCannotBecomeASubtask": {
+    "message": "eine Aufgabe mit Unteraufgaben kann keine Unteraufgabe werden",
+    "sourceHash": "f011be08164ab4c44d3e34d054ea197e1dafbd7fc6e44b20f65a308df61bbf7f"
+  },
+  "native.core.tasks.aTemplateNamedAlreadyExists": {
+    "message": "eine Vorlage mit dem Namen {name} existiert bereits",
+    "sourceHash": "eb156deb9837c6b91851919336b5e8b09495c0ff41a5864897e0a6b84c44e508"
+  },
+  "native.core.tasks.aTypeNamedAlreadyExists": {
+    "message": "ein Typ mit dem Namen {name} existiert bereits",
+    "sourceHash": "ce4d3c85fef6bf1377d3a1a81d23d4b2ddb066a8b2b31599bf5409e86be25505"
+  },
+  "native.core.tasks.archiveMove": {
+    "message": "Archivierung fehlgeschlagen: {e}",
+    "sourceHash": "959ffd73a95a5c20b65076d25a9effa526b1aa337fb6773866ec137a9cd5cccf"
+  },
+  "native.core.tasks.badFolder": {
+    "message": "ungültiger Ordner",
+    "sourceHash": "f03ff83446c818141833a303c12937b3d657008befccaa855f0f57257a4fbc60"
+  },
+  "native.core.tasks.bucketDoesNotExist": {
+    "message": "Spalte {id} existiert nicht",
+    "sourceHash": "74ad261b0016d14dfc019da602a38bae82136ddbe9e4a152c796774b07017c0c"
+  },
+  "native.core.tasks.bucketDoesNotExistWithDetails": {
+    "message": "Spalte {bucket} existiert nicht",
+    "sourceHash": "175d0e05fef9fd6cd7d9a675ecb78853007d7a04369b506f9a17e8ef10c57847"
+  },
+  "native.core.tasks.bucketMustBeABucketId": {
+    "message": "Spalte muss eine Spalten-ID sein",
+    "sourceHash": "5ee139f3cfa6ed7446de32061ccff1e915699f9980158a73a3dc7f547eda02fb"
+  },
+  "native.core.tasks.bucketNamesCannotContainCommasOrQuotes": {
+    "message": "Spaltennamen dürfen keine Kommas oder Anführungszeichen enthalten",
+    "sourceHash": "3e36afa5525433031443ac00fb328a71cfdf2057b37ed5b2253d659d8bb67d57"
+  },
+  "native.core.tasks.bucketsMustBeAListOfBucketIds": {
+    "message": "Spalten müssen eine Liste von Spalten-IDs sein",
+    "sourceHash": "36d1e3de10b7ca40e8b1c9ed5dab66124f07c00a23e1bd4815df253e6877474a"
+  },
+  "native.core.tasks.bucketsMustBeBucketIds": {
+    "message": "Spalten müssen Spalten-IDs sein",
+    "sourceHash": "56d142815d976fedc17c2a6a061079db1da69cfc8eb3a630a421aa03a824f6ed"
+  },
+  "native.core.tasks.cannotAddASubtaskToAnArchivedTask": {
+    "message": "einer archivierten Aufgabe kann keine Unteraufgabe hinzugefügt werden",
+    "sourceHash": "4804916b2d27c3e96e238e616b9086200f8b7ca5ae406408bfd63ef967408a31"
+  },
+  "native.core.tasks.cannotAssignATaskToAnArchivedProject": {
+    "message": "einem archivierten Projekt kann keine Aufgabe zugewiesen werden",
+    "sourceHash": "c65e50d5040f019f27a40858a0679d5e429d14ac614724845b33aba1887fe799"
+  },
+  "native.core.tasks.cannotDeleteA": {
+    "message": "{kind} kann nicht gelöscht werden",
+    "sourceHash": "107b440ce667afd3672719f630d53c0f6d9aeb2501e91848487e590fe86007b5"
+  },
+  "native.core.tasks.cannotMoveIntoAnArchivedSpace": {
+    "message": "in einen archivierten Bereich kann nicht verschoben werden",
+    "sourceHash": "b7303bbfe90739354fcc0fb0c9c8bd9b2f1ebf2c6432ef2b0286edea2b5801dc"
+  },
+  "native.core.tasks.clearOperationRecord": {
+    "message": "Operationsprotokoll konnte nicht geleert werden: {e}",
+    "sourceHash": "eb11a2a143057e4bc95310e3ad714c6f463e0cf6a5b5a1f1c8191d397719f6ec"
+  },
+  "native.core.tasks.commentBodyMustNotBeEmpty": {
+    "message": "Der Kommentartext darf nicht leer sein",
+    "sourceHash": "f13e59dcd50b4321995769a5df4556c961180d0006c717b3c22d9e923647d850"
+  },
+  "native.core.tasks.commentDoesNotExist": {
+    "message": "Kommentar existiert nicht",
+    "sourceHash": "3358001b0ac9bc14e22a87a2512a800fc82dd6db475b23f3c6082c49e9c81384"
+  },
+  "native.core.tasks.configYmlMustBeAnObject": {
+    "message": "config.yml muss ein Objekt sein",
+    "sourceHash": "5e036aef970912248d7385028b1986af44ac9675bd585a5a2e7496308f936612"
+  },
+  "native.core.tasks.corruptActivityPreserved": {
+    "message": "beschädigte Aktivität {value} (beibehalten): {e}",
+    "sourceHash": "97ac25b86f59c65920c1699830d415168fb6c91d49c97d30e18f0c2173bd42b8"
+  },
+  "native.core.tasks.corruptComment": {
+    "message": "beschädigter Kommentar",
+    "sourceHash": "cc690dceedb4e19099ce48a6b56d2f355da5119856dc6eeb23d0046b714d19fa"
+  },
+  "native.core.tasks.create": {
+    "message": "{value} konnte nicht erstellt werden: {e}",
+    "sourceHash": "f9dda3c1d47c53309dc31820e6f456c0609231d57de4321848a1274373b923a7"
+  },
+  "native.core.tasks.createTemporaryFile": {
+    "message": "temporäre Datei konnte nicht erstellt werden: {e}",
+    "sourceHash": "171bde51ae27868761b823451548f7c812d8c249ae8f4cd2e6d7a0bff47283be"
+  },
+  "native.core.tasks.cycleDurationMustBe71421Or28Days": {
+    "message": "Zyklusdauer muss 7, 14, 21 oder 28 Tage betragen",
+    "sourceHash": "18bb68e0c860fb9c34b4451712649d5563fb61891c4413899e0e86834a0cc948"
+  },
+  "native.core.tasks.cycleEndMustNotBeBeforeItsStart": {
+    "message": "Zyklusende darf nicht vor dem Zyklusbeginn liegen",
+    "sourceHash": "e5d0c36552225df61c61a803864fb8ffc8dec615aadefa0ae3f66b20efe207b3"
+  },
+  "native.core.tasks.cycleNameCannotBeEmpty": {
+    "message": "Zyklusname darf nicht leer sein",
+    "sourceHash": "9c95abe04d0953e6d76d11c02a3a765254dee958d2a11b8269e76519573d3e8a"
+  },
+  "native.core.tasks.cycleStartDayMustBeFrom0Through6": {
+    "message": "Starttag des Zyklus muss zwischen 0 und 6 liegen",
+    "sourceHash": "3be115722d81c07858d89e0a2bd1ce98b8c52866152304dc9dae0f7260a8f1a9"
+  },
+  "native.core.tasks.cycleStateMustBeUpcomingActiveOrEnded": {
+    "message": "Zyklusstatus muss kommend, aktiv oder beendet sein",
+    "sourceHash": "b77138c028c27f349f379bc0a4a70dceed75ef5a45993eb1c38f06249e7fce1e"
+  },
+  "native.core.tasks.delete": {
+    "message": "{value} konnte nicht gelöscht werden: {e}",
+    "sourceHash": "ac79625dc30d11942cd58d8cfb94a65b59e117bd6fce8f68c4a8e2e691711d83"
+  },
+  "native.core.tasks.detailsWithDetails": {
+    "message": "{value}: {e}",
+    "sourceHash": "fdcc35faf9b7c749b7927fa321ec9d3a504aed5e9612bb7760f5e91fae60c212"
+  },
+  "native.core.tasks.documentAlreadyExistsCreateOnlyWrite": {
+    "message": "Dokument existiert bereits (nur Erstellen)",
+    "sourceHash": "8d9afee410057dca25bebe4f800c31e9eb30531f211116ff8be07b0944926191"
+  },
+  "native.core.tasks.documentDoesNotExist": {
+    "message": "Dokument existiert nicht",
+    "sourceHash": "d5fd1133134a08af2044ce2fe96c8128959af21a55890b0722b4fd15a56e6a89"
+  },
+  "native.core.tasks.dueMustBeAnISODateStringOrNull": {
+    "message": "Fälligkeitsdatum muss ein ISO-Datum oder null sein",
+    "sourceHash": "70951551cce79a8b4f04127d618127e0a1d50fc38dd44f59dc7c4e35691fe274"
+  },
+  "native.core.tasks.dueMustBeYYYYMMDD": {
+    "message": "Fälligkeitsdatum muss das Format JJJJ-MM-TT haben",
+    "sourceHash": "648e18c494cffe872de4559c5fc4d2d2b41d5c081b4ecc9475bb6b35ddca6134"
+  },
+  "native.core.tasks.duplicateLiveAndArchived": {
+    "message": "{kind} {id} ist sowohl aktiv als auch archiviert vorhanden",
+    "sourceHash": "b559f1b4c77eb906f42de4549670d578bb73b5a4a18d9d308f79b57b0ba2f808"
+  },
+  "native.core.tasks.duplicateTaskIDFilesPreserved": {
+    "message": "doppelte Aufgaben-ID {value}; Dateien bleiben erhalten",
+    "sourceHash": "33d369dcee4864e5413bf01e9cb2951d389716b5928a888490fbfa45dcacc750"
+  },
+  "native.core.tasks.eventIdMissing": {
+    "message": "Ereignis-ID fehlt",
+    "sourceHash": "4bc71e722a2fc78e3fd67b8a564efbfe25d670eb73da146656363f086af3d870"
+  },
+  "native.core.tasks.fieldsPatchMustBeAJSONObject": {
+    "message": "Feld-Patch muss ein JSON-Objekt sein",
+    "sourceHash": "edc7b6ff7b147c3b1f08f3450ab5a7834f292f7f8bb1821aaff1c2effe0caf92"
+  },
+  "native.core.tasks.flushDirectory": {
+    "message": "Verzeichnis konnte nicht synchronisiert werden: {e}",
+    "sourceHash": "8ead020e0e75bf25889483e70d8fffb01d22f4afbf95c32346d05d9e37432930"
+  },
+  "native.core.tasks.flushTemporaryFile": {
+    "message": "temporäre Datei konnte nicht synchronisiert werden: {e}",
+    "sourceHash": "7a77adb5fdd34ee82a65e74875fa47dbd8bdc9b60c654c75d9599ad7a4893de9"
+  },
+  "native.core.tasks.frontmatterInIsNotAnObject": {
+    "message": "Frontmatter in {value} ist kein Objekt",
+    "sourceHash": "67d7cd448e3be2baa0ee8d9f70f9cfcf7586eee52ee22bdb9a355d3cbbd8a8a4"
+  },
+  "native.core.tasks.hasNoYAMLFrontmatter": {
+    "message": "{value} hat kein YAML-Frontmatter",
+    "sourceHash": "fc1f72dcf2eb6afcb7fbcb19c3d9a2d0992e3b4954df92991a53f048fa61128f"
+  },
+  "native.core.tasks.idMustBeA24CharacterLowercaseCUID2BeginningWithALetter": {
+    "message": "ID muss eine 24-stellige Kleinbuchstaben-CUID2 sein, die mit einem Buchstaben beginnt",
+    "sourceHash": "ec90b7e1854f3c3b1fb0fe08227992a1ef67776b2415beb1b4fc0617b8192250"
+  },
+  "native.core.tasks.inspect": {
+    "message": "{value} konnte nicht geprüft werden: {e}",
+    "sourceHash": "d2b1b52fbfc9a75290addf662b058a50664be5fa32107caf23e7f13b92a42fc3"
+  },
+  "native.core.tasks.invalidEventId": {
+    "message": "ungültige Ereignis-ID",
+    "sourceHash": "e7ec3ad457ddf3c649063cc26f0bf259ff52abc5d9dd9f532ace816f286393d1"
+  },
+  "native.core.tasks.invalidProjectState": {
+    "message": "ungültiger Projektstatus: {state}",
+    "sourceHash": "2ed132ce950e286f81f1ad319caaab1f8bb7b9611fa361c910d5ecff21954075"
+  },
+  "native.core.tasks.invalidProjectStatusUseOneOf": {
+    "message": "ungültiger Projektstatus: {value1}; verwende einen von {value2}",
+    "sourceHash": "08b51be5e85acf6bb752197a3d64d5407b20bfb2249fde63313cac7c262dcab2"
+  },
+  "native.core.tasks.invalidRecoveryRecordIdentityVersionPreserved": {
+    "message": "ungültige Identität/Version des Wiederherstellungsdatensatzes; beibehalten",
+    "sourceHash": "d12e941e0f4902f8452c6fac1e5c90be5450ecede7545a9a04e2754c17c8530c"
+  },
+  "native.core.tasks.invalidStatusCategory": {
+    "message": "ungültige Statuskategorie: {category}",
+    "sourceHash": "b06e848f9237293151f3d341d18ed03da78db45b6e460c2e643b0fd02bd99ac4"
+  },
+  "native.core.tasks.invalidTaskId": {
+    "message": "ungültige Aufgaben-ID",
+    "sourceHash": "2b0fda41e2becfbf045202b623b0023acf9a79bd48a081f9cbbbe1c20df3a5ab"
+  },
+  "native.core.tasks.invalidTaskState": {
+    "message": "ungültiger Aufgabenstatus: {state}",
+    "sourceHash": "483a2c28b7b9c05843e490036c714b53d4fe1878f196c3d959c089132414782d"
+  },
+  "native.core.tasks.invalidTaskStorageFilename": {
+    "message": "ungültiger Dateiname für Aufgabenspeicher: {value}",
+    "sourceHash": "361e11765da97920a8659f6074268fe567222518753bc0d8fe815f82c8b0851c"
+  },
+  "native.core.tasks.invalidWorkspace": {
+    "message": "ungültiger Arbeitsbereich: {e}",
+    "sourceHash": "4d6932c7f26c6e64e92269888811c6d4ec975c50ef7e52598be0a6788aaada2a"
+  },
+  "native.core.tasks.isNativeControlled": {
+    "message": "{controlled} wird nativ gesteuert",
+    "sourceHash": "b05c4a9083b02b4b75edb4893cfdb5a37e27eb23e3e15503c5af3d14d11ee72a"
+  },
+  "native.core.tasks.isNotABuiltInStatus": {
+    "message": "{status} ist kein integrierter Status",
+    "sourceHash": "4928258b8126a7e0d302e889a06a20ad0e977b59922e64c1d6887cad5729c4a2"
+  },
+  "native.core.tasks.isNotUTF8": {
+    "message": "{value} ist nicht UTF-8: {e}",
+    "sourceHash": "7e1067f017b35085faefd09703e343c51b56567fda5b9aee503452b14538c4d0"
+  },
+  "native.core.tasks.isRequiredAndMustBeAString": {
+    "message": "{key} ist erforderlich und muss eine Zeichenkette sein",
+    "sourceHash": "36bf73a74832b21c1a7578ed69f0c1851e78202383e02cc1abfd7cafb0fd7572"
+  },
+  "native.core.tasks.keyMustBe2To5LettersOrDigitsStartingWithALetter": {
+    "message": "Schlüssel muss aus 2 bis 5 Buchstaben oder Ziffern bestehen und mit einem Buchstaben beginnen",
+    "sourceHash": "b811925699b6c861d3992031904377cac5f45e841a9ca831243bc852b320fc98"
+  },
+  "native.core.tasks.keyMustBeAString": {
+    "message": "Schlüssel muss eine Zeichenkette sein",
+    "sourceHash": "f99d1a8027d4e59a857ad0771197d995f1709aecec8651a37c3b78f139a1522e"
+  },
+  "native.core.tasks.kindMustBeTaskProjectSpaceViewLabelStatusBucketTypeCycleOrTemplate": {
+    "message": "Art muss 'task', 'project', 'space', 'view', 'label', 'status', 'bucket', 'type', 'cycle' oder 'template' sein",
+    "sourceHash": "7f4b60637580e0cf204d902d98222db4562e96058669d6b416701ca685138a9b"
+  },
+  "native.core.tasks.labelNamesCannotContainCommasOrQuotes": {
+    "message": "Label-Namen dürfen keine Kommas oder Anführungszeichen enthalten",
+    "sourceHash": "51f6be295343b9a84d5e17139da85502a7fd9e38108d25deb6a8e74b4fde139d"
+  },
+  "native.core.tasks.labelsMustBeAListOfLabelNames": {
+    "message": "labels muss eine Liste von Label-Namen sein",
+    "sourceHash": "d60727ecce27b0e0ff9d815d813bb92e7657b94c54bf6dfb4cf2d7b1b95d73f6"
+  },
+  "native.core.tasks.malformedConfigYml": {
+    "message": "fehlerhafte config.yml: {e}",
+    "sourceHash": "d4edb6b94198b39e7b010811dd9d44662438324f22a836dabc621542cd9aa07e"
+  },
+  "native.core.tasks.malformedFrontmatterIn": {
+    "message": "fehlerhaftes Frontmatter in {value}: {e}",
+    "sourceHash": "deafa27035a3e18ecbd913bc3a25ff97e78d9762b2b414e74e27b41e8e75604f"
+  },
+  "native.core.tasks.malformedRecoveryRecord": {
+    "message": "fehlerhafter Wiederherstellungsdatensatz: {e}",
+    "sourceHash": "60e60db94cd609fba5a6af6687c8eacc17139e50708aba0d8fde27be727abdb1"
+  },
+  "native.core.tasks.mustBeADateInYYYYMMDDFormat": {
+    "message": "{field} muss ein Datum im Format JJJJ-MM-TT sein",
+    "sourceHash": "4d6a16e0f5d0cafcf006efcddad05fdeb0072738ad1442d9ac1c08b41826bf76"
+  },
+  "native.core.tasks.mustBeADateInYYYYMMDDFormatWithDetails": {
+    "message": "{key} muss ein Datum im Format JJJJ-MM-TT sein",
+    "sourceHash": "dee9643198fe4f9611f6f7b6e3e53b1d1cf96b7b6cb587b2ca6f23ce71888408"
+  },
+  "native.core.tasks.mustBeAListOfStrings": {
+    "message": "{key} muss eine Liste von Zeichenketten sein",
+    "sourceHash": "76bdaff62340a891c797d7c2f5ffe470cafc105803b24474ba654a8cde416240"
+  },
+  "native.core.tasks.mustBeAString": {
+    "message": "{key} muss eine Zeichenkette sein",
+    "sourceHash": "c1cac934d6f9b1f4f8ec0b72fbcaf6fc1ffd4d02e1e57533d84dc38182503f51"
+  },
+  "native.core.tasks.numberIsImmutable": {
+    "message": "Nummer ist unveränderlich",
+    "sourceHash": "3feca3a8210d1096eab4b99c55109cbc7491cd9a3d180b576df74502541c595c"
+  },
+  "native.core.tasks.numberMustBeAPositiveInteger": {
+    "message": "Nummer muss eine positive ganze Zahl sein",
+    "sourceHash": "27f069ea4a46f06d007525d494416658698ceec15ed443a26587115e3deb36f7"
+  },
+  "native.core.tasks.orderMustBeANumber": {
+    "message": "order muss eine Zahl sein",
+    "sourceHash": "36314d007a7a68cd1203303ae45ba0b69611a6be409a9cb31a18f1bd8e855542"
+  },
+  "native.core.tasks.parentIdMustBeATaskId": {
+    "message": "parent_id muss eine Aufgaben-ID sein",
+    "sourceHash": "384fec58b8a81c442b83cf2b46b336342a3ddd5c855364e27dd54bb0ab269402"
+  },
+  "native.core.tasks.parentTaskDoesNotExist": {
+    "message": "übergeordnete Aufgabe {parent_id} existiert nicht",
+    "sourceHash": "7a0a64b4e55dbe950ea03065edd3229db144ca4a1053fff5ff0bd3c0569fca4e"
+  },
+  "native.core.tasks.priorityMustBeAnIntegerFrom0Through4": {
+    "message": "Priorität muss eine ganze Zahl von 0 bis 4 sein",
+    "sourceHash": "c1c2ac1c2be21a25518adbff1c50cb78ddaa3c0867db5fd4971c93f2a4329ff5"
+  },
+  "native.core.tasks.projectDoesNotExist": {
+    "message": "Projekt {project} existiert nicht",
+    "sourceHash": "1862485604e6ff4e731cd9903f90bd431eb699002c435916349dcb0669cebfb7"
+  },
+  "native.core.tasks.projectMustBeAProjectId": {
+    "message": "Projekt muss eine Projekt-ID sein",
+    "sourceHash": "d2e4dc2bab5f8af5e4b67c0a6af1d6dbfc818f445fcf0fe63e4899552a496059"
+  },
+  "native.core.tasks.projectNumbersMustBeAnObject": {
+    "message": "project_numbers muss ein Objekt sein",
+    "sourceHash": "b43542cd78b72ba8664be688302a5c1ae7279cfc2e2ed0a2e4fc0f318368d0d1"
+  },
+  "native.core.tasks.queryIsRequiredAndMustBeAString": {
+    "message": "query ist erforderlich und muss eine Zeichenkette sein",
+    "sourceHash": "acbc4b65473a949b3a6f0114ca16bdd2f2e2d4afac835c5f25aff4fc6504f973"
+  },
+  "native.core.tasks.read": {
+    "message": "{value} lesen: {e}",
+    "sourceHash": "ae3f1ef510bb64059274ef601616da1faec776acf26856f5284979e724ab40cf"
+  },
+  "native.core.tasks.readActivity": {
+    "message": "Aktivität lesen: {e}",
+    "sourceHash": "24501e743ef3379ae12a9f5e5364f9f2b3215e23bb0e4ab9958d8b9c319d2e82"
+  },
+  "native.core.tasks.readConfigYml": {
+    "message": "config.yml lesen: {e}",
+    "sourceHash": "0d96d9979dce2be6cbc1e2d8001b2df335e9372e06f5679e3dccd86112901a57"
+  },
+  "native.core.tasks.recoverArchiveMove": {
+    "message": "Archivverschiebung wiederherstellen: {e}",
+    "sourceHash": "134d4ef3cc032fe153737320fa4bd477a27dd633af416641997076f0451d1e7e"
+  },
+  "native.core.tasks.recoveryConflictForFilesPreserved": {
+    "message": "Wiederherstellungskonflikt für {value1} {value2}; Dateien bleiben erhalten",
+    "sourceHash": "8ee06447d3e897d75b45daf545d4195a328a2647c78de0db8343db84b55cd150"
+  },
+  "native.core.tasks.recoveryRecordAfterDocumentFailedVerificationPreserved": {
+    "message": "Wiederherstellungseintrag nach fehlgeschlagener Dokumentprüfung; erhalten",
+    "sourceHash": "c997ecdce090e5d8723f596c09380aec594e86a063f21c5c90958fe5ab0a039d"
+  },
+  "native.core.tasks.replace": {
+    "message": "{value} ersetzen: {e}",
+    "sourceHash": "08ed55cb3179b20de3b370f4ca587dcab4a4ab110bf9d4434ddbf164396f6be4"
+  },
+  "native.core.tasks.resourcesMustBeAList": {
+    "message": "resources muss eine Liste sein",
+    "sourceHash": "ecbbc3e213e92eec9a6a2954464679b317a84436019bcecbcb21a41e4056a27e"
+  },
+  "native.core.tasks.serializeYAML": {
+    "message": "YAML serialisieren: {e}",
+    "sourceHash": "b80badf8ddaf2d73ab46698c2881fad71fe121daf4533477687757d4fc7c381b"
+  },
+  "native.core.tasks.spaceDoesNotExist": {
+    "message": "Bereich {space} existiert nicht",
+    "sourceHash": "20dc0c844efbb8d298f857d490729de4965cfe603e310ed5abc0e6b8a5bc7cd8"
+  },
+  "native.core.tasks.spaceMustBeASpaceId": {
+    "message": "space muss eine Bereichs-ID sein",
+    "sourceHash": "9f954330df858507f024a6786f6cfdd81690fd18c5c943372e8e1a89fcd7f4e8"
+  },
+  "native.core.tasks.spaceNamesCannotContainCommasOrQuotes": {
+    "message": "Bereichsnamen dürfen keine Kommas oder Anführungszeichen enthalten",
+    "sourceHash": "9e7de079cd51ecf0e75a5808b7c7c1181b73a9ed3508b01676c964e27dc7db45"
+  },
+  "native.core.tasks.staleRevision": {
+    "message": "veraltete Revision",
+    "sourceHash": "5e60760121090306fdd9e981c70880dc8443081a67de124691923359323e0fc8"
+  },
+  "native.core.tasks.statusDoesNotExist": {
+    "message": "Status {id} existiert nicht",
+    "sourceHash": "5ef7ad4ab260323b98ad22f647a7a696b973f766876150d45a3f9bc6745780ba"
+  },
+  "native.core.tasks.statusNamesCannotContainCommasOrQuotes": {
+    "message": "Statusnamen dürfen keine Kommas oder Anführungszeichen enthalten",
+    "sourceHash": "205558a09c644d28e880ff339a270de3cea7bbc22dab2745e0ce93a9f0c21ab2"
+  },
+  "native.core.tasks.statusesMustBeAListOfStatusIds": {
+    "message": "statuses muss eine Liste von Status-IDs sein",
+    "sourceHash": "b26187424a8ecbc1f0ec57292d1866af33135a6970d04d7877f2b204c7c60b39"
+  },
+  "native.core.tasks.statusesMustBeStatusIds": {
+    "message": "statuses müssen Status-IDs sein",
+    "sourceHash": "548481c2570dc3d24b704c8c8c13bc5df14deb572e0f542a875f27f7a12b526d"
+  },
+  "native.core.tasks.storageFileHasNoParent": {
+    "message": "Speicherdatei hat kein übergeordnetes Verzeichnis",
+    "sourceHash": "53e2249b608bbc90049d188567a2a580bff13c9eba9f5de14613c3b66c6505fa"
+  },
+  "native.core.tasks.storedFrontmatterIsNotAnObject": {
+    "message": "Gespeichertes Frontmatter ist kein Objekt",
+    "sourceHash": "af2960903148b05b2df2f67a465905f7a1be0b0b27e44e181c5166ea64613426"
+  },
+  "native.core.tasks.tagsMustBeAListOfLabelNames": {
+    "message": "tags muss eine Liste von Label-Namen sein",
+    "sourceHash": "a69e15af6f9d6d4f19a70706360723724083650ef1554e2bdadb8d157e811cbc"
+  },
+  "native.core.tasks.targetDateMustNotBeBeforeTheStartDate": {
+    "message": "Zieldatum darf nicht vor dem Startdatum liegen",
+    "sourceHash": "c31fddffe4c6ca39c5fb2fe248cf816f0c32da693e1160a4f551702ad53128db"
+  },
+  "native.core.tasks.taskChangedDuringNumberReconciliationRetryRequired": {
+    "message": "Aufgabe während des Nummernabgleichs geändert; erneuter Versuch nötig",
+    "sourceHash": "26a6f57f0236ad13018730f274402a0be9b4b8c7d33a50690035f321b04e1f20"
+  },
+  "native.core.tasks.taskDoesNotExist": {
+    "message": "Aufgabe existiert nicht",
+    "sourceHash": "9103d53025a0e43b991ac9b34737b7023235f6860259ff8c677893c5427f29c5"
+  },
+  "native.core.tasks.taskFieldsMustBeAnObject": {
+    "message": "Aufgabenfelder müssen ein Objekt sein",
+    "sourceHash": "98fcbdda7d1cbf928fa20285e8b940ca17174cb3ec9547c4aad7d3850042a24e"
+  },
+  "native.core.tasks.taskNumberHighWaterMarkExhausted": {
+    "message": "Höchste Aufgabennummer erschöpft",
+    "sourceHash": "4757e47ca870c94bdb430014073a53b54908f0b13691a723cf9249e0f2a5c1fe"
+  },
+  "native.core.tasks.taskRootHasNoOctarineParent": {
+    "message": "Aufgabenwurzel hat kein übergeordnetes .octarine-Verzeichnis",
+    "sourceHash": "eaa27b568b1624472c3e420071878a52f3066085a94d8bede5d9fe7605466e6c"
+  },
+  "native.core.tasks.tasksStorageLockPoisoned": {
+    "message": "Sperre des Aufgabenspeichers beschädigt",
+    "sourceHash": "5e174a7dbb482494a8cf61730814e7d3792bcc52042435bd76dc75244d5c954e"
+  },
+  "native.core.tasks.theKeyIsAlreadyUsed": {
+    "message": "Der Schlüssel {key} wird bereits verwendet",
+    "sourceHash": "2eab5c7065dd3b6e6e46d7be84433ad51a7e4bbfa23cd452b5f7e1b9bae66281"
+  },
+  "native.core.tasks.theKeyIsAlreadyUsedByAProject": {
+    "message": "Der Schlüssel {key} wird bereits von einem Projekt verwendet",
+    "sourceHash": "7ea84ba2a7a8cb9314f611705c7755b8e091ff55fbcd59e638dcff897f857110"
+  },
+  "native.core.tasks.typeDoesNotExist": {
+    "message": "Typ {kind} existiert nicht",
+    "sourceHash": "56f80ddeca539a9207f090579fb71c122b3d3e9ce2d3332fa88f5b6497673837"
+  },
+  "native.core.tasks.typeMustBeATypeId": {
+    "message": "type muss eine Typ-ID sein",
+    "sourceHash": "a5a2c0198419d0aa68e090a2a6e9bb55c861d9fa4c67bb52eaa1123298849171"
+  },
+  "native.core.tasks.typeNameCannotBeEmpty": {
+    "message": "Typname darf nicht leer sein",
+    "sourceHash": "279349b57e4f8829dc848cf73cd38f50b0ce1f8e4200f94f9ff69e10c3de78ec"
+  },
+  "native.core.tasks.typeNamesCannotContainCommasOrQuotes": {
+    "message": "Typnamen dürfen keine Kommas oder Anführungszeichen enthalten",
+    "sourceHash": "9c94d4e1f026a49e63f91553737c1ae39b0445b546f8b9869cf866df74b138e8"
+  },
+  "native.core.tasks.unsafeStorageFile": {
+    "message": "Unsichere Speicherdatei: {value}",
+    "sourceHash": "063e66fd5417427702e98d13dde8c65fc20841232db25f3144c25a9b4b187c8d"
+  },
+  "native.core.tasks.unsafeTaskStoragePath": {
+    "message": "Unsicherer Aufgabenspeicherpfad: {value}",
+    "sourceHash": "cd0077d8167075ec4f6bf6f0e82d4f28964788e11323cd27695dac4dee606f0f"
+  },
+  "native.core.tasks.unsupportedActivityPreserved": {
+    "message": "Nicht unterstützte Aktivität {value} (erhalten)",
+    "sourceHash": "7b7e68719510ec6b6d3328317f2f71fd83089beafbeea88f78bad9d74f81730b"
+  },
+  "native.core.tasks.workspaceIsNotADirectory": {
+    "message": "Arbeitsbereich ist kein Verzeichnis",
+    "sourceHash": "e3ae98fc4933aacaabaaf5e8457ecd1fcb58003a3cb16a585448b91d1f47bea6"
+  },
+  "native.integrations.mod.aCustomHeaderNameIsInvalid": {
+    "message": "Der Name des benutzerdefinierten Headers ist ungültig",
+    "sourceHash": "9d01e9fcd262986a677e2455a458a718cc44cb9627d6506ec1cf9e4f161b5c3a"
+  },
+  "native.integrations.mod.aCustomHeaderValueIsInvalid": {
+    "message": "Der Wert des benutzerdefinierten Headers ist ungültig",
+    "sourceHash": "59b39e51b60c424115a22dc4b937411386cf03dc170e2c09ed03ea74142c5ec2"
+  },
+  "native.integrations.mod.bearerTokenIsNotConfigured": {
+    "message": "Bearer-Token ist nicht konfiguriert",
+    "sourceHash": "08d145242ccc4b1abe3f6e9de3d7fbccce64a6475278b3f163ec126d9f25b7c9"
+  },
+  "native.integrations.mod.credentialStorageIsUnavailable": {
+    "message": "Speicher für Anmeldedaten ist nicht verfügbar",
+    "sourceHash": "e7aeb8a1046591c753c986150b3305ce24b8ca4c3e3c99d78abffa708dbd9c56"
+  },
+  "native.integrations.mod.integrationEndpointChangedReviewTheCallAgain": {
+    "message": "Integrationsendpunkt hat sich geändert. Prüfe den Aufruf erneut.",
+    "sourceHash": "2c7b507ea7c29fca8637031a527951e31eb9bf46687d8a10eecfb8ba9447d8ca"
+  },
+  "native.integrations.mod.integrationIsDisconnected": {
+    "message": "Integration ist getrennt",
+    "sourceHash": "bcedd4a3c906bed9f247fd77334b212a400fbc1bdad26ccff35f31381d4a3267"
+  },
+  "native.integrations.mod.integrationMetadataIsInvalid": {
+    "message": "Integrations-Metadaten sind ungültig",
+    "sourceHash": "ab151ad067dace9a0ec76f5cbcd0fbae68d3ba700d1208ff865bf0368dd22f8b"
+  },
+  "native.integrations.mod.integrationNameIsRequired": {
+    "message": "Integrationsname ist erforderlich",
+    "sourceHash": "80853dca91f53140ebd5427acf467668804d06e4e00b95aeab2452e019072a11"
+  },
+  "native.integrations.mod.integrationNotFound": {
+    "message": "Integration nicht gefunden",
+    "sourceHash": "1310278d1cea3b3bae04120f1306947bd9a5ba6879f51cc9c331fb1ba8b435f6"
+  },
+  "native.integrations.mod.integrationWasRemoved": {
+    "message": "Integration wurde entfernt",
+    "sourceHash": "407c7f1ee953d2fcca5e3aecf9f62689aba448acfba76b45cc87b44b6dc31d3b"
+  },
+  "native.integrations.mod.integrationWasRemovedAddANewConnection": {
+    "message": "Integration wurde entfernt. Füge eine neue Verbindung hinzu.",
+    "sourceHash": "1a09d57fa37fa005259c71c00f4b4e14e7045d5a6e4dd24b47bb35a4427eab82"
+  },
+  "native.integrations.mod.invalidHeaderName": {
+    "message": "Ungültiger Header-Name",
+    "sourceHash": "d66ae7dc7fb9d8c721941b96f121134ea8ff0d6042d0e0a4331b576836bbef6f"
+  },
+  "native.integrations.mod.invalidHeaderValue": {
+    "message": "Ungültiger Header-Wert",
+    "sourceHash": "0518883e9fb41da0262a45eea61d3289193b21234ace4461048aef14d523bf02"
+  },
+  "native.integrations.mod.invalidIntegrationId": {
+    "message": "Ungültige Integrations-ID",
+    "sourceHash": "c63be87180608633d279f756f825e4f6aae05e6544ea40a775a33799ac2a4593"
+  },
+  "native.integrations.mod.invalidMCPEndpointURL": {
+    "message": "Ungültige MCP-Endpunkt-URL",
+    "sourceHash": "9d0abfc9b4638a405115cd034487c5d8d02ecf6251f7b7b9fae9999d98a235c0"
+  },
+  "native.integrations.mod.invalidToolCatalog": {
+    "message": "Ungültiger Tool-Katalog",
+    "sourceHash": "8371b1f99a1a5dfc98f2a4a8dc28e314ab2cc442ae689133bcfba72d4068c30a"
+  },
+  "native.integrations.mod.mcpAsynchronousTasksAreNotSupported": {
+    "message": "Asynchrone MCP-Aufgaben werden nicht unterstützt",
+    "sourceHash": "6abcd6ff5547bdaf600bb4a7f5d7da940c0e48c64dba5ace5343448c33c958c0"
+  },
+  "native.integrations.mod.mcpConnectionTimedOut": {
+    "message": "Zeitüberschreitung bei der MCP-Verbindung",
+    "sourceHash": "9cfb1330cc62bacf4f5b0b7bf63867975efafdedd7efcd3533d5ad7670c0a6da"
+  },
+  "native.integrations.mod.mcpEndpointMustNotContainCredentialsQueryOrFragment": {
+    "message": "MCP-Endpunkt darf keine Anmeldedaten, Abfrage oder Fragment enthalten",
+    "sourceHash": "d8e1797854e04f469e294fc5b1af7177e16d0d7cf73070bd7d6ec004f5f2f87b"
+  },
+  "native.integrations.mod.mcpEndpointMustUseHTTPSLiteralLoopbackHTTPIsAllowed": {
+    "message": "MCP-Endpunkt muss HTTPS verwenden (nur wörtliches Loopback-HTTP ist erlaubt)",
+    "sourceHash": "e4828e525f2fc8520c914ef1d1f8dfce05ade7d2b4258a8b994230456ea8d6e9"
+  },
+  "native.integrations.mod.mcpResultExceedsThe128KiBLimit": {
+    "message": "MCP-Ergebnis überschreitet das Limit von 128 KiB",
+    "sourceHash": "ad94030a65c59caf0a59cc029428c54795e4dcf1203cde3402d0189ec2a9f731"
+  },
+  "native.integrations.mod.mcpResultIsInvalid": {
+    "message": "MCP-Ergebnis ist ungültig",
+    "sourceHash": "a0038c30c91e595eb5819a26c366782ca73099b0103e9c877207a9d23cd49f75"
+  },
+  "native.integrations.mod.mcpServerAdvertisesToolsTheLimitIs": {
+    "message": "Der MCP-Server meldet {value} Tools; das Limit liegt bei {MAX_CATALOG_TOOLS}",
+    "sourceHash": "69eaf8b94c1292ddbbb800a70e7df8207de4015243561c4598198401a8886b3b"
+  },
+  "native.integrations.mod.mcpToolCallCancelled": {
+    "message": "MCP-Tool-Aufruf abgebrochen",
+    "sourceHash": "e6bd65c98a17a451d8c6041c7b3f409414ea6867853deb80316df8b6edba00f6"
+  },
+  "native.integrations.mod.mcpToolCallFailed": {
+    "message": "MCP-Tool-Aufruf fehlgeschlagen",
+    "sourceHash": "2c87158048c9928f705b22f19354715933fa4cfa6380da0a522854b7b0724e39"
+  },
+  "native.integrations.mod.mcpToolCallTimedOut": {
+    "message": "Zeitüberschreitung beim MCP-Tool-Aufruf",
+    "sourceHash": "9a69b4cb4925a0f4ed8af420ab3861ed9551c57124d03c9b92029083e5448f95"
+  },
+  "native.integrations.mod.mcpToolCatalogIsKiBTheLimitIsKiB": {
+    "message": "Der MCP-Tool-Katalog umfasst {value1} KiB; das Limit liegt bei {value2} KiB",
+    "sourceHash": "239ba4f4b9716f0f61f80747ab31693eb731d47ecb8c508eed8febd19a0e98db"
+  },
+  "native.integrations.mod.mcpToolDiscoveryTimedOut": {
+    "message": "Zeitüberschreitung bei der MCP-Tool-Erkennung",
+    "sourceHash": "723926dd2e0e9d3cf05b5439801043344eb371aebc2a40e3994ad5805078266f"
+  },
+  "native.integrations.mod.mcpToolIsNotAdvertisedByThisServer": {
+    "message": "Dieses Tool wird vom MCP-Server nicht angeboten",
+    "sourceHash": "6c4fbf3f50884b8ed4647aa9c0f3dc27f6ad8927555ef1729fb9eb3d6550684e"
+  },
+  "native.integrations.mod.mcpToolRequestedInteractiveInput": {
+    "message": "MCP-Tool hat interaktive Eingabe angefordert",
+    "sourceHash": "5f100692375c14ab389d6b22a374aa9b59a21c4ba2096f04c247e8ff1b19174c"
+  },
+  "native.integrations.mod.protocolHeadersCannotBeOverriddenUseTheTokenFieldForAuthorization": {
+    "message": "Protokoll-Header können nicht überschrieben werden. Verwende das Token-Feld für Authorization.",
+    "sourceHash": "724ae97a9ea3a3b9c9abf0f5a84f43d621e78ad30834a1573edbee24d0209aca"
+  },
+  "native.integrations.mod.requestBelongsToAnotherWindow": {
+    "message": "Anfrage gehört zu einem anderen Fenster",
+    "sourceHash": "26545b08e7b270f6720bb7bf19cbec34ab44efd6fd9e6353f26f9e6a07b3635d"
+  },
+  "native.integrations.mod.requestidIsAlreadyActive": {
+    "message": "requestId ist bereits aktiv",
+    "sourceHash": "32275de47247834e12ec7eafa3969b527fac617fdb9ab9b4b5be184882cb29a9"
+  },
+  "native.integrations.mod.requestidIsRequired": {
+    "message": "requestId ist erforderlich",
+    "sourceHash": "66805caf49e8691abfcc4cac2bb54a4661483e757ace0034011e81ed81870f50"
+  },
+  "native.integrations.mod.storedCredentialsAreInvalid": {
+    "message": "Gespeicherte Anmeldedaten sind ungültig",
+    "sourceHash": "7528d533d63f070651cd3e449b46ae0fc1b2d746a404d875edf1fe66de04020f"
+  },
+  "native.integrations.mod.storedCredentialsBelongToADifferentEndpointReconnectThisIntegration": {
+    "message": "Gespeicherte Anmeldedaten gehören zu einem anderen Endpunkt. Verbinde diese Integration erneut.",
+    "sourceHash": "15f59d020913e796770efea37f6ea7335097f73845ea635e6fde9b43af02ca08"
+  },
+  "native.integrations.mod.unableToCommitIntegrationMetadata": {
+    "message": "Integrations-Metadaten können nicht übernommen werden",
+    "sourceHash": "cb2ad78cc07cc155c940e9f4fb8c64ce144c531f1d732a1dc7065a2bed4c6399"
+  },
+  "native.integrations.mod.unableToConnectToMCPServer": {
+    "message": "Verbindung zum MCP-Server nicht möglich",
+    "sourceHash": "0d70500e83e3c6aded918f26743c73c0e59ff980cf53dd164b85106bfac694a2"
+  },
+  "native.integrations.mod.unableToCreateMCPClient": {
+    "message": "MCP-Client kann nicht erstellt werden",
+    "sourceHash": "4fa4705e1563b2bd02ce04cbcd459929548b185a0e599c97dc3ca93d5f68dc7f"
+  },
+  "native.integrations.mod.unableToEncodeCredentials": {
+    "message": "Anmeldedaten können nicht kodiert werden",
+    "sourceHash": "517994423b65947379c57f154a216dacc72c66504cb13c4384814596be6ff7e1"
+  },
+  "native.integrations.mod.unableToEncodeIntegrationMetadata": {
+    "message": "Integrations-Metadaten können nicht kodiert werden",
+    "sourceHash": "ac886966786be432bb7562e3a888ceffd3bd6f4269ada45a06900b80b338aaa0"
+  },
+  "native.integrations.mod.unableToListMCPTools": {
+    "message": "MCP-Tools können nicht aufgelistet werden",
+    "sourceHash": "541e0f84821e84b2a21aca9aab358d747d54f99fc1bc11e50aff6776fd256f1c"
+  },
+  "native.integrations.mod.unableToPrepareIntegrationStorage": {
+    "message": "Integrationsspeicher kann nicht vorbereitet werden",
+    "sourceHash": "2c8286ec3737413407e779e8a6f591ef835feba19f5355ccec23ea990e049d14"
+  },
+  "native.integrations.mod.unableToReadIntegrationMetadata": {
+    "message": "Integrations-Metadaten können nicht gelesen werden",
+    "sourceHash": "b1a02fb17bf85e8046e2519176b8b4b5c8027fdc7bc1f9ad6901a9efcbaea27a"
+  },
+  "native.integrations.mod.unableToReadStoredCredentials": {
+    "message": "Gespeicherte Anmeldedaten können nicht gelesen werden",
+    "sourceHash": "8a044414076d228ac8aec887df47b16c10c56ecfcb40ffb1168e1c041e515ec3"
+  },
+  "native.integrations.mod.unableToRemoveStoredCredentials": {
+    "message": "Gespeicherte Anmeldedaten können nicht entfernt werden",
+    "sourceHash": "f8cf8581c6522f29902634a0b4d556dea44d9ad236248e23a6ddb584fc92bab1"
+  },
+  "native.integrations.mod.unableToResolveAppDataDirectory": {
+    "message": "App-Datenverzeichnis kann nicht ermittelt werden",
+    "sourceHash": "27dbc209db38567695ba1c834c3c9decf3bdb6bb1f7c8a06adda24daf1a25e97"
+  },
+  "native.integrations.mod.unableToStoreCredentials": {
+    "message": "Anmeldedaten können nicht gespeichert werden",
+    "sourceHash": "3eb06b9dec1f249c668c758a521a8fd04daa5f756ade8febbae5ad04c30ad6a0"
+  },
+  "native.integrations.mod.unableToVerifyMCPTool": {
+    "message": "MCP-Tool kann nicht überprüft werden",
+    "sourceHash": "eccc585552fbc052aa809d139dacbed0922a161391284f16d8b3a5f0c67d88c1"
+  },
+  "native.integrations.mod.unableToWriteIntegrationMetadata": {
+    "message": "Integrations-Metadaten können nicht geschrieben werden",
+    "sourceHash": "d2a3bd5822293f1efcaa5cc2c63604ab600ba5188e44dbbf56ab48bc91a5a1ad"
+  },
+  "native.integrations.mod.unsupportedMCPToolResponse": {
+    "message": "Nicht unterstützte MCP-Tool-Antwort",
+    "sourceHash": "e4f675738fdd8aa81f845308e10f779f37d9b91c7429e98806777e5c9408ede1"
+  },
+  "native.integrations.mod.useTheTokenFieldForAuthorization": {
+    "message": "Verwende das Token-Feld für Authorization",
+    "sourceHash": "122d876bd4a2265b9476da507f1c5649a92f086cc63fb442096f9b7bba6be7a2"
+  },
+  "native.integrations.oauth.connectedToOctarineYouCanCloseThisTab": {
+    "message": "Mit Octarine verbunden. Du kannst diesen Tab schließen.",
+    "sourceHash": "20074cff094e532c7958a8be7a3be4aea2ffaf59bbbccd87e0fbe70d0ea5c345"
+  },
+  "native.integrations.oauth.incompleteCallback": {
+    "message": "Unvollständiger Rückruf",
+    "sourceHash": "b0ae03c4367fe59e54d978c8ebb8f85fe14e1c76a1b3c4ee4bb71c2e358161e2"
+  },
+  "native.integrations.oauth.invalidAuthorizationURL": {
+    "message": "Ungültige Autorisierungs-URL",
+    "sourceHash": "f0b326ba8daeb8edbf3d2d073c46dbeffa94dcadb1d71f5967bb5b0c33c6fc9c"
+  },
+  "native.integrations.oauth.invalidOAuthEndpoint": {
+    "message": "Ungültiger OAuth-Endpunkt",
+    "sourceHash": "9ca9b8eac3c4c0361d20d16cab3ac8d9ea1582d2a61fd9a4e9bee34dc7f8dd2c"
+  },
+  "native.integrations.oauth.oauthAuthorizationMustUseHTTPS": {
+    "message": "OAuth-Autorisierung muss HTTPS verwenden",
+    "sourceHash": "f7e6fc0de698baa787985b38f9cfee22efd6184e3f23cf3f5321946fe956a0eb"
+  },
+  "native.integrations.oauth.oauthDiscoveryOrRegistrationFailedThisServerMustSupportDynamicClientRegistration": {
+    "message": "OAuth-Erkennung oder -Registrierung fehlgeschlagen. Dieser Server muss dynamische Client-Registrierung unterstützen.",
+    "sourceHash": "0263c5bf9af820177c835b7fd4c30a4d5c03a557af5db82bc5def9e7b1cf0c2f"
+  },
+  "native.integrations.oauth.oauthSessionCouldNotBeRestoredReconnectInIntegrations": {
+    "message": "OAuth-Sitzung konnte nicht wiederhergestellt werden. Verbinde dich in den Integrationen erneut.",
+    "sourceHash": "732865d7d1073acaf6db525c1699b18748ffc0a7d4f08665203484e4eaa8ee56"
+  },
+  "native.integrations.oauth.oauthSessionExpiredOrWasRevokedReconnectInIntegrations": {
+    "message": "OAuth-Sitzung ist abgelaufen oder wurde widerrufen. Verbinde dich in den Integrationen erneut.",
+    "sourceHash": "8a35a3445d9a7cb66b65cc41d6c207c0de4a7b13296ebbe76854652c2d975d5a"
+  },
+  "native.integrations.oauth.signInCallbackFailed": {
+    "message": "Anmelde-Rückruf fehlgeschlagen",
+    "sourceHash": "8f9fd417df546884c9a4baa38e10e455ec2ae6d2cf71127b23115326f1f9db6b"
+  },
+  "native.integrations.oauth.signInTimedOutClickConnectToTryAgain": {
+    "message": "Anmeldung abgelaufen. Klicke auf „Verbinden“, um es erneut zu versuchen.",
+    "sourceHash": "3c6df94c8eddb27d2e787de3d2b47b6ff4f426f8e1210403fca26d4d2e45c507"
+  },
+  "native.integrations.oauth.signInUsingConnectInIntegrations": {
+    "message": "Melde dich über „Verbinden“ in den Integrationen an.",
+    "sourceHash": "be13375c6d23c06df09513a832634f02cefbf9fa6233e5ba8ea82ef22a3c70a8"
+  },
+  "native.integrations.oauth.signInWasNotAcceptedReturnToOctarineToRetry": {
+    "message": "Anmeldung wurde nicht bestätigt. Kehre zu Octarine zurück, um es erneut zu versuchen.",
+    "sourceHash": "2fe3d13294f6f8a02192294020949d80dd5e0ab358112b72e4bbf83fa85aaf42"
+  },
+  "native.integrations.oauth.unableToAccessSecureOAuthCredentials": {
+    "message": "Sichere OAuth-Anmeldedaten können nicht abgerufen werden",
+    "sourceHash": "ce85692e0bc0dd7494f4fff58c10b2ae67756cfa9e9c5d00e5a02ff676746e48"
+  },
+  "native.integrations.oauth.unableToConfigureOAuth": {
+    "message": "OAuth kann nicht konfiguriert werden",
+    "sourceHash": "f8b294a363919c8c089e1e67a68d068ddf17cf943d98df9965a56f0ec407f97c"
+  },
+  "native.integrations.oauth.unableToCreateOAuthClient": {
+    "message": "OAuth-Client kann nicht erstellt werden",
+    "sourceHash": "58f2cf90cfdd6602fa3213256022fa1ec65a202eafa545c4d4ffd719447b42fe"
+  },
+  "native.integrations.oauth.unableToInitializeOAuth": {
+    "message": "OAuth kann nicht initialisiert werden",
+    "sourceHash": "608c4c729772837a3339f11af3d0ac91e0f73c7586d5eb8d0b1514bb54aedfd0"
+  },
+  "native.integrations.oauth.unableToOpenTheSignInCallbackListener": {
+    "message": "Listener für den Anmelde-Rückruf kann nicht geöffnet werden",
+    "sourceHash": "9fbd19db950aacab2491d4dd7e724ba6c02dcc4a314d8f9af580d8ceeaa84e32"
+  },
+  "native.integrations.oauth.unableToOpenYourBrowser": {
+    "message": "Browser kann nicht geöffnet werden",
+    "sourceHash": "7e2fd278fed4158633772bef99493e44ff4ca6dbd26ee363936a788e2621de1a"
+  },
+  "native.integrations.oauth.unableToReadCallbackAddress": {
+    "message": "Rückruf-Adresse kann nicht gelesen werden",
+    "sourceHash": "c78d3e3886dbb1eaf9b6e659c6b79e93190fd4b3fe76dafb4d274acca6297016"
+  },
+  "native.integrations.oauth.unableToStartBrowserSignIn": {
+    "message": "Browser-Anmeldung kann nicht gestartet werden",
+    "sourceHash": "783e92dce3b0094d16a96a97d7ee94b5266c8149cf0a9fb34bded04d614aef70"
+  },
+  "native.licensing.team.failedToCreateAppDataDir": {
+    "message": "App-Datenverzeichnis konnte nicht erstellt werden: {e}",
+    "sourceHash": "9e8eb7f8a5143c2f36c220b96112ff402fc6bb31d1a4f5c6f6c0bf4771b53b4d"
+  },
+  "native.licensing.team.failedToDeleteTeamCredential": {
+    "message": "Team-Anmeldedaten konnten nicht gelöscht werden: {e}",
+    "sourceHash": "fd49fd7924635a483a7b8cc0774206a5b567b0eb8a26f0c876887bd7fcb41fd7"
+  },
+  "native.licensing.team.failedToGetAppDataDir": {
+    "message": "App-Datenverzeichnis konnte nicht abgerufen werden: {e}",
+    "sourceHash": "4922c4d89aa6d7ee676022b7e2e93595cec9170544f20fd9aef4410818b81ee8"
+  },
+  "native.licensing.team.failedToPersistInstallationId": {
+    "message": "Installations-ID konnte nicht gespeichert werden: {e}",
+    "sourceHash": "e98e53763ba3495f565c07a07e8f71ef8417e74b898386e13709e6f8cafd26ee"
+  },
+  "native.licensing.team.failedToReadInstallationId": {
+    "message": "Installations-ID konnte nicht gelesen werden: {e}",
+    "sourceHash": "c9db799dce31317acf4d14eca87511c5dbd71e64dd8b1c76b29578a8598908b1"
+  },
+  "native.licensing.team.failedToReadTeamCredential": {
+    "message": "Team-Anmeldedaten konnten nicht gelesen werden: {e}",
+    "sourceHash": "e74077c068a0bab8cd534e0b1330b0bd25270f724b6a1218bd58b46448bdd04a"
+  },
+  "native.licensing.team.failedToStoreTeamCredential": {
+    "message": "Team-Anmeldedaten konnten nicht gespeichert werden: {e}",
+    "sourceHash": "30db964495ad7e82e133fe5d4fa8fb5492753782fd0cf487021ba51f40eeeb78"
+  },
+  "native.licensing.team.teamDeviceCredentialCannotBeEmpty": {
+    "message": "Team-Geräteanmeldedaten dürfen nicht leer sein",
+    "sourceHash": "7009060ac52da42af1bdc67a1b0cb28de379d3d3472ac2a3b9a06406b6270c0f"
+  },
+  "native.licensing.trial.debugCommandsAreNotAvailableInReleaseBuilds": {
+    "message": "Debug-Befehle sind in Release-Builds nicht verfügbar",
+    "sourceHash": "b03284d1713de312e485f85d25507e18b1cf7103ff45e6ca12d2f22ba429f426"
+  },
+  "native.licensing.trial.failedToCreateAppDataDir": {
+    "message": "App-Datenverzeichnis konnte nicht erstellt werden: {e}",
+    "sourceHash": "9777bbe245ec06786ec1fb00f44e3d026c6c4e79a0dd6dbb5a4a2ffd81c5c7b5"
+  },
+  "native.licensing.trial.failedToGetAppDataDir": {
+    "message": "App-Datenverzeichnis konnte nicht abgerufen werden: {e}",
+    "sourceHash": "f1f4dff7aa227f574d6c482e22c9ec4be5d56befe9977c8ee4f11900873fe929"
+  },
+  "native.licensing.trial.failedToInitHMAC": {
+    "message": "HMAC konnte nicht initialisiert werden: {e}",
+    "sourceHash": "18ac896d3c53278299a0504adeb0f1ef1b2d87db36e307489ca375f4c72c45af"
+  },
+  "native.licensing.trial.failedToParseMarkerFile": {
+    "message": "Markierungsdatei konnte nicht verarbeitet werden: {e}",
+    "sourceHash": "10940faccbbb0192211c529dafb819758324c0d709778db2cf433f68e0bbcbb7"
+  },
+  "native.licensing.trial.failedToReadMarkerFile": {
+    "message": "Markierungsdatei konnte nicht gelesen werden: {e}",
+    "sourceHash": "778d1ae09ea6ca0c2fd9d3b61b15a0bd6657f873c45136e91d9620c6fad58526"
+  },
+  "native.licensing.trial.failedToReadTrialFile": {
+    "message": "Testdatei konnte nicht gelesen werden: {e}",
+    "sourceHash": "ee180a4e7ec4a3fa963fcc9d759e7021536985b5bf526fdb22e1dec1b1a1bfec"
+  },
+  "native.licensing.trial.failedToSerializeMarkerPayload": {
+    "message": "Nutzlast der Markierung konnte nicht serialisiert werden: {e}",
+    "sourceHash": "cd982ac286259ce74461dad19b86d40edcc2d7bc71e30905c8eec343b1148616"
+  },
+  "native.licensing.trial.failedToSerializeMarkerRecord": {
+    "message": "Markierungsdatensatz konnte nicht serialisiert werden: {e}",
+    "sourceHash": "eb08d4910e153aaae3da8e081a54c11f917a22f5a5ce509fc34f5a9e24df8be3"
+  },
+  "native.licensing.trial.failedToSerializePayload": {
+    "message": "Nutzlast konnte nicht serialisiert werden: {e}",
+    "sourceHash": "8c9ed1bbdbf30a899ad585251879fbc459106e0256efb6660aaf13253dc1ec35"
+  },
+  "native.licensing.trial.failedToSerializeTrialRecord": {
+    "message": "Testdatensatz konnte nicht serialisiert werden: {e}",
+    "sourceHash": "b596503662e150a6d1e4fc4855c7fda819e20e111aa2e5c2aac6b732b08365fe"
+  },
+  "native.licensing.trial.failedToWriteMarkerFile": {
+    "message": "Markierungsdatei konnte nicht geschrieben werden: {e}",
+    "sourceHash": "345663d1111dcee8845352d668bf49ce7a08baae0c7577f1b8926bc4c86359ed"
+  },
+  "native.licensing.trial.failedToWriteTrialFile": {
+    "message": "Testdatei konnte nicht geschrieben werden: {e}",
+    "sourceHash": "4638834209633950eddc604e9a4b4272bd1f8c710c2634b14629de558a407cf1"
+  },
+  "native.markdown.notes.cannotCopyDirectoryIntoNestedWorkspace": {
+    "message": "Verzeichnis „{value1}“ kann nicht in den verschachtelten Arbeitsbereich „{value2}“ kopiert werden",
+    "sourceHash": "97402c8e50602e212e9c27b99e76150dee1f5b03c049f695e319cb4fee024c09"
+  },
+  "native.markdown.notes.clipboardImageContainedInvalidRGBAData": {
+    "message": "Das Zwischenablagen-Bild enthielt ungültige RGBA-Daten",
+    "sourceHash": "c697b8e48a6f9ab32ba59811e7fc5d30821bb49b81e1cc8eac1a0a23b0c58bf5"
+  },
+  "native.markdown.notes.clipboardImageTaskFailed": {
+    "message": "Aufgabe für das Zwischenablagen-Bild fehlgeschlagen: {error}",
+    "sourceHash": "4264beea2d0967214dbe4ccad6ea3fe0f545b0cca287a006c57c516786a64c83"
+  },
+  "native.markdown.notes.failedToEncodeClipboardImage": {
+    "message": "Zwischenablagen-Bild konnte nicht kodiert werden: {error}",
+    "sourceHash": "8edac2cffeb0020b7eaef2bda5cc8f00e01420754c7cf0c918e716699e288227"
+  },
+  "native.markdown.notes.failedToStoreClipboardImage": {
+    "message": "Zwischenablagen-Bild konnte nicht gespeichert werden: {error}",
+    "sourceHash": "d3b6fa6d7edd19719385487b2d31aa06eed6080f065b0887634844b8d2eec1a5"
+  },
+  "native.markdown.notes.folderAlreadyExists": {
+    "message": "Ordner existiert bereits",
+    "sourceHash": "2f201774c32ce1a177b8689d96c6f4d4cc710b3599792561974bc8a904dd8392"
+  },
+  "native.markdown.notes.folderDoesNotExist": {
+    "message": "Ordner existiert nicht: {value}",
+    "sourceHash": "bf3238089643ad70c7312ede1abf6c6d6bb0184eca82f7eeefc6dba591ad6202"
+  },
+  "native.markdown.notes.folderPathMustStayWithinTheWorkspace": {
+    "message": "Ordnerpfad muss innerhalb des Arbeitsbereichs bleiben",
+    "sourceHash": "b85eb3dd9e723186396e2ecb398f9236ccb86891ea9748b1f55b7fc0238e4554"
+  },
+  "native.markdown.notes.parentDirectoryIsOutsideTheWorkspace": {
+    "message": "Übergeordnetes Verzeichnis liegt außerhalb des Arbeitsbereichs",
+    "sourceHash": "65170c04aec5b849c755b69ccb4f88e77d9eb367dd0ce8092c484f33743c1bf6"
+  },
+  "native.markdown.notes.pathHasNoExistingWorkspaceAncestor": {
+    "message": "Pfad hat keinen vorhandenen Vorfahren im Arbeitsbereich",
+    "sourceHash": "21505b65fe03e05f475fbcdb037c7b9129623308f42050afd4d95162b648cf62"
+  },
+  "native.markdown.notes.pathMustStayWithinTheWorkspace": {
+    "message": "Pfad muss innerhalb des Arbeitsbereichs bleiben",
+    "sourceHash": "494292f1380fce9d442c6547668e06ecc6caf1c5cf212df162a3575a026eb3ed"
+  },
+  "native.markdown.notes.pathResolvesOutsideTheWorkspace": {
+    "message": "Pfad führt außerhalb des Arbeitsbereichs",
+    "sourceHash": "6bfeee714289678d9e892aff8a9c5cead34b0ed46679ab9eb85fc030c738dffa"
+  },
+  "native.markdown.notes.sourcePathDoesNotExist": {
+    "message": "Quellpfad existiert nicht: {value}",
+    "sourceHash": "4ad53c359b40f8094323af00931500a201512acccbbf48991615fbb7cb0644c3"
+  },
+  "native.markdown.notes.sourcePathHasNoFileName": {
+    "message": "Quellpfad hat keinen Dateinamen",
+    "sourceHash": "8a0e0d089b4228a5218415825d09f1364102fc0778126a5c688d41a8f2c3fa43"
+  },
+  "native.markdown.notes.targetWorkspacePathDoesNotExist": {
+    "message": "Zielpfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "51d2f3d3e0c94efe28ea5e9ea54a02f183f0e6b072cf5eef5293146a52fb301a"
+  },
+  "native.markdown.notes.theFolderIsNoLongerEmpty": {
+    "message": "Der Ordner ist nicht mehr leer",
+    "sourceHash": "58df8db82d8f76d2fc7a26074ac10c30decb78fab36d130e4dec9349dc48b871"
+  },
+  "native.markdown.notes.theNoteChangedBeforeTheOperationCouldBeApplied": {
+    "message": "Die Notiz wurde geändert, bevor der Vorgang angewendet werden konnte",
+    "sourceHash": "a80410a9808015162b9014508b93713945337430ff6963ffe38db9ce05777f62"
+  },
+  "native.markdown.references.convertTaskJoin": {
+    "message": "Aufgaben-Join konvertieren: {error}",
+    "sourceHash": "77f86264f211b0711985813c17ec4c9e6a6bc19616a93383e5487995b975567b"
+  },
+  "native.markdown.references.fetchReferencesTaskJoinError": {
+    "message": "Fehler beim Task-Join von fetch_references: {error}",
+    "sourceHash": "2d993455cd45fd3e4206f02772cff23ea3905fbe9ea4f4e55011a424d24fd941"
+  },
+  "native.markdown.references.readFailed": {
+    "message": "Lesen fehlgeschlagen: {error}",
+    "sourceHash": "516053c6767fbfb45153fcb50df7750c4e0234cc5fcb0281a0dc48a542ce26c5"
+  },
+  "native.markdown.references.rename": {
+    "message": "Umbenennen: {error}",
+    "sourceHash": "4b7ed80bc9566f493fe742f8049d97a556048a05c143b28482e0a631166d664b"
+  },
+  "native.markdown.references.sourceHasNoParent": {
+    "message": "Quelle hat kein übergeordnetes Verzeichnis",
+    "sourceHash": "fc3a64c96011d9e781a8ef215ae181789ad332e0321badba676566d0f85d90e9"
+  },
+  "native.markdown.references.tmpWrite": {
+    "message": "Schreiben der tmp-Datei: {error}",
+    "sourceHash": "cfe5f27aea2a53ade1f13cccb35f432822552779f93f170aafdee384e62c76a3"
+  },
+  "native.markdown.search.invalidRegexPattern": {
+    "message": "Ungültiges Regex-Muster: {error}",
+    "sourceHash": "581c7b8dfda4a0f049d872496a8796d9484dbffa62e02683bfaa0668e07bd97c"
+  },
+  "native.markdown.search.invalidSearchTerm": {
+    "message": "Ungültiger Suchbegriff: {error}",
+    "sourceHash": "150b365b8c1b9dd10b73517a539f2f3280757d09192349b40a1d88c7251b765f"
+  },
+  "native.markdown.search.invalidSearchTerms": {
+    "message": "Ungültige Suchbegriffe: {error}",
+    "sourceHash": "b7c50a0591abcd9e5133d9643e570f3451620fc17238ac3258267e9f0304a101"
+  },
+  "native.markdown.search.searchPanicked": {
+    "message": "Suche ist abgestürzt: {error}",
+    "sourceHash": "2f44605dbfea7afabb96ec5b3d21293f5c5875139370b46b8d921192af844797"
+  },
+  "native.platform.mail.failedToOpenEmailClient": {
+    "message": "E-Mail-Programm konnte nicht geöffnet werden: {error}",
+    "sourceHash": "4d1906fb53ca83f879172d90ee21086987a21ec7415242578dacafea0339579b"
+  },
+  "native.sqlite.chat_history.chatHistoryOperationFailed": {
+    "message": "Vorgang im Chatverlauf fehlgeschlagen",
+    "sourceHash": "d84f5dde9f2dfe6f36bcba1f2b6916d0e5efda529c11f928f05059758c129b39"
+  },
+  "native.sqlite.connection.unsupportedDatabaseMode": {
+    "message": "Nicht unterstützter Datenbankmodus: {mode}",
+    "sourceHash": "fbabcbe39598b1a596ddf4043058b8fbab25c2550c804894be3b7a88c7a20f09"
+  },
+  "native.sqlite.embeddings.commands.failedToAcquireLockOnEmbeddingEngineState": {
+    "message": "Sperre auf den Status der Embedding-Engine konnte nicht erlangt werden: {error}",
+    "sourceHash": "149df3b1240739374fa3c6d1e3a7c177877ac35095e7c81912f7dd829703e5bc"
+  },
+  "native.sqlite.embeddings.commands.failedToCreateModelDirectory": {
+    "message": "Modellverzeichnis konnte nicht erstellt werden: {error}",
+    "sourceHash": "77aa27b352a7f099cd14bf4420be96ba1c2780f8d0436784e793ecaf74e1461d"
+  },
+  "native.sqlite.embeddings.commands.failedToDeleteModelDirectory": {
+    "message": "Modellverzeichnis konnte nicht gelöscht werden: {error}",
+    "sourceHash": "c193bc80a983b2d529ab2293f322902a152d14cdbd78deb7ec408006c30296d1"
+  },
+  "native.sqlite.embeddings.commands.failedToLoadModelInRust": {
+    "message": "Modell „{value1}“ konnte nicht in Rust geladen werden: {error}",
+    "sourceHash": "49c320fcc66c84b5af37e47329bec76a475b79d1d5d48355d50c0737d831cb82"
+  },
+  "native.sqlite.embeddings.commands.modelExistenceCheckFailed": {
+    "message": "Prüfung auf vorhandenes Modell fehlgeschlagen: {error}",
+    "sourceHash": "c87dafd13880fa90383b9870f4921f4d774ce85e1303861b2991c75349101972"
+  },
+  "native.sqlite.embeddings.commands.modelLoadingTaskFailed": {
+    "message": "Aufgabe zum Laden des Modells fehlgeschlagen: {error}",
+    "sourceHash": "f4598f45315f3ada1e3b2852e30f334515eb425f6ac799b6ffe0c425774688ca"
+  },
+  "native.sqlite.embeddings.commands.modelUnloadTaskFailed": {
+    "message": "Aufgabe zum Entladen des Modells fehlgeschlagen: {error}",
+    "sourceHash": "bc3e0a78949e031bbfcc536f9066fbb8eee913f31a3f6ed798fb058d5affd39d"
+  },
+  "native.sqlite.embeddings.engine.embeddingTaskFailed": {
+    "message": "Embedding-Aufgabe fehlgeschlagen: {error}",
+    "sourceHash": "88d441306d77e1d371d19af86faae4a4c8320d5e00370440c9851acfda4e8a7b"
+  },
+  "native.sqlite.embeddings.engine.failedToGenerateEmbeddings": {
+    "message": "Embeddings konnten nicht erzeugt werden: {error}",
+    "sourceHash": "08ec22c7278878b8a369b616c5a2e2146d73d6874605437dc066969e558339b2"
+  },
+  "native.sqlite.embeddings.engine.failedToLoadModelFromPath": {
+    "message": "Modell „{value1}“ konnte nicht aus dem Pfad {value2} geladen werden: {error}",
+    "sourceHash": "8d349b0e70cbf1fac92b91d0691ff7f23b8d859e8e6af1f1b24796be8dd11016"
+  },
+  "native.sqlite.embeddings.engine.modelNameNotSet": {
+    "message": "Modellname nicht gesetzt",
+    "sourceHash": "2f9eafe92d9fac600d73187ff9b4f792166177129cbc7dad9b847ff929d98b20"
+  },
+  "native.sqlite.embeddings.engine.modelNotLoadedOrNotAvailable": {
+    "message": "Modell nicht geladen oder nicht verfügbar",
+    "sourceHash": "e20c9e2c8bbf9929735fdd3296ee8a0ee53269a0a3e9b0fb4b999859db1ed7a2"
+  },
+  "native.sqlite.embeddings.engine.unsupportedModelName": {
+    "message": "Nicht unterstützter Modellname: {value}",
+    "sourceHash": "d77e071cd70e32f903b0bf3e3b5a22092eecbb2dcc44c0eb82432e212fc815d3"
+  },
+  "native.sqlite.embeddings.pool.failedToAddEmbeddingErrorColumn": {
+    "message": "Spalte embedding_error konnte nicht hinzugefügt werden: {error}",
+    "sourceHash": "607c5f9ed73e472b770ec4d922ebc217de276ae331f17fd9045f60b21492d7a9"
+  },
+  "native.sqlite.embeddings.pool.failedToBeginSchemaTransaction": {
+    "message": "Schema-Transaktion konnte nicht gestartet werden: {error}",
+    "sourceHash": "4821d591e5de4456ca977d041efc800b68b914f4c01d56bccc8e959324bbfa71"
+  },
+  "native.sqlite.embeddings.pool.failedToCheckEmbeddingErrorColumn": {
+    "message": "Spalte embedding_error konnte nicht geprüft werden: {error}",
+    "sourceHash": "4af3d6c29e2d70870a1a7e3d0df97f1272622bb483916aa57649864a4441c7e0"
+  },
+  "native.sqlite.embeddings.pool.failedToClearOldSchema": {
+    "message": "Altes Schema konnte nicht geleert werden: {error}",
+    "sourceHash": "19365b26a561a0a526b5647915891c809385f1658c732fe4a4d8b0f544abea1e"
+  },
+  "native.sqlite.embeddings.pool.failedToCommitSchemaTransaction": {
+    "message": "Schema-Transaktion konnte nicht abgeschlossen werden: {error}",
+    "sourceHash": "b74b6cad23eed5459ecca3bc81ba63a5e132effcddf51484b24812729c8fb271"
+  },
+  "native.sqlite.embeddings.pool.failedToCreateAppDataDirectory": {
+    "message": "App-Datenverzeichnis konnte nicht erstellt werden: {error}",
+    "sourceHash": "f2869e91ef27bf6ae1ccada6a103204338a57669592f80c991c42baa0ecbd2e5"
+  },
+  "native.sqlite.embeddings.pool.failedToCreateConnectionPool": {
+    "message": "Verbindungspool konnte nicht erstellt werden: {error}",
+    "sourceHash": "4f80cb6a09e5b6d2688a1c6c815c5930bb0ccf9161c0a5c9e6ea3889e02ad2d8"
+  },
+  "native.sqlite.embeddings.pool.failedToCreateSchemaMetaTable": {
+    "message": "Tabelle schema_meta konnte nicht erstellt werden: {error}",
+    "sourceHash": "4866e24872f4aad6a8c9f1f5c520b01bd89e2603c7b45b12229c75ef5757dab2"
+  },
+  "native.sqlite.embeddings.pool.failedToGetConnectionFromPool": {
+    "message": "Verbindung aus dem Pool konnte nicht abgerufen werden: {error}",
+    "sourceHash": "54f55f747f10fe95a1d46d9877523a801abe788f3edfe2c98c2ba4bd071efadf"
+  },
+  "native.sqlite.embeddings.pool.failedToInitializeSqliteSchema": {
+    "message": "SQLite-Schema konnte nicht initialisiert werden: {error}",
+    "sourceHash": "f1b6e2444efda8041db69480d45df56eedf55ff37bb5e2dfde6a9194eaef2707"
+  },
+  "native.sqlite.embeddings.pool.failedToLockConnectionPools": {
+    "message": "Verbindungspools konnten nicht gesperrt werden: {error}",
+    "sourceHash": "1d1feac60bd979e775aa2951c0b8343e55edd9d0492028e1d04a7e072eabbd9d"
+  },
+  "native.sqlite.embeddings.pool.failedToReadSchemaVersion": {
+    "message": "Schemaversion konnte nicht gelesen werden: {error}",
+    "sourceHash": "8d1c1d5c80b339845c9ae681723cd125964306bc9cb604bbb9ff273d6e234ef4"
+  },
+  "native.sqlite.embeddings.pool.failedToWriteSchemaVersion": {
+    "message": "Schemaversion konnte nicht geschrieben werden: {error}",
+    "sourceHash": "509b9e96f576ab0c03624ab99a643ec03a44f85fa9d807e223366b64d3b49273"
+  },
+  "native.sqlite.embeddings.store.chunkLookupJoinError": {
+    "message": "Fehler beim Zusammenführen der Chunk-Suche: {error}",
+    "sourceHash": "6e02ec474cfbe7c0e55d121ca544c00107b77e97cd22f8691749f51f04088a98"
+  },
+  "native.sqlite.embeddings.store.clearJoinError": {
+    "message": "Fehler beim Zusammenführen beim Leeren: {error}",
+    "sourceHash": "56f6c2ff7dab76567bf310e570fc6ff19aaf33a0bf369f7899cf1dd51ff39b64"
+  },
+  "native.sqlite.embeddings.store.failedFtsRow": {
+    "message": "FTS-Zeile konnte nicht verarbeitet werden: {error}",
+    "sourceHash": "8fd4abcdd7be45e6fa28a500e3c7ec03f1b20c574473877845d898feb01eb03e"
+  },
+  "native.sqlite.embeddings.store.failedToCheckVectorsVecTable": {
+    "message": "Tabelle vectors_vec konnte nicht geprüft werden: {error}",
+    "sourceHash": "a92b9c5b306a0118a2a69f4e2259d04d7a20b96371131764a2c8b05aded6fbab"
+  },
+  "native.sqlite.embeddings.store.failedToClearEmbeddingError": {
+    "message": "Embedding-Fehler konnte nicht gelöscht werden: {error}",
+    "sourceHash": "4cc74cce73ebac596aacf3f606a679d7cdfce208bf70081d5e6e85793840a4ad"
+  },
+  "native.sqlite.embeddings.store.failedToClearEmbeddings": {
+    "message": "Embeddings konnten nicht gelöscht werden: {error}",
+    "sourceHash": "3ca104f94bec2316080cce2c58e2367c37de4827f7cf1d25579f48c2dfe9e3bc"
+  },
+  "native.sqlite.embeddings.store.failedToClearVectorsVec": {
+    "message": "vectors_vec konnte nicht geleert werden: {error}",
+    "sourceHash": "7ca45eb582580f8a4f81fa7d50c404ebfa7c5aa27760d30ccccd34a17d390013"
+  },
+  "native.sqlite.embeddings.store.failedToCommitClearedEmbeddings": {
+    "message": "Geleerte Embeddings konnten nicht übernommen werden: {error}",
+    "sourceHash": "8e5d768c516fe88092ee343476f5eaf2b2608c11f94ef9034893db8ae55260a4"
+  },
+  "native.sqlite.embeddings.store.failedToCommitDocumentUpdate": {
+    "message": "Dokumentaktualisierung konnte nicht übernommen werden: {error}",
+    "sourceHash": "da2be667afd093b82aa4846f5d047e0ab1df9fbea59f105bbed05d7686d1d0e1"
+  },
+  "native.sqlite.embeddings.store.failedToCommitEmbeddings": {
+    "message": "Embeddings konnten nicht übernommen werden: {error}",
+    "sourceHash": "e0ff0b7a6c76235da75faa964baad194d4f59cfc4b70855effcc85e654b4fc39"
+  },
+  "native.sqlite.embeddings.store.failedToCountChunks": {
+    "message": "Chunks konnten nicht gezählt werden: {error}",
+    "sourceHash": "ae5c2de74c01873468a1343ceb27a0d55543663bf17ac5f0f5bdf94bf55d0fc9"
+  },
+  "native.sqlite.embeddings.store.failedToCountHashUsage": {
+    "message": "Hash-Nutzung konnte nicht gezählt werden: {error}",
+    "sourceHash": "7b551ec4b0b0cb3b2db5c13d7a9ea1e88feb0c789101de98eb3eafb684c885b1"
+  },
+  "native.sqlite.embeddings.store.failedToCountVectorData": {
+    "message": "Vektordaten konnten nicht gezählt werden: {error}",
+    "sourceHash": "0427e030dadc14aa2e0a665df55604dc55092a6c9c5796095910cc2b25e32848"
+  },
+  "native.sqlite.embeddings.store.failedToCountVectors": {
+    "message": "Vektoren konnten nicht gezählt werden: {error}",
+    "sourceHash": "b4cc81454fc033eb171c3bf6fc9acc9d8e6adae4c6a9dbb249417f239523c2db"
+  },
+  "native.sqlite.embeddings.store.failedToCreateVectorsTable": {
+    "message": "Tabelle vectors konnte nicht erstellt werden: {error}",
+    "sourceHash": "189d595687fb7b97a03309291ea0f315d706d98434d3448af798d91510a80974"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteChunkFtsRows": {
+    "message": "FTS-Zeilen der Chunks konnten nicht gelöscht werden: {error}",
+    "sourceHash": "3fd410f747f63098e1f77b4ed5d4e365b551f51a873355c888807e9e32412ca9"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteChunks": {
+    "message": "Chunks konnten nicht gelöscht werden: {error}",
+    "sourceHash": "61031e5c0ece0a5d6027c4ef44fc7a46cd799bba21f71b552a171bb4aa1447d7"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteContent": {
+    "message": "Inhalt konnte nicht gelöscht werden: {error}",
+    "sourceHash": "f39a7477a906899a0cf9c1740b5f78c54f304366b990c989a77790c021cae106"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteDocument": {
+    "message": "Dokument konnte nicht gelöscht werden: {error}",
+    "sourceHash": "e8937342fd98a8fdbf73fe0d5dda686a726732ffe580faa3ecb33eb2d678f4ee"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteOldContent": {
+    "message": "Alter Inhalt konnte nicht gelöscht werden: {error}",
+    "sourceHash": "62bd57c3fce3e2cec2356518a06d2bb4c243b0c72fa2e59fcc4198ead523a1bd"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteVectors": {
+    "message": "Vektoren konnten nicht gelöscht werden: {error}",
+    "sourceHash": "3d07f88158e5b1c68c97c7ef3a95ea54911d52bc612b6fb42bba101693efafe8"
+  },
+  "native.sqlite.embeddings.store.failedToDeleteVectorsVec": {
+    "message": "vectors_vec konnte nicht gelöscht werden: {error}",
+    "sourceHash": "efb09d3dc5d255a341e8de6b1e1e3ec59446b1a0ef4343ca7309aff24c031627"
+  },
+  "native.sqlite.embeddings.store.failedToDropOldVectorsTable": {
+    "message": "Alte Vektortabelle konnte nicht gelöscht werden: {error}",
+    "sourceHash": "75d13277116fb43eb7005253d97a35d948f56c40e4c70c2a8b62dad865bed47a"
+  },
+  "native.sqlite.embeddings.store.failedToEmbedQuery": {
+    "message": "Suchanfrage konnte nicht eingebettet werden: {error}",
+    "sourceHash": "ffc7ed995ead5fa8462d365076b603837871d729621f6cc7c3ebc164fd41d334"
+  },
+  "native.sqlite.embeddings.store.failedToExecuteFtsQuery": {
+    "message": "FTS-Abfrage konnte nicht ausgeführt werden: {error}",
+    "sourceHash": "28dc36d20d1247579a47a8567774b04a7ac73c127811aa33a2ae793d10926e5f"
+  },
+  "native.sqlite.embeddings.store.failedToExecuteVectorQuery": {
+    "message": "Vektorabfrage konnte nicht ausgeführt werden: {error}",
+    "sourceHash": "fda17a1a0705c717a85179fd50dc6df771a374898b492c46d1257cb1d3326acb"
+  },
+  "native.sqlite.embeddings.store.failedToFetchChunk": {
+    "message": "Chunk konnte nicht abgerufen werden: {error}",
+    "sourceHash": "ba524a56f45d4505765181bf6c429c0557a712255287d15de3ab5592a1d3dec1"
+  },
+  "native.sqlite.embeddings.store.failedToFetchChunkForPath": {
+    "message": "Chunk für Pfad konnte nicht abgerufen werden: {error}",
+    "sourceHash": "044350d1005b81a1ea883fd743f3e5bcfddd3bc3a9670d960b2e55ae6d6ccc5f"
+  },
+  "native.sqlite.embeddings.store.failedToFetchDocuments": {
+    "message": "Dokumente konnten nicht abgerufen werden: {error}",
+    "sourceHash": "020b47dfa30e52f68a6bb98bab4f5c9c9475d31cfcaeb62836754a9667f0de37"
+  },
+  "native.sqlite.embeddings.store.failedToFetchEmbeddingErrors": {
+    "message": "Embedding-Fehler konnten nicht abgerufen werden: {error}",
+    "sourceHash": "1de0b51ff5be6a6cdd99d9284ae25741d597050b08e092a47a149a584931b893"
+  },
+  "native.sqlite.embeddings.store.failedToGenerateEmbeddings": {
+    "message": "Embeddings konnten nicht erzeugt werden: {error}",
+    "sourceHash": "b49905199ec07ffd9441bf3f5ce0cb4803c1fdb45ba97ac898178cd5b4456112"
+  },
+  "native.sqlite.embeddings.store.failedToInsertChunk": {
+    "message": "Chunk konnte nicht eingefügt werden: {error}",
+    "sourceHash": "f7ff847cbd11fd00b7d76845b4511739d15b3d19fb46a2de928a52f77005ed5f"
+  },
+  "native.sqlite.embeddings.store.failedToInsertChunkFtsRow": {
+    "message": "Chunk-FTS-Zeile konnte nicht eingefügt werden: {error}",
+    "sourceHash": "24b75dfd324eb8094e7e8852c9dc1069f6a52f7c386bfbdd7c6d404ac229b228"
+  },
+  "native.sqlite.embeddings.store.failedToInsertContent": {
+    "message": "Inhalt konnte nicht eingefügt werden: {error}",
+    "sourceHash": "809ca8ed68a1fb00e5843911fbc434f7f42e34001befeea1daa48135cdcbce60"
+  },
+  "native.sqlite.embeddings.store.failedToInsertDocument": {
+    "message": "Dokument konnte nicht eingefügt werden: {error}",
+    "sourceHash": "0d8f5602fa1c2478a5468945d8e7c5fa550a98c2275557a764bf527f5f65ffde"
+  },
+  "native.sqlite.embeddings.store.failedToInsertVec": {
+    "message": "Vektor konnte nicht eingefügt werden: {error}",
+    "sourceHash": "df8f64bd093fd2e874157a6bd89b546d268c31792cffb12460aa00628f602d9f"
+  },
+  "native.sqlite.embeddings.store.failedToInsertVectorMetadata": {
+    "message": "Vektor-Metadaten konnten nicht eingefügt werden: {error}",
+    "sourceHash": "0e5708a93b21cfb34a0dd58e74105c09bbc2cff5afc3985a5c3cfb3a8887d31c"
+  },
+  "native.sqlite.embeddings.store.failedToLockEmbeddingEngine": {
+    "message": "Embedding-Engine konnte nicht gesperrt werden: {error}",
+    "sourceHash": "0d661eafd1f045f2d5d849f9df4b97b84a170236f02b60f1934d8ee754a0893b"
+  },
+  "native.sqlite.embeddings.store.failedToParseChunk": {
+    "message": "Chunk konnte nicht verarbeitet werden: {error}",
+    "sourceHash": "f9fa93ca7d5d1b6ffc5b1b09b58bf3f4eb7ce8daa109c1130e52baa003781697"
+  },
+  "native.sqlite.embeddings.store.failedToParseFolderCount": {
+    "message": "Ordneranzahl konnte nicht gelesen werden: {error}",
+    "sourceHash": "659728b92eca576e0d091c0c4f92ce73421ea71b2d98bd45c30d141a76fcb068"
+  },
+  "native.sqlite.embeddings.store.failedToParsePruneRow": {
+    "message": "Bereinigungszeile konnte nicht gelesen werden: {error}",
+    "sourceHash": "581ecde2ca80b855b8c1eac820da3bd58703e35048c5379f17ec0fa433a917ad"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkFtsInsert": {
+    "message": "Chunk-FTS-Einfügung konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "f8fdc0a3b7e44dff72689c833bb727a8ecdac625a87b575103282a54af701e9a"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkInsert": {
+    "message": "Chunk-Einfügung konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "8fe45a5101c706008ed0c210906e7284fad95366bd66de7ff26d5c1f727bcc22"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkLookup": {
+    "message": "Chunk-Suche konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "499f45b061419a4484079c5f7ad1e97371d726390a5ef87526eb0c0e35442ec7"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareChunkQuery": {
+    "message": "Chunk-Abfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "49137fdd85dc87748e91986a1b2bd066ca887f26ba2e552588736f3c6cfdae89"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareDocumentsQuery": {
+    "message": "Dokumentabfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "29ee5d508ac176a78350088447dac21890ea6b66bd94416846e3d9f3d3d335ca"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareErrorQuery": {
+    "message": "Fehlerabfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "b36c19d1d93a93e52774a758a17b5c575f55b5d3a764e00f9b6a943b32bfabcc"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareExpandedChunkLookup": {
+    "message": "Suche nach erweiterten Chunks konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "37243ff2432b9755c01a5b52b77fa04dd237b8fcc30f407aeb3995f5e62ea4b7"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareFolderCountQuery": {
+    "message": "Ordneranzahl-Abfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "50036eb93ab73a95c9ae43461ddb1001580cd5227aa1b6990b228bc9418ba001"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareFtsQuery": {
+    "message": "FTS-Abfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "e4a59c50cbcc441fc5a33e2b7357000622c9659aa16736b12ed97af0d839a30f"
+  },
+  "native.sqlite.embeddings.store.failedToPreparePrefixQuery": {
+    "message": "Präfixabfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "3209b7775bd7ac32152fcf900ee0f1282b3e6deabb182a15028b913aa898cef3"
+  },
+  "native.sqlite.embeddings.store.failedToPreparePruneQuery": {
+    "message": "Bereinigungsabfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "f174bbd10dd3a692c1f6386b3ed77f11a0f02a65fc1c010d816d4a8b434da03b"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleChunkQuery": {
+    "message": "Abfrage veralteter Chunks konnte nicht vorbereitet werden: {e}",
+    "sourceHash": "f82f3ddd978e0e673e476a5294d3dab4729af0ec8f0074cd8e496f07bcf8ab2c"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleDocumentQuery": {
+    "message": "Abfrage veralteter Dokumente konnte nicht vorbereitet werden: {e}",
+    "sourceHash": "eb1e83bb9ca8e230ec210faed8eb60a2b621edd9ab3c702d79efb00817161989"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleVectorMetadataQuery": {
+    "message": "Abfrage veralteter Vektor-Metadaten konnte nicht vorbereitet werden: {e}",
+    "sourceHash": "657394427a8a843f5b8c889eef2e750e85ad232068f52f11ecdd2ed889a17d83"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareStaleVectorQuery": {
+    "message": "Abfrage veralteter Vektoren konnte nicht vorbereitet werden: {e}",
+    "sourceHash": "208a5d05294acab24e434963d9e5b85551d96a93e5f8b1a872d0d30339a6e1c7"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareVectorInsert": {
+    "message": "Vektor-Einfügung konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "aac0cdca80630805990c9bd764ef90cd91a3f945f53fa871803e0d5b0b3f0ab1"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareVectorQuery": {
+    "message": "Vektorabfrage konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "2d6d5ea02c646252af27217b241744b713b426deaa5cd031cbe879fc81f317ee"
+  },
+  "native.sqlite.embeddings.store.failedToPrepareVectorsVecInsert": {
+    "message": "vectors_vec-Einfügung konnte nicht vorbereitet werden: {error}",
+    "sourceHash": "cfb80835d0c0c14523b9724e46750dbf453a466259d759d887e5e317ecc147f8"
+  },
+  "native.sqlite.embeddings.store.failedToQueryChunks": {
+    "message": "Chunks konnten nicht abgefragt werden: {error}",
+    "sourceHash": "9a6ea18aefad4b18b220e54b675b319365b434481757470daf5eed74ad4d7283"
+  },
+  "native.sqlite.embeddings.store.failedToQueryDocuments": {
+    "message": "Dokumente konnten nicht abgefragt werden: {error}",
+    "sourceHash": "6b6350f46b82776990100d36a89196aa3b6a988821d2c59ebe3686640fddfa3f"
+  },
+  "native.sqlite.embeddings.store.failedToQueryExpandedChunks": {
+    "message": "Erweiterte Chunks konnten nicht abgefragt werden: {error}",
+    "sourceHash": "29e345a1aacef922c6a188a6fd5ebe8201e82fa3ef6d83ac8d39e1e3753fac99"
+  },
+  "native.sqlite.embeddings.store.failedToQueryFolderCounts": {
+    "message": "Ordneranzahlen konnten nicht abgefragt werden: {error}",
+    "sourceHash": "420fb4ba40922ba1438a1245386c1b5bcaa027621b580021a52714a731219358"
+  },
+  "native.sqlite.embeddings.store.failedToQueryPrefixes": {
+    "message": "Präfixe konnten nicht abgefragt werden: {error}",
+    "sourceHash": "ac2ea2cbe4c44c713265c263abfafbd5d72283305ba1e79ff49776b41515461a"
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleChunks": {
+    "message": "Veraltete Chunks konnten nicht abgefragt werden: {e}",
+    "sourceHash": "4728dbc8db3751e077ec9f586d64e53608d51179bbacd4a152530628c4c33edf"
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleDocuments": {
+    "message": "Veraltete Dokumente konnten nicht abgefragt werden: {e}",
+    "sourceHash": "1d4fe976d48dd7c907ee9fbf4f7434d5b7e0862868d0c99e6f10bab5264d36fe"
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleVectorMetadata": {
+    "message": "Veraltete Vektor-Metadaten konnten nicht abgefragt werden: {e}",
+    "sourceHash": "e5506b6c5f18e784ff74c6ffcf12f41b90431c51c3edff1f6bf62f61c39db8f4"
+  },
+  "native.sqlite.embeddings.store.failedToQueryStaleVectors": {
+    "message": "Veraltete Vektoren konnten nicht abgefragt werden: {e}",
+    "sourceHash": "b3be44f0c5dc166f2f643936b478a3b336af7d7fde0474ea99ff05629625ae15"
+  },
+  "native.sqlite.embeddings.store.failedToReadContentForStaleCheck": {
+    "message": "Inhalt für die Prüfung auf Veraltung konnte nicht gelesen werden: {e}",
+    "sourceHash": "1fa030a3caf653cc2f31dd6916c20c3ed4f31fafcf9b0e449b69c3b54658a9f5"
+  },
+  "native.sqlite.embeddings.store.failedToReadError": {
+    "message": "Fehler konnte nicht gelesen werden: {error}",
+    "sourceHash": "6a7f328a5a33074b89b5b675b8143a1190219fb9f148ed49bc29fd8eeacbd585"
+  },
+  "native.sqlite.embeddings.store.failedToReadExistingDocument": {
+    "message": "Vorhandenes Dokument konnte nicht gelesen werden: {error}",
+    "sourceHash": "80d9c086e9149cef992739a4105370267f5176dfc9d1a59d08f8214fc20feeee"
+  },
+  "native.sqlite.embeddings.store.failedToReadExpandedChunk": {
+    "message": "Erweiterter Chunk konnte nicht gelesen werden: {error}",
+    "sourceHash": "9678e411dfef930f1b2b3a89d2971002e2eb470c2fa8458ce5e04e011ecf38b9"
+  },
+  "native.sqlite.embeddings.store.failedToReadFile": {
+    "message": "Datei konnte nicht gelesen werden: {error}",
+    "sourceHash": "75afdc4ac3df2c8b639001ff13eb6dde0bdcb1e0e15be764df1f3dc1eaa0ceed"
+  },
+  "native.sqlite.embeddings.store.failedToReadFileMetadata": {
+    "message": "Dateimetadaten konnten nicht gelesen werden: {error}",
+    "sourceHash": "a72ada0c787e84911bf7e689913d0fd4ef13ea73e52313dd5b5a22ba437d1daf"
+  },
+  "native.sqlite.embeddings.store.failedToReadFtsChunkId": {
+    "message": "FTS-Chunk-ID konnte nicht gelesen werden: {error}",
+    "sourceHash": "4f4be12fee580d70753e3c10cd32d97a399f41844551013650c9bda04e5f389d"
+  },
+  "native.sqlite.embeddings.store.failedToReadHashSeq": {
+    "message": "hash_seq konnte nicht gelesen werden: {error}",
+    "sourceHash": "c31a467d585da491a54f2aa5468bfdf66f446e068fba47c876aafce915ac7c09"
+  },
+  "native.sqlite.embeddings.store.failedToReadPath": {
+    "message": "Pfad konnte nicht gelesen werden: {error}",
+    "sourceHash": "f85b8469b224e06b0bf5fd20b0657825bdfa438dceafaf9d72a8dd1391d5e368"
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleChunk": {
+    "message": "Veralteter Chunk konnte nicht gelesen werden: {e}",
+    "sourceHash": "696fd20dddbbe17249f81f1eaed8f5a793c15c917b1c5da303d709235883414c"
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleDocument": {
+    "message": "Veraltetes Dokument konnte nicht gelesen werden: {e}",
+    "sourceHash": "403218143796278660f31384096c0af2585e04dccea8a282efffbdacbb644559"
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleVector": {
+    "message": "Veralteter Vektor konnte nicht gelesen werden: {e}",
+    "sourceHash": "b6d820dd91d5f879e116bd9b9fa53e4e38cf915e95f42b64c539144388dcecc9"
+  },
+  "native.sqlite.embeddings.store.failedToReadStaleVectorMetadata": {
+    "message": "Veraltete Vektor-Metadaten konnten nicht gelesen werden: {e}",
+    "sourceHash": "c4187c017194a79f987523a59f9e794a13fa6097f2cddce6210ca0c2ceaa6ad5"
+  },
+  "native.sqlite.embeddings.store.failedToReadStatus": {
+    "message": "Status konnte nicht gelesen werden: {error}",
+    "sourceHash": "d5072a65f3a5832f937600a573115f1f99c661d92af6ba3ee5df1795c90607da"
+  },
+  "native.sqlite.embeddings.store.failedToReadVectorsTableInfo": {
+    "message": "Tabelleninformationen der Vektoren konnten nicht gelesen werden: {error}",
+    "sourceHash": "e5ce003bf673f586fefe749ca50756ecf8cb93ea4ba3380c3159c6a5316d07ae"
+  },
+  "native.sqlite.embeddings.store.failedToResetEmbeddingError": {
+    "message": "Embedding-Fehler konnte nicht zurückgesetzt werden: {error}",
+    "sourceHash": "2eb8a5ca6258dbe5679d388aadaa268bdc1d0de8cd720582f462f9fd2499a02b"
+  },
+  "native.sqlite.embeddings.store.failedToSerializeEmbedding": {
+    "message": "Embedding konnte nicht serialisiert werden: {error}",
+    "sourceHash": "b13b59a04279f8b6e257167f21d1be337e7d8657c1ad16a9b5aea4be8b022565"
+  },
+  "native.sqlite.embeddings.store.failedToSerializeQueryEmbedding": {
+    "message": "Abfrage-Embedding konnte nicht serialisiert werden: {error}",
+    "sourceHash": "06980b2ba9c8b5872772bfc1ebfa65fda932a766435671e7c7aa9a70e980b4a4"
+  },
+  "native.sqlite.embeddings.store.failedToStartClearTransaction": {
+    "message": "Transaktion zum Leeren konnte nicht gestartet werden: {error}",
+    "sourceHash": "7d10d5b21ca6389b5fa8cb603716944164851ae80f9aadef01f437afb974533d"
+  },
+  "native.sqlite.embeddings.store.failedToStartInsertTransaction": {
+    "message": "Einfüge-Transaktion konnte nicht gestartet werden: {error}",
+    "sourceHash": "b68766559cdabd860f95896d279de5e6b61ea327f166b0e152ae4134fcd5ffae"
+  },
+  "native.sqlite.embeddings.store.failedToStartTransaction": {
+    "message": "Transaktion konnte nicht gestartet werden: {error}",
+    "sourceHash": "d302fa1b68505692317f8fef2f51eae870e6581542ddf6c45e6c38732f1f6aa3"
+  },
+  "native.sqlite.embeddings.store.failedToTouchDocument": {
+    "message": "Zeitstempel des Dokuments konnte nicht aktualisiert werden: {error}",
+    "sourceHash": "3888cb8c496654b92be33b4b92e13dc5a2549df6467ceb724575ab519324d1cc"
+  },
+  "native.sqlite.embeddings.store.failedToUpdateDocument": {
+    "message": "Dokument konnte nicht aktualisiert werden: {error}",
+    "sourceHash": "499263f0178e3e9f53e0b68ed6afd4d85a9e8c0e82b1b65fa593d9c79430bfba"
+  },
+  "native.sqlite.embeddings.store.failedVectorRow": {
+    "message": "Vektorzeile fehlgeschlagen: {error}",
+    "sourceHash": "807353ed190106be57f84c0ee434c152498dfbde57a4dbdefaef98a656c9025d"
+  },
+  "native.sqlite.embeddings.store.folderCountJoinError": {
+    "message": "Fehler bei der Ordnerzählung: {error}",
+    "sourceHash": "c8c0371f96fcc2229c7ca26542771ee3a5a1381cbeb60a48cd51189851700a10"
+  },
+  "native.sqlite.embeddings.store.indexingJoinError": {
+    "message": "Fehler bei der Indexierung: {error}",
+    "sourceHash": "d688cabe87ac2b5be8fd3f84e24d05dcdeda5675d527d3bf579bbae887e37d47"
+  },
+  "native.sqlite.embeddings.store.listErrorsJoinError": {
+    "message": "Fehler beim Auflisten der Fehler: {error}",
+    "sourceHash": "26051b79475a743941a81d532406ec1812135a91e92561b7542f45c1d37c21ee"
+  },
+  "native.sqlite.embeddings.store.listJoinError": {
+    "message": "Fehler beim Auflisten: {error}",
+    "sourceHash": "6dde4947182b76a8d943235e7e97879b45129380cfe92cc5a28442cf2ce7f215"
+  },
+  "native.sqlite.embeddings.store.listStatusJoinError": {
+    "message": "Fehler beim Auflisten des Status: {error}",
+    "sourceHash": "f78f72806c84e71509eeaced2b4207d391ec98a741d302807a5d06ffecb7692c"
+  },
+  "native.sqlite.embeddings.store.noEmbeddingGenerated": {
+    "message": "Kein Embedding erzeugt",
+    "sourceHash": "45159bf4956e3dca53b8ecef403f852600e0bccd8cc6da604b6c8acc638f8e6e"
+  },
+  "native.sqlite.embeddings.store.pruneJoinError": {
+    "message": "Fehler beim Bereinigen: {error}",
+    "sourceHash": "631ac47febcc1e80cddbc5c398772380a3d4295b842185e94a2848cab830c060"
+  },
+  "native.sqlite.embeddings.store.searchJoinError": {
+    "message": "Fehler bei der Suche: {error}",
+    "sourceHash": "ab73447af85a442ac0bf8e724f6d5159d809012bfc116e0459b4dc60e4080e3d"
+  },
+  "native.sqlite.embeddings.store.staleCheckJoinError": {
+    "message": "Fehler bei der Prüfung auf veraltete Daten: {error}",
+    "sourceHash": "5cb6381cdc053950c54cc08101af94143823da21d053d7d02f5048838a4d4cf3"
+  },
+  "native.sqlite.embeddings.store.tokenizationFailed": {
+    "message": "Tokenisierung fehlgeschlagen: {error}",
+    "sourceHash": "1598b5fa9eb25e5048dc74ad3fe09f24741b5789c6a0e8b1e1e305967ac5508c"
+  },
+  "native.sqlite.embeddings.store.tokenizationOffsetsOutOfBounds": {
+    "message": "Tokenisierungs-Offsets außerhalb des gültigen Bereichs",
+    "sourceHash": "97aaf1cc756dea1417ee19bff23344d3c4f67016a8a5d1746755dd21f86d6a38"
+  },
+  "native.sqlite.embeddings.store.tokenizationReturnedNoOffsets": {
+    "message": "Tokenisierung lieferte keine Offsets",
+    "sourceHash": "e9f98d4feaf172743398443393c19ad7eb7696a88bd45ca5cb9b3c02fa860f33"
+  },
+  "native.sqlite.embeddings.store.workspaceIDAndPathCannotBeEmpty": {
+    "message": "Arbeitsbereichs-ID und Pfad dürfen nicht leer sein",
+    "sourceHash": "8798da94a0f172d0090cbc3f03042dab0d58b6ec236efa8961f6f1b1bf7230eb"
+  },
+  "native.sqlite.headings.invalidWorkspacePath": {
+    "message": "ungültiger Arbeitsbereichspfad: {e}",
+    "sourceHash": "41da7709f850b39014f50de1fcf974e89d2129c53a689d7ee88e88fce5082250"
+  },
+  "native.sqlite.headings.notepathMustBeWorkspaceRelative": {
+    "message": "notePath muss relativ zum Arbeitsbereich sein",
+    "sourceHash": "5ad061100bc9ab0fedd428d93a45f3167020cddc08c9a0fb8d9ff282ede30e3c"
+  },
+  "native.sqlite.headings.notepathResolvesOutsideTheWorkspace": {
+    "message": "notePath liegt außerhalb des Arbeitsbereichs",
+    "sourceHash": "ee18d10734550f59917e0347258f792c1fea5ad5692b1fe362580592b8ced460"
+  },
+  "native.sqlite.headings.workspacePathIsAlreadyRegistered": {
+    "message": "Arbeitsbereichspfad ist bereits registriert: {e}",
+    "sourceHash": "8b3225d697eec8110db9b2ee2a9c38e8bd82a4c6d9bc2d6a29ac1252ba048ac3"
+  },
+  "native.sqlite.headings.workspaceidMustBeAUUID": {
+    "message": "workspaceId muss eine UUID sein",
+    "sourceHash": "5c4b54dcefcd8e662210f21faf8e4580dd55bf12e13e0bb1705a579081a19809"
+  },
+  "native.sqlite.migrations.applicationDatabaseSchemaIsNewerThanSupported": {
+    "message": "Schema der Anwendungsdatenbank {version} ist neuer als unterstützt {SCHEMA_VERSION}",
+    "sourceHash": "a14da5ff51843b76235e93fb79c74f2eeb937cd8e38b7f5c6b1420fbc74b3cd6"
+  },
+  "native.sqlite.search.noteChangedWhileIndexingContent": {
+    "message": "Notiz wurde während der Indexierung des Inhalts geändert",
+    "sourceHash": "2e433b86093fede6fec5dfee6f4ce14ae1da0c68e5df4d5e9ad06228206dc3ef"
+  },
+  "native.sqlite.search.pathMustBeWorkspaceRelative": {
+    "message": "path muss relativ zum Arbeitsbereich sein",
+    "sourceHash": "802c0541d888d5c957a20be333e8ff784faa00bbbe2860250ee0eb04e73925e7"
+  },
+  "native.sqlite.search.pathResolvesOutsideTheWorkspace": {
+    "message": "path liegt außerhalb des Arbeitsbereichs",
+    "sourceHash": "e5b713b137afe8267bb5cbb0d00b9c0941cbe36f930fab8bcff4c4bdcf49f9a6"
+  },
+  "native.sqlite.search.workspaceidMustBeAUUID": {
+    "message": "workspaceId muss eine UUID sein",
+    "sourceHash": "b83470540fc2d84042b13a5aae6231adec9394fc59f8b284aecd9a038a43ff68"
+  },
+  "native.windows.external_documents.couldNotConvertFileURLToALocalPath": {
+    "message": "Datei-URL konnte nicht in einen lokalen Pfad umgewandelt werden",
+    "sourceHash": "6a9c2a0b935f43773470e3dd2bd227f114a86129b49eb5d56ca96592437969e5"
+  },
+  "native.windows.external_documents.couldNotInspectDocument": {
+    "message": "Dokument konnte nicht geprüft werden: {e}",
+    "sourceHash": "3a6553ed7e21d4b40f7c8d3792d710049a59effa761c78d6c1e21fe10dfca256"
+  },
+  "native.windows.external_documents.couldNotOpen": {
+    "message": "{value} konnte nicht geöffnet werden: {e}",
+    "sourceHash": "58abbaa344cd57e519c93f82206b5efb1f8576e4a69a90ae669e6f403aa73560"
+  },
+  "native.windows.external_documents.couldNotReadDocument": {
+    "message": "Dokument konnte nicht gelesen werden: {e}",
+    "sourceHash": "ff400608f64ff1685f69762075705f5e99a4fece35db03737e4682929c37f4e7"
+  },
+  "native.windows.external_documents.couldNotSaveDocument": {
+    "message": "Dokument konnte nicht gespeichert werden: {e}",
+    "sourceHash": "3457b1a17369c736e84d8d6da0523639dbe4eff20c9e86b3f0da8648a8d367cf"
+  },
+  "native.windows.external_documents.externalDocumentHasNoParentDirectory": {
+    "message": "Externes Dokument hat kein übergeordnetes Verzeichnis",
+    "sourceHash": "6da01ada93e371ec139696e2d2cdbb1355a60a9e34a6fd480956fa4523e34a7c"
+  },
+  "native.windows.external_documents.externalDocumentPathLockPoisoned": {
+    "message": "Sperre des Pfads für externe Dokumente ist fehlerhaft: {e}",
+    "sourceHash": "9f889efe8e5557cab219156905a642283a0fbf416a447c486ab627d97bbf75ff"
+  },
+  "native.windows.external_documents.externalDocumentSessionLockPoisoned": {
+    "message": "Sperre der Sitzung für externe Dokumente ist fehlerhaft: {e}",
+    "sourceHash": "1e4fc77754172a702a59fd811be93fe97d6e2e17a4dd8352028534e5cf2b413c"
+  },
+  "native.windows.external_documents.externalDocumentSessionNoLongerExists": {
+    "message": "Sitzung für das externe Dokument existiert nicht mehr",
+    "sourceHash": "7b6044048e0e51a83905145d69f557d28ce778cfcc23e3a25a08a80e701096d0"
+  },
+  "native.windows.external_documents.externalDocumentWatcherLockPoisoned": {
+    "message": "Sperre der Überwachung externer Dokumente ist fehlerhaft: {e}",
+    "sourceHash": "567c75eb5f87b14c9f4f5bc2034097defa9dd1b05f03e90f8b4216c7ce5fe346"
+  },
+  "native.windows.external_documents.failedToCreateExternalDocumentWatcher": {
+    "message": "Überwachung für externe Dokumente konnte nicht erstellt werden: {e}",
+    "sourceHash": "c54adb6afb7332c4110721b65449e766db2529edcd57d5b0758779af1f760731"
+  },
+  "native.windows.external_documents.failedToCreateExternalDocumentWindow": {
+    "message": "Fenster für externes Dokument konnte nicht erstellt werden",
+    "sourceHash": "5afad70c3dc5274b69de85b977757af54670f1e42dbf7dde53dcaf2c51b52acd"
+  },
+  "native.windows.external_documents.failedToWatchExternalDocument": {
+    "message": "Externes Dokument konnte nicht überwacht werden: {e}",
+    "sourceHash": "bd3857d6043d8d8dd8c6e2d019ce4142328f930d999d2788519e7a80fb129838"
+  },
+  "native.windows.external_documents.octarineCanOnlyOpenMarkdownDocuments": {
+    "message": "Octarine kann nur Markdown-Dokumente öffnen",
+    "sourceHash": "8a7dae334297d9f2c98c30f6becf98effa7412931387974b986cd78b990498de"
+  },
+  "native.windows.external_documents.onlyFilesCanBeOpenedAsExternalDocuments": {
+    "message": "Als externe Dokumente können nur Dateien geöffnet werden",
+    "sourceHash": "078979f669f7a1d73a3d1c8acfca8d53009c472934edfcccc5cbe124b1bb2d58"
+  },
+  "native.windows.external_documents.openedFileQueueLockPoisoned": {
+    "message": "Sperre der Warteschlange geöffneter Dateien ist fehlerhaft: {e}",
+    "sourceHash": "285eff83359ad1c64d41a222db13616c6fa31ed4b92a81a24eae1667e756e0c0"
+  },
+  "native.windows.external_documents.unsupportedURLScheme": {
+    "message": "Nicht unterstütztes URL-Schema: {value}",
+    "sourceHash": "aa41e53a8bdd7ce1fc46e31c26e0a01c1c085b87ac781d3e7acaa7c311b4812e"
+  },
+  "native.windows.manager.details": {
+    "message": "{value1}: {error}",
+    "sourceHash": "ad6aa5c9439a2867a61966f6fe0be23457b953ceac4755c98789358424f73839"
+  },
+  "native.windows.manager.failedToCreateAppDataDirectory": {
+    "message": "App-Datenverzeichnis konnte nicht erstellt werden: {error}",
+    "sourceHash": "b99c7e4a93bcc805ddacda356d9f4366903c5d4d0885dc53b933537709325c53"
+  },
+  "native.windows.manager.failedToFocusWindow": {
+    "message": "Fenster {value1} konnte nicht fokussiert werden: {error}",
+    "sourceHash": "dde7d073f3ef6ae4cea10e8998c686d1724154f86001c6c6409b586d4482f30d"
+  },
+  "native.windows.manager.failedToParseWorkspaceWindowSession": {
+    "message": "Sitzung des Arbeitsbereichsfensters konnte nicht gelesen werden: {error}",
+    "sourceHash": "73580ec2f88abc99bf0936d5d089cf0796e6bba208d6ccf0a9f08055877686ef"
+  },
+  "native.windows.manager.failedToReadRouteFor": {
+    "message": "Route für {label} konnte nicht gelesen werden: {error}",
+    "sourceHash": "93223eb5dc636931312e27900a18590f5d69f230cf1ea07ed3eb376f7874e53a"
+  },
+  "native.windows.manager.failedToResolveAppDataDirectory": {
+    "message": "App-Datenverzeichnis konnte nicht ermittelt werden: {error}",
+    "sourceHash": "6d0f4faca2445a3b639b8a6b974c4cc513cc8981f2e28fa6511ad1a5fdcc4a60"
+  },
+  "native.windows.manager.failedToRestoreWorkspaceWindow": {
+    "message": "Arbeitsbereichsfenster konnte nicht wiederhergestellt werden",
+    "sourceHash": "b82f28932357d223dc7dea38f1967bc83e5899e092b21ab3877105686406d53d"
+  },
+  "native.windows.manager.failedToSaveWorkspaceWindowSession": {
+    "message": "Sitzung des Arbeitsbereichsfensters konnte nicht gespeichert werden: {error}",
+    "sourceHash": "952ece3ccd6137a06779c5813e3a6e26665692832241b7c6920b8c150c6883cd"
+  },
+  "native.windows.manager.failedToSerializeWorkspaceWindowSession": {
+    "message": "Sitzung des Arbeitsbereichsfensters konnte nicht serialisiert werden: {error}",
+    "sourceHash": "8a98f48416fb9e3cf83d68f5d61299bb0e2dbf13e73519e2c7126be40d3d027b"
+  },
+  "native.windows.manager.octarine": {
+    "message": "Octarine",
+    "sourceHash": "edbebbc5c322402a0d2efcec7ff62dc64cd38c758c919358241877971291aa24"
+  },
+  "native.windows.manager.onlyTheMainWindowCanRestoreTheWorkspaceSession": {
+    "message": "Nur das Hauptfenster kann die Arbeitsbereich-Sitzung wiederherstellen",
+    "sourceHash": "1c1e1a60580420d7647d98bd9d974a513f045aa44ef5319945d0481a6953d422"
+  },
+  "native.windows.manager.thePrimaryWorkspaceIsNotInTheHydratedRegistry": {
+    "message": "Der primäre Arbeitsbereich ist nicht in der geladenen Registrierung enthalten",
+    "sourceHash": "aacd5c6111797453a21b2acab43afc88b97ebb230d7f6085bd66d1eb8f1414b8"
+  },
+  "native.windows.manager.windowWithLabelNotFound": {
+    "message": "Fenster mit Label {value} nicht gefunden",
+    "sourceHash": "90671f63a03edf643a7e11a74757fe80987a3ebc6ab114628e6f6464c50d6d21"
+  },
+  "native.windows.manager.workspaceWindowRegistryLockPoisoned": {
+    "message": "Sperre der Arbeitsbereich-Fensterregistrierung ist fehlerhaft: {error}",
+    "sourceHash": "e26dc53928c647dff8c444e9e3e93347cb5be0a59a1f0037856ff5b24ec5b4c8"
+  },
+  "native.windows.manager.workspaceWindowStateIsUnavailable": {
+    "message": "Zustand des Arbeitsbereichsfensters ist nicht verfügbar",
+    "sourceHash": "237b5c4dbf8d88641ee7baa9f0aac9e74b3cbd23f8b80be9eac5891a76e33e0e"
+  },
+  "native.windows.quick_capture.notification.osascriptExitedWithStatus": {
+    "message": "osascript wurde mit Status {status} beendet",
+    "sourceHash": "4a3b3ead0b11e1a18333b3dbc16c444ffa3369978a1ddbe96222cc2ac9b41ec3"
+  },
+  "native.windows.tray.active": {
+    "message": "Offen",
+    "sourceHash": "d3de0e0ab7c4ef9661ad52a2c967391e73c510b132a5ead114ccdaa7624ca275"
+  },
+  "native.windows.tray.more": {
+    "message": "Mehr…",
+    "sourceHash": "e2d2149aee659bf25fe19c3a627bee3ef797b7b2e841b1865d7badbe1b925c3f"
+  },
+  "native.windows.tray.octarine": {
+    "message": "Octarine",
+    "sourceHash": "9c360d46424a030e911f2aaa1652530e36ca3c637499fe799c20f861d9c65c3f"
+  },
+  "native.windows.tray.openInbox": {
+    "message": "Eingang öffnen",
+    "sourceHash": "15613a62fc63dc25f2f3c5e5aca27c8c76d7cba153afa6d3e6e6187eea81cf8f"
+  },
+  "native.windows.tray.quickCapture": {
+    "message": "Schnellerfassung…",
+    "sourceHash": "4cc95fbb02d0e892200099c97efc36dbc4ebe28e5ce21e26d0f8731458791703"
+  },
+  "native.windows.tray.quitOctarine": {
+    "message": "Octarine beenden",
+    "sourceHash": "08d931e982f407ee1d289655e88c305ef9c2a07149be11fc7d787e59f82bb9b3"
+  },
+  "native.windows.tray.settings": {
+    "message": "Einstellungen…",
+    "sourceHash": "9408603161673c549b615fa00098d1578275b399c754ca7bb176d3a5814742b2"
+  },
+  "native.windows.tray.systemTrayStateIsUnavailable": {
+    "message": "Zustand des Infobereichs ist nicht verfügbar.",
+    "sourceHash": "cff6654d2e0cb6d9b431e2e0abab794353b97b87dba1d41861a9e0efc7a17346"
+  },
+  "native.windows.tray.trayLock": {
+    "message": "Sperre des Infobereichs: {error}",
+    "sourceHash": "1426bdfb3fc3ce7ac5c12ef202c03050e3672c18b6ab0b6d063325ae37216505"
+  },
+  "native.workspace.folder_config.globPatternError": {
+    "message": "Fehler im Glob-Muster: {error}",
+    "sourceHash": "15da5f29a7b61e392f9a0ba255345ea643a8d026883ba2823cdd0f5352b625ad"
+  },
+  "native.workspace.mod.failedToConvertPathToString": {
+    "message": "Pfad konnte nicht in Text umgewandelt werden",
+    "sourceHash": "7cbeada361fcb8bb64e2d794a08ef356a5331d2110fd555b7dd901eae00d436c"
+  },
+  "native.workspace.mod.failedToGetFileMetadata": {
+    "message": "Dateimetadaten konnten nicht abgerufen werden: {error}",
+    "sourceHash": "bfd931cd3c889c20d586fa5437b07d902e79960f608fff98e0a5770f64921bf1"
+  },
+  "native.workspace.mod.failedToReadChangedFile": {
+    "message": "Geänderte Datei konnte nicht gelesen werden: {error}",
+    "sourceHash": "d30d0990f65f0d4b9d7ba4fe5da0e92f43be301575f03a6441132b66807ce7e8"
+  },
+  "native.workspace.mod.failedToReadFile": {
+    "message": "Datei konnte nicht gelesen werden: {error}",
+    "sourceHash": "f03ae47f7a0a5315e112c7a2e225c4c765c74e59e82acb33350d8e6b9076e755"
+  },
+  "native.workspace.mod.failedToReadFileContents": {
+    "message": "Dateiinhalt konnte nicht gelesen werden: {error}",
+    "sourceHash": "214fbcaccaf0f37a108f203512054fb3cededdb28cd731daa232961068f0345f"
+  },
+  "native.workspace.mod.failedToStripPrefix": {
+    "message": "Präfix konnte nicht entfernt werden: {error}",
+    "sourceHash": "8ab7714efd1b414f2785498d38a4c9ce5f0308a7fd81d531124bb307522adf99"
+  },
+  "native.workspace.mod.failedToWriteBackupFile": {
+    "message": "Sicherungsdatei konnte nicht geschrieben werden: {error}",
+    "sourceHash": "e97d263fe4e58787ba9ef87a965a61c546d7d2c2119534cf2833d21bd38eff81"
+  },
+  "native.workspace.mod.failedToWriteFile": {
+    "message": "Datei konnte nicht geschrieben werden: {error}",
+    "sourceHash": "d3d0dbdafa2bd06a091a2bd4677a0e548699a1a9f98668a652a3a771171232cb"
+  },
+  "native.workspace.mod.invalidFileName": {
+    "message": "Ungültiger Dateiname",
+    "sourceHash": "5df0f49ca8273cecfd381144b0fb0460c6a98a525f2c15843133f5dcf81186c2"
+  },
+  "native.workspace.mod.invalidTagName": {
+    "message": "Ungültiger Tag-Name",
+    "sourceHash": "51ea3315d16162392dcfea7d9ce3290e135548c671f826246f64d144832ae6fa"
+  },
+  "native.workspace.mod.tagCannotBeEmpty": {
+    "message": "Tag darf nicht leer sein",
+    "sourceHash": "7a942f087e840eeb9ccac6bffc8a23f2a0f438eca51fe23dfc02106b0ad80c1e"
+  },
+  "native.workspace.mod.tagsCanOnlyContainLettersNumbersUnderscoresDashesAndSlashes": {
+    "message": "Tags dürfen nur Buchstaben, Zahlen, Unterstriche, Bindestriche und Schrägstriche enthalten",
+    "sourceHash": "ea0c824a351385584fa43cfb605b415a3e799959a74e58803d1fcaced14e2e0c"
+  },
+  "native.workspace.mod.taskJoinError": {
+    "message": "Fehler beim Zusammenführen der Aufgabe: {error}",
+    "sourceHash": "5d9c44df2d1e0f6f808012718f27eeccc118e0184cdbb989550eaea8e632195f"
+  },
+  "native.workspace.mod.workspacePathDoesNotExist": {
+    "message": "Pfad des Arbeitsbereichs existiert nicht: {value}",
+    "sourceHash": "ad1d4d31a71cf1a759a1d6c16fbce1f5484a947c719b24ea4c33c7c3b470119d"
+  },
+  "native.workspace.watcher.failedToCreateWatcher": {
+    "message": "Watcher konnte nicht erstellt werden: {error}",
+    "sourceHash": "14e80c623bb6ea9e61b6b86958fd61299179da336d4b611157ca5efa8f63b6ec"
+  },
+  "native.workspace.watcher.failedToWatchWorkspace": {
+    "message": "Arbeitsbereich konnte nicht überwacht werden: {error}",
+    "sourceHash": "68ae28cd0bccdb068a348fa22a11f35860c11a01d45c1720731cbff8d50ddf4b"
+  },
+  "native.workspace.watcher.taskJoinError": {
+    "message": "Fehler beim Zusammenführen der Aufgabe: {error}",
+    "sourceHash": "e93ecff6c63a14b18f17cb9673c9e9d20d3fdba29f4949be0c456d79ea2b47f0"
+  }
+}
