@@ -45,7 +45,7 @@ jobs:
       - name: English and scripts come from the app
         run: |
           base=$(git merge-base upstream/base HEAD)
-          changed=$(git diff --name-only "$base" HEAD -- src/i18n/locales/en scripts .github package.json)
+          changed=$(git diff --name-only "$base" HEAD -- src/i18n/locales/en scripts .github package.json pnpm-lock.yaml)
           if [ -n "$changed" ]; then
             echo "$changed"
             echo "::error::English copy and the scripts are synced from the Octarine app; changes here would be overwritten. To suggest different English wording, open an issue instead."
