@@ -1,0 +1,22 @@
+{
+  "common.time.compactDays": {
+    "message": "{count}g",
+    "sourceHash": "f3ef8bee31ce3f0427ebfff182e5450864d4125ef9f4e8f52a8ed8bec00da548"
+  },
+  "common.time.compactHours": {
+    "message": "{count}h",
+    "sourceHash": "5ec31bd5e0ac91094604c701e7ad20c3f831779f736b771db6bd0c2cea9edeab"
+  },
+  "common.time.compactMonths": {
+    "message": "{count}me",
+    "sourceHash": "2f733d4729f6882ca8e2b8465f629fab1bc44af78044a6ce0a59e275acfd4184"
+  },
+  "common.time.compactSeconds": {
+    "message": "{count}s",
+    "sourceHash": "a289d7a512d5134ebaddcc7bce0b265041d61b4b56364e37e77f61371cef2c3e"
+  },
+  "common.time.compactWeeks": {
+    "message": "{count}sett",
+    "sourceHash": "5f36fce24a800ad06913969f96d50e39f9a5c2177339c856f1149ceca175f22c"
+  }
+}

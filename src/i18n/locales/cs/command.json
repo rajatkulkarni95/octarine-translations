@@ -1,0 +1,86 @@
+{
+  "command.section.actions": {
+    "message": "Akce",
+    "sourceHash": "07e1cec44881185f9c70688a6e5de11256f60b4497e865b28a1d7aa09843d39a"
+  },
+  "command.section.all": {
+    "message": "Vše",
+    "sourceHash": "de6f78bb822dec0b5a3a1309d7acbf05905c58dce7f430653f8b868ab5d89dad"
+  },
+  "command.section.app": {
+    "message": "Aplikace",
+    "sourceHash": "8d510aae39468b124e8c2ea8c8e9d7153fa87fac38e7b87d7f21656d609ed0bb"
+  },
+  "command.section.askOctarine": {
+    "message": "Ask Octarine",
+    "sourceHash": "b4d9956d29086476f7d2b6bff24342388c77f19b391ccda7ee46003484db29ea"
+  },
+  "command.section.create": {
+    "message": "Vytvořit",
+    "sourceHash": "53886064fbf6d607eae0527726ef710a4c6af7713f78339173d0805e7ab13633"
+  },
+  "command.section.navigation": {
+    "message": "Navigace",
+    "sourceHash": "9165eaee7fa142f2522285102db45a232c28fad71ab4e4ce878cac7e7a64074f"
+  },
+  "command.section.noteActions": {
+    "message": "Akce poznámky",
+    "sourceHash": "5292ad3879594c63b00b527818509e66e250e921e29c2b88bc939cfd49b70288"
+  },
+  "command.section.notes": {
+    "message": "Poznámky",
+    "sourceHash": "0bef03c7fdf09ffe4399cc9117b2514e137bab4d7576d7845ccab75eb5a4ae75"
+  },
+  "command.section.projectActions": {
+    "message": "Akce projektu",
+    "sourceHash": "711916d9e78cc393c77e1235707efd6f085ab2394ec102c37fbed01d982f038f"
+  },
+  "command.section.projectsAndSpaces": {
+    "message": "Projekty a oblasti",
+    "sourceHash": "8403ee0c4e8f4d0c6ccbc02b485e3270ab5f29cf4652b1e03f64b46fc95a880d"
+  },
+  "command.section.properties": {
+    "message": "Vlastnosti",
+    "sourceHash": "ac10ea826f7143e2b9f314e19757a9e943ef1caa2560a9365aed7f5a047ead9b"
+  },
+  "command.section.recentlyViewed": {
+    "message": "Naposledy zobrazené",
+    "sourceHash": "3b1435e2a16a97bb9e326c2f901b7c306f1334843c1134e92e665cf5be945eaf"
+  },
+  "command.section.settings": {
+    "message": "Nastavení",
+    "sourceHash": "d93cb3df1bab059dfbb0db856b4883b74f6c7edaeaca37b6320a73ff52ec45b5"
+  },
+  "command.section.spaceActions": {
+    "message": "Akce oblasti",
+    "sourceHash": "8a3ec220ac8b330c05a595736126cb92dbb4f45cc93562868516ee595137ace5"
+  },
+  "command.section.tab": {
+    "message": "Panel",
+    "sourceHash": "5951bebe6f1df3a085ba69ed17308a718175894921b09e9e0635ddccf8848374"
+  },
+  "command.section.taskActions": {
+    "message": "Akce úkolu",
+    "sourceHash": "4ca1865c7a3cb1a9b386dc75bd4a7dd47df37b7be6201c8350a9a7960255262d"
+  },
+  "command.section.tasks": {
+    "message": "Úkoly",
+    "sourceHash": "dd1b6611f145e6c17caadf49816e08e91efb5a8bc4c33b4b4ebaab425e5706b5"
+  },
+  "command.section.themes": {
+    "message": "Motivy",
+    "sourceHash": "a096f366f4568add8202e5c5d9aee5e872cb2cd0d16d606b72cb5203509bdd47"
+  },
+  "command.section.views": {
+    "message": "Zobrazení",
+    "sourceHash": "bddfb2aba7043d1af191e6bd85f7d0dc0ce06c26f9de75f71a34e5d9b58f0f23"
+  },
+  "command.section.workspace": {
+    "message": "Pracovní prostor",
+    "sourceHash": "f3e65c97af8c76b9ef9ef9aaa84d938df980197a7b988c4151480cef86fed754"
+  },
+  "command.section.workspaces": {
+    "message": "Pracovní prostory",
+    "sourceHash": "38db018b5ad5fd63252f8c6a1f205e3e860d9175af6400d0f2553d43093cb00d"
+  }
+}

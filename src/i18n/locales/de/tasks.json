@@ -274,6 +274,50 @@
     "message": "„{note}“ wurde nicht gefunden",
     "sourceHash": "930f5d0608776df7a6fe353157796eaa651282d99e777673f1eb647edcec2b12"
   },
+  "tasks.commenttoolbar.bold": {
+    "message": "Fett",
+    "sourceHash": "0b22d4844e76669650b761501d810366bdaf3c57c2e98b8b76e83d624f12e370"
+  },
+  "tasks.commenttoolbar.bulletedList": {
+    "message": "Aufzählung",
+    "sourceHash": "cb018cec2df16105b91c5e5b993b85a1987b468b3207bac96fc2a240f3e76acc"
+  },
+  "tasks.commenttoolbar.checklist": {
+    "message": "Checkliste",
+    "sourceHash": "15e99c65070160eafae9aa08056b395c257ce322bde2533d45cc36c7d2f6f931"
+  },
+  "tasks.commenttoolbar.code": {
+    "message": "Code",
+    "sourceHash": "bfbaaac70a2fcd5a014d64506b570dc072e6637a18b35f84dc03fcba3b110fdc"
+  },
+  "tasks.commenttoolbar.formatting": {
+    "message": "Formatierung",
+    "sourceHash": "52088eac802844189f1f5c992552f68fc7bc275dc3d746c06460137a27f8afcf"
+  },
+  "tasks.commenttoolbar.italic": {
+    "message": "Kursiv",
+    "sourceHash": "b6c67cd632924d336dc9cd5706dbfbe012ba2fe82582fefddcc02e5cd227d0ce"
+  },
+  "tasks.commenttoolbar.linkANoteTaskOrProject": {
+    "message": "Notiz, Aufgabe oder Projekt verlinken",
+    "sourceHash": "8f8007531bea81a37250a554ec7bc26914d24a71524198110681cf691983a8db"
+  },
+  "tasks.commenttoolbar.numberedList": {
+    "message": "Nummerierte Liste",
+    "sourceHash": "a52800c4cef66e505840dd8c294356920fc1e4e849d5d75afa8e553b45541639"
+  },
+  "tasks.commenttoolbar.quote": {
+    "message": "Zitat",
+    "sourceHash": "138620429ee48596d07e268cd3473ecfdb3165b50c86614281f6b71284c1ce31"
+  },
+  "tasks.commenttoolbar.strikethrough": {
+    "message": "Durchgestrichen",
+    "sourceHash": "35403fdd0a6c488bc2bdba80ad7dacc1d5314304cd1dd464fab7005ef70bd0da"
+  },
+  "tasks.commenttoolbar.webLink": {
+    "message": "Weblink",
+    "sourceHash": "3567c4c32842e3d506d8d71af816c9d478b3cb5076c870881e5edf120ecd70d8"
+  },
   "tasks.copy.failed": {
     "message": "Kopieren fehlgeschlagen",
     "sourceHash": "92115a708db93196af3a02978695f1b80f46060d2a196a10e15a651034f6ba39"
@@ -391,6 +435,10 @@
       "other": "vor {count} T"
     },
     "sourceHash": "711648a9fd24ee80d3d02f22bc63f142c82078e7b6f8ed23ebd01d52b3452a19"
+  },
+  "tasks.due.invalidDate": {
+    "message": "Ungültiges Datum",
+    "sourceHash": "cc4ead062453532744b3adbdbd42bef019c2f4b2ec4313b1f6a048a9d3e3aed8"
   },
   "tasks.due.overdueTooltip": {
     "message": "Fällig am {date} · Überfällig",

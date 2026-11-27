@@ -1,0 +1,10 @@
+{
+  "recap.period.pastWeek": {
+    "message": "la settimana passata",
+    "sourceHash": "6ec75d468da88abeb97172f981be42dbc7e1dd27a4aee63a20e2bbc130075569"
+  },
+  "recap.period.thisWeek": {
+    "message": "questa settimana",
+    "sourceHash": "2b136ece03f7374e12267cb6467377d38d25a53bce14d19e9870b9725384328c"
+  }
+}

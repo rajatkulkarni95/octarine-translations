@@ -1291,24 +1291,24 @@
     "sourceHash": "2eb60cd0ea00121a300fbb4375bf97ddb3199de12f74a71de9835cb405563a64"
   },
   "app.automations.useWeeklyAIRecap.insufficientContentForWeeklyRecapPleaseEnsureYou": {
-    "message": "Nicht genug Inhalt für den Wochenrückblick. Stell sicher, dass du in der Vorwoche an mindestens 2-3 Tagen aussagekräftige Notizen hast.",
-    "sourceHash": "8d2d69369ffe5734ef054946e1077f98ca91e49f9196ebc3dd94f2eefdcb23f3"
+    "message": "Nichts zum Rückblick: In dieser Woche gibt es keine Aufgaben, Notizen, Einträge im Eingang oder Tagesnotizen.",
+    "sourceHash": "1405b85c5bb28a3e2097b327c09fe5b7d7079829cd178b249a8210359d679079"
   },
   "app.automations.weeklyRecap.aIRecapRequiresAtLeastOneDayTo": {
-    "message": "AI-Rückblick braucht mindestens einen Tag mit Notizen in {periodText}",
-    "sourceHash": "b520e58db7bee60bd5c8bc21969dc1e7f0ce4e77a20345bcf74e9182176187c6"
+    "message": "Nichts zum Rückblick in {periodText}: keine Aufgaben, Notizen, Einträge im Eingang oder Tagesnotizen",
+    "sourceHash": "244a1ebca2ad9f15d1c577afc6663dace45eb7e11efa6986fb980202c4b3e6da"
   },
   "app.automations.weeklyRecap.analyzesPatternsAndThemesAcrossYourWeekS": {
-    "message": "Analysiert Muster und Themen über die Notizen deiner Woche",
-    "sourceHash": "154ec52ff5dd20c8b2fcf744ed1ae29c45e3893c88c6b83e075e4a5b43ac209b"
+    "message": "Abgeschlossenes nach Projekt, geschriebene Notizen und was in die nächste Woche übergeht",
+    "sourceHash": "a751c24a39ad60e98bbbe409937a940819d94d264311f9575701f43fc2065ae5"
   },
   "app.automations.weeklyRecap.dailyRecap": {
     "message": "Tagesrückblick",
     "sourceHash": "b06e592d5dc5c04d0a508e7bfa6b1de33fac8ad46277b279d311f1b18f4f8379"
   },
   "app.automations.weeklyRecap.generateARecapOfSNotes": {
-    "message": "Rückblick der Notizen von {periodText} erstellen",
-    "sourceHash": "be2dd6f40a9af8bbccba8a2e9d5c5e7f5685d993c2090de5aa10446f76d1ccae"
+    "message": "Rückblick zu Aufgaben, Notizen und Eingang von {periodText} erstellen",
+    "sourceHash": "a1928d2b6d28cfcd1d5d75bbb28f6665bb076ef93f537b109385d65de6eb1d6a"
   },
   "app.automations.weeklyRecap.generateRecap": {
     "message": "Rückblick erstellen",
@@ -1327,12 +1327,32 @@
     "sourceHash": "a92e5cae528782deba70dc7f92843f76a0b2187770440e124ede68e4eca700c0"
   },
   "app.automations.weeklyRecap.summarizesEachDaySActivitiesInChronologicalOrder": {
-    "message": "Fasst die Aktivitäten jedes Tages in chronologischer Reihenfolge zusammen",
-    "sourceHash": "679fe8f240be07fb197196212fa9c835c2f9d9e9872556f8102b9d3a7b22b49c"
+    "message": "Tag für Tag durch Aufgaben, Notizen und Tagesnotizen, dann was übergeht",
+    "sourceHash": "63dd072672ee2692fec9fa811a1404bec8bf8ac679306ac7c792c203e4b4b38b"
   },
   "app.automations.weeklyRecap.thematicRecap": {
     "message": "Thematischer Rückblick",
     "sourceHash": "3a1d5dd0ef32a2448c2a66b8a394a8a6816e784e11b440c9c02e79d65a115088"
+  },
+  "app.automations.weeklyRecapProgress.gathered": {
+    "message": "Aufgaben, Notizen und Eingang der Woche gesammelt",
+    "sourceHash": "ded0200a4b6c105f994944ffd86783fae863daa55dd95408330d0dc0db3de28e"
+  },
+  "app.automations.weeklyRecapProgress.gathering": {
+    "message": "Aufgaben, Notizen und Eingang der Woche werden gesammelt",
+    "sourceHash": "fbb336d08cc34876c99070c6205f3c0afdd74bae6194d1005c4344a8e9a7629c"
+  },
+  "app.automations.weeklyRecapProgress.reviewing": {
+    "message": "Woche wird geprüft",
+    "sourceHash": "e2db035fa28155dc994febb7a84e41efff12c084a1e4a7df228976d90e06afa9"
+  },
+  "app.automations.weeklyRecapProgress.toolStep": {
+    "message": "{action} {target}",
+    "sourceHash": "f018803558e6833ab316a85e6e155b618e0c8b34d0925141e21a954513e52563"
+  },
+  "app.automations.weeklyRecapProgress.writing": {
+    "message": "Rückblick wird geschrieben",
+    "sourceHash": "c0d56aa382bb1199ffecdc208ea46c8589c237e3939b92d6cf8b4670ec2395fe"
   },
   "app.backup.backupCreated": {
     "message": "Backup erstellt",
@@ -3066,9 +3086,17 @@
     "message": "Schließen {value}",
     "sourceHash": "eedaa2c17be707df9651db843871e355a7d322ec3f6ece2d21f13e5971eca4aa"
   },
+  "app.common.noteSheet.couldNotSaveNote": {
+    "message": "Konnte „{name}“ nicht speichern. Deine Änderungen sind im Seitenfenster noch offen.",
+    "sourceHash": "6c5dfaa370e22ec8231f98c734953c4d6d428b74e7474ab6025ec3d2a4dff47b"
+  },
+  "app.common.noteSheet.couldNotSaveThisNote": {
+    "message": "Konnte diese Notiz nicht speichern. Deine Änderungen sind im Seitenfenster noch offen.",
+    "sourceHash": "3b97ba790be2ed47c601be65928b980bc8fecb9f9dc8c60e0599e85ea439ae20"
+  },
   "app.common.noteSheet.editInTab": {
-    "message": "Im Tab bearbeiten",
-    "sourceHash": "410e727214350eccb6f9cb22774c0ebcdfedc82c8ec8fb545704e4b7783cfc19"
+    "message": "Im Tab öffnen",
+    "sourceHash": "2d50c6a5fe027a82db3c073b79d5d4a73de4fed17a07bc1a6eb36125fe671962"
   },
   "app.common.noteSheet.emptyNote": {
     "message": "Leere Notiz",

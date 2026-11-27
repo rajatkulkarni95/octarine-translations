@@ -1,0 +1,18 @@
+{
+  "fileTree.selectionCount": {
+    "message": {
+      "many": "{count} itens",
+      "one": "{count} item",
+      "other": "{count} itens"
+    },
+    "sourceHash": "6999b1bbf5d1a8d1447b44cd042fde9e638abc68fb132a5173d0e950480633a2"
+  },
+  "fileTree.tags.occurrenceCount": {
+    "message": {
+      "many": "{count} ocorrências de tag",
+      "one": "{count} ocorrência de tag",
+      "other": "{count} ocorrências de tag"
+    },
+    "sourceHash": "bff45dd9d0a8a49b3a43f135d3cce854deec701ac13d3c15d20630e92764a0ec"
+  }
+}

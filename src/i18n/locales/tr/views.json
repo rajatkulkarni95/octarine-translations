@@ -1,0 +1,607 @@
+{
+  "views.addfilterpopover.addFilter": {
+    "message": "Filtre ekle",
+    "sourceHash": "94573aec6727022572dc2c2ef4f1f44e316309dd04987b10f0f23a41f75edb02"
+  },
+  "views.addfilterpopover.filter": {
+    "message": "Filtre",
+    "sourceHash": "f8724460bd9de757b6a41c10d90a1c4acd4caebff3c15c7ed6fa0ddad910a8f8"
+  },
+  "views.attachments.LinkedFilesCell": {
+    "message": {
+      "one": "{count} dosya eklendi",
+      "other": "{count} dosya eklendi"
+    },
+    "sourceHash": "266e17f40a0d40d37b4e86310928e14b98dbab90b5bade1e43bfec0927c853e5"
+  },
+  "views.attachments.LinkedMediaCell": {
+    "message": {
+      "one": "{count} medya eki",
+      "other": "{count} medya eki"
+    },
+    "sourceHash": "8f24862d0f39600f97ddb2709858d0d219b637e8d4ea1e533e8b50861269c02f"
+  },
+  "views.columnSelector.options.checkbox": {
+    "message": "Onay kutusu",
+    "sourceHash": "a56cf91dccc817d93110c94833bfd65d8f5a9621ee77fa183ba2e521ce7af388"
+  },
+  "views.columnSelector.options.date": {
+    "message": "Tarih",
+    "sourceHash": "a8029ba2ab56364a9552fee701e9acee68b38d6ae0f674d84f78262164f0d380"
+  },
+  "views.columnSelector.options.dateTime": {
+    "message": "Tarih ve saat",
+    "sourceHash": "3082df76f72d9b20e482d4351a791023980637123d9671cfdd4f19b2d71dfe51"
+  },
+  "views.columnSelector.options.list": {
+    "message": "Liste",
+    "sourceHash": "7869f72673bd7f5b1474410cf8dca86d3a7a74cf68c11d2003f4f633f2aeb586"
+  },
+  "views.columnSelector.options.number": {
+    "message": "Sayı",
+    "sourceHash": "2f0d9393d24dc0334ad58f94a4f5a21c490918445daddb843cc85e6bf07868c5"
+  },
+  "views.columnSelector.options.text": {
+    "message": "Metin",
+    "sourceHash": "a0e58e5137bc92473d65477554a858e348eefb336f3036f4fa5bca6031480408"
+  },
+  "views.columnSelector.rich.addProperty": {
+    "message": "“{value}” özelliği ekle",
+    "sourceHash": "00343478330765b9f6f91c108213f13eb3108d8489d2ffdf1c5f0e4eb8d21152"
+  },
+  "views.columnselector.alwaysVisible": {
+    "message": "Her zaman görünür",
+    "sourceHash": "b67490964633e984712506c77ccc69ca09a59a35b2b6c2f4a58e93cc5042dce1"
+  },
+  "views.columnselector.editProperty": {
+    "message": "Özelliği düzenle",
+    "sourceHash": "a87f2490222aa34ce99b74c30e850f121ff44c004fb681f7226affcc41a7237f"
+  },
+  "views.columnselector.findOrCreate": {
+    "message": "Bul veya oluştur...",
+    "sourceHash": "bdc0a09e2879c7c80c75961c99a070e6e9713bf795d1142c64cdc61cb2398465"
+  },
+  "views.columnselector.hidden": {
+    "message": "Gizli",
+    "sourceHash": "988eaee56aecf7aaae5f1342b91974030fd490d1601d534f8eb43ab4e228104c"
+  },
+  "views.columnselector.hide": {
+    "message": "Gizle",
+    "sourceHash": "5777a44a50ddb44e266f5b5bfddad7fa7b6defdfff819c392a226ad4f4d586fc"
+  },
+  "views.columnselector.manageColumns": {
+    "message": "Sütunları yönet",
+    "sourceHash": "e0593783e0f45593e778cf96d9ca0abee9ff9b04f9875bac34290c7a4e254fd5"
+  },
+  "views.columnselector.noColumnsFound": {
+    "message": "Sütun bulunamadı",
+    "sourceHash": "e297b010db2d8f9332b07733bf98f5ddf96868c5a96a53df6e11eade1fae3a77"
+  },
+  "views.columnselector.propertyType": {
+    "message": "Özellik türü",
+    "sourceHash": "d2d9ce8efac8985415d88e85d96ca8d5c6fad3e8f10a97ce01fa3d0bdb762f43"
+  },
+  "views.columnselector.show": {
+    "message": "Göster",
+    "sourceHash": "bb0fcf3a5458a34c6a20b7858b4c6099a0e7bcc065588f20bec688abaf7d639c"
+  },
+  "views.columnselector.text": {
+    "message": "Metin",
+    "sourceHash": "f7c701ab5ed632b720bf39fae13d902eb1b49092c5c572dc01583305d1b7cf62"
+  },
+  "views.datatablewikilinktext.openNoteInNewTab": {
+    "message": "Notu yeni sekmede aç",
+    "sourceHash": "773c7a8efe5c98a449f4a1cb7ccb75940d93d2e367cc8108ee245fc4802499dd"
+  },
+  "views.datecell.empty": {
+    "message": "Boş",
+    "sourceHash": "5a7f7464a6e5d7c8f6dc741c81a051da6ece26f3c4902851d300717b10281eac"
+  },
+  "views.datefilterinput.custom": {
+    "message": "Özel",
+    "sourceHash": "fa62a5d63f5437a70899a2cbb779e3412833148cf1fd41ce7412eeef496a5e0b"
+  },
+  "views.datefilterinput.customDate": {
+    "message": "Özel tarih",
+    "sourceHash": "8418546153a4ec28c9d34782542a19f7c1ed57d0cfa427f874ac9c1ef6780975"
+  },
+  "views.datefilterinput.noMatchesFound": {
+    "message": "Eşleşme bulunamadı",
+    "sourceHash": "3274a566e9e16616597370ff3e819b36150d4b1aeb403d132a7eba976ae0d43e"
+  },
+  "views.datefilterinput.searchDateRange": {
+    "message": "Tarih aralığını ara",
+    "sourceHash": "323148654470338e9e8967e4adf804bd1d7b6e79cbc0cfac607c1c724a718dbb"
+  },
+  "views.datefilterinput.selectDate": {
+    "message": "Tarih seçin",
+    "sourceHash": "da4b7d1d7d347e36e21f783e8beedf28f880148bcde2838fab55ed13627ca7a7"
+  },
+  "views.delete.action": {
+    "message": "Sil",
+    "sourceHash": "13e4c5cc39a01315b980572d96f616b701073ec0d58607dc1914861b8e2fc98b"
+  },
+  "views.delete.confirm": {
+    "message": "{name} görünümünü silmek istediğinizden emin misiniz?{lineBreak}Bu işlem geri alınamaz.",
+    "sourceHash": "198458641e68517c5dbc35dbf010644ad516fefc18fd272b9ce0601866caf274"
+  },
+  "views.editablearraycell.empty": {
+    "message": "Boş",
+    "sourceHash": "f99bbec3e330183d9105cd40e6ed44ad19585b2bf316a8980cc18d76c68107dc"
+  },
+  "views.filterCombinator.options.and": {
+    "message": "VE",
+    "sourceHash": "f7e6e2c7ae59f1e823ec4510c1b503008f9cdc69b80e10969bb6ab65ce0992a7"
+  },
+  "views.filterCombinator.options.or": {
+    "message": "VEYA",
+    "sourceHash": "1450cddc877fc7bd87b8f8344c135952061d7f17c27c6da51a1d0b8749c9aa95"
+  },
+  "views.filterOptions.location.Daily": {
+    "message": "Günlük",
+    "sourceHash": "48491282b6ab83390c55e9fa69f436106085d04e5ce6ba4b9ca66a9fd61cee67"
+  },
+  "views.filterOptions.location.Inbox": {
+    "message": "Gelen Kutusu",
+    "sourceHash": "b178de362e06c1e67d15ce609f506c915f5c1e20f9885e869e594b47e13b965f"
+  },
+  "views.filterOptions.location.Notes": {
+    "message": "Notlar",
+    "sourceHash": "a26dee2d02a09ff751f72f3671d8be83446b8724d0c7d4f9f1301c0c77fa2dda"
+  },
+  "views.filterOptions.location.Templates": {
+    "message": "Şablonlar",
+    "sourceHash": "6d6b543689580567feda7257eb241ef7e144aff0eaf6a5b58339843592da2628"
+  },
+  "views.filterOptions.location.Weekly": {
+    "message": "Haftalık",
+    "sourceHash": "74c604f24e2f5b4e94da0671824c27bc592d778addc90b62cade0791d8c4067a"
+  },
+  "views.filterOptions.task_status.Complete": {
+    "message": "Tamamlandı",
+    "sourceHash": "be6c1477ae3fd6ee70fa22874d30d2fc490e51fa9d4ca4bd49810f1bebab4858"
+  },
+  "views.filterOptions.task_status.NoTasks": {
+    "message": "Görev yok",
+    "sourceHash": "04de3070e854c06ba0a50718719f316dd92632ca13baad60ed53c364179b49eb"
+  },
+  "views.filterOptions.task_status.Pending": {
+    "message": "Bekleyen",
+    "sourceHash": "6befb90734f93f796e9f51b18483a51dfa0a0a0e6ee2bf06df3fb9795293ad65"
+  },
+  "views.filterfield.noPropertiesAvailable": {
+    "message": "Kullanılabilir özellik yok",
+    "sourceHash": "b3a75ea2e376d6440b5b455e98debba19269990a8c256de62cda893143abf7f0"
+  },
+  "views.filterfield.unknown": {
+    "message": "Bilinmiyor",
+    "sourceHash": "da101f50c91844d9a207ea65b9e8c3636a245cb4beac7153ab4e6fe94fb24c1d"
+  },
+  "views.filterrow.is": {
+    "message": "eşittir",
+    "sourceHash": "f084ec3594f6cc263c385415bbf991ac973db59a37f5c9402729b3c64420b7f2"
+  },
+  "views.filterrow.removeFilter": {
+    "message": "Filtreyi kaldır",
+    "sourceHash": "40f4c6b219bb67a5a2832198c0a957b0eb7e54f9b8e0d6519f06940a3519eb1a"
+  },
+  "views.filtervalue.enterPath": {
+    "message": "Yol girin...",
+    "sourceHash": "f9934ded778cc390dadf700d5c06d3af2dab3dfed5e1b7edb5de122cebdcf0c7"
+  },
+  "views.filtervalue.enterTag": {
+    "message": "Etiket girin...",
+    "sourceHash": "de23080811fa923f99a2ea432b355a01998717707ea17b03dc8306f81eecf643"
+  },
+  "views.folderfilterinput.enterFolder": {
+    "message": "Klasör girin...",
+    "sourceHash": "824add5a7f95d0ad1cb736c0d59f0b1ba5fb8a0c1e67f6d13302cadfd1ab60df"
+  },
+  "views.folderfilterinput.noFoldersFound": {
+    "message": "Klasör bulunamadı",
+    "sourceHash": "fc6d22ab3a6f7d05a34a25c2fc7992224e2b6a16197d59a42ba134cc8b9140da"
+  },
+  "views.index.kanbanViewRequiresAGroupByFieldSelectOneFromTheToolbarAbove": {
+    "message": "Kanban görünümü bir “Gruplandır” alanı gerektirir. Yukarıdaki araç çubuğundan birini seçin.",
+    "sourceHash": "a6d891e13dbb7a7e82fd8bf83141ea0e8e23cdb607a462bf5b3f580878415080"
+  },
+  "views.index.noResultsFoundTryAdjustingYourFilters": {
+    "message": "Sonuç bulunamadı - filtrelerinizi değiştirmeyi deneyin",
+    "sourceHash": "2cd0c9b48db5130cd81bd68d13ccdf1610a23a1db03d6fde9133837a1db44a26"
+  },
+  "views.index.sort": {
+    "message": "Sırala",
+    "sourceHash": "486b2e379f6dd714ca848f90a18e38d94f95ec0076718dde7461b72859c386a4"
+  },
+  "views.index.sortByAscending": {
+    "message": "Artan sırala",
+    "sourceHash": "bcea76898317046877a466d0f8caa8e1025cd581218942cf49ef2b13bdc03064"
+  },
+  "views.index.sortByDescending": {
+    "message": "Azalan sırala",
+    "sourceHash": "6e59d88f7ad22f4674ba3243a917f9b465636b41e86a998b8e67342df5bb35ec"
+  },
+  "views.kanban.moveUnavailable": {
+    "message": "Kartlar {field} alanına göre gruplandırılmışken taşınamaz. Sürükleyip bırakmayı etkinleştirmek için özel bir özelliğe, Etiketler, Sabitli mi veya Kilitli mi alanına göre gruplandırın.",
+    "sourceHash": "29f34dc143c941706201ff37298778e2b4fb656d9fee31f6ccc3cf099115e665"
+  },
+  "views.kanbanlane.noItems": {
+    "message": "Öğe yok",
+    "sourceHash": "4613aa527711ee4c97feca0dbdc4f53f1b485431c00d3423b73258d083e0fa27"
+  },
+  "views.linkednotescell.openNote": {
+    "message": "Notu aç",
+    "sourceHash": "3a4f58b71fa1f111dfc1351f0b565b90a16efcd08c1c8b94066b04fcfc6ade59"
+  },
+  "views.multiselectfilterinput.localvaluecountSelected": {
+    "message": {
+      "one": "{count} seçildi",
+      "other": "{count} seçildi"
+    },
+    "sourceHash": "d815072d0158108b3cc7220c0bc6eaf702709d52c9dfba013702dde4fa841c9d"
+  },
+  "views.multiselectfilterinput.noMatchingValuesFound": {
+    "message": "Eşleşen değer bulunamadı",
+    "sourceHash": "d59f59184a1a335493ad528231f3c32056cc51acacd458fafba71648624dd739"
+  },
+  "views.multiselectfilterinput.noValuesAvailable": {
+    "message": "Kullanılabilir değer yok",
+    "sourceHash": "c32e0d2d07aafeb81298605fa0b48440e0fa12f44b6c1c1d6ff231861b0819ec"
+  },
+  "views.multiselectfilterinput.search": {
+    "message": "Ara...",
+    "sourceHash": "c6a5c00f07dc8c581dc1db8e5cb6dcf80efba88ddeb4084d76ac3f60be386aff"
+  },
+  "views.multiselectfilterinput.select": {
+    "message": "Seçin...",
+    "sourceHash": "b7e03e3528f38196c031b95c0dcb8c9e507afd054d0c7e8f68b3b9a8ba65bf72"
+  },
+  "views.notecell.inbox": {
+    "message": "Gelen Kutusu",
+    "sourceHash": "8b54622ceb80578c0b06584afb6c2fb94af5a96461a3204ef48d850fa67e1817"
+  },
+  "views.notesviewsidebar.addADescription": {
+    "message": "Açıklama ekleyin…",
+    "sourceHash": "db88234ec1aca355c798f8444219294733fe418d6cb41d7508e2764aa9a38318"
+  },
+  "views.notesviewsidebar.created": {
+    "message": "Oluşturulma",
+    "sourceHash": "dcaece1d236e1046cc0d7d94ed330b3560cfb6f2c8ca8b7820c5a688d21d59f9"
+  },
+  "views.notesviewsidebar.description": {
+    "message": "Açıklama",
+    "sourceHash": "39153f7eacc3b9efb18bfe29e17cd13c79c16c7fd5252ee8e97186d6c2c1fce7"
+  },
+  "views.notesviewsidebar.details": {
+    "message": "Ayrıntılar",
+    "sourceHash": "4f2125fbf45054f98fdbed364661dabd37f7b6c1610e33ac6da912d9a5e649d4"
+  },
+  "views.notesviewsidebar.filters": {
+    "message": "Filtreler",
+    "sourceHash": "70f41c6f58b2522036e217a41976063d523eaa64043f56be7379b240bbb78b2e"
+  },
+  "views.notesviewsidebar.groupBy": {
+    "message": "Şuna göre grupla",
+    "sourceHash": "69ddb3724100f44e5c0656be5f7fa0ab3a0a46194cec2a48931ede46ccf4a0df"
+  },
+  "views.notesviewsidebar.kanban": {
+    "message": "Kanban",
+    "sourceHash": "e8b0b1420dc2c9ccf2ef64c27cc816eab34f18e23b0e974bd606c8b282577b31"
+  },
+  "views.notesviewsidebar.layout": {
+    "message": "Düzen",
+    "sourceHash": "7fbf500d83b4870d5f402434f59002baddbd637261667bb6f845615eb174a285"
+  },
+  "views.notesviewsidebar.loading": {
+    "message": "Yükleniyor…",
+    "sourceHash": "4ea5ab7dae6af53e815f054e76df322fc74d3408e4e0f969aafb4cc955ec7495"
+  },
+  "views.notesviewsidebar.none": {
+    "message": "Yok",
+    "sourceHash": "0c1893be877b8852fc54db0dd45e6a67fe94a8444c7700399ded68f26d17b53c"
+  },
+  "views.notesviewsidebar.recentlyUpdated": {
+    "message": "Son güncellenenler",
+    "sourceHash": "9e689941b91031e911a122e955c72e2fd6a75631f5bbc8ba5640b89cb7dfcb2b"
+  },
+  "views.notesviewsidebar.setup": {
+    "message": "Kurulum",
+    "sourceHash": "788863db3f24e829bd2f1b57d574e0b4fb7e06c59b853b98c574cec0de935511"
+  },
+  "views.notesviewsidebar.sort": {
+    "message": "Sırala",
+    "sourceHash": "cdeb92cd4ed4df7447effbaf4c396dbfdabbb02be550e9d45cacc705d293b7f1"
+  },
+  "views.notesviewsidebar.summary": {
+    "message": "Özet",
+    "sourceHash": "25bb0bb838b6b72b22b7fe103629336c656e0322655b9a0c4dd1ce32a724229c"
+  },
+  "views.notesviewsidebar.table": {
+    "message": "Tablo",
+    "sourceHash": "01a6a41eda9dd0cc8460db14e5bef7fed595fd669e2cd68610306f78c5169d6d"
+  },
+  "views.notesviewsidebar.updated": {
+    "message": "Güncellenme",
+    "sourceHash": "f4b22f54dfc93ad3d7ad2a82022a841044ea6c21698b118e737cfda4f15c8824"
+  },
+  "views.notetypedisplay.empty": {
+    "message": "Boş",
+    "sourceHash": "a6767f0eb4d493bc50180793b6e964248327a1422773d7a9f80a19d962835a40"
+  },
+  "views.notetypedisplay.unknownType": {
+    "message": "Bilinmeyen tür",
+    "sourceHash": "60ff372e0ff685087eb97eacac3f9cd1e1a7a5b35084e91bff298d7dbd424aa3"
+  },
+  "views.onboardingdialog.createCustomViewsToFilterAndOrganizeYourNotes": {
+    "message": "Notlarınızı filtrelemek ve düzenlemek için özel görünümler oluşturun",
+    "sourceHash": "881db0fa1fb415f1a406829ca17ffeca550be793cdf3931333846107d411b474"
+  },
+  "views.onboardingdialog.sortFilterAndGroupNotesBasedOnYourCriteria": {
+    "message": "Notları ölçütlerinize göre sıralayın, filtreleyin ve gruplayın",
+    "sourceHash": "be026e357005c226faef80120b8d16e00f7c27a1a926458bc5911e8e7cdcf6d5"
+  },
+  "views.onboardingdialog.usePropertiesAndMetadataToBuildDynamicCollections": {
+    "message": "Dinamik koleksiyonlar oluşturmak için özellikleri ve üst verileri kullanın",
+    "sourceHash": "685a3c71e47b8ba0d858133906345af8330861e83f10d7ed3d12c5b6c9ffc140"
+  },
+  "views.onboardingdialog.viewYourNotesInAStructuredTableFormat": {
+    "message": "Notlarınızı düzenli bir tablo biçiminde görüntüleyin",
+    "sourceHash": "a6c262c23ec6604a02ccbbe6dc5e82df4ad5742b6b3d9b44b9e61abfed3004fa"
+  },
+  "views.onboardingdialog.viewsAreSavedAutomaticallyAndUpdateInRealTimeAsYourNotesChange": {
+    "message": "Görünümler otomatik olarak kaydedilir ve notlarınız değiştikçe anlık olarak güncellenir.",
+    "sourceHash": "f7f5bd72b6256d6c482746ce3da36f1fb372dcae500d178f0660b0cf9f1ef28a"
+  },
+  "views.onboardingdialog.viewsHelpYouOrganizeAndVisualizeYourNotesInPowerfulWaysHereSWhatYouCanDo": {
+    "message": "Görünümler notlarınızı güçlü yollarla düzenlemenize ve görselleştirmenize yardımcı olur. Yapabilecekleriniz şunlardır:",
+    "sourceHash": "2208d882c3a03cdb67dd520a2355c5f6743d5cf42b065ebc59ef6033c99e8ecf"
+  },
+  "views.onboardingdialog.welcomeToViews": {
+    "message": "Görünümlere hoş geldiniz",
+    "sourceHash": "9d765ba7ff2936e71a509d61e1e8755fe08aa4c05e032af08fe5f0a5df25b05c"
+  },
+  "views.propertyselectorpopover.noGrouping": {
+    "message": "Gruplama yok",
+    "sourceHash": "aab51f208d84c34c64f69a31bb16cb7a85cbed304652fe96f5c60f2fd3ab096a"
+  },
+  "views.propertyselectorpopover.noPropertiesAvailable": {
+    "message": "Kullanılabilir özellik yok",
+    "sourceHash": "01a7bdc5712713dd592b0262d601e05e8b1f5cc28dd609dc07bc0acaff6223d7"
+  },
+  "views.propertyselectorpopover.noPropertiesFound": {
+    "message": "Özellik bulunamadı",
+    "sourceHash": "2a10c07143785b1403eba30f1ba228d3f7791173f036e5b897cf152d01b9e9ab"
+  },
+  "views.propertyselectorpopover.properties": {
+    "message": "Özellikler",
+    "sourceHash": "8bfdb4c2d270194126d44d3cfd1f707266c9f42628cee7a3ec37cd8bfb486af0"
+  },
+  "views.propertyselectorpopover.searchProperties": {
+    "message": "Özelliklerde ara...",
+    "sourceHash": "b87ccb623e33010bf5544122994f15ce41151d3359befa50513538fa41e82761"
+  },
+  "views.storage.copyName": {
+    "message": "{name} (Kopya)",
+    "sourceHash": "eed2cacf8291db1c8aa1e566279dab1549bf9cf2e6eb2517f15f75dc700cd888"
+  },
+  "views.storage.missingAfterUpdate": {
+    "message": "Güncellemeden sonra görünüm bulunamadı",
+    "sourceHash": "d9df5d49e3ede34f4af5f4f85505d270e4f3ced0e00f3ae2ce979422499f5895"
+  },
+  "views.storage.missingBeforeUpdate": {
+    "message": "Güncellemeden önce görünüm bulunamadı",
+    "sourceHash": "6261d7c835e9392c182dae71d21805903d69417b132d678e9d8df10e4f044603"
+  },
+  "views.storage.missingView": {
+    "message": "Görünüm bulunamadı",
+    "sourceHash": "d1ef98695b2bcad429a3bfe1d30be71f17dd014ce73c55f54aa8d2580240ef92"
+  },
+  "views.stringfilterinput.enterValue": {
+    "message": "Değer girin...",
+    "sourceHash": "855aa209faee6898a02c41b46ab9100a04c4bf5887fdb45a1b0c7bda098af2cc"
+  },
+  "views.summary.noteCount": {
+    "message": {
+      "one": "{count} not",
+      "other": "{count} not"
+    },
+    "sourceHash": "c51577bcdccf9c9c7827ae3161ccffd049f02acbcdd5ebd0e0e52042fe87cd60"
+  },
+  "views.textcell.empty": {
+    "message": "Boş",
+    "sourceHash": "00ea9a3a2c467cb12d1d0b55a70265f25fb28ef30361415ebe9063fa49efd5eb"
+  },
+  "views.textcell.openLink": {
+    "message": "Bağlantıyı aç",
+    "sourceHash": "ee69fa4e363e22e6a3e31f1fb1fcd9c4458bdd5c816ccb0a8ba774292cc3b2cc"
+  },
+  "views.usepropertyoperations.noWorkspacePathProvided": {
+    "message": "Çalışma alanı yolu belirtilmedi",
+    "sourceHash": "a265b55666389b1072704fdbf977055245fd288a0fc87a9747af6c5464f6e8b9"
+  },
+  "views.useviewnavigation.views": {
+    "message": "Görünümler",
+    "sourceHash": "71c81fea24f59f3e34acf5ae33b1c6e0761f86c565f3b8a06c4fa64b09051a69"
+  },
+  "views.useviewnavigation.workspace": {
+    "message": "Çalışma alanı",
+    "sourceHash": "e83f0c57631543300c6dab7bbd5136e6d34b87e9943f9ebce19bbcf2c00d19f1"
+  },
+  "views.useviewquery.cannotQueryAViewWithoutAWorkspaceAndView": {
+    "message": "Çalışma alanı ve görünüm olmadan görünüm sorgulanamaz",
+    "sourceHash": "5a1fb0742fd48cdeb57963567ee5becba0364a5753db7adea7ce41ddbaed021f"
+  },
+  "views.useviewquery.excelExportNotYetImplemented": {
+    "message": "Excel dışa aktarma henüz uygulanmadı",
+    "sourceHash": "a2380aa33609f204f30eb8db141035b68fcdd47fca1657b715535033ddf3f9ae"
+  },
+  "views.useviewquery.unsupportedFormatFormat": {
+    "message": "Desteklenmeyen biçim: {format}",
+    "sourceHash": "ae47c413c70ff6981f1de14ce6306464c3e4f0fc0b965e1f8dee52817139c3af"
+  },
+  "views.viewHeader.rich.search": {
+    "message": "Ara {shortcut}",
+    "sourceHash": "edf8d6695326f8224dcd2eea0cbfb3cb75ba02a6d8ee5198ba928b75757ed893"
+  },
+  "views.viewSettingsPopover.options.kanban": {
+    "message": "Kanban",
+    "sourceHash": "a218f9e48ae2a6924647a2d6519c97e26f3ad1beaa78f2b44799ea2b81250ef9"
+  },
+  "views.viewSettingsPopover.options.table": {
+    "message": "Tablo",
+    "sourceHash": "56868ad67f7e64ccebbfdfd0711739a6419f3565720142feca5508269f310eb7"
+  },
+  "views.viewheader.aViewNamedNametrimAlreadyExists": {
+    "message": "\"{nameTrim}\" adlı bir görünüm zaten var",
+    "sourceHash": "a5ccdda1d234e0fd5f96137fdec9ccfc70cad4e59f6f84d31b1350d36c6b0190"
+  },
+  "views.viewheader.cancel": {
+    "message": "İptal",
+    "sourceHash": "2868f7a88e927637449828c26639d96bea617d096e5385d11507af5026af69d9"
+  },
+  "views.viewheader.changeIcon": {
+    "message": "Simgeyi değiştir",
+    "sourceHash": "2e81cbd5c07c857ee9e0e21af007258c3db2e214fdbff928330d8f2fc560a22b"
+  },
+  "views.viewheader.countResults": {
+    "message": {
+      "one": "{count} sonuç",
+      "other": "{count} sonuç"
+    },
+    "sourceHash": "537c6db575655593d643e2c5973adddf41dc7a602342a020641d40ae3360d2d5"
+  },
+  "views.viewheader.deleteView": {
+    "message": "Görünümü sil",
+    "sourceHash": "97cb3bcc41f93e80d5a9c31d1bafa9c48d53a3967e3c446a8209ef8307dc42f7"
+  },
+  "views.viewheader.discardChanges": {
+    "message": "Değişiklikleri at",
+    "sourceHash": "f2df1760ba555ae2d6734fa3ab93e5a66c2921131d8b78c02c61769f27e19092"
+  },
+  "views.viewheader.loading": {
+    "message": "Yükleniyor…",
+    "sourceHash": "ecb4fe028187cf1f92b5cd2b9dea2af4d4c509061519fd1955e2b420a8d2234e"
+  },
+  "views.viewheader.refreshQuery": {
+    "message": "Sorguyu yenile",
+    "sourceHash": "c495a8e2a4bab44ba4a7ca0a0c93ded2ba885f9e9bbfffa45af46cdbb4838015"
+  },
+  "views.viewheader.save": {
+    "message": "Kaydet",
+    "sourceHash": "2f3902a662464212a5346c810e2613b7f476880f584ccd06e32978f61156a129"
+  },
+  "views.viewheader.searchRows": {
+    "message": "Satırlarda ara...",
+    "sourceHash": "574243288ef7173593db50179843e219a5f21833824bba696f1e759d4006f9a0"
+  },
+  "views.viewheader.showGraph": {
+    "message": "Grafiği göster",
+    "sourceHash": "467b04a0ec4797f7f525248806bc7829a5fe6f56bf4d9ad37b5d692218d2a293"
+  },
+  "views.viewheader.showTable": {
+    "message": "Tabloyu göster",
+    "sourceHash": "004178ab85b52a73f2712376c655ba4a81813cb5548d5d897c1bce7ecff57f5a"
+  },
+  "views.viewheader.viewActions": {
+    "message": "Görünüm eylemleri",
+    "sourceHash": "c5f1ffddb807172003edd1c8f4206871dcf2214ce292ed3be3754622d14e150c"
+  },
+  "views.viewheader.viewName": {
+    "message": "Görünüm adı",
+    "sourceHash": "155b7d106e80710a05a567a68f8ef312c6958ade767eaeefdd88866f58544a4a"
+  },
+  "views.viewheader.viewNameCannotBeEmpty": {
+    "message": "Görünüm adı boş olamaz",
+    "sourceHash": "372b848b2da17eb2fa45d5707ea8b6bdae49bd247de32f0101a4872069ee9009"
+  },
+  "views.viewsemptystate.createCustomViewsToFilterAndOrganizeYourNotes": {
+    "message": "Notlarınızı filtrelemek ve düzenlemek için özel görünümler oluşturun",
+    "sourceHash": "8c96e659d810709eb90c5a2a675bdde73dd15750c913c23b8ec3839d688b02d8"
+  },
+  "views.viewsemptystate.createNewView": {
+    "message": "Yeni görünüm oluştur",
+    "sourceHash": "48fb10bf808010a5547edb12a878b8531a23200b60724735564e11dcd413224a"
+  },
+  "views.viewsemptystate.documentation": {
+    "message": "Belgeler",
+    "sourceHash": "d74ef62ef051f1d2fccb4f9ae4fe6c2cbc59158867dce23ab449b5211ef47cdc"
+  },
+  "views.viewsemptystate.sortFilterAndGroupNotesBasedOnYourCriteria": {
+    "message": "Notlarınızı ölçütlerinize göre sıralayın, filtreleyin ve gruplayın",
+    "sourceHash": "0ec7defcb3c911011e1ad5161f5d6421caac0e6a57933d21c6cbe9ee4a48d179"
+  },
+  "views.viewsemptystate.usePropertiesAndMetadataToBuildDynamicCollections": {
+    "message": "Dinamik koleksiyonlar oluşturmak için özellikleri ve üst verileri kullanın",
+    "sourceHash": "7f4832f1ce5a0925e04f8ebe648878d9909a1d84f7b535a116066caecb561877"
+  },
+  "views.viewsemptystate.viewYourNotesInAStructuredTableFormat": {
+    "message": "Notlarınızı düzenli bir tablo biçiminde görüntüleyin",
+    "sourceHash": "8114f095d969bdc3ea1e2fe9f1a2b03c5f55f5d21491cccf968ab3992c4dd47d"
+  },
+  "views.viewsemptystate.viewsHelpYouOrganizeAndVisualizeYourNotesInPowerfulWays": {
+    "message": "Görünümler, notlarınızı güçlü yollarla düzenlemenize ve görselleştirmenize yardımcı olur.",
+    "sourceHash": "132a26dd57ce71c0613cea959e23f8e26466c123222ed7836f60213693f400f4"
+  },
+  "views.viewsettingspopover.ascending": {
+    "message": "Artan",
+    "sourceHash": "31b10c7cc00fd5ea086f672c2eb53a7804ede77b4b36b58cd6c1ac1d2d846bfb"
+  },
+  "views.viewsettingspopover.cardFields": {
+    "message": "Kart alanları",
+    "sourceHash": "ae7d0cc6ef5c1c86c7a88a16a611a3a33e65bdd80030205746a151dd8aa460cb"
+  },
+  "views.viewsettingspopover.columns": {
+    "message": "Sütunlar",
+    "sourceHash": "492e546c2ec73ae5ac66520ccea732ee9957cc8462de399d389d050d1ca3bc67"
+  },
+  "views.viewsettingspopover.countColumnsSelected": {
+    "message": {
+      "one": "{count} sütun seçildi",
+      "other": "{count} sütun seçildi"
+    },
+    "sourceHash": "088520b4d88eb170cc8a83a7ac9b2e74f71b9dab28fd3a1946bc03a1403cb38b"
+  },
+  "views.viewsettingspopover.countFieldsSelected": {
+    "message": {
+      "one": "{count} alan seçildi",
+      "other": "{count} alan seçildi"
+    },
+    "sourceHash": "e982ca847a371c9702d479ee51d070894a17f23ebf5297a79569417da49f8dd3"
+  },
+  "views.viewsettingspopover.descending": {
+    "message": "Azalan",
+    "sourceHash": "7278976b4a1a4d05b0fa9c2327cc51ecc420b2c822287aa066b45109d9d18eb8"
+  },
+  "views.viewsettingspopover.groupBy": {
+    "message": "Şuna göre grupla",
+    "sourceHash": "438157db75a741809c90c352082cb9787cf28821d16520117c0ee037044c3fb4"
+  },
+  "views.viewsettingspopover.groupByAFieldToEnableKanbanLayout": {
+    "message": "Kanban düzenini etkinleştirmek için bir alana göre gruplayın",
+    "sourceHash": "8a997c5308b644e0f6a2a091139bb9b09eb4cb8cc3c4163a57b535e81e8e6548"
+  },
+  "views.viewsettingspopover.layout": {
+    "message": "Düzen",
+    "sourceHash": "452e1988614e4c1a4c5164acef74a722ac30eb4c9ccedd5f0ee77e59cee175ee"
+  },
+  "views.viewsettingspopover.none": {
+    "message": "Yok",
+    "sourceHash": "553c99ac3751334c23f998dd69cfa785a61646d1b845d64395e62628f87bc353"
+  },
+  "views.viewsettingspopover.sortGroups": {
+    "message": "Grupları sırala",
+    "sourceHash": "da3b7688e11ec7322952f83c137b23c5ebdf98d2f731bab16b294169e710387e"
+  },
+  "views.viewsettingspopover.viewSettings": {
+    "message": "Görünüm ayarları",
+    "sourceHash": "2c7dfc877d65e93a3239d09e6fc64ddd66671ba6d61bff371b839b10fbc9895c"
+  },
+  "views.viewtab.loadingView": {
+    "message": "Görünüm yükleniyor...",
+    "sourceHash": "91217e8cc9b667938274f5d40ca01f462a63458639ffe57e35b5c16ac1fc679c"
+  },
+  "views.viewtab.noGraphNodesForThisView": {
+    "message": "Bu görünüm için grafik düğümü yok",
+    "sourceHash": "d2b7bd6cf4ec9631d554fbd43d385bc99e5802196692c47a358e3ba21e38fb7e"
+  }
+}

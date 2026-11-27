@@ -1,0 +1,13 @@
+{
+  "merge.destination": {
+    "message": "{title} notuyla birleştirildi. Özgün notlar korundu.",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "one": "{count} birleştirilmiş not Çöp Sepetine taşındı",
+      "other": "{count} birleştirilmiş not Çöp Sepetine taşındı"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}

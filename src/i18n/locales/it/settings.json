@@ -1,0 +1,4062 @@
+{
+  "settings.about": {
+    "message": "Informazioni",
+    "sourceHash": "332d86f7a8e07d0529872d1c06df16a76f8fc62f8a4b78e04ee5f741725a5149"
+  },
+  "settings.about.about": {
+    "message": "Informazioni",
+    "sourceHash": "4823f08b2f1116ea7625a0bea0cf8faaa94639f7fc2f63ceca4196c62839dd63"
+  },
+  "settings.about.bugsOrRequests": {
+    "message": "Bug o richieste",
+    "sourceHash": "43896867b59847b1e9ef9241fbb37cf3265b585cd5bbc11b1b96d8e1c18497ff"
+  },
+  "settings.about.checkForUpdates": {
+    "message": "Controlla aggiornamenti",
+    "sourceHash": "a3b31db3e1dd338100a6038a17d5710a79faa6d6609124c68edf2590fb979d5a"
+  },
+  "settings.about.currentVersion": {
+    "message": "Versione attuale",
+    "sourceHash": "147075723d42c89e46cb8daa7f950292be07692d5d8af7a56edfa696cc53bdb5"
+  },
+  "settings.about.developerNotes": {
+    "message": "Note per gli sviluppatori",
+    "sourceHash": "5cb6a2776363bd571e8c1ff679021c3a59ad94c5c9e3df7a0888c877ad8aefa3"
+  },
+  "settings.about.heyThanksForUsingOctarineTheProjectIsVery": {
+    "message": "Ehi, grazie per usare Octarine!{value}{value1}Il progetto è in piena fase di sviluppo e c'è moltissimo da fare, quindi se hai idee, commenti, domande, feedback, critiche o complimenti, mi farebbe piacere sentirli tutti.{value2} {value3}Sentiti libero di contattarmi su Twitter, come indicato sopra, o usa il pulsante Invia feedback qui sopra, e farò del mio meglio per rispondere.{value4}{value5}Nel frattempo, buona scrittura di note!",
+    "sourceHash": "e4a18c2034b9306b2648b22aacbabe7e78984c3f83a916467ff69f5d00373dc0"
+  },
+  "settings.about.iKnowOctarineIsnTAnywhereNearPerfectIf": {
+    "message": "So che Octarine è tutt'altro che perfetto! Se hai bug da segnalare o richieste di funzionalità, contattami!",
+    "sourceHash": "2fce9171f119581c249824478564df019cd051a975773cfa1e7d17a428e02d98"
+  },
+  "settings.about.madeWithLoveBy": {
+    "message": "Creata con amore da {link}",
+    "sourceHash": "5db79acaeb883ed6fcf2b18fb92d9d921c10a717991f02690fa0b1a8aa3196ea"
+  },
+  "settings.about.sendFeedback": {
+    "message": "Invia feedback",
+    "sourceHash": "f8623b6bc32295cab1d70908a807f29fd1478df3e075325e907cb187eea44a0b"
+  },
+  "settings.about.viewAppInformationVersionDetailsAndAcknowledgements": {
+    "message": "Visualizza informazioni sull'app, dettagli della versione e riconoscimenti.",
+    "sourceHash": "20b69c13678f95253e2fad90e0ae4d4e0187b0460ac705b8dce57c98bb4a86c3"
+  },
+  "settings.accounts": {
+    "message": "Account",
+    "sourceHash": "486afb13f4631009b64b20cd198d7d2f9cee90dcf45fab79e13c9d6e4713aa14"
+  },
+  "settings.ai.accounts.accounts": {
+    "message": "Account",
+    "sourceHash": "7aa48211d85ac828dcd9409e7b13d00d3c2ecad6d17f50d59304698296907bd8"
+  },
+  "settings.ai.accounts.connectProvidersManagedByTheOpenCodeCLIOnThis": {
+    "message": "Connetti i provider gestiti dalla CLI di OpenCode su questo computer.",
+    "sourceHash": "9485d46eeed795fc7a8ba30078cd129924f1526d83acb628ab710b6a5f5e4c8e"
+  },
+  "settings.ai.accounts.connectTheClaudeCodeCLIAccountOnThisComputer": {
+    "message": "Connetti l’account della CLI di Claude Code su questo computer.",
+    "sourceHash": "ba4940f2c83736f44c1ed92085aeee54fe154c879678dc0abab8433b15cc4dd0"
+  },
+  "settings.ai.accounts.upgradeToPro": {
+    "message": "Passa a Pro",
+    "sourceHash": "f6cfef41512c2249e008c0b89af490910149e1726c7ffb124836ee1c2b7b685f"
+  },
+  "settings.ai.accounts.useAssistantAccountsWithoutAddingAPIKeys": {
+    "message": "Usa gli account dell’assistente senza aggiungere chiavi API.",
+    "sourceHash": "2fce5eb5fa42610694752f08c44e8fe09e1057b73e5773b2a28b9749892d4556"
+  },
+  "settings.ai.accounts.useYourCodexCLIAccountForWritingAssistantAnd": {
+    "message": "Usa il tuo account della CLI di Codex per l’Assistente di scrittura e Ask Octarine.",
+    "sourceHash": "ab214b09d6143f0da209674df6ba0807f239d732a3bdbaa99103caa70a06b5af"
+  },
+  "settings.ai.ignored.askOctarineExclusions": {
+    "message": "Esclusioni di Ask Octarine",
+    "sourceHash": "4cae41168764a6a73605dd651810211dabd2b59884d2c549485f5cb5ab6e478c"
+  },
+  "settings.ai.ignored.available": {
+    "message": "{value} disponibili",
+    "sourceHash": "8c8639bd491c6d120b00e32ccad5718846d44c51110ee55e6f09dd8eeb27381e"
+  },
+  "settings.ai.ignored.daily": {
+    "message": "Giornaliera",
+    "sourceHash": "7c57806d5885045025c3acd9ea4e4d7907ec72ec9b499a12c5f6fe7e32cd2874"
+  },
+  "settings.ai.ignored.everythingVisibleHereIsAlreadyIgnored": {
+    "message": "Tutto ciò che è visibile qui è già ignorato.",
+    "sourceHash": "f68e4a9e4b4bc4d51ee27b37a4165f1b03375e2782b0518ba360aba441308103"
+  },
+  "settings.ai.ignored.excludedFoldersAndNotesAreNotIndexedByAsk": {
+    "message": "Le cartelle e le note escluse non vengono indicizzate da Ask Octarine e non compaiono tra i suggerimenti di contesto di Ask.",
+    "sourceHash": "759ab6bd473ee34486a905d7634a1c62e9165188edcb27bf2ff9c2a45ac5123d"
+  },
+  "settings.ai.ignored.foldersAndNotes": {
+    "message": "Cartelle e note",
+    "sourceHash": "cee310b29003f1c5e0bd9df33b8da4b70c599a1086ef4f520900f9d152c65d14"
+  },
+  "settings.ai.ignored.ignored": {
+    "message": "{value} ignorati",
+    "sourceHash": "856adc5840aab13cd1a788b3669ea1503a32c3cbc69c36dd1d13d011fada2aed"
+  },
+  "settings.ai.ignored.ignoredByAskOctarine": {
+    "message": "Ignorato da Ask Octarine",
+    "sourceHash": "56324973e9debd7139fd8349c74a27e62ded67c905c9841d7ac22aa0a0d5bd0e"
+  },
+  "settings.ai.ignored.inbox": {
+    "message": "In arrivo",
+    "sourceHash": "4aa73b608ae38eff43665553286a365c3c3885bf5b6a4e8734e0d88dc3d049fc"
+  },
+  "settings.ai.ignored.noMatchingFoldersOrNotes": {
+    "message": "Nessuna cartella o nota corrispondente.",
+    "sourceHash": "1ec07348f3b620e0b19bdeacbe1cc4c0a97f9d1795de7393560b98a209b77404"
+  },
+  "settings.ai.ignored.nothingIsIgnoredYet": {
+    "message": "Non è ancora ignorato nulla.",
+    "sourceHash": "eb304208a783f7b20ceab00cf9417ed39b5b184b15f9efa0ca3838942e3d77a3"
+  },
+  "settings.ai.ignored.remove": {
+    "message": "Rimuovi {id}",
+    "sourceHash": "e6ad9aaf68ee8d110afacc51c987863d5d1d3a840572e0ece85120ad5e03f071"
+  },
+  "settings.ai.ignored.searchFoldersAndNotes": {
+    "message": "Cerca cartelle e note",
+    "sourceHash": "c45972d3919f3027915ba3e93143d1fe6796f3de129fb6ab05e9d3a7d4057c1c"
+  },
+  "settings.ai.ignored.templates": {
+    "message": "Modelli",
+    "sourceHash": "e3e8ef49dc0fbebcda26bd2ee5706388d24e63f70e4bce425d0f77b135feedd0"
+  },
+  "settings.ai.providers.aPIProviders": {
+    "message": "Provider API",
+    "sourceHash": "6fdd992d9c556d7d74fa9279e8ab3951a389d96544e1e13a35d359e4da75835f"
+  },
+  "settings.ai.providers.configureModelProvidersAPIKeysAndCustomEndpoints": {
+    "message": "Configura provider di modelli, chiavi API ed endpoint personalizzati.",
+    "sourceHash": "64ddf28ce2a909e6a9a2168a12356a15ce211a92e7afb48fe74493c9cf9fac27"
+  },
+  "settings.ai.providers.custom": {
+    "message": "Personalizzato",
+    "sourceHash": "326edbaf2a72fc176825a0a223c7f83c424783b675da783038be56b3d04bf085"
+  },
+  "settings.ai.providers.default": {
+    "message": "Predefinito",
+    "sourceHash": "fa02e0bce1cb88a66308cc80043f7ecd0c505cd2a7f1d0ba4634a37b9ff80c73"
+  },
+  "settings.ai.providers.newCustomProvider": {
+    "message": "Nuovo provider personalizzato",
+    "sourceHash": "327e7bf12d447012019a6b09d147edcd7ef4af5566147997ad45a0b015720186"
+  },
+  "settings.ai.providers.upgradeToPro": {
+    "message": "Passa a Pro",
+    "sourceHash": "d496d6077d6fb77bc0d72cd6ea620dd2cb975dc1a93b2614c94c0fee740409bb"
+  },
+  "settings.ai.skills.backToSkills": {
+    "message": "Torna alle skill",
+    "sourceHash": "ba11db72641a8fb55e155ecea8f3b8d783bc0d00083db0a35c7f2465e83705c8"
+  },
+  "settings.ai.skills.cancel": {
+    "message": "Annulla",
+    "sourceHash": "c7d142bf42123e2c68d6cb58604e51f6d0e6392dde5c44dff9d76b7f32836e8b"
+  },
+  "settings.ai.skills.createSkill": {
+    "message": "Crea skill",
+    "sourceHash": "641867115c6eb725d32643d91719d3dfaf99066baa95a33268aad287c4059dad"
+  },
+  "settings.ai.skills.createYourFirstSkill": {
+    "message": "Crea la tua prima skill",
+    "sourceHash": "31936668f7f24ab3f0fa8d1366f67b226f0ceb3da907a48c574083a1451d7b27"
+  },
+  "settings.ai.skills.deleteSkill": {
+    "message": "Elimina skill",
+    "sourceHash": "8ed6e2c68995e8845b9d0e0b5d6eefd8ad6b804b30fa71da72f18cd9a6338613"
+  },
+  "settings.ai.skills.description": {
+    "message": "descrizione",
+    "sourceHash": "7f3f7276ffb094c7198fe16bab5414be171dcb59fc59c24f3c26364e75d3122e"
+  },
+  "settings.ai.skills.discoveryError": {
+    "message": "Impossibile rilevare le skill: {error}",
+    "sourceHash": "70c663939193bea0dd412938d32b0b599084e489d1c3fd6cd5c6fba07e8fedcb"
+  },
+  "settings.ai.skills.edit": {
+    "message": "Modifica",
+    "sourceHash": "4fe6dc56d87e4a0a5a73f1a0a3018665779d6a97ce178a7a232cc78feaccd9f0"
+  },
+  "settings.ai.skills.explainWhatThisSkillDoesAndWhenItShould": {
+    "message": "Spiega cosa fa questa skill e quando dovrebbe essere usata.",
+    "sourceHash": "b6c6b716d9674d5e140b4bf68a25558e7af8817f9be4ec26ebb79cf898e60c28"
+  },
+  "settings.ai.skills.failedToCreateSkill": {
+    "message": "Creazione della skill non riuscita",
+    "sourceHash": "56736298a38e29bb6f467d37760e64385d9dbd0075bdadc2f7004ba136189258"
+  },
+  "settings.ai.skills.failedToDeleteSkill": {
+    "message": "Eliminazione della skill non riuscita",
+    "sourceHash": "740443441bf70209040050fff3817480f36819c12d065bc391ef38767662aba0"
+  },
+  "settings.ai.skills.failedToSaveSkill": {
+    "message": "Salvataggio della skill non riuscito",
+    "sourceHash": "3c26e15e2210d307c327e970c6b1e4902154a52d642cb12cae77cbc9f9d10f19"
+  },
+  "settings.ai.skills.importIntoWorkspace": {
+    "message": "Importa nello spazio di lavoro",
+    "sourceHash": "f098936bc7a941c7ef233e4b0da3f8e5c6d459fb852e1b370aae0b94e8a6684a"
+  },
+  "settings.ai.skills.inThisWorkspace": {
+    "message": "In questo spazio di lavoro",
+    "sourceHash": "6de43941802194b828e74e6693d54b5f7d881e1da2a91ca109ab6148f89ee20f"
+  },
+  "settings.ai.skills.instructionsExample": {
+    "message": "# Flusso di lavoro\n\nDescrivi i passaggi, i vincoli e l’output che questa skill deve seguire.",
+    "sourceHash": "2bc71d505a7326e48057b29de1b052c236866a36e36c4f1cbde5aec587d50ca7"
+  },
+  "settings.ai.skills.loadingSkills": {
+    "message": "Caricamento skill…",
+    "sourceHash": "062e32f8e79efc91d1589d823cd8fb7de2a605b4986fda8adbb7c9ab06f18475"
+  },
+  "settings.ai.skills.name": {
+    "message": "nome",
+    "sourceHash": "4e39ff6dac566c5599f3d06829b902df83ed8401849bd9137d2819bb4952f3b4"
+  },
+  "settings.ai.skills.newSkill": {
+    "message": "Nuova skill",
+    "sourceHash": "4831f171f2f1e43d6b59ba92bdefc219f15b7dfcaad67a518b3d10910fe35a7d"
+  },
+  "settings.ai.skills.noDescription": {
+    "message": "Nessuna descrizione",
+    "sourceHash": "e35c9540d726f1e1c9b878858e1e2131336298bd74e58a28f600fcd05366dada"
+  },
+  "settings.ai.skills.noSkillsFound": {
+    "message": "Nessuna skill trovata",
+    "sourceHash": "dc217e968a349d6bd35f52fa6e3a2cf394bfae01ac02da0e6b410b09b6bf0ac3"
+  },
+  "settings.ai.skills.noSkillsFoundInTheStandardDirectories": {
+    "message": "Nessuna skill trovata nelle cartelle standard.",
+    "sourceHash": "1a87983b210e039cde2bbaad34f4ff940c880ac3d0be72f9fae8746733a23fe6"
+  },
+  "settings.ai.skills.onThisDevice": {
+    "message": "Su questo dispositivo",
+    "sourceHash": "20767870b9dabd210d461d9633a73a2b2516e3fedbe83554b10e006a919341e0"
+  },
+  "settings.ai.skills.refresh": {
+    "message": "Aggiorna",
+    "sourceHash": "6a7daf3627728ebd20338f45934ac91594b516e9aac3c2a3204a45033f1c4d18"
+  },
+  "settings.ai.skills.researchSynthesizer": {
+    "message": "research-synthesizer",
+    "sourceHash": "17de68bc07a642b80417e459e60e8e46b7491427d60e4bb4b19ff545757353c1"
+  },
+  "settings.ai.skills.reusableMarkdownInstructionsThatGuideYourAIWorkflows": {
+    "message": "Istruzioni Markdown riutilizzabili che guidano i tuoi flussi di lavoro con l’AI.",
+    "sourceHash": "1dbe250fefadb68778b8496c92f091b0709b08c4585cdd493e297a37fe0b4249"
+  },
+  "settings.ai.skills.saveChanges": {
+    "message": "Salva modifiche",
+    "sourceHash": "9321065870c039c165d29201decaf3af0c9df9b6b259b8bdd3a1bec01ae77dde"
+  },
+  "settings.ai.skills.searchSkills": {
+    "message": "Cerca skill",
+    "sourceHash": "c4db467aefd2cbce78f79ce36a14d67e42a60b638343e00ab0bdbc6996548de4"
+  },
+  "settings.ai.skills.skillCreatedSuccessfully": {
+    "message": "Skill creata con successo",
+    "sourceHash": "6adb859f8c4ba21d821a766ebdd5becbec9ae98f86dfff95b65399f0407918a7"
+  },
+  "settings.ai.skills.skillDeletedSuccessfully": {
+    "message": "Skill eliminata con successo",
+    "sourceHash": "6ee82aca7fc2b40ea78263bb0bffb9a7f700e160daff208f0e78e0bece3ed9d8"
+  },
+  "settings.ai.skills.skillInstructions": {
+    "message": "Istruzioni della skill",
+    "sourceHash": "b184e452289feca81d80ffdd4e13278982aaa5ef8655ee08fc2c1dab3b3178ac"
+  },
+  "settings.ai.skills.skillSavedSuccessfully": {
+    "message": "Skill salvata con successo",
+    "sourceHash": "3f7ec6d5f503dc910a35a1ad483421b68348a0eb6bb603d21ab011dadeb1f216"
+  },
+  "settings.ai.skills.skillsArePortableMarkdownNotesWithReusableInstructionsFor": {
+    "message": "Le skill sono note Markdown portabili con istruzioni riutilizzabili per i tuoi flussi di lavoro con l’AI.",
+    "sourceHash": "2f1a0d50c1190dfb5a718f94e5cec58201047c3561f78ebb087c973d99f005b0"
+  },
+  "settings.ai.skills.skillsCouldNotBeLoaded": {
+    "message": "Impossibile caricare le skill",
+    "sourceHash": "901d971a192712dcb7a0800d2c6567f92afeaae6a9ca6dc4aa1ae3dcd861f31d"
+  },
+  "settings.ai.skills.skillsFromCursorOpenCodeClaudeCodexAndSharedAgents": {
+    "message": "Skill da Cursor, OpenCode, Claude, Codex e dalle cartelle condivise .agents nella tua home e nello spazio di lavoro corrente. Importa copia solo le istruzioni Markdown; i file di supporto e le funzionalità specifiche dei singoli strumenti non vengono installati.{value}{value1}",
+    "sourceHash": "65883d0ba4e70566e7eba14e2f94db87c6cfa5bbbe03304e8ef04650667dfb6d"
+  },
+  "settings.ai.skills.skillsTitle": {
+    "message": "Skill AI",
+    "sourceHash": "34a463e4ada1d4f34fc9b81c6e2d4949348df8236afa521ab299d309dd362079"
+  },
+  "settings.ai.skills.tryADifferentSearch": {
+    "message": "Prova una ricerca diversa.",
+    "sourceHash": "acab62c3655aa46fecc31b92733ff4bef69467801a41b9d77a7886d6b1c5d614"
+  },
+  "settings.ai.skills.upgradeToPro": {
+    "message": "Passa a Pro",
+    "sourceHash": "6740dda841fbc58fe9eb42ecfa05b958c89273781679c2c525e480e6a482fcda"
+  },
+  "settings.ai.skills.viewImport": {
+    "message": "Visualizza / importa",
+    "sourceHash": "814b67e3fc349a55a1d02a2290d6e7d009627a9856f5ef6334619e5397ae8945"
+  },
+  "settings.ai.slash-commands.atLeastOneCommandIsRequired": {
+    "message": "È richiesto almeno un comando",
+    "sourceHash": "4d87e6e26715137a472f62d603efd6a03b370e4f57525cc84b83ab312f5e624c"
+  },
+  "settings.ai.slash-commands.backToCommands": {
+    "message": "Torna ai comandi",
+    "sourceHash": "f829409c70b8b40fcd61368c5ad78e0d9edbe56b5fab56d74d0a4ba66a31a9bf"
+  },
+  "settings.ai.slash-commands.cancel": {
+    "message": "Annulla",
+    "sourceHash": "e3fb88a862695d8de0e6c402dccd4e1f142b55c4b2dce63528a189ea19e5406b"
+  },
+  "settings.ai.slash-commands.commandsTurnRepeatableInstructionsIntoShortcutsInTheWriting": {
+    "message": "I comandi trasformano istruzioni ripetibili in scorciatoie nell’Assistente di scrittura.",
+    "sourceHash": "f4739dd12236573987c2574b551fc4236a70bed0f4610c5527526154ea722540"
+  },
+  "settings.ai.slash-commands.createCommand": {
+    "message": "Crea comando",
+    "sourceHash": "d0fe39eaece1c1ebada3429e3e366bab89de503182de7e45743f184a13380ec5"
+  },
+  "settings.ai.slash-commands.createYourFirstCommand": {
+    "message": "Crea il tuo primo comando",
+    "sourceHash": "72ad4fae13c96ca3672fba5df85d5fe3b59baa4e6accee249b4491e5918df4ff"
+  },
+  "settings.ai.slash-commands.deleteCommand": {
+    "message": "Elimina comando",
+    "sourceHash": "e876ba08a1732382ee5c6c86903e40b6290983b57a10ebcacc653257cbad7f13"
+  },
+  "settings.ai.slash-commands.failedToCreateSlashCommand": {
+    "message": "Impossibile creare il comando slash",
+    "sourceHash": "1b7447629536d20d142ce134d70571c9b64386ae608ae40bf9023b37df83bbe9"
+  },
+  "settings.ai.slash-commands.failedToDeleteSlashCommand": {
+    "message": "Impossibile eliminare il comando slash",
+    "sourceHash": "862230c18fb78feabba9261ddbd7cd2bd8ff7e538b953c294936623a9ab4cb53"
+  },
+  "settings.ai.slash-commands.failedToSaveSlashCommand": {
+    "message": "Impossibile salvare il comando slash",
+    "sourceHash": "88f5e1b1cf5c9a77dc79dff5f103d91980f9aa172f675e9bc548d8ab9ceeff3d"
+  },
+  "settings.ai.slash-commands.loadingCommands": {
+    "message": "Caricamento dei comandi…",
+    "sourceHash": "4554e68dbaa2aa4fdfdeaa1b891ce1099a5808c761c52daf54ae8f04b1b9256d"
+  },
+  "settings.ai.slash-commands.name": {
+    "message": "nome",
+    "sourceHash": "435c52574b983892c64a22e9dad39606e86f340b4310d395ecc038a137b1cd02"
+  },
+  "settings.ai.slash-commands.newCommand": {
+    "message": "Nuovo comando",
+    "sourceHash": "ed4b8ce4639a7637f4f349f705187292f9692590e500b78037a4e6fa6bd34bc7"
+  },
+  "settings.ai.slash-commands.noCommandsFound": {
+    "message": "Nessun comando trovato",
+    "sourceHash": "15d582b5957dc495f032f692bd5de8fa7f654b8699b953c8426457c5e572fbf9"
+  },
+  "settings.ai.slash-commands.prompt": {
+    "message": "prompt",
+    "sourceHash": "aee6871fd6b8c2f9b81cf912c57b12cf79d2207cedd30f26caf7619aac27103e"
+  },
+  "settings.ai.slash-commands.reusablePromptsThatRunFromTheWritingAssistant": {
+    "message": "Prompt riutilizzabili eseguiti dall’Assistente di scrittura.",
+    "sourceHash": "30f111a8da4744e688b47a9350e23200d228c6c9a1b2908aa5147c675a882a7d"
+  },
+  "settings.ai.slash-commands.saveChanges": {
+    "message": "Salva modifiche",
+    "sourceHash": "81d9462567e4e2c8249bc5bfcef99abb1478db2d94f9a961221aac2232f309c6"
+  },
+  "settings.ai.slash-commands.searchCommands": {
+    "message": "Cerca comandi",
+    "sourceHash": "9be93878184e254f02584ac20f9c5aac9fd8d4447eeae1a3ed3e3fd6396089f1"
+  },
+  "settings.ai.slash-commands.slashCommandCreatedSuccessfully": {
+    "message": "Comando slash creato con successo",
+    "sourceHash": "8c17627a4858d27bcf34e90effd53e02fdea305d462b6b8980426b78e4958c79"
+  },
+  "settings.ai.slash-commands.slashCommandDeletedSuccessfully": {
+    "message": "Comando slash eliminato con successo",
+    "sourceHash": "c6810f9895ebed2069b4c59bd3a13d0385c5d81d9df9dc48dd54f1791e301852"
+  },
+  "settings.ai.slash-commands.slashCommandSavedSuccessfully": {
+    "message": "Comando slash salvato con successo",
+    "sourceHash": "a8e56a5d9798d498b74049697ba8b1f1bdabb88f462eb4b1eeecf24addbf8011"
+  },
+  "settings.ai.slash-commands.slashCommandsCouldNotBeLoaded": {
+    "message": "Impossibile caricare i comandi slash",
+    "sourceHash": "ee72bddd2bf58e2eab6581204fb309ca3e33f262f12f3ed4809d0ff056954b8d"
+  },
+  "settings.ai.slash-commands.slashCommandsTitle": {
+    "message": "Comandi slash",
+    "sourceHash": "b59800d61aafd9643621f6512cf0813f2d2f9ae96115105f4b0f5d422c7e8a0d"
+  },
+  "settings.ai.slash-commands.summarize": {
+    "message": "Riassumi",
+    "sourceHash": "a8c19bbe0050a5ddd46b0a59e81295180c9a1b5d49eee6eff68650d769ddc627"
+  },
+  "settings.ai.slash-commands.tryADifferentSearch": {
+    "message": "Prova una ricerca diversa.",
+    "sourceHash": "3ffc4e8269effadf4cfe8215f76fd5e172264fbae4ac35abad47975e2d683ac1"
+  },
+  "settings.ai.slash-commands.turnTheSelectedTextIntoAConciseSummaryWith": {
+    "message": "Trasforma il testo selezionato in un riepilogo conciso con prossimi passi chiari.",
+    "sourceHash": "a96e109d677f7ed870801733a8b8a588a0be394df2b5cf254e84fcc9853cecfd"
+  },
+  "settings.ai.slash-commands.upgradeToPro": {
+    "message": "Passa a Pro",
+    "sourceHash": "21fbcb8f811fac2da4baeedbeaa6c1984901be5f48c945f492f3ac0120794198"
+  },
+  "settings.apiProviders": {
+    "message": "Provider API",
+    "sourceHash": "2a7094b5913bc4b0f00b22ac91b4f2efba0949b664e82186bdf0cb13c00075ff"
+  },
+  "settings.app.alwaysOnTop": {
+    "message": "Sempre in primo piano",
+    "sourceHash": "885b64eba8ce60959ee57a681cba5f0f27527ff5e8306e1e368376920d4b22d8"
+  },
+  "settings.app.controlAppLevelWindowBehavior": {
+    "message": "Controlla il comportamento delle finestre a livello di app.",
+    "sourceHash": "a9e0606fd8e34d21ae6b7f6919a667036dc182cdca1e5ae96f789a3f997d7d1e"
+  },
+  "settings.app.donTShowSystemTray": {
+    "message": "Non mostrare nella barra di sistema",
+    "sourceHash": "90cf1e258f7398348aa87f20374a3e57d2e2810b64b50be02362f344f7609080"
+  },
+  "settings.app.hideAppMenu": {
+    "message": "Nascondi menu dell’app",
+    "sourceHash": "28093bacbc6c3cd7ca829b9a745e7aac3ca18b61e9721d5bc98698592395b5da"
+  },
+  "settings.app.hideTheInboxSystemTrayAndDisableQuickCapture": {
+    "message": "Nascondi l’icona di In arrivo nella barra di sistema e disattiva Appunto rapido in tutti gli spazi di lavoro",
+    "sourceHash": "4100f0d5fe8672081a9661af064129c88849fe3ae60cd0b6c6c76937825b7133"
+  },
+  "settings.app.hideTheWindowsAppMenuWhileKeepingWindowControls": {
+    "message": "Nascondi il menu dell’app Windows mantenendo i controlli della finestra accanto al pulsante della barra laterale",
+    "sourceHash": "5b162694996347b441c4dff9c54ae7717b3930a0995c17018be24de2d0e9d30b"
+  },
+  "settings.app.keepTheWindowAlwaysOnTopOfOtherWindows": {
+    "message": "Mantieni la finestra sempre sopra le altre finestre",
+    "sourceHash": "15872c8f73e549ad238b8e8f27d542bc95e41bb1b4cf79364853b9389555665c"
+  },
+  "settings.app.window": {
+    "message": "Finestra",
+    "sourceHash": "d84d602e06db4c099e06d6a23beaad2e6abb615047367160c4cdcf107af17755"
+  },
+  "settings.assistant.cliAccount.authentication": {
+    "message": "Autenticazione: {value}",
+    "sourceHash": "c86c43e870873c620eb8157ac8df368f336f8ee0009ae0914d7d442d4793073f"
+  },
+  "settings.assistant.cliAccount.authenticationIsHandledByTheOfficialCLICredentialsNever": {
+    "message": "L'autenticazione è gestita dalla CLI ufficiale; le credenziali non entrano mai in Octarine.",
+    "sourceHash": "3335f16f2c574c2ce7fb98933d5a12c23ad239e2a0b816ed47b2c19d52e7d261"
+  },
+  "settings.assistant.cliAccount.availableInTheModelSelectorForWritingAssistantAnd": {
+    "message": "Disponibile nel selettore del modello per Assistente di scrittura e Ask Octarine. Le richieste passano dalla CLI locale {name}; le credenziali restano nella CLI.",
+    "sourceHash": "d8f9e7d520342670c1a1a1daeecca28e6d3066da225a8895dc2297fc87d3b997"
+  },
+  "settings.assistant.cliAccount.cLIIsInstalledButNotSignedIn": {
+    "message": "La CLI di {name} è installata ma non hai effettuato l'accesso.",
+    "sourceHash": "568d19bf4ded11f27f79c0dae25be78c362b2b94ac7254dfa0f7d3c021fc1d1e"
+  },
+  "settings.assistant.cliAccount.cLIWasNotFoundInstallItThenRefreshStatus": {
+    "message": "La CLI di {name} non è stata trovata. Installala, poi aggiorna lo stato.",
+    "sourceHash": "73bd18ccb1db57bbc61853da06cd7c145953557a0d4dccfa877b5506f24983a7"
+  },
+  "settings.assistant.cliAccount.checkingTheCLI": {
+    "message": "Verifica della CLI di {name}...",
+    "sourceHash": "a52a3dac16a785762567a313fc8ca1990be6007f8ec064d8aca6b81a2349c13f"
+  },
+  "settings.assistant.cliAccount.completeLoginInTheTerminalThenRefreshStatus": {
+    "message": "Completa l'accesso a {name} nel Terminale, poi aggiorna lo stato.",
+    "sourceHash": "a77bacf93d9b2a4826531d6cdc0aebb6275e73ba15c4baa5740b8b3c9a7a207e"
+  },
+  "settings.assistant.cliAccount.connected": {
+    "message": "Connesso",
+    "sourceHash": "c21aed2f2f0e37160eb10c91587e2a9f87ecae8274e606e1b5e81472743be7c8"
+  },
+  "settings.assistant.cliAccount.connectedProviders": {
+    "message": "Fornitori connessi: {value}",
+    "sourceHash": "5684f729fc5cd516f5008da53ce536e6b1992965f8c6ee39c46c4739b649958c"
+  },
+  "settings.assistant.cliAccount.connection": {
+    "message": "Connessione",
+    "sourceHash": "1a7cacafb0da4c44fabb3f3c23a7e482ea761a9a8e967573d70661fea2a03fb2"
+  },
+  "settings.assistant.cliAccount.openLogin": {
+    "message": "Apri accesso a {name}",
+    "sourceHash": "13ce8ab16e38c9236e8fed540e814c4b35f18850cb2d704b85692971e41e11f0"
+  },
+  "settings.assistant.cliAccount.openingTerminal": {
+    "message": "Apertura del Terminale...",
+    "sourceHash": "cb80639eb61d28804d8f57ff21e3c0255fa6126d7ff4a87ade1fcebfa10f654e"
+  },
+  "settings.assistant.cliAccount.refreshStatus": {
+    "message": "Aggiorna stato",
+    "sourceHash": "5e351201b76a6da2acd4289672777402d9bbc196875990bf4991a7659afaf16e"
+  },
+  "settings.assistant.cliAccount.setupDocs": {
+    "message": "Documentazione di configurazione",
+    "sourceHash": "b21ee19b73757ad24905b4e26ddbfd039e55fb6f1502994df03fb07ace730e83"
+  },
+  "settings.assistant.codex.codexCLIIsNotConnectedYet": {
+    "message": "La CLI di Codex non è ancora connessa.",
+    "sourceHash": "c4efbc5f5e8d19a570ef70966c069151c89816a386c45bc558c3a582e03246f3"
+  },
+  "settings.assistant.codex.codexCLINeedsAuthentication": {
+    "message": "La CLI di Codex richiede l'autenticazione.",
+    "sourceHash": "73468d43abff1bfd0d23d8faf2e7de27153dd1f96e746764f7b4d734f33a8453"
+  },
+  "settings.assistant.codex.codexCLISetupDocs": {
+    "message": "Documentazione di configurazione della CLI di Codex",
+    "sourceHash": "af8ea77d8ebcdfdb478ae9edff2a39a47f9d338e5337b581573dfb42fe250646"
+  },
+  "settings.assistant.codex.codexStatusRefreshed": {
+    "message": "Stato di Codex aggiornato.",
+    "sourceHash": "1b55cdcf489411ac39f053b377b115d93dfdf52afde6cf6b4b55f26ec5c07c92"
+  },
+  "settings.assistant.codex.completeCodexLoginInTheTerminalThenRefreshStatus": {
+    "message": "Completa l'accesso a Codex nel Terminale, poi aggiorna lo stato.",
+    "sourceHash": "ff3cd137ce3554e1e7d7e92c350acb3e13363c67502b1f474ae7b11fddfbe347"
+  },
+  "settings.assistant.codex.connected": {
+    "message": "Connesso",
+    "sourceHash": "2c1140490b754dc77e0bc406c0a5c7717003623bba9e0bc76e6f571e0dedeb73"
+  },
+  "settings.assistant.codex.connection": {
+    "message": "Connessione",
+    "sourceHash": "442eac4ac45eb276d2dae6f5ab3aa4c76790312b0f9df2084e48d6490013d815"
+  },
+  "settings.assistant.codex.localCodexAppServerTokensStayInTheCodex": {
+    "message": "Server app Codex locale. I token restano nella CLI di Codex.",
+    "sourceHash": "e97f1c92c63ba7e047b6a0bf21f6c6572aa7364ba0dabc43474547e75e17dd58"
+  },
+  "settings.assistant.codex.octarineHasNotReachedTheCodexCLIYet": {
+    "message": "Octarine non ha ancora raggiunto la CLI di Codex.",
+    "sourceHash": "b35f3a61649a62ebe2afb3498113c0058248c336eff2ceaa3e669c5a32f3e1e8"
+  },
+  "settings.assistant.codex.openCodexLoginInTerminal": {
+    "message": "Apri accesso a Codex nel Terminale",
+    "sourceHash": "310a34f274e3ecad2046201cca65245e044d54c15bc0c797e58a35498db304c2"
+  },
+  "settings.assistant.codex.plan": {
+    "message": "Piano: {value}",
+    "sourceHash": "bf20259f0a97343d6f5df9b32ea5efaa45b318339abb70f134f76b58ecb9e5f9"
+  },
+  "settings.assistant.codex.primaryUsage": {
+    "message": "Utilizzo principale: {value}",
+    "sourceHash": "521c5da91194826d17af5f23596a188c16b74cace58d8eef7c4e229a5efd985b"
+  },
+  "settings.assistant.codex.refreshCodexStatus": {
+    "message": "Aggiorna stato di Codex",
+    "sourceHash": "bb0c250484eb8c1421636b238718c5309445f301250987d93a53b21732d35676"
+  },
+  "settings.assistant.codex.refreshing": {
+    "message": "Aggiornamento...",
+    "sourceHash": "5c5500cf01b9eb24e78e2a89ab98cd89b865e35b8b5d59fb3f8b3b899156a6cc"
+  },
+  "settings.assistant.codex.signedInAs": {
+    "message": "Accesso eseguito come {value}",
+    "sourceHash": "96089f2f4ffc8e563864e664d49cb4e54db238b57025cf0b4e1998e99e230cce"
+  },
+  "settings.assistant.customEndpoints.aPIKeyCopiedToClipboard": {
+    "message": "Chiave API copiata negli appunti",
+    "sourceHash": "651535879504e091ee09211cd1d8a2400e85e1baa9434fe755e80f4eed693a63"
+  },
+  "settings.assistant.customEndpoints.aPIKeyIsRequiredForRemoteEndpoints": {
+    "message": "La chiave API è obbligatoria per gli endpoint remoti",
+    "sourceHash": "01faffbbd961f541dfd52dd22e9a19fb5f2a4eb836a70503567f49fcb77eba60"
+  },
+  "settings.assistant.customEndpoints.aPIKeyOptional": {
+    "message": "Chiave API (facoltativa)",
+    "sourceHash": "35128e159394f081032ab955722c76739aa85d11a4c9dcdf31a510a514a064d3"
+  },
+  "settings.assistant.customEndpoints.apiKey": {
+    "message": "Chiave API",
+    "sourceHash": "e1cf538462660c81be4fbe40193fcbe45d5c8f281dc28448e9306962e39170a4"
+  },
+  "settings.assistant.customEndpoints.baseURL": {
+    "message": "URL di base",
+    "sourceHash": "2eea41bf77e142bc3d12d86a79accc876ab77c733387b5dcdb1b886533bf04d7"
+  },
+  "settings.assistant.customEndpoints.baseUriRequired": {
+    "message": "L'URI di base è obbligatorio",
+    "sourceHash": "b5349a1d7e80feb4579ba573728441f2363a7442a2170d8eff7830d3f0b539ef"
+  },
+  "settings.assistant.customEndpoints.baseUriTrailingSlash": {
+    "message": "L'URI di base non deve terminare con una barra",
+    "sourceHash": "968127c14b91809c8dd35580b8de572204176696549c673e70e6441c86d7bb7d"
+  },
+  "settings.assistant.customEndpoints.cancel": {
+    "message": "Annulla",
+    "sourceHash": "c2cf7839b1051b75e56ae0d43e39f0750bae55cb30ecfaf758b099aa3ea65b8d"
+  },
+  "settings.assistant.customEndpoints.chooseTheAPIFormatAndNameForThisProvider": {
+    "message": "Scegli il formato API e il nome per questo fornitore.",
+    "sourceHash": "9964cd99a03926d556887a8e60efa5f41cc24d4054655b63ef9c6bf0e30ce697"
+  },
+  "settings.assistant.customEndpoints.copyAPIKey": {
+    "message": "Copia chiave API",
+    "sourceHash": "7e0b04a9f434f309357a54a31fa9999f1c1779b2a3b9d9584f312f9f539c4793"
+  },
+  "settings.assistant.customEndpoints.customProvider": {
+    "message": "Fornitore personalizzato",
+    "sourceHash": "5706a6b01b1a86a7078d1c517d7dd5c2ba40f1a473ba34b8ca378d1a131836f5"
+  },
+  "settings.assistant.customEndpoints.deleteProvider": {
+    "message": "Elimina fornitore",
+    "sourceHash": "20098db6da14d9e16099600419e4b0cf95e403ca31562a86a4ebe6ce6960d5ad"
+  },
+  "settings.assistant.customEndpoints.editKey": {
+    "message": "Modifica chiave",
+    "sourceHash": "693db03075928f8de15206fc9b7af4fd37016f8bfbb6e435bc52fc27f6a5389d"
+  },
+  "settings.assistant.customEndpoints.endpointAdded": {
+    "message": "Endpoint aggiunto",
+    "sourceHash": "95df19de9460ff47996ef40d92398005be5530c2e8ab563f7454fd543b9f5e1d"
+  },
+  "settings.assistant.customEndpoints.endpointUpdated": {
+    "message": "Endpoint aggiornato",
+    "sourceHash": "69812daa5a759053b8f666689ebb90877d0888cc4a84498c8817f1b4022740c8"
+  },
+  "settings.assistant.customEndpoints.failedToConnectToTheEndpoint": {
+    "message": "Impossibile connettersi all'endpoint",
+    "sourceHash": "16af6b229e51c7df9d12fcdbedf294ca7b85790c7fd47635975e4cee28ee8766"
+  },
+  "settings.assistant.customEndpoints.hideAPIKey": {
+    "message": "Nascondi chiave API",
+    "sourceHash": "63655f058ba78582f5be955ac87020580bfcb6e294171564196afeb3dd72a3e8"
+  },
+  "settings.assistant.customEndpoints.nameRequired": {
+    "message": "Il nome è obbligatorio",
+    "sourceHash": "85c3cd4028c916919c35518baa17aa1fc87146ebcac09f502879f323549b8943"
+  },
+  "settings.assistant.customEndpoints.optionalForLocalEndpoints": {
+    "message": "Facoltativo per gli endpoint locali.",
+    "sourceHash": "c815efec7f087b98a3d23ec2e35e289563d644a2651196eeb7651a8ca8d0ffca"
+  },
+  "settings.assistant.customEndpoints.optionalForLocalEndpoints2": {
+    "message": "Facoltativo per gli endpoint locali",
+    "sourceHash": "095a6140a9df35f9a3fb9258f786974c21c1ca4283c1a9564ea64de96b722939"
+  },
+  "settings.assistant.customEndpoints.provider": {
+    "message": "Fornitore",
+    "sourceHash": "514bb9eb53ed4b2b4f304400afd6ec56b07258d6e36285bd1d159f2fa3055107"
+  },
+  "settings.assistant.customEndpoints.providerSettings": {
+    "message": "Impostazioni di {name}",
+    "sourceHash": "c34d14831b8dc44f807fda626abf825ba59b5fcf5d80385e290bdabe40749e05"
+  },
+  "settings.assistant.customEndpoints.requiredForRemoteEndpoints": {
+    "message": "Obbligatorio per gli endpoint remoti.",
+    "sourceHash": "af5947f144cd83c16ef9b77cc68377a448af9e770173a1f2371f217e43d7f7c6"
+  },
+  "settings.assistant.customEndpoints.save": {
+    "message": "Salva",
+    "sourceHash": "ef9dcfbb6e44305ceec2c3752ee8a57cfcc7e4d96e7f3e687a3bd9b0e0f5e412"
+  },
+  "settings.assistant.customEndpoints.setupNewCustomProvider": {
+    "message": "Configura nuovo fornitore personalizzato",
+    "sourceHash": "3f84e1924b63a4252ebd6075fed1449b29d3a3b4559246920531e6f2a77d1c38"
+  },
+  "settings.assistant.customEndpoints.showAPIKey": {
+    "message": "Mostra chiave API",
+    "sourceHash": "e46b670abdf254787d4c0356d07014bae588de2bb92ba0a2d9d1fb28ea9df71e"
+  },
+  "settings.assistant.customEndpoints.theBaseURLForTheAPIEndpoint": {
+    "message": "L'URL di base dell'endpoint API.",
+    "sourceHash": "0f510c7cae3db987e310fe6ac1cc5b34d6a6528d77d2e03102db31c985f66f82"
+  },
+  "settings.assistant.customEndpoints.validating": {
+    "message": "Verifica in corso...",
+    "sourceHash": "e37aef5531a1e9074cdafbbc02c23f95ae145a0e1e3d7fe7cae9b708cc7abaaa"
+  },
+  "settings.assistant.genericAPIKey.aPIKey": {
+    "message": "Chiave API",
+    "sourceHash": "6d3e3d613d1f7e890b266b3291c6cf56af3126912620c2fe5debeee585c79f0e"
+  },
+  "settings.assistant.genericAPIKey.activate": {
+    "message": "Attiva",
+    "sourceHash": "0380e1a59b3eb1bf3988288a6bc9ce6cc2a76bedd3a3b12574c641a5f22aae3b"
+  },
+  "settings.assistant.genericAPIKey.baseURL": {
+    "message": "URL di base",
+    "sourceHash": "e46ba074d9fd31ae9fd69b8426df2b13742fe5f7958f52fd43a4fc120b74b9d3"
+  },
+  "settings.assistant.genericAPIKey.console": {
+    "message": "Console di {provider}",
+    "sourceHash": "b981655e16f40ed84e19bfe10722587e795a2b566fe58272e5ec721e25a1e2ce"
+  },
+  "settings.assistant.genericAPIKey.deactivateIntegration": {
+    "message": "Disattiva integrazione",
+    "sourceHash": "6e611280ed233f0e40d9982fd16375a5ff62562520321e1e1b774630cd0826d3"
+  },
+  "settings.assistant.genericAPIKey.deactivateIntegration2": {
+    "message": "Disattivare l’integrazione {name}?",
+    "sourceHash": "73294cbd8fbd4bb9b679dbf35f1a561e3ddb40644eb715756260a8635810179d"
+  },
+  "settings.assistant.genericAPIKey.enterYourAPIKey": {
+    "message": "Inserisci la tua chiave API",
+    "sourceHash": "eb736ab0806b95a2813b1d3a3c4bc99fd355630ea5f11c5b3a1cda373ab89c4b"
+  },
+  "settings.assistant.genericAPIKey.failedToValidateAPIKey": {
+    "message": "Impossibile convalidare la chiave API",
+    "sourceHash": "9c893ac1a7016bcdd2c23345bb140c2025f73e8393cac8deb28ba2171a11a877"
+  },
+  "settings.assistant.genericAPIKey.getYourAPIKeyFromTheEnsureYourAccount": {
+    "message": "Ottieni la tua chiave API da {link}. Assicurati che il tuo account abbia crediti.",
+    "sourceHash": "fe08e774c0123317482312e5d57c1bb44c68366e1c4d3882523af537b9a6450c"
+  },
+  "settings.assistant.genericAPIKey.thisWillRemoveTheAPIKeyYouWillLose": {
+    "message": "Questo rimuoverà la chiave API. Perderai l’accesso ai modelli {value} in Assistente di scrittura e Ask Octarine.",
+    "sourceHash": "92290606e718591947c9fcb2fecff541eae569d5e93b4d786a7aee84b92378dc"
+  },
+  "settings.assistant.genericAPIKey.yesIMSure": {
+    "message": "Sì, ne sono sicuro",
+    "sourceHash": "2d01cd9aba40bad0541e96fb76e3360954fb3d8a490759f0a86913bba0fa8f67"
+  },
+  "settings.assistant.lMStudio.baseURIIsRequired": {
+    "message": "URI di base obbligatorio",
+    "sourceHash": "3c6a64936dd3448b8a1d998f4fd4d926bd01d8df8c7744f68de4ae44a08ee87a"
+  },
+  "settings.assistant.lMStudio.baseURIShouldNotEndWithASlash": {
+    "message": "L’URI di base non deve terminare con una barra",
+    "sourceHash": "8de2fb8f8133098440c1b3fd7e605606cbabd2cb9bd994313cae0b1e7d07475f"
+  },
+  "settings.assistant.lMStudio.baseURIUpdatedSuccessfully": {
+    "message": "URI di base aggiornato",
+    "sourceHash": "5b257f8320fc6e55cd0f18075fbbcb8e91f1c8f48cd5bf219bd4b03b4aa7a50b"
+  },
+  "settings.assistant.lMStudio.connect": {
+    "message": "Connetti",
+    "sourceHash": "a7168ce0013a685701cf7ca102f208b29261988829580cd426e9e7074a0c1784"
+  },
+  "settings.assistant.lMStudio.connectedToLMStudioNoAPIKeyRequiredYou": {
+    "message": "Connesso a LM Studio (non è richiesta alcuna chiave API). Puoi aggiornare l’URL del server qui sotto.",
+    "sourceHash": "487a9483c7020619a07fad5cbebdf5ad96a9991bd911e06bb2728bd8866cf459"
+  },
+  "settings.assistant.lMStudio.disconnect": {
+    "message": "Disconnetti",
+    "sourceHash": "b499f8e5bb35d06de5242dbcc74fdb0afa15da84e835e8757c73a2b52262c896"
+  },
+  "settings.assistant.lMStudio.disconnectLMStudio": {
+    "message": "Disconnettere LM Studio?",
+    "sourceHash": "7669fd136d499b222c500ca4c41712f0fe8941c2112a5025446986a8a7f65ee3"
+  },
+  "settings.assistant.lMStudio.httpLocalhost1234V1": {
+    "message": "http://localhost:1234/v1",
+    "sourceHash": "294a77db61ecf082a2b3efb012a6024f867e88c8d27512128a7780a44172d8aa"
+  },
+  "settings.assistant.lMStudio.pleaseEnterABaseURI": {
+    "message": "Inserisci un URI di base",
+    "sourceHash": "7373fe4530a822f7509040d0f88d0c9a29003837be88e002dcffb4ad2ea9c10b"
+  },
+  "settings.assistant.lMStudio.save": {
+    "message": "Salva",
+    "sourceHash": "c467f65ab0f2a5f42d89333e5c88c1b0d7dfd2c29bced9e6487c7c21a0c052fd"
+  },
+  "settings.assistant.lMStudio.serverURL": {
+    "message": "URL del server",
+    "sourceHash": "016eee7649b33a0324a8bc95cf0f69c721bf6ac338a27bf835d9950285d62284"
+  },
+  "settings.assistant.lMStudio.serverUrlHint": {
+    "message": "Inserisci l’URL del server di LM Studio per connetterti.",
+    "sourceHash": "2895a98440372af0e6acc880ab94c79f02e0fa2d2d4f20e09586a3447b5edbf2"
+  },
+  "settings.assistant.lMStudio.thisWillRemoveTheServerURLYouWillLose": {
+    "message": "Questo rimuoverà l’URL del server. Perderai l’accesso a LM Studio in Assistente di scrittura e Ask Octarine.",
+    "sourceHash": "40222c649aa3fbfb63f72a45155f50aeaa177c7830f2fc6dcb5eda8d29efd2fc"
+  },
+  "settings.assistant.lMStudio.yesIMSure": {
+    "message": "Sì, ne sono sicuro",
+    "sourceHash": "f894c325428b3d861fb961cead813b910fbb2e9257942c7141ea934b36d7d1a0"
+  },
+  "settings.assistant.ollama.baseURIShouldNotEndWithASlash": {
+    "message": "L’URI di base non deve terminare con una barra",
+    "sourceHash": "b079393693461ea8d7c99e4ed40fbb259067f2155690a3019f0b74675186342c"
+  },
+  "settings.assistant.ollama.baseURIUpdatedSuccessfully": {
+    "message": "URI di base aggiornato",
+    "sourceHash": "97a794164784bde7730fad99d667d97011d9b8e90500a53dcf0edceeae6afc58"
+  },
+  "settings.assistant.ollama.onlyChangeThisIfYouHaveOllamaRunningOn": {
+    "message": "Modifica questa impostazione solo se Ollama è in esecuzione su una porta diversa. Scarica Ollama da {link}. Ricordati di scaricare i modelli prima di usarli in Octarine.",
+    "sourceHash": "663ce1e64f39ac325482c82916fbe757108c47cb65b185378d7ef2f687baeab7"
+  },
+  "settings.assistant.ollama.save": {
+    "message": "Salva",
+    "sourceHash": "f077c914029f2dccf1878bd28a538c56a41017cb06110ff8a9c1ee5530ff3602"
+  },
+  "settings.assistant.ollama.serverURL": {
+    "message": "URL del server",
+    "sourceHash": "6e8b5f2b0a269bde1c9d42f845efa85e9225e17e501042bf90ca4e0dd8b822cb"
+  },
+  "settings.assistant.openAI.aPIKey": {
+    "message": "Chiave API",
+    "sourceHash": "df57c90ac5a02eab582fbb9d83fa8b0f54a333b3ba8e6d64c6039865f6c62faa"
+  },
+  "settings.assistant.openAI.activate": {
+    "message": "Attiva",
+    "sourceHash": "9eed24f209cfff3518ef9e90827550acf52d8d0935f1d246e29c24456f4a18b5"
+  },
+  "settings.assistant.openAI.baseURL": {
+    "message": "URL di base",
+    "sourceHash": "7600f9925f61404dafc672c21ac23a30310e3fda9c349daed57a913fbff918ba"
+  },
+  "settings.assistant.openAI.dashboard": {
+    "message": "Dashboard di OpenAI",
+    "sourceHash": "186ba0b97d3807bd55aef71c8661b46ed1b2b868921d13744b3e5ef3a1a79b56"
+  },
+  "settings.assistant.openAI.deactivateIntegration": {
+    "message": "Disattiva integrazione",
+    "sourceHash": "3afed069341dca2742af39dff620666d0c32db64a956ea17138b16b8169780f6"
+  },
+  "settings.assistant.openAI.deactivateOpenAIIntegration": {
+    "message": "Disattivare l’integrazione con OpenAI?",
+    "sourceHash": "a4441b5ff1a9fcd64bdad9ac977f6c29f7e8bb53976f1add12d122acd0f3d108"
+  },
+  "settings.assistant.openAI.getYourAPIKeyFromTheEnsureYourAccount": {
+    "message": "Ottieni la tua chiave API da {link}. Assicurati che il tuo account abbia crediti.",
+    "sourceHash": "d2eee95afe723c408a4fa7357f04073e23ef2f48e4fce2727ef2961f6121440b"
+  },
+  "settings.assistant.openAI.openAIOfficialEndpointUseCustomProviderForCustomEndpoints": {
+    "message": "Endpoint ufficiale di OpenAI — usa “Provider personalizzato” per gli endpoint personalizzati.",
+    "sourceHash": "1b64a4cfed216768c50d806388daad2cb5fe141f247f623020d3dc3573a58ef5"
+  },
+  "settings.assistant.openAI.sk000000000000000000000000": {
+    "message": "sk-000000000000000000000000",
+    "sourceHash": "1c3d12365808da81d1bb55ad8a9504622ac54ae29daaa37386c3f238a5bc7cbf"
+  },
+  "settings.assistant.openAI.thisWillRemoveTheAPIKeyYouWillLose": {
+    "message": "Questo rimuoverà la chiave API. Perderai l’accesso ai modelli OpenAI in Assistente di scrittura e Ask Octarine.",
+    "sourceHash": "eff1bc20561b50e7805f68164647480e096a2ca0bff029cf40a05cea56e01a4f"
+  },
+  "settings.assistant.openAI.yesIMSure": {
+    "message": "Sì, ne sono sicuro",
+    "sourceHash": "7c19fd48c4aa86cf9f908216a511b8ae5128b180ad2ea7188353d88981978fc0"
+  },
+  "settings.assistant.providerSettingsCard.aPIKeyCopiedToClipboard": {
+    "message": "Chiave API copiata",
+    "sourceHash": "8b65f46f20dfa7259a5af9426826a507215531920fe99f3f65d3c8ccde6db209"
+  },
+  "settings.assistant.providerSettingsCard.activateLabel": {
+    "message": "Attiva",
+    "sourceHash": "7f180c30e705e72197c0e43b9f12f5da34148a63ef6bbd646c530377ceafd43a"
+  },
+  "settings.assistant.providerSettingsCard.activateSubmittingLabel": {
+    "message": "Verifica in corso...",
+    "sourceHash": "fe1f2fcfd85c4a30af7f08e9411e96445f1232cff087c43a523267609ab010cb"
+  },
+  "settings.assistant.providerSettingsCard.apiKeyLabel": {
+    "message": "Chiave API",
+    "sourceHash": "4b367d02bf194b28b67ff102d9dae3b5f4ec92f396363b3c2447e3707b255628"
+  },
+  "settings.assistant.providerSettingsCard.apiKeyPlaceholder": {
+    "message": "Inserisci la tua chiave API",
+    "sourceHash": "f766a37ce7ad9e0ef39b1a1e4f5de48fbcb34d81ab3e118d9449ff480bedd825"
+  },
+  "settings.assistant.providerSettingsCard.baseUrlLabel": {
+    "message": "URL di base",
+    "sourceHash": "94be56caaa2142fd0f8f2c020ed4cb11ea8aec464c3c36f4b34369fba87256de"
+  },
+  "settings.assistant.providerSettingsCard.copyAPIKey": {
+    "message": "Copia chiave API",
+    "sourceHash": "3fd0fc8845060cc9b48ce760c17aa41492d2809cb65a09ab988cbf85fbd23bd6"
+  },
+  "settings.assistant.providerSettingsCard.deactivateLabel": {
+    "message": "Disattiva integrazione",
+    "sourceHash": "33c2dc530f9527093c9af6ac9fc808f1c78be17dca6f6d7c6890318a4e0e3725"
+  },
+  "settings.assistant.providerSettingsCard.hideAPIKey": {
+    "message": "Nascondi chiave API",
+    "sourceHash": "04674648659c80e19272572aa7666faec16cbeba3d3b290829ae1bf39ae214bb"
+  },
+  "settings.assistant.providerSettingsCard.showAPIKey": {
+    "message": "Mostra chiave API",
+    "sourceHash": "77ac188624aea7ccf324e5de2307833c3f083d757e1ce1b6b3c40b44c10720e8"
+  },
+  "settings.cycles": {
+    "message": "Cicli",
+    "sourceHash": "cdfa1bd5565bc3ad2fae20a85825e33d53a57da42867ed6fd724a53b98dd48eb"
+  },
+  "settings.danger": {
+    "message": "Pericolo",
+    "sourceHash": "9bc469ea68dad5522920c3337005037f9dbf1a7e4626a317cbf2fb531efcb9e5"
+  },
+  "settings.danger.beSureOfThis": {
+    "message": "Sii sicuro di questa scelta",
+    "sourceHash": "df914bda4c016257a414ac577dc1f59f37fe4cd847e789dfb6c27ee065271d63"
+  },
+  "settings.danger.couldNotRemoveWorkspaceDataPleaseTryAgain": {
+    "message": "Impossibile rimuovere i dati dello spazio di lavoro. Riprova.",
+    "sourceHash": "e95bf0660e5f9be3b52f526e6c095e358ddc69e01575ac126db1a1849227f050"
+  },
+  "settings.danger.dangerZone": {
+    "message": "Zona pericolosa",
+    "sourceHash": "a9eea3cd6ea46b052d1dc0b3b87758a72704bf21c4b5dcb7ea448cbd46325a85"
+  },
+  "settings.danger.deleteWorkspace": {
+    "message": "Elimina spazio di lavoro",
+    "sourceHash": "6f181d1f9ce43d28424ffb4859dff71dcf9095af43e5ba0188cd94fecacfe3c4"
+  },
+  "settings.danger.iUnderstandTheConsequencesDeleteThisWorkspace": {
+    "message": "Ho capito le conseguenze, elimina questo spazio di lavoro",
+    "sourceHash": "d631b22415e98724b4db64b1232d9c082cd35f6994e08123d056145085ec77d7"
+  },
+  "settings.danger.removeThisWorkspaceFromOctarineWithoutDeletingYourNotes": {
+    "message": "Rimuovi questo spazio di lavoro da Octarine senza eliminare le tue note.",
+    "sourceHash": "c68ffec8b46b83b2388846fdd458269a8666cde8f7df18dbdc8eacf85cc1ccb7"
+  },
+  "settings.danger.thisWillDeleteTheSettingsCreatedByOctarineYour": {
+    "message": "Verranno eliminate le impostazioni create da Octarine. Le tue note e le cartelle resteranno intatte.",
+    "sourceHash": "c1455c1703b1c10238496802588a04a4176701cdd09f0760b2bc9225437fe60f"
+  },
+  "settings.danger.typeToConfirm": {
+    "message": "Digita {emphasis} per confermare.",
+    "sourceHash": "5d99f408907c563095997fceced8fee725edc309a5abb89daba3086a38fcd0cf"
+  },
+  "settings.editor": {
+    "message": "Editor",
+    "sourceHash": "bc7ccc942bd0b90c9904e2fea785799f166eabb562dc5260b27a26ebb5aea41a"
+  },
+  "settings.editor.addSpaceBelowTheEndOfANoteWhile": {
+    "message": "Aggiungi spazio sotto la fine di una nota mentre scrivi.",
+    "sourceHash": "7f02fcb6bb635a4c3dd4cb175f4a83569a6fe30225c655fc8e8f1d745fda70d1"
+  },
+  "settings.editor.addsALineThroughCompletedTasks": {
+    "message": "Barra le attività completate.",
+    "sourceHash": "6bbf2c10f54157d9b5758ad0b38eeb830775d2736c20c58cac2fe5903269c3fd"
+  },
+  "settings.editor.addsMathSupportToTheEditor": {
+    "message": "Aggiunge il supporto alle formule matematiche nell’editor.",
+    "sourceHash": "1e6ae67e1bfc04b4aaebda683a58aa51501c464a8de84568d9ec7de727895fee"
+  },
+  "settings.editor.alignConstrainedEditorContentToTheCenterOrLeft": {
+    "message": "Allinea il contenuto dell’editor con larghezza limitata al centro o a sinistra.",
+    "sourceHash": "2ccfc5c3920553267c38863b7ea666ea79674e2d07d8550d602f339871056a6f"
+  },
+  "settings.editor.autocorrect": {
+    "message": "Correzione automatica",
+    "sourceHash": "48735f70697c714ce9c8c9941394dba06799e66e037e755593c5e8c5d229c87b"
+  },
+  "settings.editor.blue": {
+    "message": "Blu",
+    "sourceHash": "eedac783acb3c4badc3b58cb3b946549977f30905b3a0dc80cd141004192549d"
+  },
+  "settings.editor.brown": {
+    "message": "Marrone",
+    "sourceHash": "beb112242c30449b332d547d68cfdc0d2b17289a77dfb504ef1efa6b87aaf139"
+  },
+  "settings.editor.centered": {
+    "message": "Centrato",
+    "sourceHash": "51a8721b1a6fd424ba12cdb951318c7fab81c9284dbe849bf297d0f4da29029e"
+  },
+  "settings.editor.chooseIfYouWantToDisplayTheFullPath": {
+    "message": "Scegli se mostrare il percorso completo o solo il nome più breve della nota collegata.",
+    "sourceHash": "07dff7126c11085ce034503bd7ad058a066251c37704d9ba3642e6bdeb4aa7b6"
+  },
+  "settings.editor.chooseTheDefaultColorForTextHighlighting": {
+    "message": "Scegli il colore predefinito per l’evidenziazione del testo",
+    "sourceHash": "b8a3a30b02b4b5fcbc8c9a42607e44dab0f52b9508fcca0bc1abe4a0b42f63ac"
+  },
+  "settings.editor.chooseWhatToHighlightInFocusMode": {
+    "message": "Scegli cosa evidenziare in modalità Focus",
+    "sourceHash": "0b7c35413b72d20e77ce3b9a9e1fd85e6dece4e12027529dbe9057a1aef8b20d"
+  },
+  "settings.editor.contentAlignment": {
+    "message": "Allineamento del contenuto",
+    "sourceHash": "608ffcfc4ede8f9f32dbb650f3539f10d4e228d3c7bed3ef6c3027e0c62c9b58"
+  },
+  "settings.editor.copyWithFormatting": {
+    "message": "Copia con formattazione",
+    "sourceHash": "b6a6b46a8941e54022a1f531f545d32ea8326086c6a2d3e40897806e422a2cad"
+  },
+  "settings.editor.copyWithoutFormatting": {
+    "message": "Copia senza formattazione",
+    "sourceHash": "ef3d4bc5ee999bbb51465f503895009d427bdff03b48d151446a231c42cd2c91"
+  },
+  "settings.editor.customWidth": {
+    "message": "Larghezza personalizzata",
+    "sourceHash": "6e1a21021af4d0eaa5cd1046500c7f2e255ae39fdbd35e0d60fc94d738637ec2"
+  },
+  "settings.editor.defaultHighlightColor": {
+    "message": "Colore di evidenziazione predefinito",
+    "sourceHash": "214baa65836c8ba0f7e9b603a5c3b0d75fe6cc7adbbdc61b184eb4ef884f37fa"
+  },
+  "settings.editor.displayCompletedAndTotalTaskCountsBesideThe": {
+    "message": "Mostra il numero di attività completate e totali accanto all’indicatore di avanzamento delle attività",
+    "sourceHash": "e97ddab6347c058271a8caf89a5369d23ed4c8f91bb6895f20140b263adbd56e"
+  },
+  "settings.editor.displayImageCaptionsBelowImagesInTheEditor": {
+    "message": "Mostra le didascalie sotto le immagini nell’editor",
+    "sourceHash": "6f6acbc7a58138db0d3f1aa42fc7b30ba21f61480cfa1d356bcd8aecf9b87b4a"
+  },
+  "settings.editor.displayWordCountCharacterCountLinesAndReadingTime": {
+    "message": "Mostra numero di parole, di caratteri, righe e tempo di lettura in fondo all’editor.",
+    "sourceHash": "9fd3dcc909b33641194cfffb02d8b5fe371a6fec5a4a322e408e5a5ed62a9fed"
+  },
+  "settings.editor.editor": {
+    "message": "Editor",
+    "sourceHash": "ec6a60f342e8c1227e9d70e79263ecabc241fb33a3bc277986a2220ba6058092"
+  },
+  "settings.editor.editorWidth": {
+    "message": "Larghezza dell’editor",
+    "sourceHash": "fe26ce28be538bdd174ba932627f6ee35c9deed29aa5a250e12eaac1421ee8e4"
+  },
+  "settings.editor.focusMode": {
+    "message": "Modalità Focus",
+    "sourceHash": "9012b3b4e2b0c7791f3f0c3c6faa1b4230fb4c5c46b3843a19a65999e56008d6"
+  },
+  "settings.editor.focusModeDimming": {
+    "message": "Attenuazione modalità Focus",
+    "sourceHash": "6444a4695f1bb5321a68c03f075d0ef0c89f8bf22addd85e85ca9ca345978ee9"
+  },
+  "settings.editor.font": {
+    "message": "Carattere",
+    "sourceHash": "f12fa9c9d285f5e701abef3bd47c85d60b939088e55d8dec6fef046c7bda8ced"
+  },
+  "settings.editor.fontWeight": {
+    "message": "Spessore del carattere",
+    "sourceHash": "f5d1bc23c6cbf9264640d0339093b181ab0d1813d2581f3be139ea2eff1b87b9"
+  },
+  "settings.editor.fonts": {
+    "message": "Caratteri",
+    "sourceHash": "7a13b013e1af2aa88f6e6aa2b5b4e4969f9a225cf0d09d3c74bb0bc8218e0ad8"
+  },
+  "settings.editor.frontmatter.editANoteSYAMLPropertiesDirectlyAtThe": {
+    "message": "Modifica le proprietà YAML di una nota direttamente in cima all’editor. Il YAML non valido viene conservato come bozza finché non lo correggi.",
+    "sourceHash": "a8592993857d526465bd0075c41e82c46f2fcddb12e5c3f9cee18f243c3a6a23"
+  },
+  "settings.editor.frontmatter.showRawFrontmatterInEditor": {
+    "message": "Mostra frontmatter grezzo nell’editor{value}",
+    "sourceHash": "b0e87049fdfa2342ee00ea098c4b2c4551a7ed63c17d76b76715ad80887ad0f2"
+  },
+  "settings.editor.fullPath": {
+    "message": "Percorso completo",
+    "sourceHash": "7fa6a1467330bf7462c60e13c2ec70383165c0512dd7993a1f548d5f4e856dde"
+  },
+  "settings.editor.green": {
+    "message": "Verde",
+    "sourceHash": "9a4fb051049827dd52b99e66fc63d21f3fa4ddb2a8345183ea9d92af87e871f4"
+  },
+  "settings.editor.invertCopyShortcuts": {
+    "message": "Inverti scorciatoie di copia",
+    "sourceHash": "6d6f309f7ceb72705eaed6c527701223050256b3c564128ac45742e47918fe56"
+  },
+  "settings.editor.keepTheActiveLineCenteredWhileWritingInFocus": {
+    "message": "Mantieni la riga attiva al centro mentre scrivi in modalità Focus.",
+    "sourceHash": "d519810dabfedc5710b4e8c903fd3bb55b640be8f489b7bfdc47e5e2027483a5"
+  },
+  "settings.editor.large": {
+    "message": "Grande",
+    "sourceHash": "927c21514f9a76d918e22067108ed389a19b9e8e7a5b118026557fea19b0794c"
+  },
+  "settings.editor.layout": {
+    "message": "Impaginazione",
+    "sourceHash": "e3d1059d638fceeada5a4938f01de257b8e90a1800d713707169155f351ef026"
+  },
+  "settings.editor.leftAligned": {
+    "message": "Allineato a sinistra",
+    "sourceHash": "81b5f417392fe507c1ee9f841d9e8a736577c88b70853a864f39738dacfa4b7e"
+  },
+  "settings.editor.linkedNotesDisplay": {
+    "message": "Visualizzazione delle note collegate",
+    "sourceHash": "2c732a4d5c371b26ffc1a0b31ca20d5e283379654c112272bc4bd048df3198cc"
+  },
+  "settings.editor.linksReferences": {
+    "message": "Collegamenti e riferimenti",
+    "sourceHash": "b31416c3990e625b35ce0de7ac6cef270aa042a0754af367e07a174712c09011"
+  },
+  "settings.editor.medium": {
+    "message": "Medio",
+    "sourceHash": "bd76bec902c89a2a962ca66656c4e121aa01ad2fac2783999b29e596fee2faf0"
+  },
+  "settings.editor.none": {
+    "message": "Nessuno",
+    "sourceHash": "ea8d522d6272dfcee6a9c801d880dc1f4085fbcfd2545a96e2e13f7d17dae0d4"
+  },
+  "settings.editor.onlyNoteName": {
+    "message": "Solo nome della nota",
+    "sourceHash": "9c0cb1a7f6556d0822c9f377d93f45c88abdfdfdb3fe6fd2d163c208a8e44e96"
+  },
+  "settings.editor.orange": {
+    "message": "Arancione",
+    "sourceHash": "2a07b446d2c9a5a750b33acd6601f7990b542e2ee0b98b837bb7e306da137e21"
+  },
+  "settings.editor.overscroll": {
+    "message": "Scorrimento oltre il fondo",
+    "sourceHash": "00f26c4eb59d4965da08d728b3fe9dfd138c74854b8b5ee470131c320c60d97a"
+  },
+  "settings.editor.paperType": {
+    "message": "Tipo di carta",
+    "sourceHash": "9ab461d154ff21f8ec7278ea19a9c645442f1b62cc6b5549066a4873cf5e9ca4"
+  },
+  "settings.editor.pink": {
+    "message": "Rosa",
+    "sourceHash": "102373763663fec47e4f5b3471b63fc35b4a4f346b0c59e2dc6b2e06fb090f44"
+  },
+  "settings.editor.purple": {
+    "message": "Viola",
+    "sourceHash": "303ac68f539e704d859b546a52dd84c378977ef522b183477e21306f584e1a6d"
+  },
+  "settings.editor.red": {
+    "message": "Rosso",
+    "sourceHash": "25344dc8ad2518cf85a784ab1d0bd1743bb29ce96aac1598cf117a87c46ede34"
+  },
+  "settings.editor.renderMathEquations": {
+    "message": "Mostra equazioni matematiche",
+    "sourceHash": "1d862be995cd5a09d99bb48d66844274d90d240b674339d5f98224062a6ab92e"
+  },
+  "settings.editor.rendering": {
+    "message": "Resa",
+    "sourceHash": "b04e5af5c1c07ecae319f17bcf161f7f79ae79e3dc3563b4490f36dcf521d2fe"
+  },
+  "settings.editor.selectFontForYourEditor": {
+    "message": "Seleziona il carattere per l’editor.",
+    "sourceHash": "59ab90743fb74270ad99d5ae35b6f9ba90a4b5684082173f680a4191784055ba"
+  },
+  "settings.editor.selectThePaperTypeForYourEditor": {
+    "message": "Seleziona il tipo di carta per l’editor.",
+    "sourceHash": "10903ebc266ad6a1e8c46252e30e0ca6c32e545e058d9a052128257f5cbc212a"
+  },
+  "settings.editor.selectTheWeightForYourEditorFont": {
+    "message": "Seleziona lo spessore del carattere dell’editor.",
+    "sourceHash": "d362f142316bde4476e7a030ca328a18ee02b65175a29c545549abae905487e4"
+  },
+  "settings.editor.sentence": {
+    "message": "Frase",
+    "sourceHash": "cfc26644dab7e7e07c43ede0985612ace9601ab9a0d985dfb24cd5f5b0080cad"
+  },
+  "settings.editor.setTheMaximumWidthOfTheEditorInEach": {
+    "message": "Imposta la larghezza massima dell’editor in ogni riquadro.",
+    "sourceHash": "8389d602ecc977273aa98fe0653e398c417e1bea9e8a283b27de6bb6368d430b"
+  },
+  "settings.editor.setsAReadableMaximumWidthAndShrinksToFit": {
+    "message": "Imposta una larghezza massima leggibile che si riduce per adattarsi ai riquadri più piccoli.",
+    "sourceHash": "62e556ef809a7efc96f1d483209aaf5b5231be2247e3cdcd61b1b62cd548a050"
+  },
+  "settings.editor.shapeTheWritingSurfaceTypographyAndEditorHelpers": {
+    "message": "Modella la superficie di scrittura, la tipografia e gli strumenti dell’editor.",
+    "sourceHash": "1589b3131cdb5009fa3586af545c573e3029536a08f4b330abae9b7b890432f2"
+  },
+  "settings.editor.shortestName": {
+    "message": "Nome più breve",
+    "sourceHash": "5339bba68283bcd97a4c5f7b8457a222fdf9b3e68261d012639c8e46663a11cc"
+  },
+  "settings.editor.showEditorStatsBar": {
+    "message": "Mostra la barra delle statistiche dell’editor",
+    "sourceHash": "c73f9089368095c99ab1e81f63b21f8ca5cd42543d80f9865f3219f82a5d6d8b"
+  },
+  "settings.editor.showHeadingGuides": {
+    "message": "Mostra guide dei titoli",
+    "sourceHash": "ae31e0ef8517c06f41efd01d13e811961d8ad4266a37a14127ceca4b567fed27"
+  },
+  "settings.editor.showImageCaptions": {
+    "message": "Mostra didascalie delle immagini",
+    "sourceHash": "c255213b49762861ae03085084d5c1b6aebaf901a0c3bbf7706684fd867b18c8"
+  },
+  "settings.editor.showOutline": {
+    "message": "Mostra struttura",
+    "sourceHash": "63b6c1fb7db7084b11945b0d43171664643dadb1edd06e6ad2609acc929a19df"
+  },
+  "settings.editor.showTaskCompletionCount": {
+    "message": "Mostra conteggio attività completate",
+    "sourceHash": "e1774eba84dd83a7036085da2a0d864d512f5fa803ee099827dbedef49063987"
+  },
+  "settings.editor.showTheInEditorOutlineControlsForNotesWith": {
+    "message": "Mostra i controlli della struttura nell’editor per le note con titoli.",
+    "sourceHash": "0d7f7f94bc7fe44924dbd26ee7d41317fbc7a27be8ba929a5b2f4011ae41dc59"
+  },
+  "settings.editor.showTheNoteSFolderHierarchyBesideWikilinkSuggestions": {
+    "message": "Mostra la gerarchia delle cartelle della nota accanto ai suggerimenti dei wikilink.",
+    "sourceHash": "d1ec828a4162e023d1f04320893a83cb3abb030de6a52b1e03ec2a0cb64dca70"
+  },
+  "settings.editor.showsH1H2H3LabelsBesideHeaders": {
+    "message": "Mostra le etichette H1, H2, H3 accanto ai titoli.",
+    "sourceHash": "e121369f2c91bd7cdbf6f01c9f0d38faa759689e4a317e5c45c4007a1b2ecf39"
+  },
+  "settings.editor.sizeSpacing": {
+    "message": "Dimensioni e spaziatura",
+    "sourceHash": "51a1aee222d0d8cc5e3b7f36af5184a93d2b5a1c34a26fddd7c7e0496dda68be"
+  },
+  "settings.editor.small": {
+    "message": "Piccolo",
+    "sourceHash": "8c11b7da8b9a0041111d4f02d66ef1cb9ff97dfbe2e3de58a08cd869b6396176"
+  },
+  "settings.editor.spellcheck": {
+    "message": "Controllo ortografico",
+    "sourceHash": "6b843cdd37d94e4bbb4dcae73b666c92273f4048f25352cdfde8452faf2b229c"
+  },
+  "settings.editor.strikeCompletedTasks": {
+    "message": "Barra le attività completate",
+    "sourceHash": "d05299a425754ecfa3f452cc277cfc923643a365b93ce58a2b4ea9385632f6d4"
+  },
+  "settings.editor.structure": {
+    "message": "Struttura",
+    "sourceHash": "426a3c2bc379a2d525a706b6a7a2d76e9441de42c8f1e39919e468b62c58aa30"
+  },
+  "settings.editor.suggestionFromTheEditorForCorrections": {
+    "message": "Suggerimenti dall’editor per le correzioni.",
+    "sourceHash": "01c0373e188a9365c753a7c0c90e5456b43f28a97a50afa288e48b7e445e2e1a"
+  },
+  "settings.editor.typewriterInFocusMode": {
+    "message": "Macchina da scrivere in modalità focus",
+    "sourceHash": "dc0b7ba8f5f3872e8762030dcffab60910ee8eb3ae5f26b4f931d6eeb53969e6"
+  },
+  "settings.editor.typography.adjustTheFontSizeOfTheEditorText": {
+    "message": "Regola la dimensione del carattere del testo dell’editor",
+    "sourceHash": "e299cdbba0ed304d9e6c50fe014bbb2e0f3195a6e7ab96bd392c0ba0b6de6766"
+  },
+  "settings.editor.typography.adjustTheLineHeightSpacingBetweenLines": {
+    "message": "Regola l’altezza di riga (spaziatura tra le righe)",
+    "sourceHash": "cce234e00105bd2d8f5c582a57cb2f1ce14179d19c768e49aaacc3e51ea3f5ed"
+  },
+  "settings.editor.typography.adjustTheSpacingBetweenCharacters": {
+    "message": "Regola la spaziatura tra i caratteri",
+    "sourceHash": "8ea22f72451affa3b39c3a7145d6791f03dcd4229fdb247d963fe73c88a7715e"
+  },
+  "settings.editor.typography.adjustTheSpacingBetweenListItems": {
+    "message": "Regola la spaziatura tra gli elementi dell’elenco",
+    "sourceHash": "457a6e466eff4974ed459ac5562d3a773bb03edc6bf39d8c4a65f0fd5adf14de"
+  },
+  "settings.editor.typography.adjustTheSpacingBetweenParagraphs": {
+    "message": "Regola la spaziatura tra i paragrafi",
+    "sourceHash": "f424622f53eb4574a23942bb17e9a63e54379f5db7ccdc16c869e7f6c9e77be8"
+  },
+  "settings.editor.typography.autoReplaceStraightQuotesDashesAndOtherCharactersWith": {
+    "message": "Sostituisci automaticamente virgolette dritte, trattini e altri caratteri con equivalenti tipografici.",
+    "sourceHash": "c9575c48582e9e619d0a83571ac168f36c70dd18046a8b9f6d9862e4a9713667"
+  },
+  "settings.editor.typography.checkOutTheFullListOfRules": {
+    "message": "Consulta l’elenco completo delle regole",
+    "sourceHash": "731b899043328c3e3407d62cca8226914e6fd900cd878d6fc67d33b3d6adfc91"
+  },
+  "settings.editor.typography.fontSize": {
+    "message": "Dimensione carattere",
+    "sourceHash": "8249d1102e8eca61ad4fb413e3d435e1dd21d31f245dd67fd4e1756f932a4185"
+  },
+  "settings.editor.typography.letterSpacing": {
+    "message": "Spaziatura caratteri",
+    "sourceHash": "eea4ec56d659e339a7ab47c8de156dfd14cc1749eef4ebf7a9be7966420ee3d6"
+  },
+  "settings.editor.typography.lineHeight": {
+    "message": "Altezza di riga",
+    "sourceHash": "0c1a9c7fa32458e73f1fe720ec0532afba90792a468d07f7cad1a96eb90f0052"
+  },
+  "settings.editor.typography.listSpacing": {
+    "message": "Spaziatura elenchi",
+    "sourceHash": "c3bc995061d8c142807e172296b854894b4d6bc8e3003721a003821130ecf9b2"
+  },
+  "settings.editor.typography.paragraphSpacing": {
+    "message": "Spaziatura paragrafi",
+    "sourceHash": "67608f286ead265522947b7a3d47fc6798116d90c5e6e35f35c9faa22c992400"
+  },
+  "settings.editor.typography.refresh": {
+    "message": "Aggiorna",
+    "sourceHash": "123232a4fb0ae14dbb059e1fca71e3348cbbf3ebf31d43af9b880bbab654e73b"
+  },
+  "settings.editor.typography.resetToDefault": {
+    "message": "Ripristina predefiniti",
+    "sourceHash": "937e5a2054dec00933f13a2c3811e5c03fbc1c6d3889a6179b9372674885540d"
+  },
+  "settings.editor.typography.smartTypography": {
+    "message": "Tipografia intelligente",
+    "sourceHash": "c41d2c1df0f6a4f81ae9f026b09e4126c9b28100ec3428caa97b565fc5bb84ee"
+  },
+  "settings.editor.underlineMisspelledWordsMayImpactPerformanceOnLargeNotes": {
+    "message": "Sottolinea le parole errate. Può influire sulle prestazioni con note di grandi dimensioni.",
+    "sourceHash": "3240b3815f95137ae638afae27b43fe476a861aebaf48fc09ac9220c4cf7b9f9"
+  },
+  "settings.editor.whenTextIsSelectedTypingQuotesOrBracketsWraps": {
+    "message": "Quando il testo è selezionato, digitando virgolette o parentesi si racchiude la selezione invece di sostituirla.",
+    "sourceHash": "fb35ef5744a5d34857f34f9614ab13fcd9ab9f7101052281b025437490356a90"
+  },
+  "settings.editor.wikilinkFolderTooltips": {
+    "message": "Suggerimenti sulle cartelle dei wikilink",
+    "sourceHash": "7c4ec975a83e07346ba33eefc17ce0f04cef7ccf143ae64b9d313cb649411990"
+  },
+  "settings.editor.wrapLongLines": {
+    "message": "A capo automatico per le righe lunghe",
+    "sourceHash": "4652f59b6e5e08e94dea02617d37b0109adc50f2854429cd017bd02a27b99d80"
+  },
+  "settings.editor.wrapLongLinesOfTextAndCodeBlocksInstead": {
+    "message": "Manda a capo le righe lunghe di testo e i blocchi di codice invece di scorrere in orizzontale.",
+    "sourceHash": "535f6ddafbf2274138463239c09a5b1a1bfb64128902aaf9df0a042789d22c44"
+  },
+  "settings.editor.wrapSelectionWithPairs": {
+    "message": "Racchiudi la selezione tra coppie di caratteri",
+    "sourceHash": "70ee6e04af0911aa67340fe1a152e75bf3880d4514ed487904316b561c9db34e"
+  },
+  "settings.editor.writing": {
+    "message": "Scrittura",
+    "sourceHash": "02937ca7ecbe6d0bd278f8ce1cd2ad896822b6e41d652fc9ad6261627ce74314"
+  },
+  "settings.editor.yellow": {
+    "message": "Giallo",
+    "sourceHash": "e9276bc42e3b45ea07bbf94b36f7005fbcda46a18e5e3026cb5d45e86a29c411"
+  },
+  "settings.fields.buckets": {
+    "message": "Colonne",
+    "sourceHash": "0800f0793b72fd2e23df27f157e5f4ebb1380e2c063bc8479f26c5a91826e461"
+  },
+  "settings.fields.fields": {
+    "message": "Campi",
+    "sourceHash": "d9060a049d9acb353e9fc28f91e1112bb58cdc5fa0d71a04b24ee2a6b62d1f88"
+  },
+  "settings.fields.labels": {
+    "message": "Etichette",
+    "sourceHash": "42852f2898b0a67599c781b6b440e4766bb8fbd7f451b455f569f5a56cdfcb0e"
+  },
+  "settings.fields.lanesYouSortTasksIntoByHandLike": {
+    "message": "Colonne in cui ordini le attività a mano, come Ora, Prossimo e Più tardi.",
+    "sourceHash": "86c77fcee05a1bb10c514e424b026d40d4b1dcd4e65a9b914281d119678926e4"
+  },
+  "settings.fields.renamingOrDeletingALabelUpdatesEveryTask": {
+    "message": "Rinominare o eliminare un’etichetta aggiorna ogni attività che la usa.",
+    "sourceHash": "49a4a534799df9e47801d74a0e36599435a744875b0cf0b03fae4b651d1947cd"
+  },
+  "settings.fields.statuses": {
+    "message": "Stati",
+    "sourceHash": "b2948184d9964654fdc98cb859715d3ab42ce97abbd0878c721ee4fbc78adfff"
+  },
+  "settings.fields.taskFields": {
+    "message": "Campi delle attività",
+    "sourceHash": "9adc5d426f38b60b5b6a27f45ae9f845c9fe543a792c7b2eef370b9fbbdd062c"
+  },
+  "settings.fields.theCategoryDecidesWhetherAStatusCountsAs": {
+    "message": "La categoria determina se uno stato conta come aperto, completato o annullato.",
+    "sourceHash": "adf44dcce7a7a75705602258cd56b80bb0096873f2aa65a4a119af294ac8f430"
+  },
+  "settings.fields.theKindOfWorkATaskIsA": {
+    "message": "Il tipo di lavoro di un’attività. Un tipo può aggiungere etichette e impostare una priorità automaticamente.",
+    "sourceHash": "41054ac8ca155afaebbf6022ccb1b435815e5586a10a4bb87efcbbf67887751b"
+  },
+  "settings.fields.theStatusesLabelsTypesAndBucketsYourTasks": {
+    "message": "Stati, etichette, tipi e colonne usati dalle tue attività.",
+    "sourceHash": "274ec80bf9f09677ab1b3c6dfd6f7e6ec5f681fba33f0ae81a17053efa34ea7a"
+  },
+  "settings.fields.types": {
+    "message": "Tipi",
+    "sourceHash": "97f239b61e6d6680a953773cd7f42880e93e8e35e725ace977af7be23b27185d"
+  },
+  "settings.files": {
+    "message": "File",
+    "sourceHash": "b726b363ec32df908cc73fe49f12db19b27bb4b73a63c3164cc8a87b2fa03522"
+  },
+  "settings.files.add": {
+    "message": "Aggiungi",
+    "sourceHash": "cfba8cf236f4c1a9818d23251b3ac2c936b4f8eb315e39831c73b73e3d7541b8"
+  },
+  "settings.files.addCustomFileExtensionsToImportIntoTheWorkspace": {
+    "message": "Aggiungi estensioni di file personalizzate da importare nello spazio di lavoro.",
+    "sourceHash": "7edec357353a1d24c8e2a421a4b302dd2d990092140e02c3f5882b373d8f93cb"
+  },
+  "settings.files.addNewExtension": {
+    "message": "Aggiungi nuova estensione",
+    "sourceHash": "0df7b7526a454211d7042dd9acd617bde3df6f651c7a08958023e37ad755fb2d"
+  },
+  "settings.files.asksForConfirmationBeforeDeletingAFileOrFolder": {
+    "message": "Chiede conferma prima di eliminare un file o una cartella.",
+    "sourceHash": "5f56a46f3571560f0a69da5de30f6136eb1e6d0bfba9e03dd5fec8b123a4c6bf"
+  },
+  "settings.files.availableAfterIndexing": {
+    "message": "Disponibile dopo l’indicizzazione",
+    "sourceHash": "a213627f0fefbc151c19264f365ba3367ab9f91446fdba3ccdbc6f1ea9a4046b"
+  },
+  "settings.files.cannotAddReservedExtensions": {
+    "message": "Impossibile aggiungere estensioni riservate - {join}",
+    "sourceHash": "2614c04c571467927dcd1231b7d49f02b16c9bf10ff8946639f48dca2c44f3f3"
+  },
+  "settings.files.controlFileBrowserBehaviorNoteNamingAndImports": {
+    "message": "Controlla il comportamento del browser dei file, la denominazione delle note e le importazioni.",
+    "sourceHash": "68b8061066b92746aad79a9d2274a72ac2b5dcb603aa8303642a55c0e4877073"
+  },
+  "settings.files.defaultExtensions": {
+    "message": "Estensioni predefinite",
+    "sourceHash": "c815641afafed6b7668755e67a7be234316aaa87b71e07c7b383c8a209b4431c"
+  },
+  "settings.files.defaultFolderSettings.clear": {
+    "message": "Cancella",
+    "sourceHash": "284441e31b2576cb48083e8eb3271a567a58e0019c29e39c7a0bdb61aca83fbe"
+  },
+  "settings.files.defaultFolderSettings.defaultFolderForNewNotes": {
+    "message": "Cartella predefinita per le nuove note",
+    "sourceHash": "6cbd568447ef602680072e0d7907323ffc5bdb78f5b1e81e8f1ee9f11c9b90df"
+  },
+  "settings.files.defaultFolderSettings.learnMore": {
+    "message": "Scopri di più",
+    "sourceHash": "f61447d5fb4459c777205370e04b1755343c0bf7d1fa670c88eaeb9cca3f5643"
+  },
+  "settings.files.defaultFolderSettings.noFoldersAvailable": {
+    "message": "Nessuna cartella disponibile",
+    "sourceHash": "c1fc9d0b2bafdb10fb464538633b205eb0f90f7e30865cf25506d2e2a4036533"
+  },
+  "settings.files.defaultFolderSettings.noMatchesLabel": {
+    "message": "Nessuna cartella corrispondente trovata",
+    "sourceHash": "93affb4d4a85e2481611b0437abf94f731a0e46d72cece7341890f325566e8a0"
+  },
+  "settings.files.defaultFolderSettings.rootFolder": {
+    "message": "/ (Radice)",
+    "sourceHash": "1dc3c93862fc976ba4e41204a8d612409bc46c28fe446741690406a0e84d6ca7"
+  },
+  "settings.files.defaultFolderSettings.searchFolders": {
+    "message": "Cerca cartelle...",
+    "sourceHash": "0e2d72c3e6365f6d0c8959036a691fa2d13260336379ec0b4afee70e0339e111"
+  },
+  "settings.files.defaultFolderSettings.selectDefaultFolder": {
+    "message": "Seleziona cartella predefinita",
+    "sourceHash": "2c0faea4ffd010b9277aa7843343d6f2b46af161741f9843a4292ccad8f5de9a"
+  },
+  "settings.files.defaultFolderSettings.whereNewNotesAreCreated": {
+    "message": "Dove vengono create le nuove note. {link}",
+    "sourceHash": "933bacc4b0930d526d0eb4f87dfd514fceca02a1978638c33f22c9202cea75de"
+  },
+  "settings.files.displayCreatedAndModifiedTimestampsWhenHoveringOverFiles": {
+    "message": "Mostra data di creazione e modifica quando passi il mouse su file e cartelle.",
+    "sourceHash": "8eb4decc685b6db294533fe85e1a3e74332199397837c16cf2e9975e29290984"
+  },
+  "settings.files.displayNonMarkdownFilesInTheFileTreeWithout": {
+    "message": "Mostra i file non Markdown nell’albero dei file senza renderli note interattive.",
+    "sourceHash": "8c6d28956445dedb3e851f32bb622ae018041e13df26c502c394a1010aa1b70f"
+  },
+  "settings.files.displayRelativeTimeEG4m2d1mo1y": {
+    "message": "Mostra il tempo relativo (ad es. 4m, 2g, 1me, 1a) dall’ultima modifica della nota.",
+    "sourceHash": "fd1e261a58c3213ce51bb9e9fa82e9307b9c07d7a49d1ea374bcaddfbc71cf84"
+  },
+  "settings.files.displayTheNumberOfItemsInEachDirectoryNext": {
+    "message": "Mostra il numero di elementi di ogni cartella accanto al suo nome.",
+    "sourceHash": "7fd30b56f5b1689f0b09f1eada1efc1a276ee0071f1b7882f43f99f3b84e0a93"
+  },
+  "settings.files.extensionAlreadyExists": {
+    "message": "L’estensione esiste già",
+    "sourceHash": "fc33112697796e0aab047c718bcc91294d5e0ecdc671fab0414165935b692e31"
+  },
+  "settings.files.extensionCannotContainAPeriod": {
+    "message": "L’estensione non può contenere un punto",
+    "sourceHash": "9cc785725cd846217a707789a24e3ab61c0162feb849259f1ebae452606e16f8"
+  },
+  "settings.files.externalFiles": {
+    "message": "File esterni",
+    "sourceHash": "a7b6bfbc1b2a164e4465fd14fda4243b7935e67dba25f42a1ba3c80343a74caa"
+  },
+  "settings.files.fileBrowser": {
+    "message": "Browser dei file",
+    "sourceHash": "1dae2c7b04b91cca9e64bfa92b6408591ac9aedc22990a65344b01b8386dd4d9"
+  },
+  "settings.files.files": {
+    "message": "File",
+    "sourceHash": "3f375c3329de8f5aed03c767294d9edb19c4da0dfb9356243ffae21f699bce50"
+  },
+  "settings.files.maintenance": {
+    "message": "Manutenzione",
+    "sourceHash": "0378f0583f9fdf70441f6ae81b679fa7c44d9632c5eb04dd1ff134288835090f"
+  },
+  "settings.files.mediaAttachments": {
+    "message": "Allegati multimediali",
+    "sourceHash": "5ab80886557cbdeee00834a1af043a32c86acf63fe3467b1a41d783fb03f71bf"
+  },
+  "settings.files.noCustomExtensionsAdded": {
+    "message": "Nessuna estensione personalizzata aggiunta",
+    "sourceHash": "3689f481af9d0524032fb0fe29379dd11ed83de458e0bed9297e545df0b9d08b"
+  },
+  "settings.files.noteCreation": {
+    "message": "Creazione note",
+    "sourceHash": "64248f0d9ad99f9a51520378386f51f4eeeb0894528e3be695c3a10eeb33eb0a"
+  },
+  "settings.files.noteNaming.addUntitledToTheEndOfGeneratedNoteNames": {
+    "message": "Aggiungi «Senza titolo» alla fine dei nomi generati per le note.",
+    "sourceHash": "3180296a2512998a7dbed3b1232487f72e15fe79b96a7c8c278a349c9271b61b"
+  },
+  "settings.files.noteNaming.appendUntitled": {
+    "message": "Aggiungere «Senza titolo»?",
+    "sourceHash": "70ac0039673a6949a9c7885a814e90d98d4154a5e3604548fdc411056639064b"
+  },
+  "settings.files.noteNaming.automaticallyGenerateUniqueNamesForNewNotesBasedOn": {
+    "message": "Genera automaticamente nomi univoci per le nuove note in base al formato della data.",
+    "sourceHash": "bf7421e08f8677432d63dff5bbf580ff9815b2a06b7a541279a999c7612816f9"
+  },
+  "settings.files.noteNaming.createUniqueNoteNames": {
+    "message": "Creare nomi di note univoci?",
+    "sourceHash": "e6a3f6435a54e21d3500ae9e21b2fefd4c70781ce8c6bd98100194dac83bb3fc"
+  },
+  "settings.files.noteNaming.dateFormatForNewNotes": {
+    "message": "Formato data per le nuove note",
+    "sourceHash": "85e77c92cdcbb1707e7c2f2dddcd5326bdd84777ded850039c83c5a965367ac9"
+  },
+  "settings.files.noteNaming.formatUsedToGenerateUniqueNoteNames": {
+    "message": "Formato usato per generare nomi di note univoci.",
+    "sourceHash": "b5b24b39953aefd939aab932b386fdc0ad7cbc45ec962ca46ba45a2fb3b1ca7b"
+  },
+  "settings.files.noteNaming.invalidDateFormat": {
+    "message": "Formato data non valido",
+    "sourceHash": "d17dc5b898e5d3a841dcf8abef4a6382bbd6dceba7b3ccb9d71d0de30681f885"
+  },
+  "settings.files.noteNaming.invalidFilenameFormat": {
+    "message": "Il formato non può contenere: / \\ : * ? \" < > |",
+    "sourceHash": "db1982be2cd8e6b94a143c6fe0910036656e28110cbc45d3d99a617158070e25"
+  },
+  "settings.files.noteNaming.save": {
+    "message": "Salva",
+    "sourceHash": "eaf45a44267ca031acc2b0371397fe561c73a869ab4e8b6c5eb8e615a20b0652"
+  },
+  "settings.files.rebuildTagsAndPropertyDefinitionsFromTheMarkdownFiles": {
+    "message": "Ricostruisci tag e definizioni delle proprietà dai file Markdown attualmente nello spazio di lavoro.",
+    "sourceHash": "6da189d38ed9bca1920be446fee2e5735bf6a9b96fec7cbc8f208bb2992edc38"
+  },
+  "settings.files.refresh": {
+    "message": "Aggiorna",
+    "sourceHash": "a8e6ab4921936bc3d08e748b179b0b5b9031a762923059b3546aa350cae8b56a"
+  },
+  "settings.files.refreshTagsAndProperties": {
+    "message": "Aggiornare tag e proprietà?",
+    "sourceHash": "05152571b8dabf17c48af41cb3cdfd24478ee23785cb6e74d88959a1b9167792"
+  },
+  "settings.files.refreshing": {
+    "message": "Aggiornamento in corso…",
+    "sourceHash": "e0e4c1c9a00584bca37a7911b52616879cc79222bc8d6583a90b16290154907b"
+  },
+  "settings.files.removeCustomExtension": {
+    "message": "Rimuovi estensione personalizzata",
+    "sourceHash": "be4c954761c2d0a692570bc524500aca21f134620b93f839d9abc7f0e2996e4e"
+  },
+  "settings.files.showAllFileTypesInTree": {
+    "message": "Mostra tutti i tipi di file nell’albero",
+    "sourceHash": "2980e2ffa0536b777d2f71d9a1b8bc4f73ca693a0515baffcd3153441b594abc"
+  },
+  "settings.files.showConfirmationWhenDeleting": {
+    "message": "Mostra conferma durante l’eliminazione",
+    "sourceHash": "13de3a809415777322e7653a0d328c7c56d6997abd7716bf6875aefe23d63607"
+  },
+  "settings.files.showDirectoryChildrenCount": {
+    "message": "Mostra il numero di elementi nelle cartelle",
+    "sourceHash": "f98d40feb0614573fce54e7bdb102ba4cbe646b19b96d9661dc04323eaa2951c"
+  },
+  "settings.files.showDotFolders": {
+    "message": "Mostra cartelle con il punto",
+    "sourceHash": "aae95e5b1cd3b85027ca01159930ecd563205cc0ac32a1961c697e756cc222a7"
+  },
+  "settings.files.showFileTimestampsOnHover": {
+    "message": "Mostra date dei file al passaggio del mouse",
+    "sourceHash": "005ac123fe5c9ffb981aa825f0e9cf77a4b7597f5d2aea0356f5f3a68ae61ae3"
+  },
+  "settings.files.showFoldersThatStartWithAPeriodEG": {
+    "message": "Mostra le cartelle che iniziano con un punto (ad es. .data)",
+    "sourceHash": "24eddada0ec0d149edc003e050063797d122c748d0a805cc0dd9e59e394227ab"
+  },
+  "settings.files.showLastModifiedTime": {
+    "message": "Mostra ora dell’ultima modifica",
+    "sourceHash": "54f892e17bdab2cd3f05ce730b30204ad6e0aacc13347283e34c28a8aac367bc"
+  },
+  "settings.files.supportedExtensions": {
+    "message": "Estensioni supportate",
+    "sourceHash": "e2f8ac634e6cde75994e45311c10f245f01044514b02ee2b9a7a90f1b2be89dc"
+  },
+  "settings.files.tagsAndProperties": {
+    "message": "Tag e proprietà",
+    "sourceHash": "b43e0e5bfaab765d100afae0edd7bc669a7c76fb1202218a7f678fbedca86473"
+  },
+  "settings.files.thisClearsTheIndexedBodyAndFrontmatterTagsAnd": {
+    "message": "Questa operazione cancella il corpo indicizzato, i tag del frontmatter e le definizioni delle proprietà, poi li ricrea dai file Markdown attualmente nello spazio di lavoro. Le definizioni non usate da nessuna nota verranno rimosse. I tuoi file non verranno modificati.",
+    "sourceHash": "41adcd69d0893e0f7ab8febf28cc57ca83e884da6dd7dc8be7136c8d78b620db"
+  },
+  "settings.fonts.headingFontSelector.failedToLoadSystemFonts": {
+    "message": "Impossibile caricare i font di sistema",
+    "sourceHash": "6c20391f7c176b3c3d2f1643b48333d55df51e7c2ad0a887e293cb142c976afd"
+  },
+  "settings.fonts.headingFontSelector.headingFont": {
+    "message": "Font dei titoli",
+    "sourceHash": "e7ae60440470f4053ba570ef054ab4a0cd5c1b5c88aa495b647705f160fc4fec"
+  },
+  "settings.fonts.headingFontSelector.loadingSystemFonts": {
+    "message": "Caricamento dei font di sistema...",
+    "sourceHash": "09154d51b12aa85c512f15edca5eae0e0ad526ddd8fddf8c2101bacb116d65a4"
+  },
+  "settings.fonts.headingFontSelector.sameAsEditorFont": {
+    "message": "Uguale al font dell'editor",
+    "sourceHash": "e4af30db43efdfeec942138ebf1bfda063605a46573ab12636a84eac9ff3ce91"
+  },
+  "settings.fonts.headingFontSelector.selectFontForYourHeadings": {
+    "message": "Scegli il font per i tuoi titoli.",
+    "sourceHash": "ad8ad49c5dfe6bc8a634ebdc35f28a00dba564101831f91a50fa9271a35446f8"
+  },
+  "settings.fonts.headingFontSelector.systemFonts": {
+    "message": "--- Font di sistema ---",
+    "sourceHash": "445da78615cdd5429ad13d0a4cd434a3ed69e79f4355c044758429e8352221fe"
+  },
+  "settings.fonts.systemFontSelector.failedToLoadSystemFonts": {
+    "message": "Impossibile caricare i font di sistema",
+    "sourceHash": "9ea0a31eee044d80537c1dc4fb24b5b21964fda28f57e62a0b6a7c340ca2195f"
+  },
+  "settings.fonts.systemFontSelector.loadingSystemFonts": {
+    "message": "Caricamento dei font di sistema...",
+    "sourceHash": "847bd26d59f7eadbb3cf6d4c251e34290c5d6a7f044de64b06f7ff62eeccf1e3"
+  },
+  "settings.fonts.systemFontSelector.systemFonts": {
+    "message": "--- Font di sistema ---",
+    "sourceHash": "f0be4631ad2f6ee0af65c6b641c0abf0919833eaee79f76508558262c71672bf"
+  },
+  "settings.general": {
+    "message": "Generali",
+    "sourceHash": "2939db5162e9adf3c0d940278ddf87c7a96c1c23cac41ffb8ac306f68203297a"
+  },
+  "settings.general.assistant": {
+    "message": "Assistente",
+    "sourceHash": "5e8967ff5986cfc51da2cf29724e6634f0580d6bc682c2ddb6b65a960e4c163c"
+  },
+  "settings.general.backgroundAIIndexing": {
+    "message": "Indicizzazione AI in background",
+    "sourceHash": "842f377f981f7db33f1bda0f97307ce153cae942220fe3a5d58e30e711accd5c"
+  },
+  "settings.general.changeWorkspaceColor": {
+    "message": "Cambia colore dello spazio di lavoro",
+    "sourceHash": "55ead8c9dbdc7844616d0e55e016e91fbc02fbe98089577763516ba5883fce80"
+  },
+  "settings.general.chooseWhereAIShowsUpAndHowAsk": {
+    "message": "Scegli dove appare l'AI e come si comporta Ask Octarine.",
+    "sourceHash": "80fc898bddfb2345fa84c5e068801113699a502e7a464cc711816927ea17557f"
+  },
+  "settings.general.chooseWhetherAIRecapsShouldAnalyzeThePast": {
+    "message": "Scegli se i riepiloghi AI devono analizzare la settimana passata o quella corrente",
+    "sourceHash": "e58a5277d6b2177a2042a16f29c97613d98774cd39514477f7bfa81ea791fd5e"
+  },
+  "settings.general.copyPath": {
+    "message": "Copia percorso",
+    "sourceHash": "769b5f20f622655e9c207974ebc53aba3e97ba9f947fc64853ab743c92e74bd8"
+  },
+  "settings.general.currentWeek": {
+    "message": "Settimana corrente",
+    "sourceHash": "a57dcc761103377fcc516a57d45f860f00e509a64bb38861a862f0008996cb96"
+  },
+  "settings.general.general": {
+    "message": "Generali",
+    "sourceHash": "f5763359c69e75f2c412724e124cb3586abe5a5f1c38b633c2aa33bf2b6f76b9"
+  },
+  "settings.general.hideAIButtonsMenusAndShortcutsAcrossThe": {
+    "message": "Nascondi pulsanti, menu e scorciatoie AI in tutta l'app",
+    "sourceHash": "e0bc7092245e87e58f9204f7b9c361039e15d400e36e01b28943bcabd92691c4"
+  },
+  "settings.general.hideAllAI": {
+    "message": "Nascondi tutta l'AI",
+    "sourceHash": "64955a6576dc1598756edb46ccf99d8c44335854542b7fa00bb9bb6d3c86f6de"
+  },
+  "settings.general.keepThisWorkspaceSLocalAIIndexUp": {
+    "message": "Mantieni aggiornato l'indice AI locale di questo spazio di lavoro anche quando Ask Octarine è chiuso, pure se l'app è ridotta a icona. Usa più CPU. Disattivato per impostazione predefinita.",
+    "sourceHash": "0e088725245c932f769a0b2a5ee14dc41aaa4a6764dfedb7ba4ecf3a19b17794"
+  },
+  "settings.general.manageThisWorkspaceSIdentityAndLocation": {
+    "message": "Gestisci l'identità e la posizione di questo spazio di lavoro.",
+    "sourceHash": "c281d27b492e2871db9e315805e7db15927be876dda163cda189ff1002a7bd97"
+  },
+  "settings.general.pastWeek": {
+    "message": "Settimana passata",
+    "sourceHash": "99ec5bcc856d2e9f2a3dc885fd0f99becd1066f9c92b79f4c07b033756c5bbcc"
+  },
+  "settings.general.path": {
+    "message": "Percorso",
+    "sourceHash": "fbe7c1509ea358917c7543f51689eac34f330fe841c0e3e9fc0c824523f4f198"
+  },
+  "settings.general.pathCopiedToClipboard": {
+    "message": "Percorso copiato negli appunti",
+    "sourceHash": "eb6a84840675b764ad91ad6dca8f36dfd507931b0831c1b3d05ccbf3cabb8bb7"
+  },
+  "settings.general.requireEnterToSendAIRequests": {
+    "message": "Richiedi {modifierKey} + Invio per inviare le richieste AI",
+    "sourceHash": "39f49f678c7e9e13277e4b09f56e3bb32d647fae01cd0d44de38256741fa270f"
+  },
+  "settings.general.reset": {
+    "message": "Ripristina",
+    "sourceHash": "add18c07a3c440a0502b06872d6162b3d9cd15b48cc53cc223120ae51f0a3589"
+  },
+  "settings.general.saveChanges": {
+    "message": "Salva modifiche",
+    "sourceHash": "970debd2b1c6439b8a17a38d4f1805c5a04854cddff776160f9bd35c2dfa3649"
+  },
+  "settings.general.weeklyRecapPeriod": {
+    "message": "Periodo del riepilogo settimanale",
+    "sourceHash": "d6e58fad5883473c2916c7ab9b666a10520467baf5bf7e27cd71cc7ee77c1ebb"
+  },
+  "settings.general.weeklyRecapPeriodAi": {
+    "message": "riepilogo settimanale, periodo, riepilogo, ai, intelligenza artificiale, settimana, report",
+    "sourceHash": "539ff4617247ae5f08b44c2999a6a86ea7e5a7863de79cf5315bfc97ea634cc2"
+  },
+  "settings.general.whenEnabledUseEnterToSendAIRequests": {
+    "message": "Se attivo, usa {modifierKey} + Invio per inviare le richieste AI. Se disattivato, premi Invio per inviare.",
+    "sourceHash": "8b2853367abffcfdb9a9c263588f92e46627ba57e63678d1f72d989a90e9bd43"
+  },
+  "settings.general.workspace": {
+    "message": "Spazio di lavoro",
+    "sourceHash": "fd65ef33d2e0d32b4c4b0d6f312a46184091c61fd6ec26c99f0c14c2464b3014"
+  },
+  "settings.general.workspaceName": {
+    "message": "Nome dello spazio di lavoro",
+    "sourceHash": "e737529f141712ab03b36fa6e931bbc9c0df7e59b893f35f0fad8cedb41ecd20"
+  },
+  "settings.gitSync": {
+    "message": "Git Sync",
+    "sourceHash": "828f27f67244d6f67650ddef9a5182c57a5798ba663a13c91dbad19de8790ec4"
+  },
+  "settings.gitSync.ignoredFiles.attachments": {
+    "message": "Allegati",
+    "sourceHash": "7f6ea6a8fdd8901549647fe3d89cf6bd2d981b38104ad298b39158969389980d"
+  },
+  "settings.gitSync.ignoredFiles.available": {
+    "message": "{value} disponibili",
+    "sourceHash": "3c8deb8bc3a4ac9e2e53975ddadde3889daf121fa523ceb12e5fe9c7683b4a33"
+  },
+  "settings.gitSync.ignoredFiles.directories": {
+    "message": "Cartelle",
+    "sourceHash": "e2592a6bfe569ecf0929731356de85dde76ab8d176becd1d1f3b45f56792fdc7"
+  },
+  "settings.gitSync.ignoredFiles.everyDirectoryListedHereIsAlreadyIgnored": {
+    "message": "Tutte le cartelle elencate qui sono già ignorate.",
+    "sourceHash": "6afea1fa7d89f8a1254714ad3ffb368b612d5d320306c24f52d88b2571a382b5"
+  },
+  "settings.gitSync.ignoredFiles.files": {
+    "message": "File",
+    "sourceHash": "2a8a7c6f75889c11496708ea5968b764f662727576520eae7c41cc953e2514ca"
+  },
+  "settings.gitSync.ignoredFiles.ignored": {
+    "message": "{value} ignorati",
+    "sourceHash": "d4cb19f1e62cf5486a7702304255b61a9998c1edeeb3c600c4fd6bd2c55cee7c"
+  },
+  "settings.gitSync.ignoredFiles.ignoredByGitSync": {
+    "message": "Ignorati da Git Sync",
+    "sourceHash": "ad1230aaf7cbb43a1027dac1eedac5337d73fca10daf36b9b6c84cacc35ea8b7"
+  },
+  "settings.gitSync.ignoredFiles.noDirectoriesAreIgnoredYet": {
+    "message": "Nessuna cartella è ancora ignorata.",
+    "sourceHash": "eb1c3deb110a868af2e27e654062e2d4887df8142f4c75f4a83977f8a7e2f382"
+  },
+  "settings.gitSync.ignoredFiles.noMatchingDirectories": {
+    "message": "Nessuna cartella corrispondente.",
+    "sourceHash": "da9259a7974f1bc84eb1b959accb3cd6cd2c8366a0e21b9bc63df83d5d7cdd68"
+  },
+  "settings.gitSync.ignoredFiles.remove": {
+    "message": "Rimuovi {id}",
+    "sourceHash": "78f90df85465b598db4dfbfa3cc0fe751b1cc1b849bcfd408ebea09004b9c150"
+  },
+  "settings.gitSync.ignoredFiles.searchDirectories": {
+    "message": "Cerca cartelle",
+    "sourceHash": "9ebfa71e0d1da9385993fc0bb2b3d54f5868c49b1a52e43f6e9ed0f30e4adfad"
+  },
+  "settings.gitSync.ignoredFiles.templates": {
+    "message": "Modelli",
+    "sourceHash": "43832081f29bbfe7351ad52ebe39a4c4fdf9c01c72eac6c1d390790890b320bc"
+  },
+  "settings.gitSync.preferences.10Minutes": {
+    "message": "10 minuti",
+    "sourceHash": "05e4a2988062eca0b217dbb0cd7e7854779c7531056b11861f1ad9587555fd9d"
+  },
+  "settings.gitSync.preferences.15Minutes": {
+    "message": "15 minuti",
+    "sourceHash": "3b6ca35bcea66315acfe66b999bd6ed08c9b6b1e2292f369cd558ec1961deb66"
+  },
+  "settings.gitSync.preferences.1Hour": {
+    "message": "1 ora",
+    "sourceHash": "9c899b2022d410e80fa3d93c029b69f9babb3601b57b189f5b35bec1ac7436ac"
+  },
+  "settings.gitSync.preferences.1Minute": {
+    "message": "1 minuto",
+    "sourceHash": "b90d2822ece4f9bbe6f434aea809c090488be79a02ba2298899426baeed4037e"
+  },
+  "settings.gitSync.preferences.2Minutes": {
+    "message": "2 minuti",
+    "sourceHash": "12be4bdd111f5d7749d965fc4bb23159f403bf3375280721c247aa80501d4055"
+  },
+  "settings.gitSync.preferences.30Minutes": {
+    "message": "30 minuti",
+    "sourceHash": "0b4f3b705d0372b4f0a3edcf0393b74a9c2e6b4e84368286780c17d3bf203811"
+  },
+  "settings.gitSync.preferences.3Minutes": {
+    "message": "3 minuti",
+    "sourceHash": "d44dc2d55db86e21a7198d6733d0738b36a4f5955a060ffbeeb952f3f1642828"
+  },
+  "settings.gitSync.preferences.5Minutes": {
+    "message": "5 minuti",
+    "sourceHash": "1ca45880548231bdae264ff7180185f0ce3985d4b73724f94e992ac387db06c7"
+  },
+  "settings.gitSync.preferences.autoSync": {
+    "message": "Sincronizzazione automatica",
+    "sourceHash": "a113de827bc186dbaac8b20c3ba77e716fda9d7ea61725cf4ad1f36cc0ad8ad8"
+  },
+  "settings.gitSync.preferences.automaticallySyncYourWorkspaceWithGit": {
+    "message": "Sincronizza automaticamente lo spazio di lavoro con Git",
+    "sourceHash": "2bafb807338dcf890cdabfd82fa99ab3cef28f3a63f0c6d079c54627af797e09"
+  },
+  "settings.gitSync.preferences.backupInterval": {
+    "message": "Intervallo di backup",
+    "sourceHash": "44470c4f7ddf37818061ac408a47a5ed844b816b4bab3d81e1facc29264bed60"
+  },
+  "settings.gitSync.preferences.chooseWhichVersionToKeepWhenConflictsOccur": {
+    "message": "Scegli quale versione mantenere quando si verificano conflitti",
+    "sourceHash": "d2c37044977424439f1ee961fdc736a4c3e3f8bdccdcb906f5baaac98ba6c6f8"
+  },
+  "settings.gitSync.preferences.conflictResolution": {
+    "message": "Risoluzione dei conflitti",
+    "sourceHash": "b9d6194fda45c05c1c5c05070609b3a54ce722cbafbbfa9d3017cb866e0aca83"
+  },
+  "settings.gitSync.preferences.howOftenToBackupYourWorkspaceInMinutes": {
+    "message": "Frequenza dei backup dello spazio di lavoro (in minuti)",
+    "sourceHash": "9783c66eb8bceb16295d9584eed463950674546fbfc9d8a7b8f2058e19461606"
+  },
+  "settings.gitSync.preferences.immediatelySyncChangesToTheRepository": {
+    "message": "Sincronizza subito le modifiche con il repository.",
+    "sourceHash": "3ba4656e7ea5de619e4535e49102b5caf187889aee65b8c38cd7cfc616d97a1c"
+  },
+  "settings.gitSync.preferences.keepLocalChanges": {
+    "message": "Mantieni modifiche locali",
+    "sourceHash": "e6ccb7f3dd34da6aabc0e55f85b4f4a703d52b8b078fe8ebe098db9f873a2f5f"
+  },
+  "settings.gitSync.preferences.lastSynced": {
+    "message": "Ultima sincronizzazione",
+    "sourceHash": "3e0018c0102ea1d396e559e5a433bf4eb5db318b47000eb6690a295f04c23123"
+  },
+  "settings.gitSync.preferences.never": {
+    "message": "Mai",
+    "sourceHash": "0cf5b01cebff27b26dc6954b608a80459ee44e05d56a42dcc94a5059ea1b9f6e"
+  },
+  "settings.gitSync.preferences.noChanges": {
+    "message": "Nessuna modifica da sincronizzare",
+    "sourceHash": "7cf35bd43dc090f89430cbfc8525b359bb1eea2a388c9299708461d3f3fce23b"
+  },
+  "settings.gitSync.preferences.noChangesToSync": {
+    "message": "Nessuna modifica da sincronizzare.",
+    "sourceHash": "50285dbfd4e505d82690ff40f658338b6c5598475af1ee609602cab5b1ec5a92"
+  },
+  "settings.gitSync.preferences.pullChanges": {
+    "message": "Scarica modifiche",
+    "sourceHash": "4a2bc561f0ff2cc75b88380a69a66379abe23d2bb6592bf619216a25ec39557c"
+  },
+  "settings.gitSync.preferences.pullFromOriginMainWithoutCommittingOrPushing": {
+    "message": "Scarica da origin/main senza eseguire commit o push.",
+    "sourceHash": "b378b4ac63e4316ed82c1ba32732c889ca1b2088f74b2132a36b0edd130a7169"
+  },
+  "settings.gitSync.preferences.pulling": {
+    "message": "Download in corso...",
+    "sourceHash": "632c74af54c5245831c9cb9d13e3e75f56277658d69c2a9506930f152b3972ed"
+  },
+  "settings.gitSync.preferences.remoteURL": {
+    "message": "URL remoto",
+    "sourceHash": "43fc001798e21a4043c2c1bbea405364b203e8fd00d225dff90c85c157fa6252"
+  },
+  "settings.gitSync.preferences.repository": {
+    "message": "Repository",
+    "sourceHash": "5076bb2691e3b6ec734c1a61a59edea9715b30d6a0a530bb4b05226dc29fa23f"
+  },
+  "settings.gitSync.preferences.syncError": {
+    "message": "Errore di sincronizzazione: {error}",
+    "sourceHash": "58456a9ce3f3e7a25d706b94bb53da5dee2abef195052d313e6e95f652b1a6f1"
+  },
+  "settings.gitSync.preferences.syncNow": {
+    "message": "Sincronizza ora",
+    "sourceHash": "c02f59dfd43d6099310b9fdd9d2c1ddac5de613dd7c74ab00f0965cd342891bc"
+  },
+  "settings.gitSync.preferences.syncPreferences": {
+    "message": "Preferenze di sincronizzazione",
+    "sourceHash": "ba5ba1ddd913fceffb11cd7e57c65f76734e0725a5a19886da8ef4c9fbee12a6"
+  },
+  "settings.gitSync.preferences.syncedAt": {
+    "message": "{date} alle {time}",
+    "sourceHash": "0c78917a7d894b901b51757257c5bad8d35880a4bc4eedb87f1a13bef8e608a5"
+  },
+  "settings.gitSync.preferences.syncing": {
+    "message": "Sincronizzazione in corso...",
+    "sourceHash": "d7b613ad982b0d241b0ceea682eee216e865d67bafa2e2c53e9f8eb992d44477"
+  },
+  "settings.gitSync.preferences.useRemoteChanges": {
+    "message": "Usa modifiche remote",
+    "sourceHash": "4934f4a82b8a71cb69c8b784078ec3af207a4e2ad064adbf962ad1f49afcc7b3"
+  },
+  "settings.gitSync.preferences.view": {
+    "message": "Visualizza",
+    "sourceHash": "f8ab5a40d2dd9556eff3fbc6b1fc6f4fdcd640c1b35d876aae45a1aeef3efc53"
+  },
+  "settings.gitsync.backUpAndSyncThisWorkspaceThroughAGit": {
+    "message": "Esegui il backup e sincronizza questo spazio di lavoro tramite un repository Git.",
+    "sourceHash": "fa63ed82975e1656e906c51442f256bdcaf5cb1f42b12cfeb0d02021452783b7"
+  },
+  "settings.gitsync.dangerZoneRemoveIntegration": {
+    "message": "Zona pericolosa - Rimuovi integrazione",
+    "sourceHash": "51ce6bb6400f89781b5265234f3697b0a6e13d8be3c2dc1064fea9a27c9228c9"
+  },
+  "settings.gitsync.finishSetup": {
+    "message": "Termina configurazione",
+    "sourceHash": "f8e7869cd812189fa4da032f2c54a9390e91e01bcb962e3fd454bdae9905753d"
+  },
+  "settings.gitsync.gitGithubComUsernameRepoGit": {
+    "message": "git@github.com:username/repo.git",
+    "sourceHash": "81fb8215a990790de248e641f4ae67b53dd3c0ecb9c426d5d0b9ae525682c052"
+  },
+  "settings.gitsync.gitSync": {
+    "message": "Sincronizzazione Git",
+    "sourceHash": "bd611d7293b837281d3c9888e989e2091f4f54a5307a4af3b5ca0acdef46809a"
+  },
+  "settings.gitsync.ignored.gitSyncIgnoredDirectories": {
+    "message": "Cartelle escluse dalla sincronizzazione Git",
+    "sourceHash": "ff1c07c1a716ab03268ab6632fbc170e4b0b5e8a8d95fd060ca76ad5c7dd915f"
+  },
+  "settings.gitsync.ignored.ignoredDirectoriesAreWrittenToThisWorkspaceSGitignore": {
+    "message": "Le cartelle escluse vengono scritte nel file .gitignore di questo spazio di lavoro e non saranno incluse nei commit di sincronizzazione Git.",
+    "sourceHash": "afbb6fd7a7095ea3646dfb08b02e14e224898518b89b2d08950b8545aa2c04c1"
+  },
+  "settings.gitsync.ignored.setUpGitSync": {
+    "message": "Configura la sincronizzazione Git",
+    "sourceHash": "396822fa6a7d2f45013264719540465f712f8b50ef19547e9c06966439448799"
+  },
+  "settings.gitsync.manageGitInOctarine": {
+    "message": "Gestisci Git in Octarine",
+    "sourceHash": "b83118c67750cbb2f280f4fcd146942f0fcb60095d76d8707012fd7a1bb30fef"
+  },
+  "settings.gitsync.message": {
+    "message": "Git resta invariato in questo spazio di lavoro, ma Octarine smetterà di mostrare i controlli di sincronizzazione Git e non gestirà commit, pull o push finché non la riattivi.",
+    "sourceHash": "de886a984eadf9eeee174c813e69f68f7124a424da07fa841494b14ae31a92e9"
+  },
+  "settings.gitsync.needOctarineToStopManagingGitWithoutTouchingYour": {
+    "message": "Vuoi che Octarine smetta di gestire Git senza toccare il tuo repository? Disattiva «Gestisci Git in Octarine» qui sopra. Rimuovere l'integrazione qui elimina i metadati Git locali all'interno di questo spazio di lavoro e dovrai configurare di nuovo la sincronizzazione Git.",
+    "sourceHash": "8b26535a815458750df2f2bb9ad2bd35c565e3468b498e9fad27ad59e218b10d"
+  },
+  "settings.gitsync.octarineManagement": {
+    "message": "Gestione Octarine",
+    "sourceHash": "b6f3763b072b58f89e437713878f6428723d69ac780f0840e3fd33ca957eecd2"
+  },
+  "settings.gitsync.pleaseRecheckYourSshUrl": {
+    "message": "Controlla di nuovo l'URL SSH.",
+    "sourceHash": "b5440f050e802473c0aacd43cc35ca765f9e19f90f8c1ca61ccdee8cad25341a"
+  },
+  "settings.gitsync.readTheDocs": {
+    "message": "Leggi la documentazione",
+    "sourceHash": "a0e86dcd71663571e281e3149bd5103ba10df58be90412cb9591ed67898fa63e"
+  },
+  "settings.gitsync.remoteSSHURL": {
+    "message": "URL SSH remoto",
+    "sourceHash": "241d58968df793e25537a54c4c95addf0f9a24a4af3bd985907b8c2f72df5cd7"
+  },
+  "settings.gitsync.removeGitSyncIntegration": {
+    "message": "Rimuovi integrazione Git Sync",
+    "sourceHash": "4b7c2d67131b8be7cb11ba56b3093c0fcef3adeb9138a2c3a5f476e1a3fe8b5f"
+  },
+  "settings.gitsync.removeGitSyncIntegration2": {
+    "message": "Rimuovere l'integrazione Git Sync?",
+    "sourceHash": "c6b255f8a39ef1f797c74348f11a24aed944dda3123ab27a428394fc8c16582f"
+  },
+  "settings.gitsync.resetSetup": {
+    "message": "Reimpostare la configurazione?",
+    "sourceHash": "851e384d1c34bd7c48cc5c12fdabfe4f4b58ec3c2baa6dc3ef5793e814c34670"
+  },
+  "settings.gitsync.setup": {
+    "message": "Configurazione",
+    "sourceHash": "77d0186c9c89ef59b8c2155436aa5b8a0507cd1a67eca72a57d7d752987c1232"
+  },
+  "settings.gitsync.showGitSyncControlsAndLetOctarineCommitPull": {
+    "message": "Mostra i controlli di Git Sync e consenti a Octarine di eseguire commit, pull e push delle modifiche per questo spazio di lavoro.",
+    "sourceHash": "7b570097e6939fb598dbf46bf96ed9dc16c8210ca8f8f919f966341ca8c928fe"
+  },
+  "settings.gitsync.syncError": {
+    "message": "Errore di sincronizzazione: {error}",
+    "sourceHash": "85edf50beeb2864e51d5230ac868a89ec1bdd30bb73854c2eed7401727030496"
+  },
+  "settings.gitsync.thisWillDeleteTheLocalGitMetadataInsideThis": {
+    "message": "Verranno eliminati i metadati Git locali di questo spazio di lavoro, disattivata la sincronizzazione automatica e sarà necessario configurare di nuovo Git Sync.",
+    "sourceHash": "6e4ba303b76d64dbe5c8f8ecd9f9aaa8257d1bec5eb1979575b11bfa8cd31c0d"
+  },
+  "settings.gitsync.yesRemove": {
+    "message": "Sì, rimuovi",
+    "sourceHash": "890f56ab58955700cd2c5ec38cf3688154d31d8d6ae24a862cf9149f595bfc60"
+  },
+  "settings.group.ai": {
+    "message": "Assistente AI",
+    "sourceHash": "d8944f81cdfde9bc9b9b21f6899ef5b8182a8355db8095be7c04fd6346cb1610"
+  },
+  "settings.group.appearance": {
+    "message": "Aspetto",
+    "sourceHash": "6ff3eb40bd29a332fc4b82f3fea5f5473bd466eec66536c31cf71916e51caf9b"
+  },
+  "settings.group.capture": {
+    "message": "Appunti e file",
+    "sourceHash": "1368dc803577186acfbf02fa142997c5a9df5f0bbe2b94653cdd52e4b1c595a9"
+  },
+  "settings.group.danger": {
+    "message": "Zona pericolosa",
+    "sourceHash": "4775dc6ecf1f8bf603122451f8d44dd4f059e50d93c5225bd20069fd364a6cd4"
+  },
+  "settings.group.sharing": {
+    "message": "Condivisione",
+    "sourceHash": "ace69c98f5fd6babd195f573a70adc379b1d89859b9e04100cb6b4547e412b38"
+  },
+  "settings.group.sync": {
+    "message": "Sincronizzazione e sicurezza",
+    "sourceHash": "6b595cfb651f9b9aba912c2dd2216f82e017e454e42edaf4051e9be4593d4baf"
+  },
+  "settings.group.tasks": {
+    "message": "Attività",
+    "sourceHash": "cf9a6302261df33e4812dd435aff6023222f3ee2b50927c295e8a7e5ec6ebe60"
+  },
+  "settings.group.workspace": {
+    "message": "Spazio di lavoro",
+    "sourceHash": "8e0523300bbfbb4014d73320788ac5b4b94a29f0508306ad440367609e139175"
+  },
+  "settings.group.writing": {
+    "message": "Scrittura",
+    "sourceHash": "7e94648bf3b38a96822ddc808076d109940eca69aeb282a19c8ca665f67f425b"
+  },
+  "settings.ignored": {
+    "message": "Esclusi",
+    "sourceHash": "a66873e2dbbc12b5262abc3557678c0d23347dc8c433f24f4cc1de5944ad0366"
+  },
+  "settings.inbox.anythingDueBetween10PMAnd8AM": {
+    "message": "Tutto ciò che scade tra le 22:00 e le 8:00 attende fino alle 8:00.",
+    "sourceHash": "3854fa2f1d48e9e8958f0280002d8fd25bad70d5e77032c0964ba7407de210d6"
+  },
+  "settings.inbox.holdNotificationsUntilMorning": {
+    "message": "Posticipa le notifiche al mattino",
+    "sourceHash": "6e39d442d69b791e1816bd074e3f3e115f07703dc1d7594ac2ef4bde47b277b9"
+  },
+  "settings.inbox.howCapturesAreTriagedAndWhenTheyCome": {
+    "message": "Come vengono smistati gli appunti e quando ritornano.",
+    "sourceHash": "64ffda86aa88a803ef3a25e8576f160351cfc889dc81debc7323473ed09b39c0"
+  },
+  "settings.inbox.inbox": {
+    "message": "In arrivo",
+    "sourceHash": "fd35f842238ceb43a07ccd58d9d961328423aeca013245ee67ca0b6a0ceed0de"
+  },
+  "settings.inbox.notifyWhenASnoozedCaptureIsBack": {
+    "message": "Notifica quando un appunto posticipato ritorna",
+    "sourceHash": "aff94ec6c9563d0f2a01d37f9d880d42b6d0d318a135075e8a23694ce60cac38"
+  },
+  "settings.inbox.sendsASystemNotificationAtTheSnoozeTime": {
+    "message": "Invia una notifica di sistema all'orario di posticipo. Gli appunti che ritornano insieme arrivano come un'unica notifica.",
+    "sourceHash": "a2abbaa3c0d3c99a92dfb7f55e2004cad7cc896e7b008c7d0124c0a711377f8e"
+  },
+  "settings.inbox.snooze": {
+    "message": "Posticipa",
+    "sourceHash": "8ebfaa9061db67155aad74f11dd93d4a7c232d0c51878a2a8081bbc304f5e5fa"
+  },
+  "settings.integrations": {
+    "message": "Integrazioni",
+    "sourceHash": "fc9cb22c271276b167ca95a807d99b7523a4b673174143ee567b3e1150fd326c"
+  },
+  "settings.integrations.activatePro": {
+    "message": "Attiva Pro",
+    "sourceHash": "7e0161295d8f92da972670aa1b6499481c5d10c480f06cab9716e34d5fd7ad4f"
+  },
+  "settings.integrations.add": {
+    "message": "Aggiungi",
+    "sourceHash": "c161877f327a2a3029514c0201ae75524aca3fcafdf3d08cd6a97a946112ed21"
+  },
+  "settings.integrations.addAnIntegration": {
+    "message": "Aggiungi un’integrazione",
+    "sourceHash": "0b2b748dbcbead7b02f2eabb2a11e3332f2237a4b5f953cb28d29c866f18099d"
+  },
+  "settings.integrations.addNamed": {
+    "message": "Aggiungi {name}",
+    "sourceHash": "a6bbcb5ce023e1ac7ff04b46fc7ae0cc85f18aa1b45d45c3882532812fd7f013"
+  },
+  "settings.integrations.backToIntegrations": {
+    "message": "Torna a Integrazioni",
+    "sourceHash": "5af943edc59986c8368642f9ef0179da23116989cb4c8179bc7773e81dc54575"
+  },
+  "settings.integrations.browseIntegrations": {
+    "message": "Sfoglia le integrazioni",
+    "sourceHash": "fdc4935a99066d136e1eed34e36782d905c66941fce974c7d3381cc1ae9a84df"
+  },
+  "settings.integrations.connectAnyStreamableHTTPMCPURL": {
+    "message": "Collega qualsiasi URL MCP Streamable HTTP",
+    "sourceHash": "0215cbcbbb6549765565ab1fb46269adab26c3863f2a3673303f79d2c288d40d"
+  },
+  "settings.integrations.connectMCPServicesOnceOnThisDeviceThenChoose": {
+    "message": "Collega i servizi MCP una sola volta su questo dispositivo, poi scegli le fonti per ogni conversazione di Chiedi.",
+    "sourceHash": "8670f09376bf6ec5a660c0cba09ad955f7ee1b308ae60fbb758245c32aa2d341"
+  },
+  "settings.integrations.connectServicesLikeLinearGitHubAndNotionThenChoose": {
+    "message": "Collega servizi come Linear, GitHub e Notion, poi scegli quali può usare ogni conversazione di Chiedi.",
+    "sourceHash": "a94307f130d8a3643d5912493920b2a35d906df6265444a9d76c295a876934d2"
+  },
+  "settings.integrations.connectYourFirstIntegration": {
+    "message": "Collega la tua prima integrazione",
+    "sourceHash": "2a7735fd9267b43d416701d0077cbdb84fced73bb9e958dcbf96dd2183c7124b"
+  },
+  "settings.integrations.couldNotLoadIntegrations": {
+    "message": "Impossibile caricare le integrazioni.",
+    "sourceHash": "476dd59b078a570d50c64d21f052784ce30114250b48d0b4fb16b26893554b19"
+  },
+  "settings.integrations.createToken": {
+    "message": "Crea token",
+    "sourceHash": "61a10702b2be293a0350cac6273a62d0c1831e5e1b8f943de97dc011bdfb38c1"
+  },
+  "settings.integrations.customServer": {
+    "message": "Server MCP personalizzato",
+    "sourceHash": "7ffdbc7732d5ec5a87d95150fb98fa2b49d3e1d05ca9a91c894eae54cd48881b"
+  },
+  "settings.integrations.docs": {
+    "message": "Documentazione",
+    "sourceHash": "95a8268bbd7af79812cacd71626f37f3dfcc330935be1c1329eca2bd6ef54a2a"
+  },
+  "settings.integrations.edit": {
+    "message": "Modifica",
+    "sourceHash": "e23fa4c57ab1b33a9f383ec3a226c3b2f28e3e1caebe659130d06f1535b104b2"
+  },
+  "settings.integrations.editNamed": {
+    "message": "Modifica {name}",
+    "sourceHash": "8eb54503c3a6a74287894135a746d520ef8cec03af38e6cfb8863abcda418123"
+  },
+  "settings.integrations.index.connected": {
+    "message": "Connesso",
+    "sourceHash": "7b3ea2d7c54c78994d1385f96199ce45533985e7f804d19d5ba744af9f098fac"
+  },
+  "settings.integrations.index.needsAttention": {
+    "message": "Richiede attenzione",
+    "sourceHash": "6236e1e51f77a605c87d0e67746eb547be44b2e1a02464bdc9eb65b96a445c11"
+  },
+  "settings.integrations.integrationForm.authentication": {
+    "message": "Autenticazione",
+    "sourceHash": "6e7de94fcdec72be2268eff7b6cc47b010d786949a8c6cc2a29fccafa093d0ad"
+  },
+  "settings.integrations.integrationForm.availableTools": {
+    "message": "Strumenti disponibili ({value})",
+    "sourceHash": "57a78bc67ad69afcd131c5f5d0dc839a801b9bd29e00f47982cdc8e95d3b5bba"
+  },
+  "settings.integrations.integrationForm.bearerToken": {
+    "message": "Token Bearer",
+    "sourceHash": "cec5159d9a927af7e0eeb971c9c1a4707a642d782cb23814f483b0ea756d9432"
+  },
+  "settings.integrations.integrationForm.blankPreservesStoredToken": {
+    "message": "Vuoto mantiene il token salvato",
+    "sourceHash": "a24f3b82341789edf548347e782cc8cffc26cd37e41ad9defaa3a506f4fd7462"
+  },
+  "settings.integrations.integrationForm.browserOAuth": {
+    "message": "OAuth nel browser",
+    "sourceHash": "0876590d863ef14f3481619fdb823de4dc2a4d818525dfaece4d0205bbbff7ae"
+  },
+  "settings.integrations.integrationForm.cancel": {
+    "message": "Annulla",
+    "sourceHash": "78026b8236e9d8528d496708bc65ffc1d41192ed9c6202258612495d1d068a88"
+  },
+  "settings.integrations.integrationForm.connectOpensYourBrowserForSecureSignInCustom": {
+    "message": "Collegati apre il browser per un accesso sicuro. I server OAuth personalizzati devono supportare la registrazione dinamica del client.",
+    "sourceHash": "19b27f987410380b1b05299e552f3170156eeceaf6df5483b91069c5e22328ef"
+  },
+  "settings.integrations.integrationForm.connectedLoadingTools": {
+    "message": "Connesso · Caricamento strumenti…",
+    "sourceHash": "358869e4b32440c9af6b0a6bb182cbe5822ec50c994a9b748d49e245a0f1c0a2"
+  },
+  "settings.integrations.integrationForm.connectedToolsAvailable": {
+    "message": {
+      "many": "Connesso · {count} strumenti disponibili",
+      "one": "Connesso · {count} strumento disponibile",
+      "other": "Connesso · {count} strumenti disponibili"
+    },
+    "sourceHash": "ceef0228adaaf49ede625739e888e61d607a03ac0c150631c1e144401a6e5e30"
+  },
+  "settings.integrations.integrationForm.connecting": {
+    "message": "Connessione in corso…",
+    "sourceHash": "7dc55516567fcd6bab126b076a95fee4ab29a05a760536c6742b295eb2fb12c4"
+  },
+  "settings.integrations.integrationForm.connection": {
+    "message": "Connessione di {nameCustomMCPserver}",
+    "sourceHash": "e3da0c63af10ffd2e0563fd7f21d20f4328a3edb0972ac9d29b386e93158f68e"
+  },
+  "settings.integrations.integrationForm.customHeaders": {
+    "message": "Intestazioni personalizzate",
+    "sourceHash": "bccc3ae2ce33a7207f17b68b36421c13fea07ca2834bf6ae60d2cc61e08953a7"
+  },
+  "settings.integrations.integrationForm.enterEachHeaderAsNameValue": {
+    "message": "Inserisci ogni intestazione come Nome: Valore.",
+    "sourceHash": "5439125a05fefbb74524b31a6df34ce55d3ecdabf8b4b4e271f45ec1606c0a46"
+  },
+  "settings.integrations.integrationForm.httpsExampleComMcp": {
+    "message": "https://example.com/mcp",
+    "sourceHash": "ce6823bdce11b99ac26cbe8b1565da64d146d8ba59e8b08acff0498609b73f8f"
+  },
+  "settings.integrations.integrationForm.name": {
+    "message": "Nome",
+    "sourceHash": "2ee646e033899861f17ee8da9452f8246e1cd40fad2e90679d15f04af13a2483"
+  },
+  "settings.integrations.integrationForm.nameValue": {
+    "message": "Nome: Valore",
+    "sourceHash": "fca698a11df2e80d1a4758c15d5774ab061ca76a6dd2b83c20558e61b1dc8240"
+  },
+  "settings.integrations.integrationForm.noAuthentication": {
+    "message": "Nessuna autenticazione",
+    "sourceHash": "9a304edf5f0a80cedf38516f9c677fdbf9fde93224be82d06148610aa2d0ebd4"
+  },
+  "settings.integrations.integrationForm.oneNameValuePerLineBlankPreservesSavedHeaders": {
+    "message": "Un Nome: Valore per riga. Lasciare vuoto mantiene le intestazioni salvate; quelle inserite le sostituiscono. Cambiare URL o autenticazione cancella le vecchie credenziali.",
+    "sourceHash": "e8db9f510bba4079042aa57b621adec681024c1f4d6994282ebc238d690be53c"
+  },
+  "settings.integrations.integrationForm.reconnect": {
+    "message": "Ricollega",
+    "sourceHash": "1c4afedaa68143853b9b8fd0c3d018b6c3a325cf373a1b91f2e8df80c443898d"
+  },
+  "settings.integrations.integrationForm.remove": {
+    "message": "Rimuovi",
+    "sourceHash": "80658d312fb0d25fc1a003f71c9556806d5ec77915ccb10d876907b369e5fcaa"
+  },
+  "settings.integrations.integrationForm.removeIntegration": {
+    "message": "Rimuovi integrazione",
+    "sourceHash": "98bd45bd0e92a86edb9cf5715dd9c08e64664b7ea856b7b508ad5b7c9b9ce599"
+  },
+  "settings.integrations.integrationForm.removeIntegration2": {
+    "message": "Rimuovere l’integrazione?",
+    "sourceHash": "ecf1b01f8a34b6b2b334fc206193af1c9cc6aeb9c9e564340e9bfaa9f5ee1eaf"
+  },
+  "settings.integrations.integrationForm.saveConnect": {
+    "message": "Salva e collega",
+    "sourceHash": "35526821b4e22cd34480b56592dd895ef26a0d09902e79561b88fab40c908a6b"
+  },
+  "settings.integrations.integrationForm.savedSettingsAreRetainedRetryConnectsTheSameIntegration": {
+    "message": " Le impostazioni salvate vengono mantenute; riprovando si collega la stessa integrazione.",
+    "sourceHash": "e0030ab421e7561ceed2c2a86df83c055c605f6584758430f1f201edc7ed3e5d"
+  },
+  "settings.integrations.integrationForm.serverURL": {
+    "message": "URL del server",
+    "sourceHash": "c8742b24db5f71cf0334c5c94e4990a5d21c89539d5f5636c0f59ce0508bfbff"
+  },
+  "settings.integrations.integrationForm.storedSecretsAreNeverDisplayedLeaveBlankToPreserve": {
+    "message": "I segreti salvati non vengono mai mostrati. Lascia vuoto per mantenere il token attuale.",
+    "sourceHash": "a5b693e549aaf5a5f17994b80075227621571a0f483a6c12c6115347147a64c1"
+  },
+  "settings.integrations.integrationForm.thisIntegration": {
+    "message": "Questa integrazione",
+    "sourceHash": "8c1fe4c72d030c9d85cf41322e37fbc06cdb7e527f96df767a67476ec396ce41"
+  },
+  "settings.integrations.integrationForm.token": {
+    "message": "Token",
+    "sourceHash": "9c609df1bbe9aee0bf289cd597558939ef224854321412817a6c7a5fd2b8dd9a"
+  },
+  "settings.integrations.integrationForm.useAGitHubPersonalAccessTokenWithReadAccess": {
+    "message": "Usa un token di accesso personale GitHub con accesso di lettura a Contents, Issues e Pull requests. Lascia vuoto per mantenere il token attuale.",
+    "sourceHash": "6ff4ac1dbe1299c076e3db9b3a541d6aedd8a26c86976858af432d1ad7f35e96"
+  },
+  "settings.integrations.integrationForm.waitingForSignIn": {
+    "message": "In attesa dell’accesso…",
+    "sourceHash": "de9727540792d723a54c7e530b80f8830d0ba35fa3d52fed816d84c946d66ffd"
+  },
+  "settings.integrations.integrationForm.willBeDisconnectedAndItsStoredCredentialsDeletedAsk": {
+    "message": "{nameThisintegration} verrà scollegata e le sue credenziali salvate eliminate. Ask Octarine non potrà più usarla.",
+    "sourceHash": "8040ce6dfceee6506fcf7e0ace8469cee8cdffb3f0e2e2941f101a3db6a57b38"
+  },
+  "settings.integrations.integrations": {
+    "message": "Integrazioni",
+    "sourceHash": "7ac72973c145466884f6b35dc0e825fcad81de2a7c3e6b7b99bd72ab09e8c6c7"
+  },
+  "settings.integrations.loadingIntegrations": {
+    "message": "Caricamento integrazioni…",
+    "sourceHash": "231e9e118ef5f30065893a89ac82819ea0bbd44a7fd0d7611d0a7a678303ee8f"
+  },
+  "settings.integrations.noIntegrationsFound": {
+    "message": "Nessuna integrazione trovata",
+    "sourceHash": "719eda4055e5d7076585adf92a4c1bf0f8856cbbffd754347a20874711b05c58"
+  },
+  "settings.integrations.octarineProRequired": {
+    "message": "Richiede Octarine Pro",
+    "sourceHash": "b81be7c76d6f25578b01aca474df6eb039c24b82438b08ea5d77681c2fe6ce42"
+  },
+  "settings.integrations.readOnlyIssuesProjectsAndCycles": {
+    "message": "Issue, progetti e cicli in sola lettura",
+    "sourceHash": "ab0928bd3bdf40683f350db006356df4c52fe20a08997b77bdfe305071443810"
+  },
+  "settings.integrations.readOnlyRepositoriesIssuesAndPullRequests": {
+    "message": "Repository, issue e pull request in sola lettura",
+    "sourceHash": "8e42bae9e43213ef7f46ed082e71584a5b5d4041f5895587d4ad43fcb7f4e852"
+  },
+  "settings.integrations.searchAndReadPagesAndDatabases": {
+    "message": "Cerca e leggi pagine e database",
+    "sourceHash": "76f4c099a21369a6053553e454e197211e95bded1da7b65efa0df37697976d8a"
+  },
+  "settings.integrations.searchIntegrations": {
+    "message": "Cerca integrazioni",
+    "sourceHash": "6ded9d03fb6729d93f7d01597a4366a8dc3b6db17df8bd57d4af6d8105380e61"
+  },
+  "settings.integrations.tryADifferentSearch": {
+    "message": "Prova una ricerca diversa.",
+    "sourceHash": "320ddfb512e3afcf57806bbb4340ad11c890e32eecc1ae15ad80b0ea25295e98"
+  },
+  "settings.integrations.yourConnections": {
+    "message": "Le tue connessioni",
+    "sourceHash": "f7d82118db0b2c9bedbd82146650769c89e590f5c9f8e96aa53224424af48c35"
+  },
+  "settings.noteTypes": {
+    "message": "Tipi di nota",
+    "sourceHash": "1feeb234c7c549687dfe1090b7ab558d93e7b5945f2ef0c8f072bda73f56cff7"
+  },
+  "settings.preferences": {
+    "message": "Preferenze",
+    "sourceHash": "06d8ef9da4c4d651108da8e1d3f8a2c74fab7fc6ea7faa029ddce1fe67b83884"
+  },
+  "settings.preferences.24HourTimeFormat": {
+    "message": "Formato orario a 24 ore",
+    "sourceHash": "22bb1e1f1d23e945bd5931e04b21c3aa3e529eda8a3d31172ca4d44de84241f8"
+  },
+  "settings.preferences.adjustTheSizeOfBaseInterfaceText": {
+    "message": "Regola la dimensione del testo dell’interfaccia",
+    "sourceHash": "61f112aec5cd51d3a85e0a4f8ea8389aa96e20a29648108c121b0ea3982d03a0"
+  },
+  "settings.preferences.appLanguage": {
+    "message": "Lingua dell’app",
+    "sourceHash": "dd65f3bb117f099765ed476d34c7dac005d83e29edb8538de169fa4b91d2bf1a"
+  },
+  "settings.preferences.appLanguageDescription": {
+    "message": "Menu, impostazioni e messaggi. Le tue note non vengono tradotte.",
+    "sourceHash": "940232f507ec546876778353bac16a1f027c70e2ad8189b39223fa2f91d46a98"
+  },
+  "settings.preferences.applyARandomColorThemeEachTimeYouOpen": {
+    "message": "Applica un tema colore casuale ogni volta che apri l’app. Perché? Perché è divertente!",
+    "sourceHash": "9d2ab30dc59f4b6d369fd029e8b6e19c5be031bb52d71b05874fd0564c9190ef"
+  },
+  "settings.preferences.bottom": {
+    "message": "In basso",
+    "sourceHash": "25609b19ddd80c96000f89880ce804c160d5be7a1c4d93c03b4f56befb68b57d"
+  },
+  "settings.preferences.calendar": {
+    "message": "Calendario",
+    "sourceHash": "05229b8b42d711b9a9e323df1b2f4be898790d1032ffc45ea2e2c79d258ff90c"
+  },
+  "settings.preferences.calendarPosition": {
+    "message": "Posizione del calendario",
+    "sourceHash": "4bf790009d41351eae9e3d5b4ac24d8bddc5f03a080f8e6d18a6d7665c750fcd"
+  },
+  "settings.preferences.chooseWhatToShowForThisWorkspaceWhenThe": {
+    "message": "Scegli cosa mostrare per questo spazio di lavoro all’avvio dell’app",
+    "sourceHash": "89af4983e358629f192c0fd0c916c160c82cbfd0a747bf8bded59370e247c21a"
+  },
+  "settings.preferences.darkThemeDescription": {
+    "message": "Specifica il tema colore quando la modalità colore del sistema è scura",
+    "sourceHash": "65b7c245ba94b1e607ebf58b9d5de59a162a648b5c4a5226c9c02d2724a05c37"
+  },
+  "settings.preferences.dateFormat": {
+    "message": "Formato data",
+    "sourceHash": "efd0024f3aec446cd1e8a62cd124f5f2ccb7df40c6e013dbd95e10ee8b02838e"
+  },
+  "settings.preferences.dateTime": {
+    "message": "Data e ora",
+    "sourceHash": "cc7439ded5d6ed24e61a4ed629a7f832a674a66757448b8739f4744f1cd804b7"
+  },
+  "settings.preferences.dimInactivePanes": {
+    "message": "Attenua i riquadri inattivi",
+    "sourceHash": "f660cb947860b0bfa007916bebba0c6cbbaa58bafc67e1796cf33b03a231edcf"
+  },
+  "settings.preferences.displayTheCalendarInTheSidebar": {
+    "message": "Mostra il calendario nella barra laterale",
+    "sourceHash": "93c6a00b966844cb867e16c9a0f601eb505ca47df7562097d609983570bdd3fd"
+  },
+  "settings.preferences.displayTimeIn24HourFormatEG14": {
+    "message": "Mostra l’ora in formato 24 ore (ad es. 14:30 invece di 2:30 PM)",
+    "sourceHash": "dd10fb787df18d0441c0dec72218be09c890a9ad94cec7ccabe0ef24528fc7de"
+  },
+  "settings.preferences.fontSize": {
+    "message": "Dimensione carattere",
+    "sourceHash": "6c1d14d8ef96a2b97747b958087c4267890d38d2e87c21065d49c86a4c797f6c"
+  },
+  "settings.preferences.fonts": {
+    "message": "Caratteri",
+    "sourceHash": "cefb0bfac4c148149f733ed74ba06f7a7f7e58667b64e767f21485722a967479"
+  },
+  "settings.preferences.friday": {
+    "message": "Venerdì",
+    "sourceHash": "7c61b7c967dc4f770df381841f219ed963ca2f3e0a7756d837674a30de0e78a4"
+  },
+  "settings.preferences.interfaceFont": {
+    "message": "Carattere dell’interfaccia",
+    "sourceHash": "f8054a685df2076fe572aaa6b5efdc67f1c06c001f6b0cf02dc7285fee55415c"
+  },
+  "settings.preferences.invalidDateFormat": {
+    "message": "Formato data non valido",
+    "sourceHash": "34a5bb51ce0a588f8df9613105dde137a65a17afff3cebf5f016dca5adbf9896"
+  },
+  "settings.preferences.keepTheShareButtonVisibleInTheNoteBreadcrumb": {
+    "message": "Mantieni visibile il pulsante Condividi nel percorso della nota. La condivisione resta disponibile dalle opzioni del percorso.",
+    "sourceHash": "d1724e98ddeaa00ef06b5d3080745f04b0ebb8ddd5343702736db162d5deabcc"
+  },
+  "settings.preferences.language": {
+    "message": "Lingua",
+    "sourceHash": "e497d69067b3823501e69f6e15b21bb5276dbca1522fd93786d0719d758f161f"
+  },
+  "settings.preferences.languageKeywords": {
+    "message": "lingua, localizzazione, traduzione, cinese, inglese, italiano",
+    "sourceHash": "5a3b0a83d8b59c576cfb5bb1662503fe9ab696bebb3a0d80c6508823a1ac1369"
+  },
+  "settings.preferences.languageRestartHint": {
+    "message": "Riavvia Octarine per passare a {language}.",
+    "sourceHash": "6a54e1f7ba5b112c5d3a3ace2c8017e808aca57b98ab40fc99a2cebe3dd674ff"
+  },
+  "settings.preferences.lastViewedTab": {
+    "message": "Ultima scheda visualizzata",
+    "sourceHash": "a895f85b772d9d6536cd2b937efbececd9facd3a8f58600a6dc0f7c067abda72"
+  },
+  "settings.preferences.layout": {
+    "message": "Disposizione",
+    "sourceHash": "98d4a0b0b208d20f6edc038cf3f8bfcfbb0d3552606cf9c36e84b31dde26751c"
+  },
+  "settings.preferences.lightThemeDescription": {
+    "message": "Specifica il tema colore quando la modalità colore del sistema è chiara",
+    "sourceHash": "ab05f222874d5094620c8e2ba2cf2cbec6c5edbfea1dbfec6e5ed2114dec4912"
+  },
+  "settings.preferences.monday": {
+    "message": "Lunedì",
+    "sourceHash": "eaca09025474c6c23d6720847362902f8cf3dca26d220c6b98ba1246b09de5e6"
+  },
+  "settings.preferences.monospaceFont": {
+    "message": "Carattere a spaziatura fissa",
+    "sourceHash": "2e275f37dca2fd9fb3e94f5d3a3a3cf17857e268f1db5357f75be20b92a73119"
+  },
+  "settings.preferences.onAppStart": {
+    "message": "All’avvio dell’app",
+    "sourceHash": "01d674aff388140d72b9f43c1f8ea42d4a84caf3e7797cd5b3cc97f01927b77d"
+  },
+  "settings.preferences.oneOfTheFollowingTokensMustBeIncluded": {
+    "message": "Deve essere incluso uno dei seguenti token {join}",
+    "sourceHash": "4bd438ccb335bcd32255b0812a0b60cea1cd005f2f508af8b5c3538a7b80b06f"
+  },
+  "settings.preferences.openAskOctarine": {
+    "message": "Apri Ask Octarine",
+    "sourceHash": "430382e88e51587f78d548fb92263db12a1588a3262b44f0d146c8bccc94f75d"
+  },
+  "settings.preferences.openDailyNote": {
+    "message": "Apri nota giornaliera",
+    "sourceHash": "b455f865d06c2034e168b6ca10784905b41532988477f62fcbb80eefacbd1d27"
+  },
+  "settings.preferences.openNewTab": {
+    "message": "Apri nuova scheda",
+    "sourceHash": "1cb4703c65030b905ee10b75e72f7bb8d1a83297b0c196a0d748583c1c291f2b"
+  },
+  "settings.preferences.openViews": {
+    "message": "Apri viste",
+    "sourceHash": "47f9a94d57206a7fee6dbfc8653c8e4faaa0dc932c2d3be55d0780be2ed76dee"
+  },
+  "settings.preferences.positionTheCalendarAboveOrBelowTheSidebar": {
+    "message": "Posiziona il calendario sopra o sotto la barra laterale",
+    "sourceHash": "f144e464e21f020d6959a57e72ef968c8ee37f27f17a7dfc946e2bcd4b85dff4"
+  },
+  "settings.preferences.preferences": {
+    "message": "Preferenze",
+    "sourceHash": "9a2625d13f198f06dccf27fdc4f5a9e54b2cfb19b37594b9e4d8d0101b3bbec5"
+  },
+  "settings.preferences.preferredDarkColorTheme": {
+    "message": "Tema colore scuro preferito",
+    "sourceHash": "c88224fc7f925d35a8d07092b1ebd9f48d9102bab8f4322928ba2f1a733da28c"
+  },
+  "settings.preferences.preferredLightColorTheme": {
+    "message": "Tema colore chiaro preferito",
+    "sourceHash": "44dcd8562c759f7c9fb87250672ff510409712c58ad4480165a4da8296de080a"
+  },
+  "settings.preferences.removeBordersFromPaneTabsForACleanerLook": {
+    "message": "Rimuovi i bordi dalle schede dei riquadri per un aspetto più pulito",
+    "sourceHash": "c9901ffe68c2995e53ae31db489558963766306bdcae3cb601d971fd30ae1729"
+  },
+  "settings.preferences.restartNow": {
+    "message": "Riavvia ora",
+    "sourceHash": "a29be6c39fb21cceb3808db0bf796de914a033c5280d189c08adb056d744fc1a"
+  },
+  "settings.preferences.saturday": {
+    "message": "Sabato",
+    "sourceHash": "fed849429a2ad2695f7ea490214ce98978bedc1f2280b1af76954f6d81907d23"
+  },
+  "settings.preferences.saveFormat": {
+    "message": "Formato di salvataggio",
+    "sourceHash": "c291116e72841a755dbf59a4c14cc61056451c5f6737430ab58a20f534740afa"
+  },
+  "settings.preferences.selectFontForAllOfOctarineApartFromEditor": {
+    "message": "Seleziona il carattere per tutto Octarine (tranne l’editor)",
+    "sourceHash": "3011fb01498a00d60d22ad94540ebb1e60799bb62a020f7632ac0b7062cad666"
+  },
+  "settings.preferences.selectFontForCodeKeysAndMonospaceText": {
+    "message": "Seleziona il carattere per codice, tasti e testo a spaziatura fissa",
+    "sourceHash": "3f9526b23a37aa25f21cc625677e2d9bf2a4f14ad06a86ae3a60d6ba0fed0c04"
+  },
+  "settings.preferences.selectWhichDayOfTheWeekYourCalendarShould": {
+    "message": "Seleziona il primo giorno della settimana del calendario",
+    "sourceHash": "3bbfb1b3866941d8c4cc8942e0a068ad7b760230ec6f13ecab511d36645df445"
+  },
+  "settings.preferences.setRandomThemeOnStartup": {
+    "message": "Imposta tema casuale all’avvio",
+    "sourceHash": "448efbdeb9d68c480c4a78707f73839c35b7099a1f559c62ac959b8bc54491b4"
+  },
+  "settings.preferences.showCalendar": {
+    "message": "Mostra calendario",
+    "sourceHash": "78680ae7a1849fa0126920f9b01f185dbe257bc0376c05759c0b0019930a8b37"
+  },
+  "settings.preferences.showPersistedShareButton": {
+    "message": "Mostra pulsante Condividi persistente",
+    "sourceHash": "f534711a986a9459a2b43ec6dd693672dcccea1335bab75a894749269f8944b2"
+  },
+  "settings.preferences.startup": {
+    "message": "Avvio",
+    "sourceHash": "ded001598a7a9130edfe0fb3630e97750c260a05b474669aa192318fa29164b7"
+  },
+  "settings.preferences.storageWillRemainToBeYyyyMMDd": {
+    "message": "L’archiviazione resterà in formato yyyy-MM-dd.",
+    "sourceHash": "322ae59ccdec15de0dec0c401c6021225ebbe7b3252ef4f037218ad9bc1f6777"
+  },
+  "settings.preferences.subtleTabs": {
+    "message": "Schede discrete",
+    "sourceHash": "b9d4093d158ebe2c79f9dfaef89d33f908a6d64ede2b30cb3011867b8eed3abc"
+  },
+  "settings.preferences.sunday": {
+    "message": "Domenica",
+    "sourceHash": "83e25d567286c9c2f005b4e0a37f014ee771514ffedeaab60de146c460ea5948"
+  },
+  "settings.preferences.supportedFormatsCanBeFoundHere": {
+    "message": "I formati supportati sono elencati qui",
+    "sourceHash": "0c6f950375deb0fc6474ef050cd4c19ddf58cf185b1720d70965154a178ab15c"
+  },
+  "settings.preferences.theme": {
+    "message": "Tema",
+    "sourceHash": "c9488d23458cf4a3e372732bc3e73748d3da4aa712848c2fdc2f0194984a9597"
+  },
+  "settings.preferences.themeDarkColorAppearance": {
+    "message": "tema, scuro, colore, aspetto",
+    "sourceHash": "5befe985f33c8d26bc09eaadf621c82ae3c57fee5f04dbbd515dae2a8a7e82c8"
+  },
+  "settings.preferences.themeLightColorAppearance": {
+    "message": "tema, chiaro, colore, aspetto",
+    "sourceHash": "32232da7a1d9cd7c8a1433a83405c704f06edc62bf4dc9ec10f716f41689a6e3"
+  },
+  "settings.preferences.thursday": {
+    "message": "Giovedì",
+    "sourceHash": "0bb300a477d6ceec69ee3a6e1c0b4df3f0fab70b111b112ae138b7e028e00a1a"
+  },
+  "settings.preferences.top": {
+    "message": "In alto",
+    "sourceHash": "fe1ff43bb701650e95138c39b7b1eb5ab2ca8dff9299d830dda8bafaab72cf88"
+  },
+  "settings.preferences.tuesday": {
+    "message": "Martedì",
+    "sourceHash": "e23d804e1f4744ac9644abad780cece70a695d6efa29cdc726c2c65569d348ca"
+  },
+  "settings.preferences.tuneHowOctarineLooksOpensAndBehavesDayTo": {
+    "message": "Modifica l’aspetto, l’apertura e il comportamento di Octarine di giorno in giorno.",
+    "sourceHash": "0d888714ee1ef14c0155a6596febf11d3708f3f5c056426cc7c64e7f5efb4bd6"
+  },
+  "settings.preferences.typeInYourPreferredDateFormatWillBeUsed": {
+    "message": "Inserisci il formato data preferito. Verrà usato per la visualizzazione",
+    "sourceHash": "108b03fa452e98d1c06c185e801430950ce3b9b3aea99c9e567d7df446dc5b83"
+  },
+  "settings.preferences.wednesday": {
+    "message": "Mercoledì",
+    "sourceHash": "4dffe3486217b5fcb9fa3a8a5bbd44568a35361189b54c5090881519c501ea05"
+  },
+  "settings.preferences.weekStartsOn": {
+    "message": "La settimana inizia il",
+    "sourceHash": "9a6a835de5de3fbfd6e9143c086f01e9379b99393d56df37862e071beef61338"
+  },
+  "settings.preferences.whenUsingSplitPanesLowerTheOpacityOfInactive": {
+    "message": "Con le viste divise, riduci l’opacità di quelle inattive per evidenziare quella attiva",
+    "sourceHash": "e53df20c46d07bed5894a76166728e3cfa5aa309fc130418aaa61a227679a6ea"
+  },
+  "settings.pro": {
+    "message": "Pro",
+    "sourceHash": "62522e303347f9cd02aa00990ec6c6b6e0ec2733afc24becb11e4e2eed0cf00c"
+  },
+  "settings.pro.activateLicense": {
+    "message": "Attiva licenza",
+    "sourceHash": "9f823ba1b9156701a7efcf55a11c9ef8c62226aaed0ccb4f8ed9cd16c6d33228"
+  },
+  "settings.pro.activateOctarineProAndCheckYourTrialStatus": {
+    "message": "Attiva Octarine Pro e controlla lo stato della prova.",
+    "sourceHash": "7514b5a3c1cae6ac6eb4aa3005166fa36f5a7f60f697078744349632f24692d6"
+  },
+  "settings.pro.activationMethod": {
+    "message": "Metodo di attivazione",
+    "sourceHash": "5e40eb758d98722f1940a8ba653f6b8b1b053dc040a646d5211a4c288dda95e6"
+  },
+  "settings.pro.buyProSeatsForYourCompanyInOneGo": {
+    "message": "Acquista postazioni Pro per la tua azienda in un’unica soluzione e riassegnale quando le persone cambiano.",
+    "sourceHash": "8c50180b3ef1364ac6b611497c8c59a7dbf7262fdfbe20d921898a1629c21e14"
+  },
+  "settings.pro.copyDeviceActivationID": {
+    "message": "Copia ID di attivazione del dispositivo",
+    "sourceHash": "714528005591e54d3fc677e3680828dd7af4f5ec32e98a45e5175385352df262"
+  },
+  "settings.pro.copyEmail": {
+    "message": "Copia email",
+    "sourceHash": "c1118892297c32af1fd57be6e24d247e389771ba5fcc5b3ac00e51b0ec854874"
+  },
+  "settings.pro.copyLicenseKey": {
+    "message": "Copia chiave di licenza",
+    "sourceHash": "145d0ccead54bd584f0c7deefad02a20c1960242b2dfc3fee27a826b7f46e6ac"
+  },
+  "settings.pro.deactivateLicense": {
+    "message": "Disattiva licenza",
+    "sourceHash": "dfd2301225f6728ad86de311d5108d7dabcd3fb31ef75d40f2d5c0fb550c737f"
+  },
+  "settings.pro.deactivateLicense2": {
+    "message": "Disattivare la licenza?",
+    "sourceHash": "c2a40648badced7b9e0fc286556675888e7bb98b29420ddd9d4bb9d4fa9819d8"
+  },
+  "settings.pro.deviceActivationID": {
+    "message": "ID di attivazione del dispositivo",
+    "sourceHash": "8e73e924bb8e1b4a6fd59c04727be1fe7472a3e0e30eb938969562dcd1b0f2a7"
+  },
+  "settings.pro.deviceActivationIDCopiedToClipboard": {
+    "message": "ID di attivazione del dispositivo copiato negli appunti",
+    "sourceHash": "223b2ee4d5fb79aa81f752df2921516d42222c6dcfdc127db9e5c9240b2e73d8"
+  },
+  "settings.pro.email": {
+    "message": "Email",
+    "sourceHash": "7ae6fcefbd6085d9af782d521a8a468e844df41ef939b52720605773dd180b63"
+  },
+  "settings.pro.emailCopiedToClipboard": {
+    "message": "Email copiata negli appunti",
+    "sourceHash": "baccc071bd8bf199cd86b1241063f6fc7ff97abacbff9c8eb06435655c381054"
+  },
+  "settings.pro.failedToDeactivateLicense": {
+    "message": "Impossibile disattivare la licenza",
+    "sourceHash": "f01d28ffe8e1c6a26512fc8085e653f4fa05036b28f99b769cc07396b4281df9"
+  },
+  "settings.pro.failedToDeactivateLicense2": {
+    "message": "Impossibile disattivare la licenza: {messageUnknownerror}",
+    "sourceHash": "597ed6a274e397f53d7eb9f35c2fc00988b2cb3954e7c16d468489e157eced16"
+  },
+  "settings.pro.invalidLicenseRemoved": {
+    "message": "La licenza era già non valida ed è stata rimossa da questo dispositivo",
+    "sourceHash": "1d8d8b818b767fcf71d5fabb871cf02e319833b78d0c31938a7fd9ca855405b2"
+  },
+  "settings.pro.learnMore": {
+    "message": "Scopri di più",
+    "sourceHash": "fc8fa53e4456ac85d7ccf2015bf89dd108b9219c19f930dd5cf8d426a8169381"
+  },
+  "settings.pro.license": {
+    "message": "Licenza",
+    "sourceHash": "d4d5073f1c3b2f4268f912f0f690b48c7915f7fcb510b3072b5c08abaf91dc97"
+  },
+  "settings.pro.licenseDeactivated": {
+    "message": "Licenza disattivata correttamente",
+    "sourceHash": "6c59cdbd06d0b0c9bee9e4e68852e5b3ca3ab7fbef8bb83d32d2f00ed3d8316f"
+  },
+  "settings.pro.licenseDetails": {
+    "message": "Dettagli licenza",
+    "sourceHash": "c04996fe61b9797d08657021acef6e7dbba8a8f2b778700544e379e2e49f6658"
+  },
+  "settings.pro.licenseKey": {
+    "message": "Chiave di licenza",
+    "sourceHash": "7db6f005918c5186bbc6d4a28c8f7f9a14f015bc4063fa6b055dccb1fda7060b"
+  },
+  "settings.pro.licenseKeyCopiedToClipboard": {
+    "message": "Chiave di licenza copiata negli appunti",
+    "sourceHash": "d8ddc9df46b3bfd3befb90959dfab890b90db3d06884650a8ba36c91b963d195"
+  },
+  "settings.pro.manageDevices": {
+    "message": "Gestisci dispositivi",
+    "sourceHash": "8e79c850e187050d925c1bdfe86bb35f202434b4be7e00742e2777a84041ebab"
+  },
+  "settings.pro.manageTheProLicenseActiveOnThisDevice": {
+    "message": "Gestisci la licenza Pro attiva su questo dispositivo.",
+    "sourceHash": "d1f779f73f985f34144d330397bfbdc1af12009676c7f1c5f386f2bee9f8ba9d"
+  },
+  "settings.pro.octarineForTeams": {
+    "message": "Octarine per i team",
+    "sourceHash": "aa3c5dc4bf976fb2bd7eede147cc55211c780703f15b856a6ecc2502cc52b711"
+  },
+  "settings.pro.proLicense": {
+    "message": "Licenza Pro",
+    "sourceHash": "e73776723d30b28e41eba206cd27c64089bf40f7be7fc1454986fb90af05488b"
+  },
+  "settings.pro.proTrialAvailable": {
+    "message": "Prova Pro disponibile",
+    "sourceHash": "c6aff2e0aebc7d6ca4b71079c7795c11006a72aa0dfdfec00366bcf0f738f612"
+  },
+  "settings.pro.purchaseALifetimeLicenseToKeepAllProFeatures": {
+    "message": "Acquista una licenza a vita per mantenere sbloccate tutte le funzioni Pro: niente abbonamenti, niente rinnovi.",
+    "sourceHash": "f6427453f3993bf54df6b65d84a8dee17df83fc956c11e331e9ab790ad55f431"
+  },
+  "settings.pro.startProTrial": {
+    "message": "Avvia prova Pro",
+    "sourceHash": "3c6ded0c32520080efad5ef5b97a9de54dc3f402072a024e02a57a362bccb80d"
+  },
+  "settings.pro.teamSeat": {
+    "message": "Postazione del team",
+    "sourceHash": "d90db14a22430d2ab8daedeec07ba58cd9113ebb881ca1b7fd0e36c56346300a"
+  },
+  "settings.pro.thisWillDeactivateYourLicenseForThisDeviceYou": {
+    "message": "La licenza verrà disattivata su questo dispositivo. Perderai l’accesso a tutte le funzioni Pro.",
+    "sourceHash": "1df2b10838da301d153c6dabcd7a29af4d9401e2b771c2a4ede321b0ef888a13"
+  },
+  "settings.pro.trialActive": {
+    "message": "Prova attiva",
+    "sourceHash": "6d5cd742e94727cc14b2fe77c5483693d6de3d7645810fd1ef13b298ecdaa1d6"
+  },
+  "settings.pro.trialCount": {
+    "message": "{count}",
+    "sourceHash": "8a284c52558efc247702f34a557fb0c74127980e655c5a9dc8eef3bd449ae35f"
+  },
+  "settings.pro.trialDataWasInvalidOrModified": {
+    "message": "I dati della prova non sono validi o sono stati modificati.",
+    "sourceHash": "34b338ac8efd3ee90c684274971f30d44214637ddbb7145774c53b396f97489d"
+  },
+  "settings.pro.trialEnded": {
+    "message": "Prova terminata",
+    "sourceHash": "2f7e7decc9844ab2b7dd2660877e02eac7bd5dcacab32f8aa76cc02359acacc6"
+  },
+  "settings.pro.trialRemaining": {
+    "message": {
+      "many": "Restano {days} giorni",
+      "one": "Resta {days} giorno",
+      "other": "Restano {days} giorni"
+    },
+    "sourceHash": "a50ad9549faeaff239bdb2576fe4d5af0e789c438f22d19dbd1c156bf6691047"
+  },
+  "settings.pro.trialRemainingWithEnd": {
+    "message": {
+      "many": "Restano {days} giorni · Termina il {date}",
+      "one": "Resta {days} giorno · Termina il {date}",
+      "other": "Restano {days} giorni · Termina il {date}"
+    },
+    "sourceHash": "4b04935bc4fa515ccb8f48898affbf2a6b36239e8399d8f54058944389ff559e"
+  },
+  "settings.pro.tryEveryProFeatureFreeFor7Days": {
+    "message": "Prova gratuitamente ogni funzione Pro per 7 giorni.",
+    "sourceHash": "499a3c5d47935454998714da2eec3a1a529f50e7e8f9cc3b0610dda81818e266"
+  },
+  "settings.pro.unknownError": {
+    "message": "Errore sconosciuto",
+    "sourceHash": "53f08bdcda307a9c2041522e56db6cab28f188197b191ac98ef341b6e87f4f38"
+  },
+  "settings.pro.yesIMSure": {
+    "message": "Sì, sono sicuro",
+    "sourceHash": "1f279437f3628e3ae5c1c5e103bf907a5a934fc0efac970f0e490faab063b166"
+  },
+  "settings.pro.youCanReactivateItLaterByEnteringTheLicense": {
+    "message": "Puoi riattivarla più tardi inserendo di nuovo la chiave di licenza.",
+    "sourceHash": "3920374a3c551f956c69ab333930be5c1cd5ecc301ac9ef33e7d872b76ab39ac"
+  },
+  "settings.pro.yourTeamSeatUnlocksProFeaturesOnThisDevice": {
+    "message": "La tua postazione del team sblocca le funzioni Pro su questo dispositivo.",
+    "sourceHash": "8768447f8ed3efcdbc22ecd81a2d3fe7bb1bc136a6bb34b3b1536e29bee9f0b1"
+  },
+  "settings.pro.yourTrialIsNoLongerActive": {
+    "message": "La tua prova non è più attiva.",
+    "sourceHash": "9ce4c3e998d63bed9a0a261fdee9ece2ca3ab2da788efd008482b77bf8eb89e4"
+  },
+  "settings.quick-capture.addEachCaptureAsAParagraphBulletOrTask": {
+    "message": "Aggiungi ogni appunto come paragrafo, elenco puntato o attività.",
+    "sourceHash": "ba395c918fc0c2e147fcb221697821a8b26f97469e9aa6904f8714fcc98f0f25"
+  },
+  "settings.quick-capture.appendToDailyNote": {
+    "message": "Aggiungi alla nota giornaliera",
+    "sourceHash": "53ace3942f0e6068a7a8ff0f8910b7272bdd948f67dc5b56c20c9ae61baed4da"
+  },
+  "settings.quick-capture.appendToLastInboxEntry": {
+    "message": "Aggiungi all'ultimo elemento in arrivo",
+    "sourceHash": "7ac058b8e5e37e6c1166ee35f52e47d53e64a722d5f98355288b5eb647e0e069"
+  },
+  "settings.quick-capture.appendingToNotes": {
+    "message": "Aggiunta alle note",
+    "sourceHash": "e72fbc8b9c097217df592417da0a8805e0748ff56cac6d1f9c577bfc8e28dcb0"
+  },
+  "settings.quick-capture.checkingWhetherThisShortcutIsAvailableInTheCurrent": {
+    "message": "Verifica se questa scorciatoia è disponibile nella sessione desktop corrente.",
+    "sourceHash": "f58380926d0b98b5ad7dc35aa5ed182846699cf5c603ca6093a6d99fa9de3e21"
+  },
+  "settings.quick-capture.chooseWhereClipboardCapturesAreStored": {
+    "message": "Scegli dove vengono salvati gli appunti dagli appunti di sistema.",
+    "sourceHash": "3fbd7e5e62779c3c1292cf998c9fdb20193279f1653e7f3bb2810f8c25f1a81f"
+  },
+  "settings.quick-capture.clipboard": {
+    "message": "Appunti",
+    "sourceHash": "1d4ef921822420b83cd4b4b5f8fe0d86f191103d93bf1ed7a1493c5252b2321f"
+  },
+  "settings.quick-capture.createNewInboxEntry": {
+    "message": "Crea un nuovo elemento in arrivo",
+    "sourceHash": "1492d773ce10323f83d6f2f3e1a1903a7bb4806f20445180dd9c88cafff0ac97"
+  },
+  "settings.quick-capture.includeCaptureTimestamp": {
+    "message": "Includi l'orario dell'appunto",
+    "sourceHash": "9a8acc786c92486b8f6626e5a69e7795a7783f579c3f1178f7fe6af55434cf8b"
+  },
+  "settings.quick-capture.insertAs": {
+    "message": "Inserisci come",
+    "sourceHash": "50937825bb62ce85793eb31737244535a8716773ea8085aa31fba30eef92bae1"
+  },
+  "settings.quick-capture.quickCapture": {
+    "message": "Appunto rapido",
+    "sourceHash": "5492828f09e5150cb26f7052b37e5cd3e7153e5d3189e7282bbf7ada1dca00bd"
+  },
+  "settings.quick-capture.quickCaptureReady": {
+    "message": "Appunto rapido è pronto",
+    "sourceHash": "bdcb620e83b5792d4218c7f90d20c433b204f9e79a775295c2cd08ba5cfdcd4b"
+  },
+  "settings.quick-capture.saveTo": {
+    "message": "Salva in",
+    "sourceHash": "575d09265d8efe2a827d212c12e48f596682359a8d0943fe814b3c5e31740504"
+  },
+  "settings.quick-capture.whenAppendingToTodaySDailyNoteOrA": {
+    "message": "Quando aggiungi alla nota giornaliera di oggi o a una nota scelta, includi l'orario dell'appunto.",
+    "sourceHash": "8a9eb9d4a7ac84aa49294082b8ebccff7b925bd45ee025aefedda80ab9d986a3"
+  },
+  "settings.quickCapture": {
+    "message": "Appunto rapido",
+    "sourceHash": "f72c66dc57ae86abafd986c4d326966d2522feff33f6ceb4540e6ea2913ab1be"
+  },
+  "settings.quickCapture.accessibilityPermissionSelectionSelectedText": {
+    "message": "accessibilità,permesso,selezione,testo selezionato",
+    "sourceHash": "9329ce69b9af700bea1c5d5afb5846737f0e4d8df4df69bfdfab41ddcf36ba2a"
+  },
+  "settings.quickCapture.addsTheWebPageOrDocumentThatWas": {
+    "message": "Aggiunge come collegamento la pagina web o il documento che era in primo piano.",
+    "sourceHash": "78254f35bfb8005162bf7acfce7bdcdfe024dd2228a7dc5ef1716e2eea2172fa"
+  },
+  "settings.quickCapture.allow": {
+    "message": "Consenti",
+    "sourceHash": "cb5a18b84133eaf54eb4431c27f0d497217893212fec3a775b38006e9014e992"
+  },
+  "settings.quickCapture.attachWhereYouCameFrom": {
+    "message": "Allega la provenienza",
+    "sourceHash": "8c3dba5e7573d2b685a139ec48e05d131fc9e6bea3a2bd5bc10c500398705734"
+  },
+  "settings.quickCapture.bringSelectedTextAsAQuote": {
+    "message": "Inserisci il testo selezionato come citazione",
+    "sourceHash": "e654900266bbda6c56d9e6752d34ed4e4b133d88d386a8c56dd6395570c66baa"
+  },
+  "settings.quickCapture.doubleTapAModifierToCaptureFromClipboard": {
+    "message": "Tocca due volte un tasto modificatore per acquisire dagli appunti",
+    "sourceHash": "1682cd59beda9310695301771ed7fe26be83d421665004ab854cb65250cda5e5"
+  },
+  "settings.quickCapture.getAThoughtTaskOrLinkIntoOctarine": {
+    "message": "Porta un pensiero, un'attività o un collegamento in Octarine da qualsiasi punto.",
+    "sourceHash": "08a16319d580f11778299fb8a99639982c2dc5467bcf465488472b48c1d8a5b2"
+  },
+  "settings.quickCapture.holdTheKeysTogetherAndLetGoPick": {
+    "message": "Tieni premuti insieme i tasti e rilasciali. Scegline altri se un'altra app usa già questi.",
+    "sourceHash": "4dc8836a34a7f6fe70fa6ab370ae64e6669eba0e5f5513cb426392f86ba4d3e5"
+  },
+  "settings.quickCapture.keepsAOneLineConfirmationUpForA": {
+    "message": "Mostra per un momento una conferma su una riga, con Apri e Annulla.",
+    "sourceHash": "a1684e64380cef4a7349a0e83fb382e10246510630a6f039d1bbffe8d76e1e59"
+  },
+  "settings.quickCapture.keys": {
+    "message": "Tasti",
+    "sourceHash": "5d54b6ff377df90927782ca7e75aa25ad6479ea12e28aa709583a47a2d2bd4a8"
+  },
+  "settings.quickCapture.macOSNeedsToAllowOctarineUnderAccessibilityBefore": {
+    "message": "macOS deve consentire a Octarine l'accesso in Accessibilità prima che possa leggere la selezione o la pagina che stavi visualizzando.",
+    "sourceHash": "1108798315cf5fefd1fddbf933bc8fbaedfa870249ce1f8ea49113da16cff6a6"
+  },
+  "settings.quickCapture.openQuickCapture": {
+    "message": "Apri Appunto rapido",
+    "sourceHash": "5d6eee8b35bb4a340f5104460a09eaf790ebe7582070e3b89a8b8568854b8724"
+  },
+  "settings.quickCapture.pointsOutACaptureYouMayHaveWritten": {
+    "message": "Segnala un appunto che potresti aver già scritto, e un progetto o una nota in cui potrebbe rientrare. Confronto eseguito su questo dispositivo.",
+    "sourceHash": "abfdcb2dca62719926b2653723f9cd01f8acaba459158b28409f2433fb9cfdc4"
+  },
+  "settings.quickCapture.shortcut": {
+    "message": "Scorciatoia",
+    "sourceHash": "e8a55a11cf26025b322496fdf2004084e78e8096738da6e4d6dadf6bc1af79ac"
+  },
+  "settings.quickCapture.shortcutOffWhileMenuBarIconHidden": {
+    "message": "La scorciatoia è disattivata mentre l'icona nella barra dei menu è nascosta.",
+    "sourceHash": "71c8fcfbb76d9d082e31acf5688756ba63e68828296c262cfb78fea12e5922ad"
+  },
+  "settings.quickCapture.shortcutOffWhileTrayIconHidden": {
+    "message": "La scorciatoia è disattivata mentre l'icona nell'area di notifica di sistema è nascosta.",
+    "sourceHash": "e08c7e1eeed6e622e0316d2fae8fc4425ec16f5ba8132b13e2f1171eae4455d6"
+  },
+  "settings.quickCapture.showAReceiptAfterCapturing": {
+    "message": "Mostra una conferma dopo l'acquisizione",
+    "sourceHash": "949e11b6c256af8ca3fe008bb77be85e95dd18dae497658d6ddea730bb8a68a3"
+  },
+  "settings.quickCapture.showIcon": {
+    "message": "Mostra icona",
+    "sourceHash": "84045a29494c0489ea623a2161526973393308e1a385401649975a625a48c2fd"
+  },
+  "settings.quickCapture.suggestWhereItBelongs": {
+    "message": "Suggerisci dove collocarlo",
+    "sourceHash": "8d3ceb57082faed86da6465069143038e526bd8cb874411e7c7acdd3447f370b"
+  },
+  "settings.quickCapture.textSelectedInTheAppInFrontArrives": {
+    "message": "Il testo selezionato nell'app in primo piano arriva come citazione, collegata al punto esatto.",
+    "sourceHash": "27c6ae10c1a5c4305dd184890dba97138f03985303a6048d95a7911ce3340a27"
+  },
+  "settings.quickCapture.whileCapturing": {
+    "message": "Durante l'acquisizione",
+    "sourceHash": "bcff47f60b7d1ea2416a6a4d12b29e044b5aa776b8f54a3a4bf612fdbcff7993"
+  },
+  "settings.quickCapture.worksFromAnyAppEvenWithEveryOctarine": {
+    "message": "Funziona da qualsiasi app, anche con tutte le finestre di Octarine chiuse.",
+    "sourceHash": "eaab41a621e7953ea59450b7fd5ddd3931507979b03ec64373d987e43610e895"
+  },
+  "settings.search": {
+    "message": "Cerca nelle impostazioni...",
+    "sourceHash": "af3291de47f130c94c67de04207cc81968d2231f6da5dcd2439de66b22d833d5"
+  },
+  "settings.searchAll": {
+    "message": "Cerca in tutte le impostazioni",
+    "sourceHash": "c0aa55a4c20eb7815a005cc221aeea72a180ba37a269a905cf14b9ee4de53a78"
+  },
+  "settings.sharing.aPaidLicenseIsRequiredToPublishNotes": {
+    "message": "Per pubblicare le note è necessaria una licenza a pagamento",
+    "sourceHash": "49e308aafd2f0a2b4fd9af7ff0dd65155e63bd76039782834c58cab97d56ad6c"
+  },
+  "settings.sharing.aPaidOctarineLicenseIsRequired": {
+    "message": "È necessaria una licenza Octarine a pagamento",
+    "sourceHash": "6ff1bd816447409780ff60d6baeb9a75afd24833e79163d7e2521be697572dac"
+  },
+  "settings.sharing.aThoughtfullySharedNote": {
+    "message": "Una nota condivisa con cura",
+    "sourceHash": "76ac2e4ec8b07d3c701f821984a6de33754f6b97da5f8ada14d5e40c9b374db4"
+  },
+  "settings.sharing.appearance": {
+    "message": "Aspetto",
+    "sourceHash": "c20a773fecee2b2de3cb57273d93545c83b3edc4ceb0aba3bac46dc483658d81"
+  },
+  "settings.sharing.appliedToNewLinksExistingLinksKeepTheirExpiration": {
+    "message": "Si applica ai nuovi link. I link esistenti mantengono la scadenza attuale.",
+    "sourceHash": "1d98bf588b5872a1331c0a3c982eed062d20fa5463530bfc3bc2d7647d33458a"
+  },
+  "settings.sharing.commentEmailNotifications": {
+    "message": "Notifiche email dei commenti",
+    "sourceHash": "5e1a5a0733bd6c1465670929a2eafa8d30747649d3aa3c3a55315d68b02a56c3"
+  },
+  "settings.sharing.couldnTOpenTheSharingDashboard": {
+    "message": "Impossibile aprire la dashboard di condivisione",
+    "sourceHash": "fe990de551634440f127dfdf3c278d1761a906a409222151679d60001aee3b7e"
+  },
+  "settings.sharing.dark": {
+    "message": "Scuro",
+    "sourceHash": "673748307c82dc6bb924b48f9993f1663f3087bce11cd9f2d8be5c7ec263da10"
+  },
+  "settings.sharing.darkTheme": {
+    "message": "Tema scuro",
+    "sourceHash": "275b2b61e5714d9ae7c55126bc03567634145fd1ffe0a028165413ebf4eeb615"
+  },
+  "settings.sharing.defaults": {
+    "message": "Predefiniti",
+    "sourceHash": "1c1997a306f3c31181832e40732d1f4f17837f7876c7c5aafc82ec3df09f2b5b"
+  },
+  "settings.sharing.displayName": {
+    "message": "Nome visualizzato",
+    "sourceHash": "f438604de4b08ce467c4cfe0e44c74753c63aa4ac79ebc07ce96bf16f02f7e96"
+  },
+  "settings.sharing.displayYourPublicNameAtTheTopOfShared": {
+    "message": "Mostra il tuo nome pubblico in cima alle note condivise.",
+    "sourceHash": "c9ff0b6651408d4c5daa1852410ea182ad9e3a4a02426e0cbbd0943077a807a0"
+  },
+  "settings.sharing.emailMeWhenReadersLeaveNewCommentsOrReply": {
+    "message": "Inviami un’email quando i lettori lasciano nuovi commenti o mi rispondono sulle note condivise.",
+    "sourceHash": "66311cc7024169e3bf0281c722b3ab308d5dedfd6d20e7d4319367c9401157fa"
+  },
+  "settings.sharing.expiration": {
+    "message": "Scadenza",
+    "sourceHash": "d37ff03b8e964adb35dbbcd80ec02a6a5b0d407174783e12d42c2bee02213ae4"
+  },
+  "settings.sharing.failedToLoadSharingSettings": {
+    "message": "Impossibile caricare le impostazioni di condivisione",
+    "sourceHash": "e1ed5fec341a7063762a22e13aecae28ce04e1c3e44973e15d5c89d3ac32d7a0"
+  },
+  "settings.sharing.failedToSaveSharingSettings": {
+    "message": "Impossibile salvare le impostazioni di condivisione",
+    "sourceHash": "36a561471952edb6491d91f1dba2e2c5e622edc6cc625e54fda12d038b2029e1"
+  },
+  "settings.sharing.font": {
+    "message": "Carattere",
+    "sourceHash": "88cd61d5507f7f23c53a1a0e8634a97dcdcd0e44b1fa7e90b366ecc6a23a205a"
+  },
+  "settings.sharing.headingFont": {
+    "message": "Carattere dei titoli",
+    "sourceHash": "95eab59e34929a60c145dcc8641fe569d932f497d488a280780d71fc967b44ff"
+  },
+  "settings.sharing.identity": {
+    "message": "Identità",
+    "sourceHash": "a4f450b7e7f5188be782919a9a8209c5f54deefb12a6a89d8059e5fb5563325d"
+  },
+  "settings.sharing.includeVisibleNotePropertiesOnNewPublicLinks": {
+    "message": "Includi le proprietà visibili delle note nei nuovi link pubblici.",
+    "sourceHash": "2bcbf259f22604c81a61794be10bfa173b6cee12dffead99f4dd7b505db633ec"
+  },
+  "settings.sharing.light": {
+    "message": "Chiaro",
+    "sourceHash": "35328e0cf28551b6d9856125be5e612784beada02a2b289c6671a81fbb3e54c5"
+  },
+  "settings.sharing.lightTheme": {
+    "message": "Tema chiaro",
+    "sourceHash": "fac91e3f5daedbd558c9d433bd35bd019a22f4919433e4062837ba2f015cdb6f"
+  },
+  "settings.sharing.loadingSharingSettings": {
+    "message": "Caricamento delle impostazioni di condivisione...",
+    "sourceHash": "cf7c991100025466ebc34d15b824f5ddd28a7dd9a3e32cab996ec5b8031b5bbd"
+  },
+  "settings.sharing.manageYourPublicIdentitySharingDefaultsNotificationsAndAppearance": {
+    "message": "Gestisci la tua identità pubblica, i predefiniti di condivisione, le notifiche e l’aspetto.",
+    "sourceHash": "4d45218a72848e34fe4556b7af599d51ccbb8134d086dbf6d2a2f6aeb5503dea"
+  },
+  "settings.sharing.notifications": {
+    "message": "Notifiche",
+    "sourceHash": "393fc93ba37b49cce7afe19f2f05119a6c43dcf5cf560e6e98cbb5c06c9fa3fa"
+  },
+  "settings.sharing.publishingStoresNoteContentOnOctarineAposS": {
+    "message": "La pubblicazione memorizza il contenuto delle note sul servizio di condivisione di Octarine&apos;s.",
+    "sourceHash": "83bbfb38da182e172ac7dad5d3ccf43376b9cdc022bc9ff4586b3f17553e94c0"
+  },
+  "settings.sharing.readerDarkMode": {
+    "message": "Modalità scura per i lettori",
+    "sourceHash": "a56a8491e74109c8dcb59ab77e7bef04e36ab6d93eb7707a8cb9d55be4415815"
+  },
+  "settings.sharing.readerLightMode": {
+    "message": "Modalità chiara per i lettori",
+    "sourceHash": "e2eed24401b996f20e0fb757c212b7435c33b65542e858fa15a558254bc2b0fa"
+  },
+  "settings.sharing.readersSeeYourNotesWithTheThemeAndTypography": {
+    "message": "I lettori vedono le tue note con il tema e la tipografia che scegli qui.",
+    "sourceHash": "d0610a678bd8d67dd29472106ca27a526b0afba305d70c2fb8e2b4d1016aee93"
+  },
+  "settings.sharing.saveChanges": {
+    "message": "Salva modifiche",
+    "sourceHash": "d2599ad098511630bc557dad31d10ee74258554734c426bde40fc53eada2b9ed"
+  },
+  "settings.sharing.sharing": {
+    "message": "Condivisione",
+    "sourceHash": "608a4ff6973cc7b3ca5fe54d318b717ff35da75b0cfd7210e6cbb5eceb9dffc9"
+  },
+  "settings.sharing.sharingSettingsSaved": {
+    "message": "Impostazioni di condivisione salvate",
+    "sourceHash": "b96fecbd3a96f1d28fa241162ea2d6521bfb83b775eeea6c687cc51430b528e5"
+  },
+  "settings.sharing.showAuthor": {
+    "message": "Mostra autore",
+    "sourceHash": "24c1e62149f20b7570e121c27f5bc7316be2902b09d90679e7774d9d49e08272"
+  },
+  "settings.sharing.showPropertiesByDefault": {
+    "message": "Mostra proprietà per impostazione predefinita",
+    "sourceHash": "5c2a7513f401094aa5518656286ee67dacb71465caaa31b8605a38a1fdbe34ac"
+  },
+  "settings.sharing.signedInAs": {
+    "message": "Accesso eseguito come {value}",
+    "sourceHash": "3e74c5caad3638ceffd5cba4e564dea78fdff7b2be123fb57bc48100ac51a17d"
+  },
+  "settings.sharing.unsavedChanges": {
+    "message": "Modifiche non salvate",
+    "sourceHash": "125b1071972d25c7441ade885e5da74aba692d1929d4bdeb67c09666c2d0631f"
+  },
+  "settings.sharing.usedAsTheAuthorNameWhenAuthorAttributionIs": {
+    "message": "Usato come nome dell’autore quando è attiva l’attribuzione dell’autore.",
+    "sourceHash": "99da354ea1225b62aa73fd113e92fc40289d8fe91afb15bc5e8809f5d8fdb81f"
+  },
+  "settings.sharing.usedForHeadingsInSharedNotes": {
+    "message": "Usato per i titoli nelle note condivise.",
+    "sourceHash": "670451468d94d790fac322c724729340984120cdf626b792b7e90782401e30df"
+  },
+  "settings.sharing.usedForSharedNoteContent": {
+    "message": "Usato per il contenuto delle note condivise.",
+    "sourceHash": "2e7358459180e2ac022a7b69791a09abae333df3101b6479c0d8004cf95dbc22"
+  },
+  "settings.sharing.viewDashboard": {
+    "message": "Apri dashboard",
+    "sourceHash": "2bd1c69d5920265477bd5b3c506ddc82e91fd4632fbc042b7ec68a126eb1da33"
+  },
+  "settings.sharing.viewProOptions": {
+    "message": "Mostra opzioni Pro",
+    "sourceHash": "ad143ac8fa7e4e114d59e9a2fcf4a2b91d8160b5494e1f63e5e8fe9ba533b02e"
+  },
+  "settings.sharing.yourName": {
+    "message": "Il tuo nome",
+    "sourceHash": "00c26572c1e3a89c1defc2fcb8a2ce34634df238197ae05ceb43766efc3c5e2d"
+  },
+  "settings.skills": {
+    "message": "Skill",
+    "sourceHash": "2262a4b8a7a7cd0c6f4dcefcd5a7e80be3ea4fa6c4ed2d7479ea3919b207e12e"
+  },
+  "settings.slashCommands": {
+    "message": "Comandi slash",
+    "sourceHash": "42e953d6d8dc52f9d4e14043f4e8d0e90610eda3edeee1fa23ffecd4d5da8250"
+  },
+  "settings.tasks.cycles.chooseWhetherThisWorkspaceUsesCyclesAndSetTheir": {
+    "message": "Scegli se questo spazio di lavoro usa i cicli e imposta la loro ripetizione.",
+    "sourceHash": "803bbc4bcb3bb611e01629e0e3e0ab81fec16976f4dc3809847bc574acb09a74"
+  },
+  "settings.tasks.cycles.cycles": {
+    "message": "Cicli",
+    "sourceHash": "0082ca6b59efba7bad9dc497e3dea653feeebe9e27498d4c29c0945ee2ccb107"
+  },
+  "settings.tasks.cycles.day.friday": {
+    "message": "Venerdì",
+    "sourceHash": "2e3a269188f98616cb865bf0e34d8ddb3cfcbc5c6ddb83d450fd76ce4a242490"
+  },
+  "settings.tasks.cycles.day.monday": {
+    "message": "Lunedì",
+    "sourceHash": "57cf741ac3569681cdae884b4bef4b6ec515c7f5dc6f4e0c5c536a8c97f98d2a"
+  },
+  "settings.tasks.cycles.day.saturday": {
+    "message": "Sabato",
+    "sourceHash": "2457582565929946ae0f0d8e6138e6f1584305319dc717d100c17d1e90af2a1d"
+  },
+  "settings.tasks.cycles.day.sunday": {
+    "message": "Domenica",
+    "sourceHash": "d3000a4920e27232f6916130d569aac7f80140d666a70efc06cc0eedf2daa342"
+  },
+  "settings.tasks.cycles.day.thursday": {
+    "message": "Giovedì",
+    "sourceHash": "ca69f204ac1e24bf38daa87937a50f97467dc1d8359738eadecca1b4235e1904"
+  },
+  "settings.tasks.cycles.day.tuesday": {
+    "message": "Martedì",
+    "sourceHash": "430315dab931f5ddbfb06515a8699fd851694a620aaf18f3d220a53d21222c39"
+  },
+  "settings.tasks.cycles.day.wednesday": {
+    "message": "Mercoledì",
+    "sourceHash": "75575ba0f687366fb97789e4c9790da9d944258337902c13def534553a76b061"
+  },
+  "settings.tasks.general.general": {
+    "message": "Generali",
+    "sourceHash": "0de0746efa5ebe3291c6f1195e450015e00330d0a256f7f1c5df2530f68ab5b0"
+  },
+  "settings.tasks.general.howTasksBehaveAcrossThisWorkspace": {
+    "message": "Come si comportano le attività in questo spazio di lavoro.",
+    "sourceHash": "b631446ef2cb2608a170745fa2dc16d6eb7542dbbc4afaad261cb60fd0cb8765"
+  },
+  "settings.tasks.inlineEditRow.cancel": {
+    "message": "Annulla",
+    "sourceHash": "899dd884beaf2a60d57ebc0a953933f52965adfd0749d7b92edcc9c5438c30db"
+  },
+  "settings.tasks.inlineEditRow.name": {
+    "message": "Nome",
+    "sourceHash": "ec950e7d5b079875fbb23667b8d54908796c5b1d3e759d902da3861c2ad28a67"
+  },
+  "settings.tasks.inlineEditRow.saving": {
+    "message": "Salvataggio…",
+    "sourceHash": "4c9f04a619b800bd23da2e3f1c99b17396a1a42eaf3e98bfc6e07f05cfaab56a"
+  },
+  "settings.tasks.taskBucketsSettings.addBucket": {
+    "message": "Aggiungi colonna",
+    "sourceHash": "406a9035d137e329229a55285c410268c1a595eb5899406348a4f6dda9df1eb1"
+  },
+  "settings.tasks.taskBucketsSettings.bucketName": {
+    "message": "Nome colonna",
+    "sourceHash": "e566406b27585ce1961f060a2ff0805d4e00a615f18280a9aa9782f394e9a5c9"
+  },
+  "settings.tasks.taskBucketsSettings.cancel": {
+    "message": "Annulla",
+    "sourceHash": "0f1cc0062d5dffddaa08d890a67b4cbc5b020bf546799c5bfb13e01d370de1f7"
+  },
+  "settings.tasks.taskBucketsSettings.colorLabel": {
+    "message": "Cambia colore colonna",
+    "sourceHash": "cb850c3840d85410132e0d0f5fbebcdce4858fc3b7a93a83ef20dfc1cfcf63a0"
+  },
+  "settings.tasks.taskBucketsSettings.delete": {
+    "message": "Elimina",
+    "sourceHash": "b3d2c3b1bf9b362d5a31744afbcd82228774f5eef28239eec67e71bf01224a4f"
+  },
+  "settings.tasks.taskBucketsSettings.delete2": {
+    "message": "Elimina {name}",
+    "sourceHash": "00fa074fdef36d197b845261faed71850b03ce73555c232a81e5465794e8ce09"
+  },
+  "settings.tasks.taskBucketsSettings.delete3": {
+    "message": "Eliminare “{name}”?",
+    "sourceHash": "2a8a940769b6ac14c9966f35b23640a2d96813e4787bdd03f956528ded81cf74"
+  },
+  "settings.tasks.taskBucketsSettings.deleteBucket": {
+    "message": "Elimina colonna",
+    "sourceHash": "53576a089b24311ee55b732494a4f88d0d5e366f6483d0f930385ba34d9ee060"
+  },
+  "settings.tasks.taskBucketsSettings.edit": {
+    "message": "Modifica",
+    "sourceHash": "a09dcb90d9d42e03111be1b298fc058eb8731c8546f16461babc0495c7b823c8"
+  },
+  "settings.tasks.taskBucketsSettings.edit2": {
+    "message": "Modifica {name}",
+    "sourceHash": "19896fb6f0816247e719d6f2972c3ae2f091c0a23248516e34505cdd1ae69e38"
+  },
+  "settings.tasks.taskBucketsSettings.itsTasksMoveToNoBucket": {
+    "message": {
+      "many": "Le sue {count} attività passano a Nessuna colonna.",
+      "one": "La sua {count} attività passa a Nessuna colonna.",
+      "other": "Le sue {count} attività passano a Nessuna colonna."
+    },
+    "sourceHash": "d48cc55c418f0f177e2f1b5d659d4bb9b7122c37a17003917456680684621e89"
+  },
+  "settings.tasks.taskBucketsSettings.moveDown": {
+    "message": "Sposta giù",
+    "sourceHash": "ff8183db0e2b1d205f29b29141a6097876e9b64662d1fb046adb9275600166fd"
+  },
+  "settings.tasks.taskBucketsSettings.moveDown2": {
+    "message": "Sposta {name} giù",
+    "sourceHash": "c29dab11fb9efcdda63004335e948fed7c27d93e36afaa31b4abf1e0acf2ff46"
+  },
+  "settings.tasks.taskBucketsSettings.moveUp": {
+    "message": "Sposta su",
+    "sourceHash": "6b94ab09e03ebccf29b4476e26e27bbda3968f3e6afe1fe1c4d429e757dced6f"
+  },
+  "settings.tasks.taskBucketsSettings.moveUp2": {
+    "message": "Sposta {name} su",
+    "sourceHash": "53a2eee526462500f29bea690722bac5675fb508e845c35aaa893ebbf6bf0508"
+  },
+  "settings.tasks.taskBucketsSettings.newBucket": {
+    "message": "Nuova colonna",
+    "sourceHash": "615e9396b8fab3aee7f77b7020208e80c367123462052e0230ec54f75d8590b0"
+  },
+  "settings.tasks.taskBucketsSettings.noBucketsYet": {
+    "message": "Nessuna colonna",
+    "sourceHash": "6fc84aa58e7fbbe5092f19e72db31a9d5cc9d93dfe8d7663e79fd8c43f59feab"
+  },
+  "settings.tasks.taskBucketsSettings.noTasksAreInIt": {
+    "message": "Non contiene attività.",
+    "sourceHash": "3e708622a36001777faab1089ed5db5b8e00ca2cc0b6a6d5773c0434db153286"
+  },
+  "settings.tasks.taskBucketsSettings.save": {
+    "message": "Salva",
+    "sourceHash": "a49c1022fcc242bbe19f8777c0bb16dedc0ef551b1195d5b22f7acce56a28d9d"
+  },
+  "settings.tasks.taskCyclesSettings.cycleLength": {
+    "message": "Durata del ciclo",
+    "sourceHash": "bf1768c2c59a7dd4b7db1ed7d67861cc4339d245fd74565081ec80183cd938da"
+  },
+  "settings.tasks.taskCyclesSettings.cyclePlanning": {
+    "message": "Pianificazione dei cicli",
+    "sourceHash": "30e0127b7086151347b23840474f2fb86a99af6ed911e75e472e82fe0f14e7ce"
+  },
+  "settings.tasks.taskCyclesSettings.cycleStartDay": {
+    "message": "Giorno di inizio del ciclo",
+    "sourceHash": "545a03a0a33156997b26fff924098d4a015200081facc483b1920e642f76d779"
+  },
+  "settings.tasks.taskCyclesSettings.planWorkInRepeatingTimeBoxesEnablingThisCreates": {
+    "message": "Pianifica il lavoro in intervalli di tempo ricorrenti. Attivando questa opzione si crea un ciclo attivo numerato e un ciclo in arrivo; le attività non vengono aggiunte automaticamente.",
+    "sourceHash": "b079f7e85af9f5bc9950c8845eb5e2ca1caa20463c6fbde9924cf490f79f1669"
+  },
+  "settings.tasks.taskCyclesSettings.schedule": {
+    "message": "Pianificazione",
+    "sourceHash": "522df9d4541bd5ab19741d5684739602a003b932744d71a1cfae53014d765ed2"
+  },
+  "settings.tasks.taskCyclesSettings.scheduleChangesRealignTheActiveAndUpcomingCyclesExisting": {
+    "message": "Le modifiche alla pianificazione riallineano i cicli attivo e in arrivo. Le assegnazioni esistenti delle attività restano invariate.",
+    "sourceHash": "a1492d63643fa75063321fe37f7ba2af6c94ba7f1f635a57a7cba8906d50fca6"
+  },
+  "settings.tasks.taskCyclesSettings.startsOn": {
+    "message": "Inizia il",
+    "sourceHash": "8c193378ffa85b96704c00f68f2f954e4484fe70c675daed88237aa1a0fee41f"
+  },
+  "settings.tasks.taskCyclesSettings.useCycles": {
+    "message": "Usa i cicli",
+    "sourceHash": "a31c5b15a43d0eb1a6cdd0a40bf1bbe484e6998c5ab75babbf4a50cf138c1be6"
+  },
+  "settings.tasks.taskCyclesSettings.weeks": {
+    "message": {
+      "many": "{count} settimane",
+      "one": "{count} settimana",
+      "other": "{count} settimane"
+    },
+    "sourceHash": "da01ff7db058a6eff44080758af9b22ef5bac3ccc82a06bd1bdfbc7106bd35b4"
+  },
+  "settings.tasks.taskGeneralSettings.comments": {
+    "message": "Commenti",
+    "sourceHash": "66d0a6395a06de393db6ec835bca196678c529a7e548c90b25ff88f7f67476e3"
+  },
+  "settings.tasks.taskGeneralSettings.followUpOn": {
+    "message": "Da riprendere il",
+    "sourceHash": "9c8a149a1094f1169f86a867045a6e5c1271b52d6b12ce31dc88cdbfc3d6e9e5"
+  },
+  "settings.tasks.taskGeneralSettings.howTasksLinkedInNotesAppear": {
+    "message": "Come appaiono le attività collegate nelle note.",
+    "sourceHash": "a10abbbb268a61db63082dcd5c1a63c87d920e784a38a43c59c00a3da99915b2"
+  },
+  "settings.tasks.taskGeneralSettings.large": {
+    "message": "Grande",
+    "sourceHash": "ef2f9cfc0456f56ad05802222659821fa366b6651f3febc3c6f4ccdc480d0600"
+  },
+  "settings.tasks.taskGeneralSettings.leaveCommentsOnTasksTurningThisOffHidesExisting": {
+    "message": "Consenti commenti sulle attività. Disattivando questa opzione, i commenti esistenti vengono nascosti senza essere eliminati.",
+    "sourceHash": "f48cdee1b7c810a6761f44061184ba477cca2824358d25a2808275993432e756"
+  },
+  "settings.tasks.taskGeneralSettings.previewTitle": {
+    "message": "Scrivi la bozza dell’annuncio di lancio",
+    "sourceHash": "79efc5fd8efe5b16e9523a6ff112e22692004e7ebc2ac891567c6b80e7612977"
+  },
+  "settings.tasks.taskGeneralSettings.short": {
+    "message": "Breve",
+    "sourceHash": "39ce380dc5932c27460819c1273b0746680b4c83eb9b0efa39103638e7519259"
+  },
+  "settings.tasks.taskGeneralSettings.taskLinks": {
+    "message": "Link delle attività",
+    "sourceHash": "5703421c9589f0f909199d9ab151f56500c41de38b590004016094cde1abdb52"
+  },
+  "settings.tasks.taskGeneralSettings.taskLinksDisplay": {
+    "message": "Visualizzazione dei link delle attività",
+    "sourceHash": "c8cfb58e8ca156c9ce6b8775d9d1c7b967a92a9ef5619d3a214e4054f366bfa1"
+  },
+  "settings.tasks.taskGeneralSettings.taskLinksDisplay2": {
+    "message": "Visualizzazione dei link delle attività",
+    "sourceHash": "c6962337684c3bff4f3f80a2a03d05234ad355b0f7176055529f5f81d6f80b6f"
+  },
+  "settings.tasks.taskGeneralSettings.theTaskSID": {
+    "message": "L’ID dell’attività",
+    "sourceHash": "c150721dd35baecaaab4920d97f1ab76ba41384c867add1cbed994eb08f5448b"
+  },
+  "settings.tasks.taskGeneralSettings.theTaskSTitle": {
+    "message": "Il titolo dell’attività",
+    "sourceHash": "55c19b739164a439bd74d2008998ca2f16ddfbdb8125d6e7d5e083b6751bcfa7"
+  },
+  "settings.tasks.taskIdsSettings.aKeyIs2To5LettersOrDigits": {
+    "message": "Una chiave è composta da 2 a 5 lettere o cifre e inizia con una lettera.",
+    "sourceHash": "25e5d15d64adc2c6ebc9a2255b3b74759c0607b5fcd8df228cc8b7e9a6d89729"
+  },
+  "settings.tasks.taskIdsSettings.keyForTasksWithoutAProject": {
+    "message": "Chiave per le attività senza progetto",
+    "sourceHash": "410075ad4d6a40a2e09443668da901fa507a5290162eb0350cd5054d5349d07a"
+  },
+  "settings.tasks.taskIdsSettings.save": {
+    "message": "Salva",
+    "sourceHash": "bcceb9166b4706ec621c227556bfe2a8ddf179fbe4d0ec874b17e9aca2391b30"
+  },
+  "settings.tasks.taskIdsSettings.saving": {
+    "message": "Salvataggio…",
+    "sourceHash": "724f3d181fc9ee1dc60a26d237328a4a13d5ca1a25b25c13bb3f3f045d83dce8"
+  },
+  "settings.tasks.taskIdsSettings.tasksWithoutAProject": {
+    "message": "Attività senza progetto",
+    "sourceHash": "0ff3bbd13090e4ad2df726f1e44a5f82f6a376785bbba1eece1a4d6cc768c515"
+  },
+  "settings.tasks.taskLabelsSettings.addLabel": {
+    "message": "Aggiungi etichetta",
+    "sourceHash": "5f041322b29b0f9f3ce82ed718874d333c27dd3eb9f0bb2906eaad884d7adb7e"
+  },
+  "settings.tasks.taskLabelsSettings.cancel": {
+    "message": "Annulla",
+    "sourceHash": "18e4257dc85165ed462c946926b368cfc76accd86db0eebf4c434e3518e3bd85"
+  },
+  "settings.tasks.taskLabelsSettings.colorLabel": {
+    "message": "Cambia colore etichetta",
+    "sourceHash": "aef369137576772ba274fc83d50fe4af4716631611342e26daaa422a3e1ebe9c"
+  },
+  "settings.tasks.taskLabelsSettings.delete": {
+    "message": "Elimina",
+    "sourceHash": "58ba8fd464bccd3783ee5643d53ba9307b2520524ecfbb95b23a9749eb0b28b3"
+  },
+  "settings.tasks.taskLabelsSettings.delete3": {
+    "message": "Eliminare “{deleting}”?",
+    "sourceHash": "2b625e6cf0f692b4b588d2518c2da80623f186070d81803a1112db7bcea1ddfb"
+  },
+  "settings.tasks.taskLabelsSettings.deleteLabel": {
+    "message": "Elimina etichetta",
+    "sourceHash": "fd050e4a6b6471a647b3bae763a2010b7b88edcff70859915f13e0c5b94aa8ab"
+  },
+  "settings.tasks.taskLabelsSettings.itComesOffTasks": {
+    "message": {
+      "many": "Viene rimossa da {count} attività.",
+      "one": "Viene rimossa da {count} attività.",
+      "other": "Viene rimossa da {count} attività."
+    },
+    "sourceHash": "ad17cd51776a4e210461cd1a3d211ae2673cfeb1cee0b6433b4166272184dea8"
+  },
+  "settings.tasks.taskLabelsSettings.labelName": {
+    "message": "Nome etichetta",
+    "sourceHash": "37a8042907c237ee66b32fdfb87390e042c1aaed575c1585573df82ac4c54a54"
+  },
+  "settings.tasks.taskLabelsSettings.newLabel": {
+    "message": "Nuova etichetta",
+    "sourceHash": "9beb55d062c6a5a8753f77c6f1fab827fba91125cc20d2943dbaf81886ec915f"
+  },
+  "settings.tasks.taskLabelsSettings.noLabelsYet": {
+    "message": "Nessuna etichetta",
+    "sourceHash": "b8feafe617a8f094a146edf6295b071451a2f029b1d4e0704b77871bcdb068e6"
+  },
+  "settings.tasks.taskLabelsSettings.noTasksUseIt": {
+    "message": "Nessuna attività la usa.",
+    "sourceHash": "4eec26647fca5b4473fd3b1c69b2de7a0f2e9d4dba1d756dd5f816d2fd42d85e"
+  },
+  "settings.tasks.taskLabelsSettings.save": {
+    "message": "Salva",
+    "sourceHash": "f3807eba6c85eddee750cc568188d191b94cb0e223cc5f4a0944e189535998cc"
+  },
+  "settings.tasks.taskSettingsPage.couldNotLoadTasks": {
+    "message": "Impossibile caricare le attività: {error}",
+    "sourceHash": "35103389dcfad0c7b3b107d9eb55e0b847c23439cdaae5c462eeba4b65925158"
+  },
+  "settings.tasks.taskSettingsPage.loading": {
+    "message": "Caricamento…",
+    "sourceHash": "83a227214c00f83caa29c85520ef9b8f86adebd82f3b098fee89c42973145815"
+  },
+  "settings.tasks.taskStatusesSettings.addStatus": {
+    "message": "Aggiungi stato",
+    "sourceHash": "ac4e46a39f5c3f0a309a71f8a849e6a5e67b523eec350a2fdb7a67979b19dd1c"
+  },
+  "settings.tasks.taskStatusesSettings.builtIn": {
+    "message": "Integrato",
+    "sourceHash": "5111604132d31f5299d4a039b2f04a8538382c12615c0bd113eff0c3f01a705c"
+  },
+  "settings.tasks.taskStatusesSettings.builtInStatusesCanTBeRenamedOrDeleted": {
+    "message": "Gli stati integrati non possono essere rinominati o eliminati",
+    "sourceHash": "f816b7760680985e7f1745c75fe3bc097c46bf88005d6cd5027e0953a0bd0c03"
+  },
+  "settings.tasks.taskStatusesSettings.cancel": {
+    "message": "Annulla",
+    "sourceHash": "fcd0c1946a114105eef0068463e2a062139dad5c3b5fa46261c84e872ab991c1"
+  },
+  "settings.tasks.taskStatusesSettings.changeColour": {
+    "message": "Cambia colore di {name}",
+    "sourceHash": "17b0026e7f6a0a8a140f7b8862846acd579cb33c1a87f52012af6552cb123eb3"
+  },
+  "settings.tasks.taskStatusesSettings.colorLabel": {
+    "message": "Cambia colore dello stato",
+    "sourceHash": "01f4c2465cb45593ac828c255865be58274c3c76f140d293e87b495addd3bd4d"
+  },
+  "settings.tasks.taskStatusesSettings.delete": {
+    "message": "Elimina",
+    "sourceHash": "31f17befb1da4f9c74a5aa1c6e1afa50445742a4f67b8644e534bf6bf5c420f8"
+  },
+  "settings.tasks.taskStatusesSettings.delete2": {
+    "message": "Elimina {name}",
+    "sourceHash": "310fcd28c2672c5f75550ad29e266940220f6db907ed68119df546ff667e6417"
+  },
+  "settings.tasks.taskStatusesSettings.delete3": {
+    "message": "Eliminare “{name}”?",
+    "sourceHash": "c035c4e63fefbc8a249159d858373df4ef96e7b8b4f8a1ef5ea5d0ac7d244af8"
+  },
+  "settings.tasks.taskStatusesSettings.deleteStatus": {
+    "message": "Elimina stato",
+    "sourceHash": "405e1ba39f697947a253772e5a9f6790a5e63f46632b887f433eb831140adb02"
+  },
+  "settings.tasks.taskStatusesSettings.edit": {
+    "message": "Modifica",
+    "sourceHash": "4496bee57ab33103c0051a275eb1e17c949af5c16dd18f208a63294dcd425b6b"
+  },
+  "settings.tasks.taskStatusesSettings.edit2": {
+    "message": "Modifica {name}",
+    "sourceHash": "f492c8c9fd827f63dd2df5cee18ff011a9046d2e71f5f87ac05837a1dc37c6a8"
+  },
+  "settings.tasks.taskStatusesSettings.itsTasksMoveToOrTheNearestStatusTheir": {
+    "message": {
+      "many": "Le sue {count} attività passano a “{name}”, o allo stato più vicino usato dal loro progetto.",
+      "one": "La sua {count} attività passa a “{name}”, o allo stato più vicino usato dal suo progetto.",
+      "other": "Le sue {count} attività passano a “{name}”, o allo stato più vicino usato dal loro progetto."
+    },
+    "sourceHash": "26237dd2240b3efdb024fefee6534fdef7a90646c351796a8ab44bc9cca4bac3"
+  },
+  "settings.tasks.taskStatusesSettings.moveDown": {
+    "message": "Sposta giù",
+    "sourceHash": "9032b7a8b4647a18d2cda58445113f657af5ef5d5f060b567f83aef2cf24d5ba"
+  },
+  "settings.tasks.taskStatusesSettings.moveDown2": {
+    "message": "Sposta {name} giù",
+    "sourceHash": "2961ae207dbfe9708fdf9bb9d6cbe9b6c9dac6685be6fe6ae208330cd43b10f4"
+  },
+  "settings.tasks.taskStatusesSettings.moveUp": {
+    "message": "Sposta su",
+    "sourceHash": "398f37e802d4601ca485ab98a520b625781321826e0a0ed879eae7d669df18f7"
+  },
+  "settings.tasks.taskStatusesSettings.moveUp2": {
+    "message": "Sposta {name} su",
+    "sourceHash": "16165ec5a1485d731a8a109141f631853d16fb3c860b01f830d60694bb32e0f0"
+  },
+  "settings.tasks.taskStatusesSettings.newStatus": {
+    "message": "Nuovo stato",
+    "sourceHash": "f3c3407a69d55b0a9ee40ef335cc3a097ca128bdf702db53f2e29848e447c701"
+  },
+  "settings.tasks.taskStatusesSettings.noTasksUseIt": {
+    "message": "Nessuna attività lo usa.",
+    "sourceHash": "267999945bf87b561dbf9c50450e82c2b858645bc8b3009da9df18ce3005b936"
+  },
+  "settings.tasks.taskStatusesSettings.resetColour": {
+    "message": "Ripristina colore",
+    "sourceHash": "2933b8581e0776f96352cc0d633739ef0a098918ee2dca83e9a04065884ec090"
+  },
+  "settings.tasks.taskStatusesSettings.save": {
+    "message": "Salva",
+    "sourceHash": "4fdcce429594f1f03a7af43a4f6bb75b9ed0ddc5af624d0f851cdc87151e96a2"
+  },
+  "settings.tasks.taskStatusesSettings.statusName": {
+    "message": "Nome dello stato",
+    "sourceHash": "7eead25b8886dd66571a5120c8f4ce21780d19490d6ceab4dbf54db690ef274a"
+  },
+  "settings.tasks.taskTemplateEditor.addSubtask": {
+    "message": "Aggiungi sottoattività",
+    "sourceHash": "5d91d3fd052f8c672ec759b762c6ea2a993621b23f246765f982b6fcaf027d5c"
+  },
+  "settings.tasks.taskTemplateEditor.bugReport": {
+    "message": "Segnalazione di bug",
+    "sourceHash": "f48dc3e1862a0434e7282a95f7ea9326d84d5b386c70f29e6e1f441aade4ad2f"
+  },
+  "settings.tasks.taskTemplateEditor.cancel": {
+    "message": "Annulla",
+    "sourceHash": "45a813a344942faa1286cd753b8846ac690ae2d9cbed5dbec1ea9aede9c05e81"
+  },
+  "settings.tasks.taskTemplateEditor.createTemplate": {
+    "message": "Crea modello",
+    "sourceHash": "aea0f64c5fdbed2c7fcebd177ee27aa3ca44603d66ff60336edc2502fd86a0c7"
+  },
+  "settings.tasks.taskTemplateEditor.deleteTemplate": {
+    "message": "Elimina modello",
+    "sourceHash": "e6918577c156df124136fe23d6529de5bcb8c720a59621ab701e92a0b544dbdc"
+  },
+  "settings.tasks.taskTemplateEditor.description": {
+    "message": "Descrizione",
+    "sourceHash": "bd1d211001a917551be3807afb9f61037cd00dad4318b56cf87cecf982830425"
+  },
+  "settings.tasks.taskTemplateEditor.descriptionNewTasksStartWithInMarkdown": {
+    "message": "Descrizione con cui iniziano le nuove attività, in Markdown",
+    "sourceHash": "900a8769dd6084ed050c8c9ef59c7e729df36deaf27ce768be5397f84c2510d2"
+  },
+  "settings.tasks.taskTemplateEditor.fields": {
+    "message": "campi",
+    "sourceHash": "645d47520b6468292c6391e0522f57c2b8e8fa0cd7c88d69fa051958b588535f"
+  },
+  "settings.tasks.taskTemplateEditor.name": {
+    "message": "nome",
+    "sourceHash": "cf77611cc97b7ad7755c76bd867881e0160bcd04cf231109b01a27c8e13c9367"
+  },
+  "settings.tasks.taskTemplateEditor.noProjectLabel": {
+    "message": "Progetto corrente",
+    "sourceHash": "93c1b7f98f301ad79e89551748a4e47aee9e353c8b532a100957fd9efecc4540"
+  },
+  "settings.tasks.taskTemplateEditor.remove": {
+    "message": "Rimuovi {value}",
+    "sourceHash": "16ea735ade8f53009e1be5c2e7024cae1593f3786feeee1de3ba65b39f217acb"
+  },
+  "settings.tasks.taskTemplateEditor.saveChanges": {
+    "message": "Salva modifiche",
+    "sourceHash": "bfce3306a16e71a63b634edcd600ee38b4b969dcf2e73ea3520c5b2c1e866a03"
+  },
+  "settings.tasks.taskTemplateEditor.saving": {
+    "message": "Salvataggio…",
+    "sourceHash": "fe12ad19d322518441eb372aa35a2b7ce73a4282ee4da9dbe0e1c6ebed330316"
+  },
+  "settings.tasks.taskTemplateEditor.subtasks": {
+    "message": "sottoattività",
+    "sourceHash": "1caaa1df82aa0773a6b9da45e45296742d4fe2a2d4744ce6c51ffda76fbfa95a"
+  },
+  "settings.tasks.taskTemplateEditor.title": {
+    "message": "titolo",
+    "sourceHash": "ca2edaf76d31af9982387767a26cab261be857d49dc5a098247b76fcdb38a4fd"
+  },
+  "settings.tasks.taskTemplateEditor.whatNewTasksStartWithEGBug": {
+    "message": "Con cosa iniziano le nuove attività, ad es. Bug: ",
+    "sourceHash": "ed9d52329fdf03d99fd42df42671fe40a9457b178978dcd1cd3454bd84b901a7"
+  },
+  "settings.tasks.taskTemplatesSettings.anyProject": {
+    "message": "Qualsiasi progetto",
+    "sourceHash": "24bc270546f077b67e8d36487c61a1b0d2f7eb763a32a0a0b482a5149e4b0a3d"
+  },
+  "settings.tasks.taskTemplatesSettings.cancel": {
+    "message": "Annulla",
+    "sourceHash": "1a36df3fd44879b266de2f1d53bd43dbc1aa965f4a1f805caaaf429fff4768e7"
+  },
+  "settings.tasks.taskTemplatesSettings.createYourFirstTemplate": {
+    "message": "Crea il tuo primo modello",
+    "sourceHash": "c4ebae40b3c2b91e8acd9bce4b41fd1fdc5f4c1f0719a4cd0da7f16ea7ba83b1"
+  },
+  "settings.tasks.taskTemplatesSettings.delete": {
+    "message": "Eliminare “{templateNamedeleting}”?",
+    "sourceHash": "adabddd84f9123d59ab691b1f0c722eba8cb77677bf7ebb16b521c413fbcda1b"
+  },
+  "settings.tasks.taskTemplatesSettings.deleteTemplate": {
+    "message": "Elimina modello",
+    "sourceHash": "ef0188ce4d6ceb510cf1f900e269e0743f3aed7394a7d1fb46b64a3e6614cba3"
+  },
+  "settings.tasks.taskTemplatesSettings.edit": {
+    "message": "Modifica",
+    "sourceHash": "020f05df6f272dd5ae97251847a69c11641050198ed0d632f1ce27e64ddcb7d1"
+  },
+  "settings.tasks.taskTemplatesSettings.newTemplate": {
+    "message": "Nuovo modello",
+    "sourceHash": "72c7da66de54582a520798d790caa8bad8ac265f1d05703dcb9f7b4e2b9132ce"
+  },
+  "settings.tasks.taskTemplatesSettings.orSaveOneFromAnyTaskRightClickIt": {
+    "message": "Oppure salvalo da un’attività qualsiasi: fai clic destro su di essa e scegli Salva come modello.",
+    "sourceHash": "ac4bc9443d181320f38953ea622fbf679e4a7fe02eefffdac5fb9c971792f130"
+  },
+  "settings.tasks.taskTemplatesSettings.subtasks": {
+    "message": {
+      "many": "{count} sottoattività",
+      "one": "{count} sottoattività",
+      "other": "{count} sottoattività"
+    },
+    "sourceHash": "fcd5aff8d9c92727ded6d256f4b4f7b4c0b7159739622313cf4f7fe5d84d0bd5"
+  },
+  "settings.tasks.taskTemplatesSettings.tasksAlreadyMadeFromItStayAsTheyAre": {
+    "message": "Le attività già create da questo modello restano invariate.",
+    "sourceHash": "03a879e0a7dd9dba2101b9d1385023757b1e68008e9bf67caff9c2dd91072f3d"
+  },
+  "settings.tasks.taskTypesSettings.addLabels": {
+    "message": "Aggiungi etichette",
+    "sourceHash": "e90d827f355e528be67329db43ea903670e4838e730df68b25c89cce086dfd31"
+  },
+  "settings.tasks.taskTypesSettings.addType": {
+    "message": "Aggiungi tipo",
+    "sourceHash": "909c0da6342b8088b765f053794f2c1f11fc396a47a7716bf76cdc9878be3a8e"
+  },
+  "settings.tasks.taskTypesSettings.cancel": {
+    "message": "Annulla",
+    "sourceHash": "a08fa1cba87617446dc689ff31df39648348da44982c308a6185f1ee1a5623bb"
+  },
+  "settings.tasks.taskTypesSettings.colorLabel": {
+    "message": "Cambia colore del tipo",
+    "sourceHash": "671ead797630755415ddbe3abd739b4535ff46d6dd385bc91ecc859f36078d83"
+  },
+  "settings.tasks.taskTypesSettings.delete": {
+    "message": "Elimina",
+    "sourceHash": "a5f600951c617d386e19f2c99c1a798e8d9b42eae1bb0ad7501adb3ad63045a8"
+  },
+  "settings.tasks.taskTypesSettings.delete2": {
+    "message": "Elimina {name}",
+    "sourceHash": "7bc382ec090fddbe49149e8d69e1123598f89c8251a33858cbe8a8fa5e958808"
+  },
+  "settings.tasks.taskTypesSettings.delete3": {
+    "message": "Eliminare «{name}»?",
+    "sourceHash": "c4f07aef75e52f76b048862b5c943283306f633a8b15a88321a6f62b0689c3f3"
+  },
+  "settings.tasks.taskTypesSettings.deleteType": {
+    "message": "Elimina tipo",
+    "sourceHash": "78cfec830a9c880647428dd44f7154a8265b591678203efbf1ed1fdaf04a8ebd"
+  },
+  "settings.tasks.taskTypesSettings.edit": {
+    "message": "Modifica",
+    "sourceHash": "531f11b86bb4afbd96ef853d160c18568fcec6373ea416395ebce767c3b95d70"
+  },
+  "settings.tasks.taskTypesSettings.edit2": {
+    "message": "Modifica {name}",
+    "sourceHash": "86d2ed94f1667528a8eaedecb8c069641909f09611ead72859bbddd2085b104d"
+  },
+  "settings.tasks.taskTypesSettings.itsTasksLoseTheirTypeLabelsAndPrioritiesIts": {
+    "message": {
+      "many": "Le sue {count} attività perdono il tipo. Le etichette e le priorità impostate dalle sue regole restano.",
+      "one": "La sua {count} attività perde il tipo. Le etichette e le priorità impostate dalle sue regole restano.",
+      "other": "Le sue {count} attività perdono il tipo. Le etichette e le priorità impostate dalle sue regole restano."
+    },
+    "sourceHash": "2da33541892a79c880d0c4ebe09c2f2b8487dfe06a13930e3e77b1587f3ec3e8"
+  },
+  "settings.tasks.taskTypesSettings.leavePriority": {
+    "message": "Lascia invariata la priorità",
+    "sourceHash": "f9c3cbe95d37eeffc28e4673c4b73ec04d52c05d85e5ed3231f44c0e7f7efbca"
+  },
+  "settings.tasks.taskTypesSettings.moveDown": {
+    "message": "Sposta giù",
+    "sourceHash": "4b46eadde88f761c0eca5c1ae8d281098b41f4b3cf1163f7d1163781a904e620"
+  },
+  "settings.tasks.taskTypesSettings.moveDown2": {
+    "message": "Sposta {name} giù",
+    "sourceHash": "4ae13675947aab97f115f35ea7072a85e5b5f759a99723a4e91e1ff98ad7f21f"
+  },
+  "settings.tasks.taskTypesSettings.moveUp": {
+    "message": "Sposta su",
+    "sourceHash": "3ca4cb7572008e39f434a2ec46106109c14858f666d4b8fb1e29e7ff2a2fa96c"
+  },
+  "settings.tasks.taskTypesSettings.moveUp2": {
+    "message": "Sposta {name} su",
+    "sourceHash": "879309b179fa51a149a34b502b8ba9fbb2ea56252273a43a691850edb9506783"
+  },
+  "settings.tasks.taskTypesSettings.newType": {
+    "message": "Nuovo tipo",
+    "sourceHash": "865212d88474558f1cd4a802c50aa7252c7af67525884936a4c284fa4594c203"
+  },
+  "settings.tasks.taskTypesSettings.noTasksHaveIt": {
+    "message": "Nessuna attività lo usa.",
+    "sourceHash": "ed1c85c4489344cb0a93cf9ef7ba34772cf174de4826427ec8accc9d5756ca57"
+  },
+  "settings.tasks.taskTypesSettings.noTypesYet": {
+    "message": "Nessun tipo ancora",
+    "sourceHash": "55cc8185fa5999d30a418a8171d780ac39f58d6a1bc1576f14b2442c329207ed"
+  },
+  "settings.tasks.taskTypesSettings.save": {
+    "message": "Salva",
+    "sourceHash": "7b26d1100ea7f807cba2c0c7f5c3871499db6e032df7d4435e206e5c87b87e09"
+  },
+  "settings.tasks.taskTypesSettings.setPriority": {
+    "message": "Imposta priorità",
+    "sourceHash": "ce5b5ba607a9a472300837d9756927f67636691bd72d1bf8140c06695313acd6"
+  },
+  "settings.tasks.taskTypesSettings.typeName": {
+    "message": "Nome del tipo",
+    "sourceHash": "65bd78f96b8d4a9fab732285e1df0a1f22888af8e832393ab7655684a8e8634f"
+  },
+  "settings.tasks.templates.backToTemplates": {
+    "message": "Torna ai modelli",
+    "sourceHash": "bd723abf0cb476f4d659c9b4acad380207444fd9e8c75a5faa099c6f4142dabf"
+  },
+  "settings.tasks.templates.newTemplate": {
+    "message": "Nuovo modello",
+    "sourceHash": "86bd13fbeaa8e7e0d4a82ab61c1ee1553fa94c4265214ef484a834d1f30e62a9"
+  },
+  "settings.tasks.templates.templatesTitle": {
+    "message": "Modelli",
+    "sourceHash": "2ce088aac2af1aad8a11b201145d41c15f7b5aac6cddb8d0a88169eb15b5806d"
+  },
+  "settings.templates": {
+    "message": "Modelli",
+    "sourceHash": "a92aed26c2f508e1abaccba4431a7c55155f3d1c8c59c974a330eceeebd0d910"
+  },
+  "settings.templates.startNewTasksWithFieldsAlreadyFilledIn": {
+    "message": "Avvia nuove attività con i campi già compilati.",
+    "sourceHash": "2005562a126346837ac4cf9371c61aa25d8eeb5773cf41234e01550745ec08f3"
+  },
+  "settings.theme-creator.areYouSureYouWantToDeleteThisAction": {
+    "message": "Sei sicuro di voler eliminare «{name}»? Questa azione non può essere annullata.",
+    "sourceHash": "c502a107a9ef566e0214a87bb17b6bf6670a901d6b89373e7257b428144cb65d"
+  },
+  "settings.theme-creator.createAndManageCustomColorThemesForOctarine": {
+    "message": "Crea e gestisci temi di colore personalizzati per Octarine.",
+    "sourceHash": "0907123205fd8d2ad9562173c66398e69c56a529746916770374c3e2bd0144de"
+  },
+  "settings.theme-creator.createdAndAppliedTheme": {
+    "message": "Tema «{name}» creato e applicato",
+    "sourceHash": "24ac27f69bf236cbfb097a65635370109164caab6cb0d574f3484ed61c172faa"
+  },
+  "settings.theme-creator.delete": {
+    "message": "Elimina",
+    "sourceHash": "91e853e34011d2943e5b4245bba93605e43cffa638236b011949f6f3480b2523"
+  },
+  "settings.theme-creator.deleteTheme": {
+    "message": "Elimina tema",
+    "sourceHash": "c96182e72671572ad0ff6cfe6f6c052b2fcf641635bf6040822c95b1157a8328"
+  },
+  "settings.theme-creator.deletedTheme": {
+    "message": "Tema «{name}» eliminato",
+    "sourceHash": "2a7812e2710f68895dcad83ff23b6b4fea601686ab33d7ac576ee75bd89ed8f8"
+  },
+  "settings.theme-creator.failedToCreate": {
+    "message": "Impossibile creare il tema: {reason}",
+    "sourceHash": "093220a5f2b6958c6800ba4d7f4ab11b34cd57edfbd31d7515b77fd9603350dc"
+  },
+  "settings.theme-creator.failedToDeleteTheme": {
+    "message": "Impossibile eliminare il tema",
+    "sourceHash": "f89e65ff202c7818a048e4c801f0466409ce20a73d092f48b3f84fb861782259"
+  },
+  "settings.theme-creator.failedToUpdate": {
+    "message": "Impossibile aggiornare il tema: {reason}",
+    "sourceHash": "1ae7a4c679a5f688414dcc200a5c6acb54361b92954b4fd54bc565ee9e613ae4"
+  },
+  "settings.theme-creator.newTheme": {
+    "message": "Nuovo tema",
+    "sourceHash": "911a333645c5f80e95265a75ed8b68f6b6957943be8ff1d26157aa0fff561721"
+  },
+  "settings.theme-creator.themeCreator2": {
+    "message": "Creatore di temi",
+    "sourceHash": "67f3e575921f796e0f848001991285dd483e4089d23cb651787c398a01dad0d9"
+  },
+  "settings.theme-creator.themeCreatorIsAProFeatureUpgradeToCreate": {
+    "message": "Il creatore di temi è una funzione Pro. Passa a Pro per creare i tuoi temi di colore personalizzati.",
+    "sourceHash": "ef3f8a3822e075150fac7d1390d3e78f58ea2055f5050bb81cb6e95cbf66a340"
+  },
+  "settings.theme-creator.updatedTheme": {
+    "message": "Tema «{name}» aggiornato",
+    "sourceHash": "c7a6deb857cd0cf7efe2694c262a523c4b3b89341c6eec0a8e6ac9d9a19359b5"
+  },
+  "settings.theme-creator.upgradeToPro": {
+    "message": "Passa a Pro",
+    "sourceHash": "36af903771891cd90082e4d7bc21e22d93e2914fbb5457d505d62974c6d591ef"
+  },
+  "settings.themeCreator": {
+    "message": "Creatore di temi",
+    "sourceHash": "f5dc41ca124b0f07dc12577bfc83bd4762e793e396a35f0d5ad496c22e6b9dc1"
+  },
+  "settings.themeCreator.themeEditor.alternateName": {
+    "message": "{name} alt",
+    "sourceHash": "7ef46279178d12f1eedb43ab346e2373439f00fb18e0241d924c7136a543babc"
+  },
+  "settings.themeCreator.themeEditor.askAI": {
+    "message": "Chiedi all’AI",
+    "sourceHash": "49688f18b77f07e1a7d8c1b7eb66cb0fa1c2db8039a3c372b0f5449d016f7c53"
+  },
+  "settings.themeCreator.themeEditor.baseTheme": {
+    "message": "Tema di base",
+    "sourceHash": "cb2eb1babec1ccab8c8edc4d629b4196aee68ae26bcddc1b401a9c00c9197458"
+  },
+  "settings.themeCreator.themeEditor.baseThemeIsLockedAfterCreation": {
+    "message": "Il tema di base è bloccato dopo la creazione.",
+    "sourceHash": "4913a6351a5e3e9353cc40b5e67f1ef38e31a8104506b0eb39005f3825e5c530"
+  },
+  "settings.themeCreator.themeEditor.cancel": {
+    "message": "Annulla",
+    "sourceHash": "c9663463c1deaed3790a326727fe574df61b2efde159eed417c3f531e0888d3a"
+  },
+  "settings.themeCreator.themeEditor.chooseWhetherThisThemeIsADarkOrLight": {
+    "message": "Scegli se questo tema è una tavolozza scura o chiara. Influisce sui colori delle icone delle cartelle, sui riquadri, sull’evidenziazione della sintassi, sui banner informativi e sulle notifiche.",
+    "sourceHash": "e410525d064a9fb51af40b001efc27649d017154ad671fe6e4a9943eb5a8c1a7"
+  },
+  "settings.themeCreator.themeEditor.closeAIPrompt": {
+    "message": "Chiudi il prompt AI",
+    "sourceHash": "655092ca80ba73b90d852983fab4ef6b1a42cbf84c8551a0c28610aeddcdf9a5"
+  },
+  "settings.themeCreator.themeEditor.copiedCSSToClipboard": {
+    "message": "CSS copiato negli appunti",
+    "sourceHash": "c6265facbbc26b51d4d2a28e32b79bcd38b71ccad9b500fb2ca5d956f7bf9166"
+  },
+  "settings.themeCreator.themeEditor.copyCSS": {
+    "message": "Copia CSS",
+    "sourceHash": "43cff665d01aca44269668ebe287e7f44c18a44aa429423e051c8245c8db115b"
+  },
+  "settings.themeCreator.themeEditor.create": {
+    "message": "Crea",
+    "sourceHash": "adba422acd4819aa646a764281885f7136d2b829d4755ac7c6154ab184d961be"
+  },
+  "settings.themeCreator.themeEditor.customFallback": {
+    "message": "Personalizzato",
+    "sourceHash": "98a4f669fe5e45c3894a09846179584460382caf85fced0cd3dfcaae6b7c479a"
+  },
+  "settings.themeCreator.themeEditor.dark": {
+    "message": "Scuro",
+    "sourceHash": "5310288d8a233804fb3b19faa5276e0fd4476acd1f543b54b2bd276ffd470ee9"
+  },
+  "settings.themeCreator.themeEditor.describeYourThemeEGCozyAutumnForestNeon": {
+    "message": "Descrivi il tuo tema... (ad es. «autunno in una foresta accogliente», «neon cyberpunk»)",
+    "sourceHash": "88e00cb788dd2d4891a0ac9eb169154c7e785227d6c4e867ad1867011583662c"
+  },
+  "settings.themeCreator.themeEditor.failedToCopyToClipboard": {
+    "message": "Impossibile copiare negli appunti",
+    "sourceHash": "3ccc2808aa93e52edc618d17c04816f3d80482ceed1e0986ce10960241b4f6d5"
+  },
+  "settings.themeCreator.themeEditor.failedToGenerateThemeTryAClearerDescription": {
+    "message": "Impossibile generare il tema. Prova una descrizione più chiara.",
+    "sourceHash": "0d5aab95003c38211e421771d3f0bd11afbfb7b7c650332a53f392082febc576"
+  },
+  "settings.themeCreator.themeEditor.failedToReadFromClipboard": {
+    "message": "Impossibile leggere dagli appunti",
+    "sourceHash": "90cda31f9b283bbba92f8070c0b1e4f59d7c1902f5f0a1d1a25ffa4ae2111cd3"
+  },
+  "settings.themeCreator.themeEditor.generate": {
+    "message": "Genera",
+    "sourceHash": "7d626251681d1b2afe78b334d1cc3a3fc5d6ea0e031a631fc73e458d70274d55"
+  },
+  "settings.themeCreator.themeEditor.generatedTheme": {
+    "message": "Tema generato «{generatedNameCustom}»",
+    "sourceHash": "9ef4393c6c3a370b54b25da761a8e08b4c2d5c7a67c79a635a9ae3cddb0edbf6"
+  },
+  "settings.themeCreator.themeEditor.importedVariables": {
+    "message": {
+      "many": "Importate {count} variabili",
+      "one": "Importata {count} variabile",
+      "other": "Importate {count} variabili"
+    },
+    "sourceHash": "f29e87cd3ac919d8039329c40470dd20e9ccb33a33566e471059a81b34eb9085"
+  },
+  "settings.themeCreator.themeEditor.light": {
+    "message": "Chiaro",
+    "sourceHash": "20c51cb8e3cf55d8226ef3ac98e2d3e69334010a61f2ac7b4839f96399a5bb4e"
+  },
+  "settings.themeCreator.themeEditor.myCustomTheme": {
+    "message": "Il mio tema personalizzato",
+    "sourceHash": "62b4e180b2787a492ca5418396aea08af976d42ec3da29272034369f79319b4a"
+  },
+  "settings.themeCreator.themeEditor.name": {
+    "message": "Nome",
+    "sourceHash": "7be38f15dfeaf6ac4d63110451f419427c26066d3a03a429399aa9c8444bdbb1"
+  },
+  "settings.themeCreator.themeEditor.noValidCSSVariablesFoundInClipboard": {
+    "message": "Nessuna variabile CSS valida negli appunti",
+    "sourceHash": "9b59d782a7ddfdfabde0f2f4edb6348244e6f73a2617bfb32e725019037dd19c"
+  },
+  "settings.themeCreator.themeEditor.palette": {
+    "message": "Tavolozza",
+    "sourceHash": "da49ee29d6c53cd0332af62334118cde658e0c4d970c7b1c535b485fd0309d71"
+  },
+  "settings.themeCreator.themeEditor.paletteInfo": {
+    "message": "Info tavolozza",
+    "sourceHash": "5a9fdf6f7ce0b437549ca3c69ad1896d2d2fb0dd8f13f7f36e944b4bd400db1a"
+  },
+  "settings.themeCreator.themeEditor.pasteFromClipboard": {
+    "message": "Incolla dagli appunti",
+    "sourceHash": "a68de29fc9f49b0681549e65669ca6a36ab7a7727fd63d79546460404a296c26"
+  },
+  "settings.themeCreator.themeEditor.pick": {
+    "message": "Scegli {key}",
+    "sourceHash": "3c54c9b45eb7696188949590a159a97596ada1fa9332262b177ddb34bde5d6c2"
+  },
+  "settings.themeCreator.themeEditor.pleaseDescribeTheThemeYouWant": {
+    "message": "Descrivi il tema che vuoi",
+    "sourceHash": "64ed32af715df1c6cd21872b3e1e26975daca6068e6e5be70666540f95fcd966"
+  },
+  "settings.themeCreator.themeEditor.preferDark": {
+    "message": "Passa a Scuro come preferenza",
+    "sourceHash": "e8c58a57e25df1ce6a35055633565348493cfa3933544d74688d8770c0c7de79"
+  },
+  "settings.themeCreator.themeEditor.preferLight": {
+    "message": "Passa a Chiaro come preferenza",
+    "sourceHash": "c215141cc89c0fb5e187ac6cd6d664b626791766168d66357286e6a2c2fd599f"
+  },
+  "settings.themeCreator.themeEditor.selectABaseThemeAboveToStartCustomizingColors": {
+    "message": "Seleziona un tema di base qui sopra per iniziare a personalizzare i colori.",
+    "sourceHash": "cbba68ad7c4a97318c193dc546b3708d26b5de3044615d51c1a4d94c08a0f5fb"
+  },
+  "settings.themeCreator.themeEditor.themeNameAlreadyExistsPleaseChooseAUniqueName": {
+    "message": "Esiste già un tema con questo nome. Scegli un nome unico.",
+    "sourceHash": "69f29c76b29e374941da0f606200358b07fa0f6cb02b611ad521e8d8e0cb04eb"
+  },
+  "settings.themeCreator.themeEditor.tipAskForTweaksLikeLighterBordersToAdjust": {
+    "message": "Suggerimento: chiedi modifiche come «bordi più chiari» per adattare il tema di base, oppure descrivi una nuova identità per generare un tema nuovo.",
+    "sourceHash": "62189f130f78ab33e9fb000e6aeeaac101dcf5c9c4f8c30f493fa9e01b515474"
+  },
+  "settings.themeCreator.themeEditor.undo": {
+    "message": "Annulla",
+    "sourceHash": "d8184f005c8bfe81d13b949639973673599178ff9fae9708210bfd1f0726594c"
+  },
+  "settings.themeCreator.themeEditor.update": {
+    "message": "Aggiorna",
+    "sourceHash": "928dc2a827460b00a4551c3247cc1c2048e97c878b5d4adb2809b76314d0085a"
+  },
+  "settings.themeCreator.themeList.darkThemes": {
+    "message": "Temi scuri",
+    "sourceHash": "9c68169d4821b932880a27f50d26c833c0a9809ba1076838c2da6f07ee4bc645"
+  },
+  "settings.themeCreator.themeList.delete": {
+    "message": "Elimina {name}",
+    "sourceHash": "b383abedb116c224d0e43d4d72b040aac754adbf92aabbf59dab07b6f56c13bf"
+  },
+  "settings.themeCreator.themeList.lightThemes": {
+    "message": "Temi chiari",
+    "sourceHash": "48e842afca1c3df16cf66f07acb684d06ba13196b5fe4d533f4dce4d5cdb6764"
+  },
+  "settings.themeCreator.themeList.noCustomThemesYet": {
+    "message": "Nessun tema personalizzato",
+    "sourceHash": "1a9b27e26773f6f75aa1b697df4e829fbde66eddffb047f95ca6b5503bfd0519"
+  },
+  "settings.themeCreator.themeList.noDarkThemes": {
+    "message": "Nessun tema scuro.",
+    "sourceHash": "2ddb5983bc3d3a94c8c5c893258c13b8a715d6f3667de1342065affc8d1f3931"
+  },
+  "settings.themeCreator.themeList.noLightThemes": {
+    "message": "Nessun tema chiaro.",
+    "sourceHash": "3dd97a7c41f2fd483d42d5f53a49c866b3c8a20a80983fa325e7385d14d9f48f"
+  },
+  "settings.themePreview.pro": {
+    "message": " (Pro)",
+    "sourceHash": "e03fb65ae3566fbd15eeddbaff747ca79f8054b5e2dde331bee1c43855805156"
+  },
+  "settings.title": {
+    "message": "Impostazioni",
+    "sourceHash": "0246c91152d55ff8820d0ddd9960efac6061e823730adb6811a52497b0005a6c"
+  },
+  "settings.types.areYouSureYouWantToDeleteThisRemoves": {
+    "message": "Sei sicuro di voler eliminare {emphasis}? Questo rimuove la definizione del tipo dallo spazio di lavoro. Le note esistenti non vengono modificate.{value}Questa operazione non può essere annullata.",
+    "sourceHash": "7349bf75ee87ebbea8fee2339f83d8acec16569a054ff9e7d1194e21ba01975d"
+  },
+  "settings.types.cancel": {
+    "message": "Annulla",
+    "sourceHash": "881260adb39ebe91793a1f0a13105d399947f1aca0a4f3ea38b8bcfc6d484e93"
+  },
+  "settings.types.delete": {
+    "message": "Elimina",
+    "sourceHash": "46051f9ac0fbb09bda7fefb78c4d271b9decaf3ec9c3c7957ef15650a9da7537"
+  },
+  "settings.types.deleteNoteType": {
+    "message": "Elimina tipo di nota?",
+    "sourceHash": "befaabdbe87124bee916d64b19cc0523e54f708cab356da0e55af9f3631ea169"
+  },
+  "settings.types.index.newType": {
+    "message": "Nuovo tipo",
+    "sourceHash": "8556cb09fb0906e42470b14ca3d80ca435bbb25cacf6a530b06c860cd384adf2"
+  },
+  "settings.types.noteTypeEditor.addProperty": {
+    "message": "Aggiungi proprietà",
+    "sourceHash": "8344fb6d4f7378bed57552c4d83eb7656e04b3f87668545743a899f36627ec4e"
+  },
+  "settings.types.noteTypeEditor.backToNoteTypes": {
+    "message": "Torna ai tipi di nota",
+    "sourceHash": "47090a2668bad851cefaee7c428180714767e1009db1762ac37a6a9762eb027e"
+  },
+  "settings.types.noteTypeEditor.backToTypes": {
+    "message": "Torna ai tipi",
+    "sourceHash": "fb953e6bca302e10eb91fef15eec280754f269d83b1172732d30a01a9dfa3668"
+  },
+  "settings.types.noteTypeEditor.delete": {
+    "message": "Elimina",
+    "sourceHash": "adc34cdd615dea79a595e0878adf43b3866728b2430e16edd84c2542604ec02a"
+  },
+  "settings.types.noteTypeEditor.description": {
+    "message": "Descrizione",
+    "sourceHash": "e3ef9f46bb16995880e8bd7fa92f3dc48cf38a0e4f01b1475fffe0544f11380f"
+  },
+  "settings.types.noteTypeEditor.eachPropertyNameMustBeUniqueWithinThisType": {
+    "message": "Ogni nome di proprietà deve essere unico all'interno di questo tipo.",
+    "sourceHash": "9ca03c580ec647d264681e45d628e657bc79b16b68ac74d439f48dbeee940163"
+  },
+  "settings.types.noteTypeEditor.movePropertyDown": {
+    "message": "Sposta proprietà giù",
+    "sourceHash": "b129e026c844225aba36ad3b772413699a60c48f4bbc9547151527d94f4a31be"
+  },
+  "settings.types.noteTypeEditor.movePropertyUp": {
+    "message": "Sposta proprietà su",
+    "sourceHash": "42d573421f5c366478b7f35359a94726a9c11767f82c65c7d8f370b53fd96611"
+  },
+  "settings.types.noteTypeEditor.name": {
+    "message": "Nome",
+    "sourceHash": "b496e82cd0c1ea7e839a8db8c55d0baea7396b25c348cd1c2b91d7f302703949"
+  },
+  "settings.types.noteTypeEditor.noPropertiesYetAddAPropertyToDefineWhat": {
+    "message": "Nessuna proprietà ancora. Aggiungi una proprietà per definire cosa deve raccogliere questo tipo.",
+    "sourceHash": "ecc3ad793920d63a3c1912ef5aad6700b3012248008f629b97035f16da4f8333"
+  },
+  "settings.types.noteTypeEditor.oneLineDescriptionForAI": {
+    "message": "Descrizione in una riga per l'AI",
+    "sourceHash": "73965f92f18ca28135abad39b3dfb858720f7f22c37b4d25da9b2468bf30a63a"
+  },
+  "settings.types.noteTypeEditor.properties": {
+    "message": "Proprietà",
+    "sourceHash": "8a11bd2ea24ddedfc501ffedd38f1b1bbba330b979ee5f1ca02953b62bcacece"
+  },
+  "settings.types.noteTypeEditor.releaseBlogTask": {
+    "message": "Release, Blog, Attività...",
+    "sourceHash": "46bb038b1df56e8735b2553600ba763f60e3588730da44ef91ea381d786e0d36"
+  },
+  "settings.types.noteTypeEditor.removeProperty": {
+    "message": "Rimuovi proprietà",
+    "sourceHash": "99c4092a2d1be5c3fc37a01c2023d8b3298b1e3aeb56a9a140ea3084c54ec565"
+  },
+  "settings.types.noteTypeEditor.theseFieldsAreAddedToNotesOfThisType": {
+    "message": "Questi campi vengono aggiunti alle note di questo tipo. Aggiungi brevi descrizioni per aiutare l'AI a generare valori utili.",
+    "sourceHash": "ce48c684bca3367fd78ca6d4e3d632bca463d865231927b3947477cfbee86b9c"
+  },
+  "settings.types.noteTypeEditor.type": {
+    "message": "Tipo",
+    "sourceHash": "1a8376c13d0ad6295735caebe224fa8deaa514f3f5dcb10b9c4e23076fd672aa"
+  },
+  "settings.types.noteTypesList.created": {
+    "message": "Creato",
+    "sourceHash": "17b6e7c6f75d241390213ac7eddefa99abb25d142c4c0b3d7d46bfd44b8e60fd"
+  },
+  "settings.types.noteTypesList.delete": {
+    "message": "Elimina",
+    "sourceHash": "ada0939e0c9ae303a943038059461b3e6497c0a298cdf0fd602c90d1acbd7ecb"
+  },
+  "settings.types.noteTypesList.deleteNoteType": {
+    "message": "Elimina tipo di nota",
+    "sourceHash": "44a017b2482dbf824ee1405231d2cd0cef9775ca2f0a0f3d5a08f632f7bf10ed"
+  },
+  "settings.types.noteTypesList.name": {
+    "message": "Nome",
+    "sourceHash": "971e74002f2d2e18241c6ae9d8302f02f68afeb75412cfb18ab60687fa1a8fb6"
+  },
+  "settings.types.noteTypesList.newType": {
+    "message": "Nuovo tipo",
+    "sourceHash": "949dcda9580f3e5d39d74352cff4d6642801fd4baebccdc625a7b93dc4fa7a28"
+  },
+  "settings.types.noteTypesList.noNoteTypesCreatedYet": {
+    "message": "Nessun tipo di nota ancora creato",
+    "sourceHash": "6b74a20a2944a7a733f17b67cc60c858c5135c447f219f405f2c8025ae7025f6"
+  },
+  "settings.types.noteTypesList.noProperties": {
+    "message": "Nessuna proprietà",
+    "sourceHash": "49328829fa7a657cdeb89dc8054c1f345f612c94f87e647ac19f8875569d8b8b"
+  },
+  "settings.types.noteTypesList.noteTypes": {
+    "message": "Tipi di nota",
+    "sourceHash": "9dca3a770550d17bb13814875c28ab17dd0c199128aa02cc1402f72fb1c0fa8a"
+  },
+  "settings.types.noteTypesList.properties": {
+    "message": "Proprietà",
+    "sourceHash": "6dc4aef27d35b0999a1ebfc0054d25340513908c12e4070a06d24072ef48bebb"
+  },
+  "settings.types.noteTypesList.typesAddStructuredPropertiesToYourNotes": {
+    "message": "I tipi aggiungono proprietà strutturate alle tue note.",
+    "sourceHash": "06159664663835f8551328642ec116494ab23ab9cd03f2342f2ad365f8bb2bad"
+  },
+  "settings.types.noteTypesList.unknown": {
+    "message": "Sconosciuto",
+    "sourceHash": "929978a96853f00615099a7bf43515aa20d18a77f05d93fcb2afad03880cc3a4"
+  },
+  "settings.types.noteTypesProLocked.noteTypes": {
+    "message": "Tipi di nota",
+    "sourceHash": "b71aad18d1b5bcd6b32b4565da103878458fc17b0547285d630d21ae27f977f6"
+  },
+  "settings.types.noteTypesProLocked.typesAddStructuredPropertiesToYourNotesTheAI": {
+    "message": "I tipi aggiungono proprietà strutturate alle tue note. L'AI le usa per compilare automaticamente i valori.",
+    "sourceHash": "2dfea2e02f84ffde3b9b3bad2c2c9aaec1b994f44b9ce19d61fd3a6ee536cd77"
+  },
+  "settings.types.noteTypesProLocked.upgradeToPro": {
+    "message": "Passa a Pro",
+    "sourceHash": "515c06f9d2d69cedd1cbc8f983d4a55f11a137860b1bf85b743430eafb7c11d2"
+  },
+  "settings.window": {
+    "message": "Finestra",
+    "sourceHash": "88d3eaffcef52393fd16772f2fdd56145e7a6e0b29eae7fccb88961b951d4d79"
+  }
+}
