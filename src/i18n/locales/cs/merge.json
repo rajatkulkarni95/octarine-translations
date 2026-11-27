@@ -1,0 +1,15 @@
+{
+  "merge.destination": {
+    "message": "Sloučeno do {title}. Původní poznámky byly zachovány.",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "few": "{count} sloučené poznámky přesunuty do Koše",
+      "many": "{count} sloučených poznámek přesunuto do Koše",
+      "one": "{count} sloučená poznámka přesunuta do Koše",
+      "other": "{count} sloučených poznámek přesunuto do Koše"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}

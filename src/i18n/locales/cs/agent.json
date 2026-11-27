@@ -1,0 +1,420 @@
+{
+  "agent.cli.cycle_complete": {
+    "message": "Dokončit cyklus",
+    "sourceHash": "50dc23680159a12b446ee57d4d2c908959afd7b26ac49f595d2d9a57f24d4680"
+  },
+  "agent.cli.cycle_list": {
+    "message": "Cykly",
+    "sourceHash": "3cc4b6a1559720fcc63d9b9c9050f97cae21d3f0a5458c576c495e5a8c9f4ec3"
+  },
+  "agent.cli.cycle_settings": {
+    "message": "Nastavení cyklu",
+    "sourceHash": "cbaed200cbce875dedf47d6ad48f759f1460d92eaa94b3b89ced8f83d867c163"
+  },
+  "agent.cli.cycle_show": {
+    "message": "Zobrazit cyklus",
+    "sourceHash": "d2bc8ebef416b5df6f76f9386ad33d1bff7a87e147eb37f7b5fda2643f202419"
+  },
+  "agent.cli.cycle_update": {
+    "message": "Aktualizovat cyklus",
+    "sourceHash": "a044322fbcf1e68cae4bdd86ab692cbef71bd01c806f04edbe3939456248a65c"
+  },
+  "agent.cli.inbox_append_to_daily": {
+    "message": "Připojit příchozí do denní poznámky",
+    "sourceHash": "c106061e354464d6138097756fb2a35bff61e45b776829fa77fc5fb2a4854a8f"
+  },
+  "agent.cli.inbox_append_to_note": {
+    "message": "Připojit příchozí do poznámky",
+    "sourceHash": "afcf26d23210b4b226a5cff9933271e780f1b837515e4b2b96051a46b09c7213"
+  },
+  "agent.cli.inbox_capture": {
+    "message": "Zaznamenat do Příchozí",
+    "sourceHash": "1e7b759e2cb9499e95e3d7b2574bc642c07b1cb9ad4e7a99328a7e2c1e0b52fd"
+  },
+  "agent.cli.inbox_doctor": {
+    "message": "Diagnostika Příchozí",
+    "sourceHash": "6c0db2651dc41bf7be79e77e73e26c858fe4656249f9b3606bce3ef54c414d1d"
+  },
+  "agent.cli.inbox_list": {
+    "message": "Položky Příchozí",
+    "sourceHash": "9a95c519801bfcd9fabe5647261cf8a182eb99e49cf8b2a57f8b5b0708d5f487"
+  },
+  "agent.cli.inbox_priority": {
+    "message": "Priorita Příchozí",
+    "sourceHash": "581e2dbea680079110d8346960a03a84cf40d7bdaffe2eb1517809582dfbfd05"
+  },
+  "agent.cli.inbox_promote": {
+    "message": "Povýšit příchozí",
+    "sourceHash": "c7ed0ed4b5179bf88412dee02f210320516f1b70d206b19ee7ec3c6f3dd53d51"
+  },
+  "agent.cli.inbox_snooze": {
+    "message": "Odložit příchozí",
+    "sourceHash": "061d16b329a0e24471bf4e2b06fc581e4af5cabf0a9a82e0e596fa7026d6bc2d"
+  },
+  "agent.cli.inbox_status": {
+    "message": "Stav Příchozí",
+    "sourceHash": "ceb6154a12893af2a6311891e3a6975cd83d40b51619e48576c67bbf7102487e"
+  },
+  "agent.cli.inbox_tag_add": {
+    "message": "Přidat štítek příchozí",
+    "sourceHash": "20dea538f777f9accb0b6c90b99790d2f1f5c68391ab0ee7bd03d58628f886a1"
+  },
+  "agent.cli.inbox_tag_list": {
+    "message": "Štítky příchozí",
+    "sourceHash": "1af56c017f0e038de9c5c7320d31273e4f29fcdc8154e44e0024623c975e8277"
+  },
+  "agent.cli.inbox_tag_remove": {
+    "message": "Odebrat štítek příchozí",
+    "sourceHash": "f738d221c7e73e42835ae8dbf03ed2d9c01105d43a1ca3bdf5c223ac9ba8e188"
+  },
+  "agent.cli.inbox_trash": {
+    "message": "Přesunout příchozí do Koše",
+    "sourceHash": "8db1e8384425b2c4e5dcc01b2c741048aa00d6c2227c50fd0d040d07a0f98bfe"
+  },
+  "agent.cli.inbox_unsnooze": {
+    "message": "Zrušit odložení příchozí",
+    "sourceHash": "63941923384338ca7df99e3eb730edee5836b616bd5a3801dae31052d5af7af3"
+  },
+  "agent.cli.project_archive": {
+    "message": "Archivovat projekt",
+    "sourceHash": "e85932cbb9963b5487e0ff05baed231f8165d6e707d2b6d81ff63a90dc7563ad"
+  },
+  "agent.cli.project_create": {
+    "message": "Vytvořit projekt",
+    "sourceHash": "fc0cac812b7a2c65922b8f89a84a384b0aab8368d1c4b11afb0ad426f6f59329"
+  },
+  "agent.cli.project_list": {
+    "message": "Projekty",
+    "sourceHash": "218676cdebd0c08e2d7c62d121b2534239ceb733cb6c18f4733125eccc80cc02"
+  },
+  "agent.cli.project_resource_add": {
+    "message": "Přidat zdroj projektu",
+    "sourceHash": "22b8e06198f403cf63bd44f04bb18e4642fb4921f1d7c97c69f76b40382127da"
+  },
+  "agent.cli.project_resource_list": {
+    "message": "Zdroje projektu",
+    "sourceHash": "3ae872f3df82e5f5b57a2f5a45c400b8b837bc8040512a05b92d47b8bfba7c22"
+  },
+  "agent.cli.project_resource_remove": {
+    "message": "Odebrat zdroj projektu",
+    "sourceHash": "4676632fc0378b7c86f0c4cfee2047cc0a5266afbb3e6e884c1008bce2596310"
+  },
+  "agent.cli.project_restore": {
+    "message": "Obnovit projekt",
+    "sourceHash": "df8c021a07355110cb9f750d389c01954bb2c430ec6db19a9d917d2a50b467a1"
+  },
+  "agent.cli.project_show": {
+    "message": "Zobrazit projekt",
+    "sourceHash": "86c53fbd5820eb39252ffaf80dff82ee1fd4b143de12dbe84210d8cfbacd79bb"
+  },
+  "agent.cli.project_update": {
+    "message": "Aktualizovat projekt",
+    "sourceHash": "3f33d4919c0268107bb10b90c907cfe586dbad9cb3015904897e2f0ae4974441"
+  },
+  "agent.cli.property_definitions_define": {
+    "message": "Definovat definice vlastností",
+    "sourceHash": "4f5e62043947ea96a895e9a9547f5633f6428feda82f3b98489e1c3c6a19ffef"
+  },
+  "agent.cli.property_definitions_delete": {
+    "message": "Smazat definice vlastností",
+    "sourceHash": "72393714e5b64adce3896f7d25d6e814b779626b215cfeea17ca078590fb3791"
+  },
+  "agent.cli.property_definitions_list": {
+    "message": "Definice vlastností",
+    "sourceHash": "78116fa3bf27a93fd02ceffc9ea44d77e04038faa869fadac502fa9ea4208543"
+  },
+  "agent.cli.property_definitions_put": {
+    "message": "Uložit definice vlastností",
+    "sourceHash": "4605819a00eb7106c8bc5a851c8c6538e51d6b31555d03c3ee546684a37aa5c8"
+  },
+  "agent.cli.property_definitions_show": {
+    "message": "Zobrazit definice vlastností",
+    "sourceHash": "6fd82ee9aa6befa5317c1caba96366e2db10bdcec45314cf9408e763ac1adbec"
+  },
+  "agent.cli.property_definitions_validate": {
+    "message": "Ověřit definice vlastností",
+    "sourceHash": "c3421a5753322ab61d078a89ff30e3ea39ed449a0646507a0b82833f3c70dee6"
+  },
+  "agent.cli.property_get": {
+    "message": "Zobrazit vlastnost",
+    "sourceHash": "bc6b3d6a440ff9e5386ef65e177c766a8b6b6c303d49d6561784ce3267d9186f"
+  },
+  "agent.cli.property_list": {
+    "message": "Vlastnosti",
+    "sourceHash": "879e97ed60bdb880a94832374fc54604363a21b69824ad539b378b8fc6725ef5"
+  },
+  "agent.cli.property_set": {
+    "message": "Nastavit vlastnost",
+    "sourceHash": "71587f413a4e9804bde290925e73582f0531fbe7175965795f1ff880f81eee13"
+  },
+  "agent.cli.property_unset": {
+    "message": "Vymazat vlastnost",
+    "sourceHash": "ddc8aff638d213c24359e1f9c037f0d28dd6facbd186d0d76a4c6a3b995c5472"
+  },
+  "agent.cli.space_archive": {
+    "message": "Archivovat oblast",
+    "sourceHash": "1b9010132c7adfbf4c265e48315b61324f568e56df342057d827f165262d6cc4"
+  },
+  "agent.cli.space_create": {
+    "message": "Vytvořit oblast",
+    "sourceHash": "12883f03fc720ce1ca35d4ed95f7a981878b6753ef0dd6a3093bf2df15efc18c"
+  },
+  "agent.cli.space_delete": {
+    "message": "Smazat oblast",
+    "sourceHash": "1f2376af3035894f976e80fa54cef57f55d752b38a702a8ca352175a6225814b"
+  },
+  "agent.cli.space_list": {
+    "message": "Oblasti",
+    "sourceHash": "85189fd1f257e3c4a9c36726318f99aa6c15e14159491db03291ac2c9d428078"
+  },
+  "agent.cli.space_resource_add": {
+    "message": "Přidat zdroj oblasti",
+    "sourceHash": "0b81a576f0ec6c81e007affa81295e0d8adefd6b2bfa0226a690fa0e0c33e285"
+  },
+  "agent.cli.space_resource_list": {
+    "message": "Zdroje oblasti",
+    "sourceHash": "02bbca7c9f116e5cb42800f0683ee53776e55f034100dddb185aa966cd8583cd"
+  },
+  "agent.cli.space_resource_remove": {
+    "message": "Odebrat zdroj oblasti",
+    "sourceHash": "66d254d34521f19501f8a96e7e5cb198aa6d6f37b0ca8720f9924e93d77e9ae8"
+  },
+  "agent.cli.space_restore": {
+    "message": "Obnovit oblast",
+    "sourceHash": "6bb942caf6f99e45d37085752f3db26bd2b76b63c5723df8cc11df0b029f84fc"
+  },
+  "agent.cli.space_show": {
+    "message": "Zobrazit oblast",
+    "sourceHash": "6c1ba9183686ef38a46a959c76e216ce3c4d8de4b59cbce8ff4c010319f2d304"
+  },
+  "agent.cli.space_update": {
+    "message": "Aktualizovat oblast",
+    "sourceHash": "565338536cc456cf3fd30f511b4525e8fd26ac573f0556263dd176cab8a8ab91"
+  },
+  "agent.cli.task_activity": {
+    "message": "Aktivita úkolu",
+    "sourceHash": "6f0cb7e340c086492854f254ea6f79149291444a951775a90115a7363ce5abfd"
+  },
+  "agent.cli.task_archive": {
+    "message": "Archivovat úkol",
+    "sourceHash": "5805f0126ef93ff6600c211e3af92f9bad77f82ff83b201cb540973f0470619b"
+  },
+  "agent.cli.task_bucket_create": {
+    "message": "Vytvořit sloupec úkolů",
+    "sourceHash": "1dceda08c94cb5331f5f0c50b98e83654e5fc28bb0f44d2b201bf2459d956f05"
+  },
+  "agent.cli.task_bucket_delete": {
+    "message": "Smazat sloupec úkolů",
+    "sourceHash": "bd0172c4b24dc3da74cc531e1012bcfbff930b21d21fff642341f36d9844815e"
+  },
+  "agent.cli.task_bucket_update": {
+    "message": "Aktualizovat sloupec úkolů",
+    "sourceHash": "bdc292e6ac976823a7954a52a0611d344592f6be7999374ba56f924f32478068"
+  },
+  "agent.cli.task_buckets": {
+    "message": "Sloupce úkolů",
+    "sourceHash": "84f1a4416c99cf71aef47a02c00cf5eff315af9d84736c5afb676d5a2523b4df"
+  },
+  "agent.cli.task_comment": {
+    "message": "Okomentovat úkol",
+    "sourceHash": "72043f822004b76107c63e3d8a688bc8ce00e4f9a48b0feca98da1c1119706ad"
+  },
+  "agent.cli.task_create": {
+    "message": "Vytvořit úkol",
+    "sourceHash": "d1d2a0c316c191ea742db6cf584603549bc329625b810bb6aab1320cd3402f46"
+  },
+  "agent.cli.task_filter_create": {
+    "message": "Vytvořit filtr úkolů",
+    "sourceHash": "51d531c6ba73b67e1a665a307dbc9456f23b274db736cc6d92820b11ffab175c"
+  },
+  "agent.cli.task_filter_delete": {
+    "message": "Smazat filtr úkolů",
+    "sourceHash": "06bb3cf1b1d7f144759daaa01049d33eab5f65328c52068bc565f190f6cf7727"
+  },
+  "agent.cli.task_filter_list": {
+    "message": "Filtry úkolů",
+    "sourceHash": "4408baa6f299c6c24ceba440968422f58cb2fd159728d41fdb6e57175264ef17"
+  },
+  "agent.cli.task_filter_update": {
+    "message": "Aktualizovat filtr úkolů",
+    "sourceHash": "cbd184638d64f279bb994302b1c434580a9d5a08269a6609d6ba8da2efb86f12"
+  },
+  "agent.cli.task_label_create": {
+    "message": "Vytvořit označení úkolu",
+    "sourceHash": "6c67872a43d4ce01c98608eb6bf1934757d9d3ad5e2b2897fab762e27c80f120"
+  },
+  "agent.cli.task_label_delete": {
+    "message": "Smazat označení úkolu",
+    "sourceHash": "4c0dd6ed8700fcb42db697d70156cbab0f81649e00557c7904b54aa50655f084"
+  },
+  "agent.cli.task_label_update": {
+    "message": "Upravit označení úkolu",
+    "sourceHash": "774037f045ea1544f966586dce3d674cbe5a4477582792a04b13c39786f38072"
+  },
+  "agent.cli.task_labels": {
+    "message": "Označení úkolů",
+    "sourceHash": "3054315f31ecf659ba6fc4bad09cece796fcfdc7ba2b692dee3946575a1f9999"
+  },
+  "agent.cli.task_list": {
+    "message": "Úkoly",
+    "sourceHash": "977251217533ea95d0ad188eadd1fbf77d01b345c6ed2ec5982c71cb93de1e6e"
+  },
+  "agent.cli.task_resource_add": {
+    "message": "Přidat zdroj úkolu",
+    "sourceHash": "e9c76a30edd940b7370c66edb915292eda4a352d64491ad2d2d6ab86cdea5d9f"
+  },
+  "agent.cli.task_resource_list": {
+    "message": "Zdroje úkolu",
+    "sourceHash": "12a345d9331f96f1929cc045084aa22e1cdb116c098eec86ac20dea812816f94"
+  },
+  "agent.cli.task_resource_remove": {
+    "message": "Odebrat zdroj úkolu",
+    "sourceHash": "bfb68eae011553136d9e825ed02bad0778771ed2022d0130aec7dc92a6a4353c"
+  },
+  "agent.cli.task_restore": {
+    "message": "Obnovit úkol",
+    "sourceHash": "2756abb48fcb1522e375f995fe6dfdc49f3dc1ecb7cfa48f62b2f90c2321cb07"
+  },
+  "agent.cli.task_settings": {
+    "message": "Nastavení úkolů",
+    "sourceHash": "02d07cd221e204e9ca731ea657e9ce66e957890bb73cf10853b4b6e93c369052"
+  },
+  "agent.cli.task_show": {
+    "message": "Přečíst úkol",
+    "sourceHash": "fb10c46f5a6cf86bd4d3132017cea1fefc47361144ffdae233aed49625cad96f"
+  },
+  "agent.cli.task_status_create": {
+    "message": "Vytvořit stav úkolu",
+    "sourceHash": "d61edd5c3a035ee4bafa88bb37f97d124afca5a3e9fdb3bbfce60aee3593f375"
+  },
+  "agent.cli.task_status_delete": {
+    "message": "Smazat stav úkolu",
+    "sourceHash": "473fe5b2f534f1f2fe3e7289a672ed6a1ac70e38d91c4e9a0203e151f6a8af2a"
+  },
+  "agent.cli.task_status_update": {
+    "message": "Upravit stav úkolu",
+    "sourceHash": "bc607322ee99c1e134be3a28aa3033895a2e7da353828f323132402fd2bdf6a9"
+  },
+  "agent.cli.task_statuses": {
+    "message": "Stavy úkolů",
+    "sourceHash": "93efdf43eb094aec2b444bb34611f5163609f6272630ef98e8da3733511b2ce9"
+  },
+  "agent.cli.task_template_create": {
+    "message": "Vytvořit šablonu úkolu",
+    "sourceHash": "a2f0ebdb627e96b008bc1dd32144904412d5202f34f83189a05347cee9da8dc3"
+  },
+  "agent.cli.task_template_delete": {
+    "message": "Smazat šablonu úkolu",
+    "sourceHash": "c1ae5c455eddd3dad5fdc7761b7ae53ee7df00a8775dd5495029d3d70dac1fdb"
+  },
+  "agent.cli.task_template_show": {
+    "message": "Přečíst šablonu úkolu",
+    "sourceHash": "7748f2ab12cfcc75173fff5e67e10dafbf48100a76b6a03967acd04c8e485899"
+  },
+  "agent.cli.task_template_update": {
+    "message": "Upravit šablonu úkolu",
+    "sourceHash": "c0ad92dedf32cda1c4297ad3b07f28bc6688ca4098080312470dd19aed9c9787"
+  },
+  "agent.cli.task_templates": {
+    "message": "Šablony úkolů",
+    "sourceHash": "00f9b0ee518c3f1597e1dbf3e4d21c2c5396339a4f90e7390d968cacd4aecab0"
+  },
+  "agent.cli.task_type_create": {
+    "message": "Vytvořit typ úkolu",
+    "sourceHash": "d8344f017298b0a2bdc2400c725313800d38b1058560969953a68c1e93dd44ef"
+  },
+  "agent.cli.task_type_delete": {
+    "message": "Smazat typ úkolu",
+    "sourceHash": "32fedf5a85823bcb37a59be083b2051a94e42e2e737a69d7e9e5a3a812b70608"
+  },
+  "agent.cli.task_type_update": {
+    "message": "Upravit typ úkolu",
+    "sourceHash": "fd2d390bcdb92e86c3fec8991aa92fa3748a7d693f0fffd051024dc23930f940"
+  },
+  "agent.cli.task_types": {
+    "message": "Typy úkolů",
+    "sourceHash": "6b17cf65a0bfee81b269f3339eb7914cefcf85ef6d2e4233ad5b614087be6bff"
+  },
+  "agent.cli.task_update": {
+    "message": "Upravit úkol",
+    "sourceHash": "1b166cbb865cb3f15a4ec68922e34a420b711896c2c000867cde4e3a0404f32c"
+  },
+  "agent.notion.databaseCount": {
+    "message": {
+      "few": "{number} databáze",
+      "many": "{number} databází",
+      "one": "{number} databáze",
+      "other": "{number} databáze"
+    },
+    "sourceHash": "7bf12c0733c463aecbe9834408073b8a8c044a81f6b215bd84246eebe07207e9"
+  },
+  "agent.notion.pageCount": {
+    "message": {
+      "few": "{number} stránky",
+      "many": "{number} stránek",
+      "one": "{number} stránka",
+      "other": "{number} stránky"
+    },
+    "sourceHash": "39783e6a94b19e8002e6d5df24a33c2d47a6a0cca166bdcdbf3ad634aef5b79a"
+  },
+  "agent.trace.fallback.all": {
+    "message": "vše",
+    "sourceHash": "abf19ce2411a954cbb107677999786e808a418287d4f0b9cb66fbc212d87550f"
+  },
+  "agent.trace.fallback.nospace": {
+    "message": "bez oblasti",
+    "sourceHash": "4d519464ae5170729e2b47dcacd66d73a502cdec923ca3a49b2891286670a6a0"
+  },
+  "agent.trace.fallback.note": {
+    "message": "poznámka",
+    "sourceHash": "9f738262b2c50065a3f6566a571e885041695de1fc3ac3185ec0b434d1ec17dc"
+  },
+  "agent.trace.fallback.open": {
+    "message": "otevřeno",
+    "sourceHash": "71ebad0e5358e561a291e1107ebdcfad1886b313e49a6ac8baa96c79cc2f4068"
+  },
+  "agent.trace.fallback.range": {
+    "message": "rozsah",
+    "sourceHash": "067b83b134197c47e160479c89cbc6cec242a2b958020fa53d72e410482d1ed6"
+  },
+  "agent.trace.fallback.workspaceroot": {
+    "message": "kořen pracovního prostoru",
+    "sourceHash": "bd3374edfd3da09c8f3a4133f77d371baaa875b650368416ae36aef92fd3ffcc"
+  },
+  "agent.undoSummary.create-folder": {
+    "message": {
+      "few": "{count} vytvořené složky",
+      "many": "{count} vytvořených složek",
+      "one": "{count} vytvořená složka",
+      "other": "{count} vytvořené složky"
+    },
+    "sourceHash": "606a3f269b2147263823d6e5d67facf7191068f05c89500437713cafd37eb2e1"
+  },
+  "agent.undoSummary.create-note": {
+    "message": {
+      "few": "{count} vytvořené poznámky",
+      "many": "{count} vytvořených poznámek",
+      "one": "{count} vytvořená poznámka",
+      "other": "{count} vytvořené poznámky"
+    },
+    "sourceHash": "1e214cc85b157f1fdf5f7d60152d0c9e4de3e0b35beeb9aa74829e341b04e749"
+  },
+  "agent.undoSummary.move-path": {
+    "message": {
+      "few": "{count} přesunuté cesty",
+      "many": "{count} přesunutých cest",
+      "one": "{count} přesunutá cesta",
+      "other": "{count} přesunuté cesty"
+    },
+    "sourceHash": "ab1e5262c355844d731f848817332e5f4c082864dab903aa6e3360307301f2b9"
+  },
+  "agent.undoSummary.update-note": {
+    "message": {
+      "few": "{count} upravené poznámky",
+      "many": "{count} upravených poznámek",
+      "one": "{count} upravená poznámka",
+      "other": "{count} upravené poznámky"
+    },
+    "sourceHash": "888716dd3cd74a15b01c22bdc40aa4fb122e6be83c0fa6e636eaca86420a5f5a"
+  }
+}

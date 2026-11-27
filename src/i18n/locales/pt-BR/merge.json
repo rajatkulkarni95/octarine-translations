@@ -1,0 +1,14 @@
+{
+  "merge.destination": {
+    "message": "Mesclado em {title}. As notas originais foram mantidas.",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "many": "{count} notas mescladas movidas para a Lixeira",
+      "one": "{count} nota mesclada movida para a Lixeira",
+      "other": "{count} notas mescladas movidas para a Lixeira"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}

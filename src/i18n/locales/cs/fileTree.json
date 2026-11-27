@@ -1,0 +1,20 @@
+{
+  "fileTree.selectionCount": {
+    "message": {
+      "few": "{count} položky",
+      "many": "{count} položky",
+      "one": "{count} položka",
+      "other": "{count} položek"
+    },
+    "sourceHash": "6999b1bbf5d1a8d1447b44cd042fde9e638abc68fb132a5173d0e950480633a2"
+  },
+  "fileTree.tags.occurrenceCount": {
+    "message": {
+      "few": "{count} výskyty štítku",
+      "many": "{count} výskytu štítku",
+      "one": "{count} výskyt štítku",
+      "other": "{count} výskytů štítku"
+    },
+    "sourceHash": "bff45dd9d0a8a49b3a43f135d3cce854deec701ac13d3c15d20630e92764a0ec"
+  }
+}

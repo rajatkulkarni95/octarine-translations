@@ -1,0 +1,246 @@
+{
+  "menu.about": {
+    "message": "O aplikaci Octarine",
+    "sourceHash": "c5bb14f7292b6d30cd58ca284f5aa894ab5a1dc8baa693f2a089dfc22da260d3"
+  },
+  "menu.ai": {
+    "message": "AI",
+    "sourceHash": "403130f480bd0d2422f206b013f95769ff40e23587667fc6ccbb29432d9bc8c6"
+  },
+  "menu.alwaysOnTop": {
+    "message": "Ponechat nad ostatními",
+    "sourceHash": "e0c184e4d829ae7c95b0a4694af4d56eaf4c78f3b74becfcf6b1bda6ccc3d35f"
+  },
+  "menu.ask": {
+    "message": "Zeptat se Octarine",
+    "sourceHash": "cb2484181434895de6828e2d2b1f59f43a1a7497534bbcacaca039a59f725a02"
+  },
+  "menu.changelog": {
+    "message": "Zobrazit seznam změn...",
+    "sourceHash": "ca43289e5100ccb7226313029de6fdc32cdb95ce4e847a3bc56074342cbbd917"
+  },
+  "menu.changelogWindows": {
+    "message": "Zobrazit seznam změn…",
+    "sourceHash": "69387aff7102bb6bdaa042e59dc234af56a0ce940c4ebd00039e55abf7ab251d"
+  },
+  "menu.checkUpdates": {
+    "message": "Vyhledat aktualizace...",
+    "sourceHash": "7074ca0f32d9ed2e0777593afcd97e4cff53b5e4369d53d844c411845a1b1f1b"
+  },
+  "menu.checkUpdatesWindows": {
+    "message": "Vyhledat aktualizace…",
+    "sourceHash": "5abd1c69700ea67b5ca92c84546a7a362e2d6939b820b3ba28f69c887b181949"
+  },
+  "menu.closeWindow": {
+    "message": "Zavřít okno",
+    "sourceHash": "18ffd515ef9c80081d2566e93e965cd00feb0dd850cb154a0b2c06b26ce92fc3"
+  },
+  "menu.copy": {
+    "message": "Kopírovat",
+    "sourceHash": "74dcc47f467824b399ea057f4f15067d78216fe89da8dc1011c74a87ee9defe9"
+  },
+  "menu.copyMarkdownUrl": {
+    "message": "Kopírovat URL Octarine v Markdownu",
+    "sourceHash": "024b0b966f12b8bd02bd9ccc48587638fde8cfea69b86d693937b8821098d3b1"
+  },
+  "menu.copyUrl": {
+    "message": "Kopírovat URL Octarine",
+    "sourceHash": "5da36ddb0bfd7efecfcd6cc4148ef51830f12708cd5402858d3e4549cc387878"
+  },
+  "menu.createWorkspace": {
+    "message": "Vytvořit pracovní prostor",
+    "sourceHash": "06f811e09cf67e9a5f2d5abdd7e07a60c6424fb46f2f5243f092dd043e8ba33e"
+  },
+  "menu.cut": {
+    "message": "Vyjmout",
+    "sourceHash": "361201b0ca3c820ccdbbe6e41017f5941b3ab4f7aae015e87242518d3a2f1fdb"
+  },
+  "menu.dailyDesk": {
+    "message": "Přejít na Denní přehled",
+    "sourceHash": "6ce3adbec5f591f4d980ecdf9801b67f9b5e092deefa9a1c68bf3f9ebff6a9b9"
+  },
+  "menu.disableAlwaysOnTop": {
+    "message": "Zrušit ponechání nad ostatními",
+    "sourceHash": "bc538cc73d315af3bde02a470afd751fa7e5eb1f17eaa20ebce7a48f2839d8f0"
+  },
+  "menu.docs": {
+    "message": "Otevřít dokumentaci",
+    "sourceHash": "bc435fe01155d255a7aaed137a9d3969948bbd012d0aaac9626800be093fbaf9"
+  },
+  "menu.edit": {
+    "message": "Úpravy",
+    "sourceHash": "880779bcda62625470db5d4ac6983b8c2f23202f268974f6781c01a240bfb81f"
+  },
+  "menu.enterFocus": {
+    "message": "Zapnout režim soustředění",
+    "sourceHash": "94c57c5ad6694f7fb2bfe9b68e76a9e31ecb3a8b1be6b7e179008379d97c2600"
+  },
+  "menu.exit": {
+    "message": "Ukončit",
+    "sourceHash": "31608ec49c18ecd89036106459994c7fd2565fd8c3c5477261d688f9549b31ee"
+  },
+  "menu.exitFocus": {
+    "message": "Vypnout režim soustředění",
+    "sourceHash": "130ca0c51ce853a0b242182ec6b7fa198ee2181019b769c118b65051d1af1c83"
+  },
+  "menu.exportNote": {
+    "message": "Exportovat poznámku",
+    "sourceHash": "017b34cae25509b4f8d98b7667277e12e582266deb42c739e035dbd17d3c0f97"
+  },
+  "menu.feedback": {
+    "message": "Odeslat zpětnou vazbu",
+    "sourceHash": "67bff7c5bb81999ef4b038f3022c74daa0227cacc47e8d6ef0faf11118ee9b19"
+  },
+  "menu.file": {
+    "message": "Soubor",
+    "sourceHash": "bda4619bfd4c4cf5740a68c7df9327cf095d3de4ef2880a38fb6f5d2ae5c1a2e"
+  },
+  "menu.fullscreen": {
+    "message": "Přepnout celou obrazovku",
+    "sourceHash": "a1dfa2739377acd48d94c759ba73487fea5153fd5632ab3fb6908115826fcfe6"
+  },
+  "menu.graph": {
+    "message": "Otevřít zobrazení grafu",
+    "sourceHash": "69f24d0bd270b6c7624003b015c377618df3606f9388624a52e9bb9d1d9fd6e8"
+  },
+  "menu.help": {
+    "message": "Nápověda",
+    "sourceHash": "7e0d6ee512aa1a43bf06bd930b596e7c87aab0144190c805ae15f652e0057a1d"
+  },
+  "menu.hide": {
+    "message": "Skrýt Octarine",
+    "sourceHash": "df6d06e049371dc4c9950744294e638332946eb6e3c3ae56836e3220717b1be3"
+  },
+  "menu.inbox": {
+    "message": "Otevřít Příchozí",
+    "sourceHash": "fe3d0c5cb6cbac951f20f229edcc586e4fcc0e9ed70df412060ab79b7755306a"
+  },
+  "menu.issues": {
+    "message": "Nahlásit problémy",
+    "sourceHash": "5af81417a3d726288541b7c583e468dcfa1094fabdbc59b5337b653f85ea69c2"
+  },
+  "menu.minimize": {
+    "message": "Minimalizovat",
+    "sourceHash": "aac0e9b17a9313f4c3c8f7b1022f8b3cc1607cd6967199df3fc7f5440312aa9c"
+  },
+  "menu.navigate": {
+    "message": "Navigace",
+    "sourceHash": "9decfd7ddf255ff0abccb8939f4bb31985ac273c36d7b835928090caf62b332b"
+  },
+  "menu.newFolder": {
+    "message": "Nová složka",
+    "sourceHash": "08d111b71c23072c74339ec537177c58d1f37a61e925f2788da0043788f86e6b"
+  },
+  "menu.newNote": {
+    "message": "Nová poznámka",
+    "sourceHash": "80c3ece955e99a33dd8d1f1c2486414347ff8d8a12f0ed42106a8c8e74127549"
+  },
+  "menu.notes": {
+    "message": "Přejít na poznámky",
+    "sourceHash": "1c34611e0c2276a06962043cf02ef851ebaf0a3474552ec73df86845e8e1903b"
+  },
+  "menu.openNoteWindow": {
+    "message": "Otevřít poznámku v novém okně",
+    "sourceHash": "e5906218ae761aa29e56f359e9a8a90df08f03c9ef0c092ad7e1c3319d8e2291"
+  },
+  "menu.openWorkspaceWindow": {
+    "message": "Otevřít pracovní prostor v novém okně",
+    "sourceHash": "4469d7f6847253e70899541645e1bede8275589cb6d886f97da060e2d6114d6f"
+  },
+  "menu.paste": {
+    "message": "Vložit",
+    "sourceHash": "40506a558fb4480032814877fe8323eefd4d9c0bf026dbc26aa26354e13575ad"
+  },
+  "menu.pullChanges": {
+    "message": "Stáhnout změny",
+    "sourceHash": "bac8a7856499179599ed553ece8d713410098aee7fc3cda864eb1b6b3cdcc8fd"
+  },
+  "menu.quickCapture": {
+    "message": "Rychlý záznam…",
+    "sourceHash": "dbdccd6eadf7e3d5fc9e6a418f038ff12da9f5eea4723ec9fddfd30570d53166"
+  },
+  "menu.quit": {
+    "message": "Ukončit Octarine",
+    "sourceHash": "59688f91a028986b38521a1ae46eee853854e73dc5c59a7680565c5a153f70fe"
+  },
+  "menu.recentlyViewed": {
+    "message": "Naposledy zobrazené",
+    "sourceHash": "a4e46e43fd6e0f27ae54db1867f1f8cd6d0169c9c77fa9f4759e5682ad0ce176"
+  },
+  "menu.redo": {
+    "message": "Znovu provést",
+    "sourceHash": "d5791c2a486a80f28eca0b837d2f0bad9a75f15e970a1f6b4105b582c9490d42"
+  },
+  "menu.searchNotes": {
+    "message": "Hledat v poznámkách",
+    "sourceHash": "476d60c29e12f249a5b79532f736866b6be39333d0490e6b05b3b85348422fce"
+  },
+  "menu.selectAll": {
+    "message": "Vybrat vše",
+    "sourceHash": "7cd56f43db4dec5d0c35cef871bdf948b3f19e556a03da790274d12a762ffba9"
+  },
+  "menu.settings": {
+    "message": "Nastavení...",
+    "sourceHash": "03269e633c81005641f533badbf160b585866d0a617731d99f17faab18d0cca8"
+  },
+  "menu.settingsWindows": {
+    "message": "Nastavení…",
+    "sourceHash": "6c706ee858b258b5346346affa456da6ea23dfefe30d1187437d3d4779b51444"
+  },
+  "menu.shortcuts": {
+    "message": "Klávesové zkratky",
+    "sourceHash": "20c79ff701f6549776ea3fa5b6501aaa2ca3baf5efbab551a7cf0eeae92f56ab"
+  },
+  "menu.switchWorkspace": {
+    "message": "Přepnout sem pracovní prostor",
+    "sourceHash": "b404c110597e5feeeb4ebd5aeebd27a080c58ec468310a2f338a1f3f7a8c2d02"
+  },
+  "menu.syncNow": {
+    "message": "Synchronizovat nyní",
+    "sourceHash": "b5b500734ce20e52d07e357204a510e6a1f0f541fb85130b42246dd94b8776b2"
+  },
+  "menu.templates": {
+    "message": "Přejít na šablony",
+    "sourceHash": "5f39d2b63eb409af77997b55502e62385b17333a8e797a04c79d025a695a9366"
+  },
+  "menu.toggleMetaSidebar": {
+    "message": "Přepnout postranní panel metadat",
+    "sourceHash": "d518d50ddc905bf6df0f57308b0b473d6203ad00312c1d39778c1b27e5c127be"
+  },
+  "menu.toggleSidebar": {
+    "message": "Přepnout postranní panel",
+    "sourceHash": "6958888cc48b3ea54cb7bb4288dbdff05644db211eecb71e4cbb88629e8f7fa5"
+  },
+  "menu.undo": {
+    "message": "Zpět",
+    "sourceHash": "b5ef560fea2b84b92a87616d0117bbb3250fb8f324498f3f8d7fcacdcc9e5061"
+  },
+  "menu.view": {
+    "message": "Zobrazit",
+    "sourceHash": "baaa42a4a91944d6805d4d24be835b61fca17dcbad943930cab75180c6a0a541"
+  },
+  "menu.views": {
+    "message": "Přejít na zobrazení",
+    "sourceHash": "5b95fea3cb63ce08bdcddd3a0ddfb6c26cb9e887fb7ce0ceefab1fd4e26dd513"
+  },
+  "menu.window": {
+    "message": "Okno",
+    "sourceHash": "6c63ad78cee04bf4a14a942352bf3e9d0cbba5d74e257b21eefb8100cefbc977"
+  },
+  "menu.workspace": {
+    "message": "Pracovní prostor",
+    "sourceHash": "4bf32b1981bd0b867e51366760aa74f377841d493ea63442b64f80c61cb9c200"
+  },
+  "menu.writingAssistant": {
+    "message": "Asistent psaní",
+    "sourceHash": "70ff9056d865a5476bf9f145d4367ffddc5ab0af016da5146064b0393fe7d079"
+  },
+  "menu.zoomIn": {
+    "message": "Přiblížit",
+    "sourceHash": "a83b9022f8af06454dbdb58df484c90c85b14a55be1736c8c6f73d83460018f2"
+  },
+  "menu.zoomOut": {
+    "message": "Oddálit",
+    "sourceHash": "1b592a9c60aa71b5c6ab98d75dfb8bdc0906e720c92d25b9b4bb4073b8830602"
+  }
+}

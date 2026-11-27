@@ -1,0 +1,16 @@
+[
+  {
+    "at": "2026-11-27T07:38:46.655Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "b590186c26e53df06051a7ffb06cf8046cd325cc",
+    "glossarySha256": "807fdaa6146d7a4d0080dc7d5f9b2de85cdacdd11d31dffdfd34ac7fd33dfe81",
+    "translated": 6997,
+    "failed": 15,
+    "usage": {
+      "input_tokens": 638204,
+      "output_tokens": 611398,
+      "cache_read_input_tokens": 340650
+    }
+  }
+]

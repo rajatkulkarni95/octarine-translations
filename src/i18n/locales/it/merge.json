@@ -1,0 +1,14 @@
+{
+  "merge.destination": {
+    "message": "Unite in {title}. Le note originali sono state conservate.",
+    "sourceHash": "6fad84fe67fefd913dd873b9a3cd99d15a448efd90061764540294cd39c80b6c"
+  },
+  "merge.trashed": {
+    "message": {
+      "many": "{count} note unite spostate nel Cestino",
+      "one": "{count} nota unita spostata nel Cestino",
+      "other": "{count} note unite spostate nel Cestino"
+    },
+    "sourceHash": "ac1843b19d4b4635e59f80bf470d966ae6ed0c15ebd310e6d4d57e68bcacc234"
+  }
+}
