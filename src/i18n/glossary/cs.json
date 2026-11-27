@@ -1,0 +1,218 @@
+{
+  "locale": "cs",
+  "language": "Czech",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user formally with “vy” (vykání), as Czech system software does.",
+    "Buttons and menu items use the infinitive in sentence case, without a final full stop (e.g. “Vytvořit poznámku”, “Otevřít nastavení”).",
+    "Czech declines nouns, but a placeholder's value can't be declined. Phrase sentences so a placeholder stays in the nominative (e.g. “Poznámka {title} byla smazána” or “Smazáno: {title}”).",
+    "Counts need the plural forms one, few, many and other; use the correct form for each (1 poznámka, 2 poznámky, 5 poznámek).",
+    "Use „ “ quotation marks.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "poznámka"
+    },
+    {
+      "source": "daily note",
+      "target": "denní poznámka"
+    },
+    {
+      "source": "weekly note",
+      "target": "týdenní poznámka"
+    },
+    {
+      "source": "workspace",
+      "target": "pracovní prostor"
+    },
+    {
+      "source": "folder",
+      "target": "složka"
+    },
+    {
+      "source": "template",
+      "target": "šablona"
+    },
+    {
+      "source": "property",
+      "target": "vlastnost"
+    },
+    {
+      "source": "note type",
+      "target": "typ poznámky"
+    },
+    {
+      "source": "tag",
+      "target": "štítek",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "označení",
+      "note": "Task labels; “štítek” is taken by note tags, so labels are “označení”."
+    },
+    {
+      "source": "backlink",
+      "target": "zpětný odkaz"
+    },
+    {
+      "source": "view",
+      "target": "zobrazení"
+    },
+    {
+      "source": "filter",
+      "target": "filtr"
+    },
+    {
+      "source": "task",
+      "target": "úkol"
+    },
+    {
+      "source": "subtask",
+      "target": "podúkol"
+    },
+    {
+      "source": "project",
+      "target": "projekt"
+    },
+    {
+      "source": "space",
+      "target": "oblast",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "stav"
+    },
+    {
+      "source": "priority",
+      "target": "priorita"
+    },
+    {
+      "source": "bucket",
+      "target": "sloupec",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "cyklus"
+    },
+    {
+      "source": "due date",
+      "target": "termín"
+    },
+    {
+      "source": "Inbox",
+      "target": "Příchozí"
+    },
+    {
+      "source": "capture",
+      "target": "záznam",
+      "note": "An item captured into the Inbox (noun); as a verb, zaznamenat."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Rychlý záznam"
+    },
+    {
+      "source": "snooze",
+      "target": "odložit"
+    },
+    {
+      "source": "Someday",
+      "target": "Někdy"
+    },
+    {
+      "source": "Active",
+      "target": "K vyřízení",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Zařadit",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Archivovat"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Denní přehled",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Asistent psaní"
+    },
+    {
+      "source": "skill",
+      "target": "dovednost"
+    },
+    {
+      "source": "Trash",
+      "target": "Koš"
+    },
+    {
+      "source": "Settings",
+      "target": "Nastavení"
+    },
+    {
+      "source": "license",
+      "target": "licence"
+    },
+    {
+      "source": "seat",
+      "target": "místo"
+    },
+    {
+      "source": "split pane",
+      "target": "rozdělené zobrazení"
+    },
+    {
+      "source": "tab",
+      "target": "panel",
+      "note": "An editor tab, as browsers call it in Czech."
+    },
+    {
+      "source": "sidebar",
+      "target": "postranní panel"
+    },
+    {
+      "source": "command bar",
+      "target": "panel příkazů"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "locale": "pt-BR",
+  "language": "Portuguese (Brazil)",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user with “você”, as Brazilian apps do.",
+    "Write Brazilian Portuguese, not European (e.g. “arquivo”, “tela”, “salvar”).",
+    "Buttons and menu items use the infinitive in sentence case, without a final full stop (e.g. “Criar nota”, “Abrir ajustes”).",
+    "Use “ ” quotation marks.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "nota"
+    },
+    {
+      "source": "daily note",
+      "target": "nota diária"
+    },
+    {
+      "source": "weekly note",
+      "target": "nota semanal"
+    },
+    {
+      "source": "workspace",
+      "target": "espaço de trabalho"
+    },
+    {
+      "source": "folder",
+      "target": "pasta"
+    },
+    {
+      "source": "template",
+      "target": "modelo"
+    },
+    {
+      "source": "property",
+      "target": "propriedade"
+    },
+    {
+      "source": "note type",
+      "target": "tipo de nota"
+    },
+    {
+      "source": "tag",
+      "target": "tag",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "etiqueta",
+      "note": "Task labels; distinct from note tags."
+    },
+    {
+      "source": "backlink",
+      "target": "link de entrada"
+    },
+    {
+      "source": "view",
+      "target": "visualização"
+    },
+    {
+      "source": "filter",
+      "target": "filtro"
+    },
+    {
+      "source": "task",
+      "target": "tarefa"
+    },
+    {
+      "source": "subtask",
+      "target": "subtarefa"
+    },
+    {
+      "source": "project",
+      "target": "projeto"
+    },
+    {
+      "source": "space",
+      "target": "área",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "status"
+    },
+    {
+      "source": "priority",
+      "target": "prioridade"
+    },
+    {
+      "source": "bucket",
+      "target": "coluna",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "ciclo"
+    },
+    {
+      "source": "due date",
+      "target": "prazo"
+    },
+    {
+      "source": "Inbox",
+      "target": "Caixa de entrada"
+    },
+    {
+      "source": "capture",
+      "target": "item",
+      "note": "An item captured into the Inbox (noun); as a verb, capturar."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Captura rápida"
+    },
+    {
+      "source": "snooze",
+      "target": "adiar"
+    },
+    {
+      "source": "Someday",
+      "target": "Algum dia"
+    },
+    {
+      "source": "Active",
+      "target": "Pendentes",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Organizar",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Arquivar"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Mesa do dia",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Assistente de escrita"
+    },
+    {
+      "source": "skill",
+      "target": "skill"
+    },
+    {
+      "source": "Trash",
+      "target": "Lixeira"
+    },
+    {
+      "source": "Settings",
+      "target": "Ajustes"
+    },
+    {
+      "source": "license",
+      "target": "licença"
+    },
+    {
+      "source": "seat",
+      "target": "vaga"
+    },
+    {
+      "source": "split pane",
+      "target": "painel dividido"
+    },
+    {
+      "source": "tab",
+      "target": "aba"
+    },
+    {
+      "source": "sidebar",
+      "target": "barra lateral"
+    },
+    {
+      "source": "command bar",
+      "target": "barra de comandos"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "locale": "tr",
+  "language": "Turkish",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user politely with “siz” in sentences (e.g. “…ekleyebilirsiniz”); buttons and menu items are short commands without a final full stop (e.g. “Not oluştur”, “Ayarları aç”).",
+    "Turkish suffixes must follow vowel harmony, which depends on the value of a placeholder. Never attach a suffix directly to a placeholder: rephrase so it stands alone (e.g. “Not: {title}”), or use an apostrophe form that reads acceptably for any value.",
+    "Use the dotted and dotless i correctly (İ/i, I/ı), including in capitals.",
+    "Use “ ” quotation marks.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "not"
+    },
+    {
+      "source": "daily note",
+      "target": "günlük not"
+    },
+    {
+      "source": "weekly note",
+      "target": "haftalık not"
+    },
+    {
+      "source": "workspace",
+      "target": "çalışma alanı"
+    },
+    {
+      "source": "folder",
+      "target": "klasör"
+    },
+    {
+      "source": "template",
+      "target": "şablon"
+    },
+    {
+      "source": "property",
+      "target": "özellik"
+    },
+    {
+      "source": "note type",
+      "target": "not türü"
+    },
+    {
+      "source": "tag",
+      "target": "etiket",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "kategori",
+      "note": "Task labels; “etiket” is taken by note tags, so labels are “kategori”."
+    },
+    {
+      "source": "backlink",
+      "target": "geri bağlantı"
+    },
+    {
+      "source": "view",
+      "target": "görünüm"
+    },
+    {
+      "source": "filter",
+      "target": "filtre"
+    },
+    {
+      "source": "task",
+      "target": "görev"
+    },
+    {
+      "source": "subtask",
+      "target": "alt görev"
+    },
+    {
+      "source": "project",
+      "target": "proje"
+    },
+    {
+      "source": "space",
+      "target": "alan",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "durum"
+    },
+    {
+      "source": "priority",
+      "target": "öncelik"
+    },
+    {
+      "source": "bucket",
+      "target": "sütun",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "döngü"
+    },
+    {
+      "source": "due date",
+      "target": "bitiş tarihi"
+    },
+    {
+      "source": "Inbox",
+      "target": "Gelen Kutusu"
+    },
+    {
+      "source": "capture",
+      "target": "kayıt",
+      "note": "An item captured into the Inbox (noun); as a verb, kaydetmek."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Hızlı Kayıt"
+    },
+    {
+      "source": "snooze",
+      "target": "ertele"
+    },
+    {
+      "source": "Someday",
+      "target": "Bir gün"
+    },
+    {
+      "source": "Active",
+      "target": "Bekleyenler",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Yerleştir",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Arşivle"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Günün Masası",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Yazma Asistanı"
+    },
+    {
+      "source": "skill",
+      "target": "beceri"
+    },
+    {
+      "source": "Trash",
+      "target": "Çöp Sepeti"
+    },
+    {
+      "source": "Settings",
+      "target": "Ayarlar"
+    },
+    {
+      "source": "license",
+      "target": "lisans"
+    },
+    {
+      "source": "seat",
+      "target": "lisans yeri"
+    },
+    {
+      "source": "split pane",
+      "target": "bölünmüş görünüm"
+    },
+    {
+      "source": "tab",
+      "target": "sekme"
+    },
+    {
+      "source": "sidebar",
+      "target": "kenar çubuğu"
+    },
+    {
+      "source": "command bar",
+      "target": "komut çubuğu"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "locale": "it",
+  "language": "Italian",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user informally with “tu”.",
+    "Buttons and menu items follow Apple's Italian macOS: short imperatives or nouns in sentence case, without a final full stop (e.g. “Apri”, “Salva”, “Nuova nota”).",
+    "Use « » or “ ” quotation marks consistently, and the apostrophe ’ for elisions.",
+    "Keep UI text short; prefer the shorter of two natural options.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "nota"
+    },
+    {
+      "source": "daily note",
+      "target": "nota giornaliera"
+    },
+    {
+      "source": "weekly note",
+      "target": "nota settimanale"
+    },
+    {
+      "source": "workspace",
+      "target": "spazio di lavoro"
+    },
+    {
+      "source": "folder",
+      "target": "cartella"
+    },
+    {
+      "source": "template",
+      "target": "modello"
+    },
+    {
+      "source": "property",
+      "target": "proprietà"
+    },
+    {
+      "source": "note type",
+      "target": "tipo di nota"
+    },
+    {
+      "source": "tag",
+      "target": "tag",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "etichetta",
+      "note": "Task labels; distinct from note tags."
+    },
+    {
+      "source": "backlink",
+      "target": "collegamento in entrata"
+    },
+    {
+      "source": "view",
+      "target": "vista"
+    },
+    {
+      "source": "filter",
+      "target": "filtro"
+    },
+    {
+      "source": "task",
+      "target": "attività"
+    },
+    {
+      "source": "subtask",
+      "target": "sottoattività"
+    },
+    {
+      "source": "project",
+      "target": "progetto"
+    },
+    {
+      "source": "space",
+      "target": "area",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "stato"
+    },
+    {
+      "source": "priority",
+      "target": "priorità"
+    },
+    {
+      "source": "bucket",
+      "target": "colonna",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "ciclo"
+    },
+    {
+      "source": "due date",
+      "target": "scadenza"
+    },
+    {
+      "source": "Inbox",
+      "target": "In arrivo"
+    },
+    {
+      "source": "capture",
+      "target": "appunto",
+      "note": "An item captured into the Inbox (noun); as a verb, annotare."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Appunto rapido"
+    },
+    {
+      "source": "snooze",
+      "target": "posticipa"
+    },
+    {
+      "source": "Someday",
+      "target": "Un giorno"
+    },
+    {
+      "source": "Active",
+      "target": "Da decidere",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Smista",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Archivia"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Scrivania del giorno",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Assistente di scrittura"
+    },
+    {
+      "source": "skill",
+      "target": "skill"
+    },
+    {
+      "source": "Trash",
+      "target": "Cestino"
+    },
+    {
+      "source": "Settings",
+      "target": "Impostazioni"
+    },
+    {
+      "source": "license",
+      "target": "licenza"
+    },
+    {
+      "source": "seat",
+      "target": "postazione"
+    },
+    {
+      "source": "split pane",
+      "target": "vista divisa"
+    },
+    {
+      "source": "tab",
+      "target": "scheda"
+    },
+    {
+      "source": "sidebar",
+      "target": "barra laterale"
+    },
+    {
+      "source": "command bar",
+      "target": "barra dei comandi"
+    }
+  ]
+}

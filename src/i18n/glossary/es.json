@@ -1,0 +1,216 @@
+{
+  "locale": "es",
+  "language": "Spanish (neutral, Spain and Latin America)",
+  "status": "pilot",
+  "reviewedBy": null,
+  "reviewers": [],
+  "style": [
+    "Address the user informally with “tú”, never “vosotros” or “usted”.",
+    "Write neutral international Spanish that reads naturally in Spain and Latin America; avoid regional words (e.g. neither “ordenador” nor “computadora” when “equipo” or a rephrase works).",
+    "Buttons and menu items use the infinitive in sentence case, without a final full stop (e.g. “Crear nota”, “Abrir ajustes”).",
+    "Use opening ¿ and ¡ marks, and “ ” quotation marks.",
+    "Keep placeholders such as {count} or {title} exactly as written, and reorder them freely to fit the target language's word order.",
+    "Keep keyboard symbols and key names (⌘ ⌥ ⇧ ⌃ ↵ Esc Tab Enter Space) and shortcut letters unchanged.",
+    "Keep the source's ellipsis “…” and the middle dot “·” as they are.",
+    "Translate meaning, not words; prefer the wording established apps on this platform use (Finder, Notes, Obsidian, Notion, Linear)."
+  ],
+  "keep": [
+    "Octarine",
+    "Octarine Pro",
+    "Ask Octarine",
+    "Pro",
+    "Markdown",
+    "Git",
+    "GitHub",
+    "Linear",
+    "Notion",
+    "Ollama",
+    "OpenAI",
+    "Claude",
+    "macOS",
+    "Windows",
+    "Linux",
+    "PDF",
+    "CSV",
+    "URL",
+    "API",
+    "AI",
+    "MCP",
+    "ID",
+    "Wikilink"
+  ],
+  "terms": [
+    {
+      "source": "note",
+      "target": "nota"
+    },
+    {
+      "source": "daily note",
+      "target": "nota diaria"
+    },
+    {
+      "source": "weekly note",
+      "target": "nota semanal"
+    },
+    {
+      "source": "workspace",
+      "target": "espacio de trabajo"
+    },
+    {
+      "source": "folder",
+      "target": "carpeta"
+    },
+    {
+      "source": "template",
+      "target": "plantilla"
+    },
+    {
+      "source": "property",
+      "target": "propiedad"
+    },
+    {
+      "source": "note type",
+      "target": "tipo de nota"
+    },
+    {
+      "source": "tag",
+      "target": "etiqueta",
+      "note": "Note tags (#tag)."
+    },
+    {
+      "source": "label",
+      "target": "categoría",
+      "note": "Task labels; “etiqueta” is taken by note tags, so labels are “categoría”."
+    },
+    {
+      "source": "backlink",
+      "target": "enlace entrante"
+    },
+    {
+      "source": "view",
+      "target": "vista"
+    },
+    {
+      "source": "filter",
+      "target": "filtro"
+    },
+    {
+      "source": "task",
+      "target": "tarea"
+    },
+    {
+      "source": "subtask",
+      "target": "subtarea"
+    },
+    {
+      "source": "project",
+      "target": "proyecto"
+    },
+    {
+      "source": "space",
+      "target": "área",
+      "note": "Tasks spaces: ongoing areas you keep up rather than finish."
+    },
+    {
+      "source": "status",
+      "target": "estado"
+    },
+    {
+      "source": "priority",
+      "target": "prioridad"
+    },
+    {
+      "source": "bucket",
+      "target": "columna",
+      "note": "Lanes like Now, Next, Later."
+    },
+    {
+      "source": "cycle",
+      "target": "ciclo"
+    },
+    {
+      "source": "due date",
+      "target": "fecha de vencimiento"
+    },
+    {
+      "source": "Inbox",
+      "target": "Bandeja de entrada"
+    },
+    {
+      "source": "capture",
+      "target": "entrada",
+      "note": "An item captured into the Inbox (noun); as a verb, capturar."
+    },
+    {
+      "source": "Quick Capture",
+      "target": "Captura rápida"
+    },
+    {
+      "source": "snooze",
+      "target": "posponer"
+    },
+    {
+      "source": "Someday",
+      "target": "Algún día"
+    },
+    {
+      "source": "Active",
+      "target": "Pendientes",
+      "note": "Inbox bucket and tray section for captures still to decide on."
+    },
+    {
+      "source": "File (Inbox action)",
+      "target": "Clasificar",
+      "note": "Move a capture into a note or folder; distinct from Archive."
+    },
+    {
+      "source": "Archive",
+      "target": "Archivar"
+    },
+    {
+      "source": "Daily Desk",
+      "target": "Escritorio del día",
+      "note": "Feature name: the daily page with today's note and tasks."
+    },
+    {
+      "source": "Writing Assistant",
+      "target": "Asistente de escritura"
+    },
+    {
+      "source": "skill",
+      "target": "habilidad"
+    },
+    {
+      "source": "Trash",
+      "target": "Papelera"
+    },
+    {
+      "source": "Settings",
+      "target": "Ajustes"
+    },
+    {
+      "source": "license",
+      "target": "licencia"
+    },
+    {
+      "source": "seat",
+      "target": "puesto"
+    },
+    {
+      "source": "split pane",
+      "target": "vista dividida"
+    },
+    {
+      "source": "tab",
+      "target": "pestaña"
+    },
+    {
+      "source": "sidebar",
+      "target": "barra lateral"
+    },
+    {
+      "source": "command bar",
+      "target": "barra de comandos"
+    }
+  ]
+}

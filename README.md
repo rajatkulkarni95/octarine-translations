@@ -11,9 +11,14 @@ Claude drafts each language from the English source, and the people who use Octa
 | Language | Code | Status | Reviewers |
 | --- | --- | --- | --- |
 | Chinese (Simplified) | `zh-Hans` | Pilot | Wanted |
+| Czech | `cs` | Pilot | Wanted |
 | French | `fr` | Pilot | Wanted |
 | German | `de` | Pilot | Wanted |
+| Italian | `it` | Pilot | Wanted |
 | Japanese | `ja` | Pilot | Wanted |
+| Portuguese (Brazil) | `pt-BR` | Pilot | Wanted |
+| Spanish | `es` | Pilot | Wanted |
+| Turkish | `tr` | Pilot | Wanted |
 
 **Pilot** languages have a complete draft that a fluent speaker hasn't reviewed yet. A language becomes **Active** once a reviewer has signed off on it. New English text is drafted for every language when a maintainer runs the drafts, and reviewers check it before it ships.
 
