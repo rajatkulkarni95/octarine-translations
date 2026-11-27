@@ -32,7 +32,8 @@ permissions:
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    # A full new language is ~140 batches (~25 min); `all` can run for hours.
+    timeout-minutes: 360
 
     steps:
       - name: Checkout
