@@ -15,6 +15,10 @@
     "message": "Changes per week",
     "description": "Accessible activity chart table caption."
   },
+  "tasks.activity.cliWriter": {
+    "message": "CLI",
+    "description": "Who wrote a task comment or change made with the Octarine command-line tool. Shown in place of \"Comment\" in a comment's header, and after the time on other activity. CLI means command-line interface."
+  },
   "tasks.activity.commentedOn": {
     "message": "commented on",
     "description": "Complete presentation message. Parameters are literal user or display values; do not translate their contents."
