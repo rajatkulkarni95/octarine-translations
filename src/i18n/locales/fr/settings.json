@@ -3483,10 +3483,6 @@
     "message": "Description",
     "sourceHash": "bd1d211001a917551be3807afb9f61037cd00dad4318b56cf87cecf982830425"
   },
-  "settings.tasks.taskTemplateEditor.descriptionNewTasksStartWithInMarkdown": {
-    "message": "Description par défaut des nouvelles tâches, en Markdown",
-    "sourceHash": "900a8769dd6084ed050c8c9ef59c7e729df36deaf27ce768be5397f84c2510d2"
-  },
   "settings.tasks.taskTemplateEditor.fields": {
     "message": "champs",
     "sourceHash": "645d47520b6468292c6391e0522f57c2b8e8fa0cd7c88d69fa051958b588535f"

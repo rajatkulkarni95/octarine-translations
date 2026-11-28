@@ -3481,8 +3481,8 @@
     "message": "Description",
     "description": "Settings tasks.taskTemplateEditor: visible label or message."
   },
-  "settings.tasks.taskTemplateEditor.descriptionNewTasksStartWithInMarkdown": {
-    "message": "Description new tasks start with, in Markdown",
+  "settings.tasks.taskTemplateEditor.descriptionNewTasksStartWith": {
+    "message": "Description new tasks start with",
     "description": "Settings tasks.taskTemplateEditor: visible label or message."
   },
   "settings.tasks.taskTemplateEditor.fields": {
