@@ -3483,6 +3483,10 @@
     "message": "Descrição",
     "sourceHash": "bd1d211001a917551be3807afb9f61037cd00dad4318b56cf87cecf982830425"
   },
+  "settings.tasks.taskTemplateEditor.descriptionNewTasksStartWith": {
+    "message": "Descrição com que novas tarefas começam",
+    "sourceHash": "07bc75b9aa94f3815a854c8fe0505bf8b6e80fc6512b0a0ad90464abdad8af57"
+  },
   "settings.tasks.taskTemplateEditor.fields": {
     "message": "campos",
     "sourceHash": "645d47520b6468292c6391e0522f57c2b8e8fa0cd7c88d69fa051958b588535f"
