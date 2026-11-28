@@ -6125,6 +6125,34 @@
     "message": "升级到 Pro",
     "sourceHash": "d2c48450b7ac7252972f4d26ba0f961298f41f5fbb33fc5d5105ea7582f5b056"
   },
+  "app.notifications.languages.appLanguage": {
+    "message": "应用语言",
+    "sourceHash": "ba95dfdb5050859e2d60e60e83db648a216f9cfb80a3974850f576c83f2eecb9"
+  },
+  "app.notifications.languages.description": {
+    "message": "Deutsch、Français、日本語、简体中文等更多语言，现在就选一种吧。",
+    "sourceHash": "1721a8da224dce292600733897a603c4aafb359fc9c37d0487295dc64320f435"
+  },
+  "app.notifications.languages.later": {
+    "message": "稍后",
+    "sourceHash": "91f9bb5f3df414723c511ae41157a2c8cebf541b1ef1b6fe7175f2e6bf5c3751"
+  },
+  "app.notifications.languages.notNow": {
+    "message": "暂不",
+    "sourceHash": "7bde8c533421b4bd1aacafce9f29bf8a49b3629896603252e87a80f49caab08a"
+  },
+  "app.notifications.languages.restartNow": {
+    "message": "立即重启",
+    "sourceHash": "8cdbce6bd92a96c5f74f276a692d3933875fb9fdbf87eeac468522d966b36429"
+  },
+  "app.notifications.languages.restartToSwitch": {
+    "message": "Octarine 将在下次启动时切换为{language}。你可以随时立即重启。",
+    "sourceHash": "969cd7fd4d3fe2bc42e99737d4efcc57f915515527e9d84e170a0922e50cefb6"
+  },
+  "app.notifications.languages.title": {
+    "message": "Octarine 现已支持更多语言",
+    "sourceHash": "ef979c48bc8b4d637a5b2a411afc8b795248eafa5209cb7a97da2655d560c8e3"
+  },
   "app.notifications.update.downloadingUpdate": {
     "message": "正在下载更新…",
     "sourceHash": "a707339de4fec44bbfdf5fb220b37c086f4a478e8607ab321f69cad3a37a2405"

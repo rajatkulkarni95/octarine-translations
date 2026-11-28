@@ -54,5 +54,19 @@
       "output_tokens": 2536,
       "cache_read_input_tokens": 0
     }
+  },
+  {
+    "at": "2026-11-28T03:24:39.201Z",
+    "model": "claude-haiku-5-5",
+    "effort": "medium",
+    "sourceCommit": "6902e5034349e01ad739f028ff86b9415002ef49",
+    "glossarySha256": "acef3d700b81944073177e097191d9e892a09e4628ce365da6e40f3249ea30d7",
+    "translated": 8,
+    "failed": 0,
+    "usage": {
+      "input_tokens": 635,
+      "output_tokens": 850,
+      "cache_read_input_tokens": 0
+    }
   }
 ]
