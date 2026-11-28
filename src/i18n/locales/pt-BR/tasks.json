@@ -15,6 +15,10 @@
     "message": "Alterações por semana",
     "sourceHash": "f8e943b3ee22f350f2deac36951bf084214401560064da928fa9b9d2c6a81b5c"
   },
+  "tasks.activity.cliWriter": {
+    "message": "CLI",
+    "sourceHash": "51b41f30d808138eee73bc7d2700557b0c6af130506f4ec204780c65826b97dc"
+  },
   "tasks.activity.commentedOn": {
     "message": "comentou em",
     "sourceHash": "510ef261042b4f459e3bf40913b4c3efa9a9ab044fada410e15ba447a452b7b9"

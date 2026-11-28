@@ -2639,6 +2639,62 @@
     "message": "recuento de palabras, contador de palabras, número de palabras",
     "sourceHash": "0a7dcaad75739df57a85bb5bb76c07cd7000804e2744250f45c18c6a0c2a46a8"
   },
+  "search.components.Settings.settingsSearch.workflow": {
+    "message": "flujo de trabajo, proceso, flujo, metodología",
+    "sourceHash": "f430ea23f8061795b23fcef5c43694f0274be2013726085b1fb1f5035e8a65a8"
+  },
+  "search.components.Settings.settingsSearch.workspace": {
+    "message": "espacio de trabajo, espacio, entorno",
+    "sourceHash": "97f1abab89e09fabab3f249b2c2ed90b31cb37624f8fa361f17b119d8a24eeb5"
+  },
+  "search.components.Settings.settingsSearch.workspaceColor": {
+    "message": "color del espacio de trabajo, color del espacio, apariencia",
+    "sourceHash": "6c4bf1e56c1ce61b2895711d67297069a3ae29a96ea45ec7a0661341dcb6f484"
+  },
+  "search.components.Settings.settingsSearch.workspaceColour": {
+    "message": "color del espacio de trabajo, tono del espacio, apariencia del espacio",
+    "sourceHash": "5632f46163fb7a9e7032931011e07928a74c458d4e0320afd708eedc9285ce2d"
+  },
+  "search.components.Settings.settingsSearch.workspaceName": {
+    "message": "nombre del espacio de trabajo, nombre del espacio, renombrar espacio",
+    "sourceHash": "62a98af1263bfe9bb7b87b167120853923d311fd65ea67985af6935ff0a7c8d9"
+  },
+  "search.components.Settings.settingsSearch.workspacePath": {
+    "message": "ruta del espacio de trabajo, ubicación del espacio, carpeta del espacio, directorio",
+    "sourceHash": "8fd17e38133ff0d4603152aef07b248ce550f12609348c427443cc6baefd8467"
+  },
+  "search.components.Settings.settingsSearch.workspaceSkills": {
+    "message": "habilidades del espacio de trabajo, habilidades del espacio, habilidades",
+    "sourceHash": "b1b892aa6bcca35cbd036094a2cac506c3ec8afe116e9a0856c21fe9d99f13c5"
+  },
+  "search.components.Settings.settingsSearch.wrapLines": {
+    "message": "ajustar líneas, ajuste de línea, saltos de línea, envolver líneas",
+    "sourceHash": "37622947673ea985a5e1e111899f2204addafc1b1a121b11bb4ef6285878116a"
+  },
+  "search.components.Settings.settingsSearch.wrapLongLines": {
+    "message": "ajustar líneas largas, ajuste de líneas largas, saltos de línea largos",
+    "sourceHash": "5ca479757ed54cf5d5fd704655f4360b4cc8b6c6b3c0950385833b0b36751f34"
+  },
+  "search.components.Settings.settingsSearch.wrapSelectionWithPairs": {
+    "message": "envolver selección con pares, rodear selección con paréntesis, comillas, pares de caracteres, ajustar selección",
+    "sourceHash": "e45d3992202051eef3ee9840212d72e791cbc381928490e352f924ef6448bf8d"
+  },
+  "search.components.Settings.settingsSearch.writing": {
+    "message": "escritura, redacción, escribir, texto",
+    "sourceHash": "41cf17d80dabbc9ab6aa308e8759c20b203a7461699cebd8e0023968228d67e1"
+  },
+  "search.components.Settings.settingsSearch.writingAssistantPrompts": {
+    "message": "instrucciones del asistente de escritura, prompts del asistente de escritura, indicaciones, plantillas de asistente",
+    "sourceHash": "05799eb867182875bd0279d8da9aad96197c98a0577d821e44b9f11dfcaa8866"
+  },
+  "search.components.Settings.settingsSearch.xai": {
+    "message": "Grok, proveedor de IA, clave de API, modelo de IA",
+    "sourceHash": "6efd7c4a0f82b1a631af7da765965ad9e8e8e483e4e895773a7622af149fea1a"
+  },
+  "search.components.Settings.settingsSearch.yaml": {
+    "message": "frontmatter, metadatos, cabecera, propiedades, cabecera YAML",
+    "sourceHash": "78382ee518e9355dd4f2f05d94bf4f7ab5ba015161330d7a39e4d1c1c6ae3684"
+  },
   "search.helpers.askOctarine.integrationItems.high": {
     "message": "Alta",
     "sourceHash": "5e7f0abebdb66911958055f923ddc047c3e9326a1896bd7ed86f1d08b527592b"

@@ -3415,6 +3415,10 @@
     "message": "{noun} desconocido",
     "sourceHash": "8250af688e0798e6c2dae7d4d6a3f817c560e83465c537da13f95ad983624d83"
   },
+  "app.editor.typography.smartTypographyQuotesDashes": {
+    "message": "inteligente, tipografía, tipográfico, comillas, guiones, rayas, guion",
+    "sourceHash": "d7cf8362f879c16965bc6de098410b2e43d7d813327f33a21670c3798fed4573"
+  },
   "app.embeddingModel.fastLocalRetrieval": {
     "message": "Recuperación local rápida",
     "sourceHash": "bbe925a8bddc0c988ce655562306864d10fa8d6f17bd7f413fc2643a96b52e42"
@@ -6130,6 +6134,34 @@
   "app.notes.relatedNotes.upgradeToPro": {
     "message": "Pasar a Pro",
     "sourceHash": "d2c48450b7ac7252972f4d26ba0f961298f41f5fbb33fc5d5105ea7582f5b056"
+  },
+  "app.notifications.languages.appLanguage": {
+    "message": "Idioma de la aplicación",
+    "sourceHash": "ba95dfdb5050859e2d60e60e83db648a216f9cfb80a3974850f576c83f2eecb9"
+  },
+  "app.notifications.languages.description": {
+    "message": "Deutsch, Français, 日本語, 简体中文 y más. Elige el tuyo ahora.",
+    "sourceHash": "1721a8da224dce292600733897a603c4aafb359fc9c37d0487295dc64320f435"
+  },
+  "app.notifications.languages.later": {
+    "message": "Más tarde",
+    "sourceHash": "91f9bb5f3df414723c511ae41157a2c8cebf541b1ef1b6fe7175f2e6bf5c3751"
+  },
+  "app.notifications.languages.notNow": {
+    "message": "Ahora no",
+    "sourceHash": "7bde8c533421b4bd1aacafce9f29bf8a49b3629896603252e87a80f49caab08a"
+  },
+  "app.notifications.languages.restartNow": {
+    "message": "Reiniciar ahora",
+    "sourceHash": "8cdbce6bd92a96c5f74f276a692d3933875fb9fdbf87eeac468522d966b36429"
+  },
+  "app.notifications.languages.restartToSwitch": {
+    "message": "Octarine cambiará a {language} la próxima vez que se inicie. Reinicia ahora o cuando te venga bien.",
+    "sourceHash": "969cd7fd4d3fe2bc42e99737d4efcc57f915515527e9d84e170a0922e50cefb6"
+  },
+  "app.notifications.languages.title": {
+    "message": "Octarine ahora habla más idiomas",
+    "sourceHash": "ef979c48bc8b4d637a5b2a411afc8b795248eafa5209cb7a97da2655d560c8e3"
   },
   "app.notifications.update.downloadingUpdate": {
     "message": "Descargando actualización…",
